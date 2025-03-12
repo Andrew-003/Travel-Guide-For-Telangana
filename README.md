@@ -9,7 +9,7 @@ Telangana Travel Guide is an Android application that helps users explore the be
 
 - **Tourist Attractions**: View detailed information about top tourist places in each district.
 - **Hotels & Restaurants**: Explore the best accommodations and dining options nearby.
-- **Transport Options**: Get details on nearby bus and train stations.
+- **Transport Options**: Get details on  bus and train stations.
 - **ViewPager2 Slideshow**: Automatically cycles through images of places with descriptions.
 - **Search & Filters**: Search across attractions, hotels, and restaurants with tag-based filters.
 - **RecyclerViews with Glide**: Fetches and caches images using Glide for efficient display.
