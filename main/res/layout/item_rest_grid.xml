@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+     xmlns:android="http://schemas.android.com/apk/res/android"
+     xmlns:app="http://schemas.android.com/apk/res-auto"
+     xmlns:tools="http://schemas.android.com/tools"
+     android:layout_height="wrap_content"
+     android:layout_width="match_parent"
+     android:layout_margin="10dp">
+
+    <androidx.cardview.widget.CardView
+         android:layout_height="390dp"
+         android:layout_width="match_parent"
+         android:layout_marginBottom="40dp"
+         app:layout_constraintTop_toTopOf="parent"
+         app:layout_constraintStart_toStartOf="parent"
+         app:cardElevation="20dp"
+         app:layout_constraintEnd_toEndOf="parent"
+         android:layout_marginLeft="20dp"
+         android:layout_marginRight="20dp"
+         app:layout_constraintBottom_toBottomOf="parent"
+         app:cardCornerRadius="16dp">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+             android:layout_height="match_parent"
+             android:layout_width="match_parent">
+
+            <androidx.cardview.widget.CardView
+                 android:layout_height="170dp"
+                 android:layout_width="match_parent"
+                 app:layout_constraintTop_toTopOf="parent"
+                 app:layout_constraintStart_toStartOf="parent"
+                 app:layout_constraintEnd_toEndOf="parent"
+                 app:cardCornerRadius="16dp"
+                 android:id="@+id/cardView">
+
+                <ImageView
+                     android:layout_height="wrap_content"
+                     android:layout_width="wrap_content"
+                     android:scaleType="centerCrop"
+                     android:id="@+id/rest_image_grid" />
+
+            </androidx.cardview.widget.CardView>
+
+            <TextView
+                 android:layout_height="wrap_content"
+                 android:layout_width="wrap_content"
+                 app:layout_constraintStart_toStartOf="@+id/cardView"
+                 android:fontFamily="@font/nunito_sans_extrabold"
+                 android:textSize="18sp"
+                 android:textColor="#000000"
+                 android:layout_marginTop="12dp"
+                 android:layout_marginStart="16dp"
+                 app:layout_constraintTop_toBottomOf="@+id/cardView"
+                 android:id="@+id/rest_name_grid"
+                 android:text="Restaurant name" />
+
+            <LinearLayout
+                 android:layout_height="wrap_content"
+                 android:layout_width="match_parent"
+                 android:layout_marginBottom="3dp"
+                 android:orientation="horizontal"
+                 android:layout_marginTop="5dp"
+                 app:layout_constraintTop_toBottomOf="@id/rest_name_grid"
+                 android:id="@+id/rest_rating_box_grid">
+
+                <TextView
+                     android:layout_height="wrap_content"
+                     android:layout_width="wrap_content"
+                     android:fontFamily="@font/nunito_sans_bold"
+                     android:textSize="12sp"
+                     android:textColor="#333333"
+                     android:layout_marginStart="36dp"
+                     android:layout_weight="1"
+                     android:id="@+id/rest_rating_grid"
+                     android:layout_gravity="center_vertical"
+                     android:text="4.5" />
+
+                <RatingBar
+                     android:layout_height="wrap_content"
+                     android:layout_width="0dp"
+                     android:layout_marginEnd="16dp"
+                     style="@style/SmallRatingBar"
+                     android:layout_marginTop="-1dp"
+                     android:layout_marginStart="-30dp"
+                     android:isIndicator="true"
+                     android:rating="4.5"
+                     android:layout_weight="3"
+                     android:id="@+id/rest_rating_bar_grid" />
+
+                <TextView
+                     android:layout_height="wrap_content"
+                     android:layout_width="wrap_content"
+                     android:textSize="11sp"
+                     android:layout_marginStart="-32dp"
+                     android:layout_weight="8"
+                     android:id="@+id/rest_rating_count_grid"
+                     android:text="(76) " />
+
+            </LinearLayout>
+
+            <LinearLayout
+                 android:layout_height="wrap_content"
+                 android:layout_width="match_parent"
+                 android:layout_margin="6dp"
+                 android:padding="15dp"
+                 app:layout_constraintStart_toStartOf="@+id/cardView"
+                 android:orientation="vertical"
+                 app:layout_constraintTop_toBottomOf="@id/rest_rating_box_grid"
+                 android:id="@+id/rest_time">
+
+                <LinearLayout
+                     android:layout_height="wrap_content"
+                     android:layout_width="wrap_content"
+                     android:orientation="horizontal">
+
+                    <TextView
+                         android:layout_height="wrap_content"
+                         android:layout_width="wrap_content"
+                         android:textColor="@color/desc_color"
+                         android:text="Opening Hours"
+                         android:textStyle="bold" />
+
+                    <Button
+                         android:layout_height="37dp"
+                         android:layout_width="wrap_content"
+                         android:background="@drawable/rounded_button"
+                         android:clickable="false"
+                         android:padding="3dp"
+                         android:backgroundTint="#AAA"
+                         android:layout_marginLeft="17dp"
+                         android:id="@+id/rest_opening_hours_grid"
+                         android:text="9:00 AM" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                     android:layout_height="wrap_content"
+                     android:layout_width="wrap_content"
+                     android:orientation="horizontal">
+
+                    <TextView
+                         android:layout_height="wrap_content"
+                         android:layout_width="wrap_content"
+                         android:textColor="@color/desc_color"
+                         android:layout_marginTop="4dp"
+                         android:text="Closing Hours"
+                         android:textStyle="bold" />
+
+                    <Button
+                         android:layout_height="37dp"
+                         android:layout_width="wrap_content"
+                         android:background="@drawable/rounded_button"
+                         android:clickable="false"
+                         android:padding="3dp"
+                         android:backgroundTint="#AAA"
+                         android:layout_marginLeft="22dp"
+                         android:layout_marginTop="4dp"
+                         android:id="@+id/rest_closing_hours_grid"
+                         android:text="5:00 PM" />
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+    </androidx.cardview.widget.CardView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

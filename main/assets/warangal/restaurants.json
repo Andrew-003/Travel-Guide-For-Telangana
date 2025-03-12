@@ -1,0 +1,2083 @@
+[{
+  "reviewTags": [],
+  "id": "17705983",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [
+    "Sit down"
+  ],
+  "name": "Palamuru Grill",
+  "locationString": "Warangal, Warangal (Urban) District, Telangana",
+  "description": "We only serve the Best we know, we prepare Local ethnic food and Hyderabadi Dum Briyani, we have fired charcoal grills of chicken wings, chicken legs, Muttonchops, Basa fish. We have Banquets Halls for conducting parties with a capacity of 100 to 300 pax. arrange kitty parties too.",
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": 14,
+  "rating": 4,
+  "rawRanking": 3.013056755065918,
+  "phone": "+91 76750 02003",
+  "address": "4th Floor, Orugallu Complex, Subedari, Warangal 506001 India",
+  "addressObj": {
+    "street1": "4th Floor, Orugallu Complex, Subedari",
+    "street2": null,
+    "city": "Warangal",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "506001"
+  },
+  "localName": "Palamuru Grill",
+  "localAddress": "4th Floor, Orugallu Complex, Subedari, 506001",
+  "localLangCode": "en-IN",
+  "email": "info.warangal@palamurugrill.com",
+  "latitude": 17.992687,
+  "longitude": 79.53852,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g735768-d17705983-Reviews-Palamuru_Grill-Warangal_Warangal_Urban_District_Telangana.html",
+  "website": "http://palamurugrill.com/india/top-restaurant-in-warangal.php",
+  "rankingString": "#14 of 63 Restaurants in Warangal",
+  "rankingDenominator": "63",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "735768",
+      "name": "Warangal",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389621",
+      "name": "Warangal (Urban) District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 1,
+    "count5": 0
+  },
+  "numberOfReviews": 1,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": null,
+  "priceLevel": "$",
+  "dishes": [],
+  "hours": null,
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": false,
+  "priceRange": null,
+  "photos": [],
+  "travelerChoiceAward": null,
+  "cuisines": [
+    "Indian",
+    "Grill"
+  ],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Warangal,restaurants"
+},
+{
+  "reviewTags": [],
+  "id": "28145645",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [],
+  "name": "The Chef Table",
+  "locationString": "Hanamkonda, Warangal (Urban) District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 77024 57089",
+  "address": "1-1, Street Number 6 Behind V S M Complex, Chaitanyapuri Colony, Prashanthnagar Colony, Hanamkonda 506001 India",
+  "addressObj": {
+    "street1": "1-1, Street Number 6",
+    "street2": "Behind V S M Complex, Chaitanyapuri Colony, Prashanthnagar Colony",
+    "city": "Hanamkonda",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "506001"
+  },
+  "localName": "The Chef Table",
+  "localAddress": "1-1, Street Number 6, Behind V S M Complex, Chaitanyapuri Colony, Prashanthnagar Colony, 506001",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 18.019897,
+  "longitude": 79.55061,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g20404693-d28145645-Reviews-The_Chef_Table-Hanamkonda_Warangal_Urban_District_Telangana.html",
+  "website": "https://www.instagram.com/thecheftable_foodcourt/?hl=en",
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "20404693",
+      "name": "Hanamkonda",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389621",
+      "name": "Warangal (Urban) District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": "Open Now",
+  "priceLevel": null,
+  "dishes": [],
+  "hours": {
+    "weekRanges": [
+      [
+        {
+          "open": 660,
+          "openHours": "11:00",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ],
+      [
+        {
+          "open": 660,
+          "openHours": "11:00",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ],
+      [
+        {
+          "open": 660,
+          "openHours": "11:00",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ],
+      [
+        {
+          "open": 660,
+          "openHours": "11:00",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ],
+      [
+        {
+          "open": 660,
+          "openHours": "11:00",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ],
+      [
+        {
+          "open": 660,
+          "openHours": "11:00",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ],
+      [
+        {
+          "open": 660,
+          "openHours": "11:00",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ]
+    ],
+    "timezone": "Asia/Kolkata"
+  },
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": true,
+  "priceRange": null,
+  "photos": [],
+  "travelerChoiceAward": null,
+  "cuisines": [
+    "Italian",
+    "Chinese",
+    "Indian",
+    "Pizza",
+    "Cafe",
+    "Fast Food",
+    "Barbecue",
+    "Diner"
+  ],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [
+    "Lunch",
+    "Dinner"
+  ],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Warangal,restaurants"
+},
+{
+  "reviewTags": [],
+  "id": "19262419",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [],
+  "name": "Paprika's Family Restaurant",
+  "locationString": "Warangal, Warangal (Urban) District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": 10,
+  "rating": 4,
+  "rawRanking": 3.0280215740203857,
+  "phone": "+91 91004 40325",
+  "address": "5-8-562, Devarpula - Hanamkonda Rd, Nakkala Gutta, Hanamkonda, Telangana, Warangal 506001 India",
+  "addressObj": {
+    "street1": "5-8-562, Devarpula - Hanamkonda Rd, Nakkala Gutta, Hanamkonda, Telangana",
+    "street2": null,
+    "city": "Warangal",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "506001"
+  },
+  "localName": "Paprika's Family Restaurant",
+  "localAddress": "5-8-562, Devarpula - Hanamkonda Rd, Nakkala Gutta, Hanamkonda, Telangana, 506001",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 18.00012,
+  "longitude": 79.55541,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g735768-d19262419-Reviews-Paprika_s_Family_Restaurant-Warangal_Warangal_Urban_District_Telangana.html",
+  "website": null,
+  "rankingString": "#10 of 63 Restaurants in Warangal",
+  "rankingDenominator": "63",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "735768",
+      "name": "Warangal",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389621",
+      "name": "Warangal (Urban) District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 1,
+    "count4": 0,
+    "count5": 1
+  },
+  "numberOfReviews": 2,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": "Open Now",
+  "priceLevel": null,
+  "dishes": [],
+  "hours": {
+    "weekRanges": [
+      [
+        {
+          "open": 720,
+          "openHours": "12:00",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ],
+      [
+        {
+          "open": 720,
+          "openHours": "12:00",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ],
+      [
+        {
+          "open": 720,
+          "openHours": "12:00",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ],
+      [
+        {
+          "open": 720,
+          "openHours": "12:00",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ],
+      [
+        {
+          "open": 720,
+          "openHours": "12:00",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ],
+      [
+        {
+          "open": 720,
+          "openHours": "12:00",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ],
+      [
+        {
+          "open": 720,
+          "openHours": "12:00",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ]
+    ],
+    "timezone": "Asia/Kolkata"
+  },
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": false,
+  "priceRange": null,
+  "photos": [],
+  "travelerChoiceAward": null,
+  "cuisines": [],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [
+    "Lunch",
+    "Dinner"
+  ],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Warangal,restaurants"
+},
+{
+  "id": "18858249",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [],
+  "name": "Blue Diamond Restaurant & Bar",
+  "locationString": "Warangal (Urban) District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/19/4e/b1/42/tiossue.jpg",
+  "photoCount": 3,
+  "rankingPosition": 12,
+  "rating": 5,
+  "rawRanking": 3.0238089561462402,
+  "phone": "+91 870 244 3377",
+  "address": "Hunter Road Opposite Zoo park Shyampet,, 506001 India",
+  "addressObj": {
+    "street1": "Hunter Road",
+    "street2": "Opposite Zoo park Shyampet,",
+    "city": null,
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "506001"
+  },
+  "localName": "Blue Diamond Restaurant & Bar",
+  "localAddress": "Hunter Road, Opposite Zoo park Shyampet,, 506001",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.97678,
+  "longitude": 79.5838,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g12389621-d18858249-Reviews-Blue_Diamond_Restaurant_Bar-Warangal_Urban_District_Telangana.html",
+  "website": null,
+  "rankingString": "#12 of 88 Restaurants in Warangal (Urban) District",
+  "rankingDenominator": "88",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "12389621",
+      "name": "Warangal (Urban) District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 1
+  },
+  "numberOfReviews": 1,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": null,
+  "priceLevel": null,
+  "dishes": [],
+  "hours": null,
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": true,
+  "reviewTags": [],
+  "priceRange": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/19/4e/b1/42/tiossue.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/19/4e/b1/3f/menu-g.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/19/4e/b1/37/menu.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/4e/b1/42/tiossue.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/4e/b1/3f/menu-g.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/4e/b1/37/menu.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "cuisines": [],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Warangal,restaurants"
+},
+{
+  "reviewTags": [],
+  "id": "12607705",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [
+    "Sit down"
+  ],
+  "name": "Hotel SHREYA",
+  "locationString": "Warangal, Warangal (Urban) District, Telangana",
+  "description": "We at Hotel Shreya Warangal, Welcome you to a place of exclusivity with a personal touch. We offer you with a space to liberate your senses and a level of comfort to soothe your mind and body.",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/11/7f/8c/1c/hotel-shreya.jpg",
+  "photoCount": 2,
+  "rankingPosition": 8,
+  "rating": 3.5,
+  "rawRanking": 3.03377628326416,
+  "phone": "+91 73375 09992",
+  "address": "New Bus Stand Road Next to Kalyan Jewellers, Warangal 506001 India",
+  "addressObj": {
+    "street1": "New Bus Stand Road",
+    "street2": "Next to Kalyan Jewellers",
+    "city": "Warangal",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "506001"
+  },
+  "localName": "Hotel SHREYA",
+  "localAddress": "New Bus Stand Road, Next to Kalyan Jewellers, 506001",
+  "localLangCode": "en-IN",
+  "email": "hotelshreyawarangal@gmail.com",
+  "latitude": 18.00343,
+  "longitude": 79.570015,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g735768-d12607705-Reviews-Hotel_SHREYA-Warangal_Warangal_Urban_District_Telangana.html",
+  "website": "http://www.hotelshreyawarangal.com",
+  "rankingString": "#8 of 63 Restaurants in Warangal",
+  "rankingDenominator": "63",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "735768",
+      "name": "Warangal",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389621",
+      "name": "Warangal (Urban) District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 1,
+    "count2": 0,
+    "count3": 2,
+    "count4": 6,
+    "count5": 1
+  },
+  "numberOfReviews": 10,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": null,
+  "priceLevel": "$",
+  "dishes": [],
+  "hours": null,
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": false,
+  "priceRange": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/7f/8c/1c/hotel-shreya.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/7f/8c/1e/hotel-shreya.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "cuisines": [
+    "Chinese",
+    "Indian",
+    "Bar",
+    "Cafe",
+    "Pub",
+    "Soups"
+  ],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Warangal,restaurants"
+},
+{
+  "reviewTags": [],
+  "id": "17339307",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [
+    "Café"
+  ],
+  "name": "CYA (Crave Your Appetite) Castle",
+  "locationString": "Warangal, Warangal (Urban) District, Telangana",
+  "description": "Specialized in Baked goods,Imported Chocolates,Dark Chocolates, Customized cakes to your preference,Refreshing summer drinks, Small-Plate Foods,Fruit Tarts,Donuts,Healthy Cookies,Multi-grain, Millet Biscuits,Large variety of Breads,Pizzas,Sandwich,Nachos,Delicious Snacks and many more to Crave Your Appetite. CYA soon..!! :) :)",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/17/30/8e/e5/cakes.jpg",
+  "photoCount": 24,
+  "rankingPosition": 15,
+  "rating": 4,
+  "rawRanking": 3.01267147064209,
+  "phone": "+91 79974 41234",
+  "address": "2-5-364, Adalath Hanamkonda, Warangal 506001 India",
+  "addressObj": {
+    "street1": "2-5-364, Adalath",
+    "street2": "Hanamkonda",
+    "city": "Warangal",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "506001"
+  },
+  "localName": "CYA (Crave Your Appetite) Castle",
+  "localAddress": "2-5-364, Adalath, Hanamkonda, 506001",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.997604,
+  "longitude": 79.55305,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g735768-d17339307-Reviews-CYA_Crave_Your_Appetite_Castle-Warangal_Warangal_Urban_District_Telangana.html",
+  "website": "http://cya-crave-your-appetite-castle.business.site/?m=true",
+  "rankingString": "#15 of 63 Restaurants in Warangal",
+  "rankingDenominator": "63",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "735768",
+      "name": "Warangal",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389621",
+      "name": "Warangal (Urban) District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 1,
+    "count5": 0
+  },
+  "numberOfReviews": 1,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": "Open Now",
+  "priceLevel": "$$ - $$$",
+  "dishes": [],
+  "hours": {
+    "weekRanges": [
+      [
+        {
+          "open": 600,
+          "openHours": "10:00",
+          "close": 1290,
+          "closeHours": "21:30"
+        }
+      ],
+      [
+        {
+          "open": 600,
+          "openHours": "10:00",
+          "close": 1290,
+          "closeHours": "21:30"
+        }
+      ],
+      [
+        {
+          "open": 600,
+          "openHours": "10:00",
+          "close": 1290,
+          "closeHours": "21:30"
+        }
+      ],
+      [
+        {
+          "open": 600,
+          "openHours": "10:00",
+          "close": 1290,
+          "closeHours": "21:30"
+        }
+      ],
+      [
+        {
+          "open": 600,
+          "openHours": "10:00",
+          "close": 1290,
+          "closeHours": "21:30"
+        }
+      ],
+      [
+        {
+          "open": 600,
+          "openHours": "10:00",
+          "close": 1290,
+          "closeHours": "21:30"
+        }
+      ],
+      [
+        {
+          "open": 600,
+          "openHours": "10:00",
+          "close": 1290,
+          "closeHours": "21:30"
+        }
+      ]
+    ],
+    "timezone": "Asia/Kolkata"
+  },
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": false,
+  "priceRange": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/17/30/8e/a6/donuts.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/17/30/8e/e5/cakes.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/17/30/8e/ed/cya.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/17/30/8e/ec/refreshing-drinks-on.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/17/30/8e/eb/kiwi-cake.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/17/30/8e/e7/refreshing-drinks-on.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/17/30/8e/e0/cakes.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/17/30/8e/da/wide-varities.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/17/30/8e/d8/donuts-cookies.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/17/30/8e/d5/cakes.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/17/30/8e/d4/fresh-mocktails.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/17/30/8e/d2/tarts.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/17/30/8e/cf/for-your-loved-ones.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/17/30/8e/cd/cars-cars-cars.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/17/30/8e/cb/super-man-cake.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/17/30/8e/c9/teddies-smileys.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/17/30/8e/c6/customized-fruit-cake.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/17/30/8e/c5/beautifully-decorated.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/17/30/8e/c3/pastries-dark-chocolates.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/17/30/8e/b6/truffle-cake.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/17/30/8e/ad/customized-cake-for-bike.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "cuisines": [
+    "Indian",
+    "Pizza",
+    "Cafe",
+    "Contemporary"
+  ],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [
+    "Lunch",
+    "Dinner"
+  ],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Warangal,restaurants"
+},
+{
+  "reviewTags": [],
+  "id": "7707980",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [],
+  "name": "Haveli Multi Cuisine Restaurant",
+  "locationString": "Warangal, Warangal (Urban) District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": 6,
+  "rating": 3.5,
+  "rawRanking": 3.072557210922241,
+  "phone": "+91 870 243 0027",
+  "address": "Near Rec Petrol Pump, Hanamkonda, Warangal 506001 India",
+  "addressObj": {
+    "street1": "Near Rec Petrol Pump, Hanamkonda",
+    "street2": null,
+    "city": "Warangal",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "506001"
+  },
+  "localName": "Haveli Multi Cuisine Restaurant",
+  "localAddress": "Near Rec Petrol Pump, Hanamkonda, 506001",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": null,
+  "longitude": null,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g735768-d7707980-Reviews-Haveli_Multi_Cuisine_Restaurant-Warangal_Warangal_Urban_District_Telangana.html",
+  "website": "http://restaurant-guru.in/Haveli-Multi-Cuisine-Restaurant-Warangal#modal_map",
+  "rankingString": "#6 of 63 Restaurants in Warangal",
+  "rankingDenominator": "63",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "735768",
+      "name": "Warangal",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389621",
+      "name": "Warangal (Urban) District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 6,
+    "count4": 5,
+    "count5": 2
+  },
+  "numberOfReviews": 13,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": null,
+  "priceLevel": null,
+  "dishes": [],
+  "hours": null,
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": false,
+  "priceRange": null,
+  "photos": [],
+  "travelerChoiceAward": null,
+  "cuisines": [
+    "Asian",
+    "Soups"
+  ],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [
+    "Reservations",
+    "Table Service"
+  ],
+  "mealTypes": [
+    "Lunch",
+    "Dinner"
+  ],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Warangal,restaurants"
+},
+{
+  "reviewTags": [],
+  "id": "27635627",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [],
+  "name": "Bommarillu",
+  "locationString": "Hanamkonda, Warangal (Urban) District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 79938 70534",
+  "address": "Opp:zilla Parishad,beside:petrol Bunk, Hanamkonda 506002 India",
+  "addressObj": {
+    "street1": "Opp:zilla Parishad,beside:petrol Bunk",
+    "street2": null,
+    "city": "Hanamkonda",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "506002"
+  },
+  "localName": "Bommarillu",
+  "localAddress": "Opp:zilla Parishad,beside:petrol Bunk, 506002",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.99816,
+  "longitude": 79.55331,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g20404693-d27635627-Reviews-Bommarillu-Hanamkonda_Warangal_Urban_District_Telangana.html",
+  "website": null,
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "20404693",
+      "name": "Hanamkonda",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389621",
+      "name": "Warangal (Urban) District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": null,
+  "priceLevel": null,
+  "dishes": [],
+  "hours": null,
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": true,
+  "priceRange": null,
+  "photos": [],
+  "travelerChoiceAward": null,
+  "cuisines": [
+    "Indian"
+  ],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Warangal,restaurants"
+},
+{
+  "reviewTags": [],
+  "id": "19269161",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [],
+  "name": "Papadams Blue",
+  "locationString": "Warangal, Warangal (Urban) District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": 18,
+  "rating": 2.5,
+  "rawRanking": 2.779247522354126,
+  "phone": "+91 81797 23750",
+  "address": "Opp. Power Office Nakkalgutta, Hanamkonda, Warangal 506001 India",
+  "addressObj": {
+    "street1": "Opp. Power Office Nakkalgutta, Hanamkonda",
+    "street2": null,
+    "city": "Warangal",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "506001"
+  },
+  "localName": "Papadams Blue",
+  "localAddress": "Opp. Power Office Nakkalgutta, Hanamkonda, 506001",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.99997,
+  "longitude": 79.55295,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g735768-d19269161-Reviews-Papadams_Blue-Warangal_Warangal_Urban_District_Telangana.html",
+  "website": null,
+  "rankingString": "#18 of 63 Restaurants in Warangal",
+  "rankingDenominator": "63",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "735768",
+      "name": "Warangal",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389621",
+      "name": "Warangal (Urban) District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 1,
+    "count2": 0,
+    "count3": 0,
+    "count4": 1,
+    "count5": 0
+  },
+  "numberOfReviews": 2,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": "Open Now",
+  "priceLevel": null,
+  "dishes": [],
+  "hours": {
+    "weekRanges": [
+      [
+        {
+          "open": 540,
+          "openHours": "09:00",
+          "close": 1320,
+          "closeHours": "22:00"
+        }
+      ],
+      [
+        {
+          "open": 540,
+          "openHours": "09:00",
+          "close": 1320,
+          "closeHours": "22:00"
+        }
+      ],
+      [
+        {
+          "open": 540,
+          "openHours": "09:00",
+          "close": 1320,
+          "closeHours": "22:00"
+        }
+      ],
+      [
+        {
+          "open": 540,
+          "openHours": "09:00",
+          "close": 1320,
+          "closeHours": "22:00"
+        }
+      ],
+      [
+        {
+          "open": 540,
+          "openHours": "09:00",
+          "close": 1320,
+          "closeHours": "22:00"
+        }
+      ],
+      [
+        {
+          "open": 540,
+          "openHours": "09:00",
+          "close": 1320,
+          "closeHours": "22:00"
+        }
+      ],
+      [
+        {
+          "open": 540,
+          "openHours": "09:00",
+          "close": 1320,
+          "closeHours": "22:00"
+        }
+      ]
+    ],
+    "timezone": "Asia/Kolkata"
+  },
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": false,
+  "priceRange": null,
+  "photos": [],
+  "travelerChoiceAward": null,
+  "cuisines": [],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [
+    "Breakfast",
+    "Lunch",
+    "Dinner"
+  ],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Warangal,restaurants"
+},
+{
+  "reviewTags": [],
+  "id": "7265470",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [
+    "Sit down"
+  ],
+  "name": "Seasons Multicuisine Restaurant",
+  "locationString": "Warangal, Warangal (Urban) District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/09/14/ab/d2/front.jpg",
+  "photoCount": 1,
+  "rankingPosition": 4,
+  "rating": 4.5,
+  "rawRanking": 3.1171836853027344,
+  "phone": "+91 89778 27827",
+  "address": "Ground floor, Jakotiah Grand central, Warangal 506001 India",
+  "addressObj": {
+    "street1": null,
+    "street2": "Ground floor, Jakotiah Grand central",
+    "city": "Warangal",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "506001"
+  },
+  "localName": "Seasons Multicuisine Restaurant",
+  "localAddress": "Ground floor, Jakotiah Grand central, 506001",
+  "localLangCode": "en-IN",
+  "email": "seasonsrestaurant@rocketmail.com",
+  "latitude": null,
+  "longitude": null,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g735768-d7265470-Reviews-Seasons_Multicuisine_Restaurant-Warangal_Warangal_Urban_District_Telangana.html",
+  "website": null,
+  "rankingString": "#4 of 63 Restaurants in Warangal",
+  "rankingDenominator": "63",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "735768",
+      "name": "Warangal",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389621",
+      "name": "Warangal (Urban) District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 1,
+    "count4": 6,
+    "count5": 5
+  },
+  "numberOfReviews": 12,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": "Open Now",
+  "priceLevel": "$$ - $$$",
+  "dishes": [],
+  "hours": {
+    "weekRanges": [
+      [
+        {
+          "open": 780,
+          "openHours": "13:00",
+          "close": 1350,
+          "closeHours": "22:30"
+        }
+      ],
+      [
+        {
+          "open": 780,
+          "openHours": "13:00",
+          "close": 1350,
+          "closeHours": "22:30"
+        }
+      ],
+      [
+        {
+          "open": 780,
+          "openHours": "13:00",
+          "close": 1350,
+          "closeHours": "22:30"
+        }
+      ],
+      [
+        {
+          "open": 780,
+          "openHours": "13:00",
+          "close": 1350,
+          "closeHours": "22:30"
+        }
+      ],
+      [
+        {
+          "open": 780,
+          "openHours": "13:00",
+          "close": 1350,
+          "closeHours": "22:30"
+        }
+      ],
+      [
+        {
+          "open": 780,
+          "openHours": "13:00",
+          "close": 1350,
+          "closeHours": "22:30"
+        }
+      ],
+      [
+        {
+          "open": 780,
+          "openHours": "13:00",
+          "close": 1350,
+          "closeHours": "22:30"
+        }
+      ]
+    ],
+    "timezone": "Asia/Kolkata"
+  },
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": false,
+  "priceRange": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/09/14/ab/d2/front.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/14/ab/d2/front.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "cuisines": [
+    "Chinese",
+    "Indian",
+    "Fast Food",
+    "Middle Eastern",
+    "Afghan"
+  ],
+  "dietaryRestrictions": [
+    "Vegetarian friendly"
+  ],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [
+    "Reservations",
+    "Table Service"
+  ],
+  "mealTypes": [
+    "Lunch",
+    "Dinner",
+    "Brunch"
+  ],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Warangal,restaurants"
+},
+{
+  "id": "14919191",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [
+    "Sit down"
+  ],
+  "name": "Hungry Birds",
+  "locationString": "Warangal, Warangal (Urban) District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/14/1d/73/63/choco-milkshake-and-brownie.jpg",
+  "photoCount": 3,
+  "rankingPosition": 5,
+  "rating": 4.5,
+  "rawRanking": 3.0928831100463867,
+  "phone": "+91 81792 57970",
+  "address": "24-7-230 Pragathi Nagar,subedari, Warangal 506004 India",
+  "addressObj": {
+    "street1": "24-7-230",
+    "street2": "Pragathi Nagar,subedari",
+    "city": "Warangal",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "506004"
+  },
+  "localName": "Hungry Birds",
+  "localAddress": "24-7-230, Pragathi Nagar,subedari, 506004",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.989443,
+  "longitude": 79.5348,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g735768-d14919191-Reviews-Hungry_Birds-Warangal_Warangal_Urban_District_Telangana.html",
+  "website": "http://hungrybirdsfoodfight.in",
+  "rankingString": "#5 of 63 Restaurants in Warangal",
+  "rankingDenominator": "63",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "735768",
+      "name": "Warangal",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389621",
+      "name": "Warangal (Urban) District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 2,
+    "count5": 4
+  },
+  "numberOfReviews": 6,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": null,
+  "priceLevel": "$$ - $$$",
+  "dishes": [],
+  "hours": null,
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": false,
+  "reviewTags": [],
+  "priceRange": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/14/1d/73/83/chicken-kebab.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/14/1d/73/63/choco-milkshake-and-brownie.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/19/67/7b/c7/screenshot-2019-09-27.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/67/7b/c7/screenshot-2019-09-27.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/1d/73/83/chicken-kebab.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/1d/73/63/choco-milkshake-and-brownie.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "cuisines": [
+    "Chinese",
+    "Indian"
+  ],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Warangal,restaurants"
+},
+{
+  "reviewTags": [],
+  "id": "12232246",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [],
+  "name": "Manu Restaurant",
+  "locationString": "Warangal, Warangal (Urban) District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-w/1a/9b/9a/92/photo0jpg.jpg",
+  "photoCount": 2,
+  "rankingPosition": 3,
+  "rating": 4,
+  "rawRanking": 3.1305956840515137,
+  "phone": "+91 92468 92524",
+  "address": "#8-9-109, 2nd Floor, Jayaprakash Narayan Road, Girmajipet, Warangal 506002 India",
+  "addressObj": {
+    "street1": "#8-9-109, 2nd Floor, Jayaprakash Narayan Road, Girmajipet",
+    "street2": null,
+    "city": "Warangal",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "506002"
+  },
+  "localName": "Manu Restaurant",
+  "localAddress": "#8-9-109, 2nd Floor, Jayaprakash Narayan Road, Girmajipet, 506002",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.98264,
+  "longitude": 79.59906,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g735768-d12232246-Reviews-Manu_Restaurant-Warangal_Warangal_Urban_District_Telangana.html",
+  "website": null,
+  "rankingString": "#3 of 63 Restaurants in Warangal",
+  "rankingDenominator": "63",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "735768",
+      "name": "Warangal",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389621",
+      "name": "Warangal (Urban) District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 4,
+    "count4": 8,
+    "count5": 4
+  },
+  "numberOfReviews": 16,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": null,
+  "priceLevel": null,
+  "dishes": [],
+  "hours": null,
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": false,
+  "priceRange": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/1a/9b/9a/92/photo0jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/18/86/17/90/we-live-in-andhra-pradesh.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/9b/9a/92/photo0jpg.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "cuisines": [
+    "Indian",
+    "Asian"
+  ],
+  "dietaryRestrictions": [
+    "Vegetarian friendly",
+    "Vegan options"
+  ],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [
+    "Takeout",
+    "Reservations",
+    "Table Service"
+  ],
+  "mealTypes": [
+    "Lunch",
+    "Dinner",
+    "Brunch"
+  ],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Warangal,restaurants"
+},
+{
+  "reviewTags": [],
+  "id": "12342782",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [
+    "Sit down"
+  ],
+  "name": "Hotel Vaishnavi Grand",
+  "locationString": "Warangal, Warangal (Urban) District, Telangana",
+  "description": "Hotel Vaishnavi Grand an ultra modern Luxury Hotel Situated in Kazipet a neighbourhood of Warangal city, in the state newly formed Telangana. Preferable destination for all Conference and Business Meeting, Marriages, Engagement Ceremonies and Events, Birthdays, Kitty Parties, Social Gatherings and Get to together parties. Luxury rooms, Speciality Restaurants, banquet halls, marriage halls",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/27/7e/35/c2/luxury-room.jpg",
+  "photoCount": 5,
+  "rankingPosition": 2,
+  "rating": 4.5,
+  "rawRanking": 3.162741184234619,
+  "phone": "+91 88850 94599",
+  "address": "Nh 163 Fatima Complex, Fatima Nagar, Warangal 506004 India",
+  "addressObj": {
+    "street1": "Nh 163",
+    "street2": "Fatima Complex, Fatima Nagar",
+    "city": "Warangal",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "506004"
+  },
+  "localName": "Hotel Vaishnavi Grand",
+  "localAddress": "Nh 163, Fatima Complex, Fatima Nagar, 506004",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.98724,
+  "longitude": 79.52783,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g735768-d12342782-Reviews-Hotel_Vaishnavi_Grand-Warangal_Warangal_Urban_District_Telangana.html",
+  "website": "http://www.vaishnavigrand.com/",
+  "rankingString": "#2 of 63 Restaurants in Warangal",
+  "rankingDenominator": "63",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "735768",
+      "name": "Warangal",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389621",
+      "name": "Warangal (Urban) District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 7,
+    "count5": 6
+  },
+  "numberOfReviews": 13,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": null,
+  "priceLevel": "$$ - $$$",
+  "dishes": [],
+  "hours": null,
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": false,
+  "priceRange": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/1c/93/a8/download-12-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/27/7e/35/c2/luxury-room.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/27/7e/35/c1/luxury-room-for-3-persons.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/1c/93/aa/unnamed-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/1c/93/a9/unnamed-1-largejpg.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/1c/93/a8/download-12-largejpg.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/1c/93/a9/unnamed-1-largejpg.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/1c/93/aa/unnamed-largejpg.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "cuisines": [
+    "Chinese",
+    "Indian",
+    "Asian"
+  ],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [
+    "Reservations",
+    "Seating",
+    "Table Service"
+  ],
+  "mealTypes": [
+    "Breakfast",
+    "Lunch",
+    "Dinner"
+  ],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Warangal,restaurants"
+},
+{
+  "reviewTags": [],
+  "id": "27174471",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [],
+  "name": "Papilio",
+  "locationString": "Hanamkonda, Warangal (Urban) District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/2b/6c/2c/a6/papilio-store-front.jpg",
+  "photoCount": 1,
+  "rankingPosition": 1,
+  "rating": 5,
+  "rawRanking": 3.0452444553375244,
+  "phone": "+91 90003 16366",
+  "address": "Waddepally, Excise Colony, Hanamkonda, Telangana, Hanamkonda 506370 India",
+  "addressObj": {
+    "street1": "Waddepally, Excise Colony, Hanamkonda, Telangana",
+    "street2": null,
+    "city": "Hanamkonda",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "506370"
+  },
+  "localName": "Papilio",
+  "localAddress": "Waddepally, Excise Colony, Hanamkonda, Telangana, 506370",
+  "localLangCode": "en-IN",
+  "email": "papiliocafebiz@gmail.com",
+  "latitude": 17.996138,
+  "longitude": 79.53802,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g20404693-d27174471-Reviews-Papilio-Hanamkonda_Warangal_Urban_District_Telangana.html",
+  "website": "https://www.instagram.com/papiliocafe.in/",
+  "rankingString": "#1 of 22 Restaurants in Hanamkonda",
+  "rankingDenominator": "22",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "20404693",
+      "name": "Hanamkonda",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389621",
+      "name": "Warangal (Urban) District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 1
+  },
+  "numberOfReviews": 1,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": "Open Now",
+  "priceLevel": null,
+  "dishes": [],
+  "hours": {
+    "weekRanges": [
+      [
+        {
+          "open": 750,
+          "openHours": "12:30",
+          "close": 1350,
+          "closeHours": "22:30"
+        }
+      ],
+      [
+        {
+          "open": 750,
+          "openHours": "12:30",
+          "close": 1350,
+          "closeHours": "22:30"
+        }
+      ],
+      [
+        {
+          "open": 750,
+          "openHours": "12:30",
+          "close": 1350,
+          "closeHours": "22:30"
+        }
+      ],
+      [
+        {
+          "open": 750,
+          "openHours": "12:30",
+          "close": 1350,
+          "closeHours": "22:30"
+        }
+      ],
+      [
+        {
+          "open": 750,
+          "openHours": "12:30",
+          "close": 1350,
+          "closeHours": "22:30"
+        }
+      ],
+      [
+        {
+          "open": 750,
+          "openHours": "12:30",
+          "close": 1350,
+          "closeHours": "22:30"
+        }
+      ],
+      [
+        {
+          "open": 750,
+          "openHours": "12:30",
+          "close": 1350,
+          "closeHours": "22:30"
+        }
+      ]
+    ],
+    "timezone": "Asia/Kolkata"
+  },
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": true,
+  "priceRange": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/6c/2c/a6/papilio-store-front.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "cuisines": [
+    "Italian",
+    "American",
+    "Cafe",
+    "Diner"
+  ],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [
+    "Delivery",
+    "Takeout",
+    "Seating",
+    "Parking Available",
+    "Street Parking",
+    "Mastercard",
+    "Visa",
+    "Digital Payments",
+    "Accepts Credit Cards"
+  ],
+  "mealTypes": [
+    "Lunch",
+    "Dinner",
+    "Drinks"
+  ],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Warangal,restaurants"
+},
+{
+  "reviewTags": [],
+  "id": "8633539",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [],
+  "name": "Kalinga Dhaba",
+  "locationString": "Warangal, Warangal (Urban) District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0e/3b/69/71/photo0jpg.jpg",
+  "photoCount": 3,
+  "rankingPosition": 1,
+  "rating": 4,
+  "rawRanking": 3.168755292892456,
+  "phone": "+91 99899 96998",
+  "address": "Darga 100 Feet Road Near Nit Rec, Warangal 506003 India",
+  "addressObj": {
+    "street1": "Darga 100 Feet Road",
+    "street2": "Near Nit Rec",
+    "city": "Warangal",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "506003"
+  },
+  "localName": "Kalinga Dhaba",
+  "localAddress": "Darga 100 Feet Road, Near Nit Rec, 506003",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.98666,
+  "longitude": 79.62094,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g735768-d8633539-Reviews-Kalinga_Dhaba-Warangal_Warangal_Urban_District_Telangana.html",
+  "website": null,
+  "rankingString": "#1 of 63 Restaurants in Warangal",
+  "rankingDenominator": "63",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "735768",
+      "name": "Warangal",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389621",
+      "name": "Warangal (Urban) District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 1,
+    "count2": 2,
+    "count3": 6,
+    "count4": 11,
+    "count5": 12
+  },
+  "numberOfReviews": 32,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": null,
+  "priceLevel": "$$ - $$$",
+  "dishes": [],
+  "hours": null,
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": false,
+  "priceRange": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/0e/3b/69/71/photo0jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/10/dd/db/66/very-comfortable-for.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/19/6a/bc/a0/screenshot-2019-09-28.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/6a/bc/a0/screenshot-2019-09-28.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/dd/db/66/very-comfortable-for.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "cuisines": [
+    "Indian",
+    "Soups"
+  ],
+  "dietaryRestrictions": [
+    "Vegetarian friendly",
+    "Vegan options"
+  ],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [
+    "Takeout",
+    "Reservations",
+    "Seating",
+    "Table Service"
+  ],
+  "mealTypes": [
+    "Lunch",
+    "Dinner"
+  ],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Warangal,restaurants"
+},
+{
+  "reviewTags": [],
+  "id": "25368093",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [],
+  "name": "Museo Cafe and Bistro",
+  "locationString": "Hanamkonda, Warangal (Urban) District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 80087 06007",
+  "address": "1-8-426, Balasamudram, Hanamkonda, Telangana, Hanamkonda 506001 India",
+  "addressObj": {
+    "street1": "1-8-426, Balasamudram, Hanamkonda, Telangana",
+    "street2": null,
+    "city": "Hanamkonda",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "506001"
+  },
+  "localName": "Museo Cafe And Bistro",
+  "localAddress": "1-8-426, Balasamudram, Hanamkonda, Telangana, 506001",
+  "localLangCode": "en-IN",
+  "email": "museocafeandbistro@gmail.com",
+  "latitude": 18.001862,
+  "longitude": 79.5575,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g20404693-d25368093-Reviews-Museo_Cafe_and_Bistro-Hanamkonda_Warangal_Urban_District_Telangana.html",
+  "website": null,
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "20404693",
+      "name": "Hanamkonda",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389621",
+      "name": "Warangal (Urban) District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": null,
+  "priceLevel": null,
+  "dishes": [],
+  "hours": null,
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": true,
+  "priceRange": null,
+  "photos": [],
+  "travelerChoiceAward": null,
+  "cuisines": [
+    "Italian",
+    "Cafe",
+    "Contemporary"
+  ],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [
+    "Delivery",
+    "Takeout",
+    "Reservations",
+    "Outdoor Seating",
+    "Private Dining",
+    "Seating",
+    "Parking Available",
+    "Street Parking",
+    "American Express",
+    "Mastercard",
+    "Visa",
+    "Digital Payments",
+    "Free Wifi",
+    "Accepts Credit Cards",
+    "Gift Cards Available"
+  ],
+  "mealTypes": [
+    "Lunch",
+    "Dinner",
+    "Brunch",
+    "Late Night"
+  ],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Warangal,restaurants"
+}]

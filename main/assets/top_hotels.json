@@ -1,0 +1,1511 @@
+[
+    {
+        "reviewTags": [
+            {
+                "text": "staff courtesy",
+                "reviews": 84
+            },
+            {
+                "text": "carnival parade",
+                "reviews": 39
+            },
+            {
+                "text": "homely food",
+                "reviews": 29
+            },
+            {
+                "text": "enjoyed alot",
+                "reviews": 32
+            },
+            {
+                "text": "family visit",
+                "reviews": 47
+            },
+            {
+                "text": "morning walk",
+                "reviews": 21
+            },
+            {
+                "text": "excellent experience",
+                "reviews": 43
+            },
+            {
+                "text": "visit this place",
+                "reviews": 30
+            },
+            {
+                "text": "hotel staff",
+                "reviews": 34
+            },
+            {
+                "text": "wonderful stay",
+                "reviews": 32
+            },
+            {
+                "text": "great hospitality",
+                "reviews": 40
+            },
+            {
+                "text": "room service",
+                "reviews": 52
+            },
+            {
+                "text": "excellent service",
+                "reviews": 47
+            },
+            {
+                "text": "business trip",
+                "reviews": 36
+            },
+            {
+                "text": "special thanks",
+                "reviews": 39
+            },
+            {
+                "text": "front office",
+                "reviews": 22
+            },
+            {
+                "text": "rfc",
+                "reviews": 85
+            },
+            {
+                "text": "services",
+                "reviews": 302
+            },
+            {
+                "text": "conference",
+                "reviews": 150
+            },
+            {
+                "text": "eureka",
+                "reviews": 47
+            },
+            {
+                "text": "arrangements",
+                "reviews": 103
+            },
+            {
+                "text": "mr",
+                "reviews": 153
+            },
+            {
+                "text": "facilities",
+                "reviews": 104
+            },
+            {
+                "text": "team",
+                "reviews": 112
+            },
+            {
+                "text": "swathi",
+                "reviews": 29
+            },
+            {
+                "text": "event",
+                "reviews": 52
+            },
+            {
+                "text": "behaviour",
+                "reviews": 29
+            },
+            {
+                "text": "support",
+                "reviews": 26
+            },
+            {
+                "text": "hygiene",
+                "reviews": 24
+            },
+            {
+                "text": "india",
+                "reviews": 21
+            }
+        ],
+        "id": "6727389",
+        "type": "HOTEL",
+        "category": "hotel",
+        "subcategories": [
+            "Hotel"
+        ],
+        "name": "Ramoji Film City - Tara Comfort Hotel",
+        "locationString": "Hyderabad, Hyderabad District, Telangana",
+        "description": "The ideal getaway is surrounded by green spots and exquisitely carved pillars and statues. It offers best-in-class accommodation with stylish interiors, excellent food and services. The 126-room hotel has 24 hour fine-dining facilities, discotheque and business centre. It is excellent for a comfortable stay with all the modern amenities.",
+        "image": "https://media-cdn.tripadvisor.com/media/photo-o/06/e6/fc/7f/hotel-tara.jpg",
+        "photoCount": 872,
+        "rankingPosition": 25,
+        "rating": 5,
+        "rawRanking": 4.737414360046387,
+        "phone": "+91 76598 76598",
+        "address": "Ramoji Film City, Anaspur Village, Hyderabad 501512 India",
+        "addressObj": {
+            "street1": "Ramoji Film City, Anaspur Village",
+            "street2": null,
+            "city": "Hyderabad",
+            "state": "Telangana",
+            "country": "India",
+            "postalcode": "501512"
+        },
+        "localName": "Ramoji Film City - Tara Comfort Hotel",
+        "localAddress": "Ramoji Film City, Anaspur Village, 501512",
+        "localLangCode": "en-IN",
+        "email": "admin.it@dolphinhotels.com",
+        "latitude": 17.25647,
+        "longitude": 78.67861,
+        "webUrl": "https://www.tripadvisor.com/Hotel_Review-g297586-d6727389-Reviews-Ramoji_Film_City_Tara_Comfort_Hotel-Hyderabad_Hyderabad_District_Telangana.html",
+        "website": "https://www.hotels.ramojifilmcity.com/hotel-tara/",
+        "rankingString": "#25 of 509 hotels in Hyderabad",
+        "rankingDenominator": "509",
+        "neighborhoodLocations": [],
+        "nearestMetroStations": [],
+        "ancestorLocations": [
+            {
+                "id": "297586",
+                "name": "Hyderabad",
+                "abbreviation": null,
+                "subcategory": "City"
+            },
+            {
+                "id": "12389092",
+                "name": "Hyderabad District",
+                "abbreviation": null,
+                "subcategory": "District"
+            },
+            {
+                "id": "7058854",
+                "name": "Telangana",
+                "abbreviation": null,
+                "subcategory": "State"
+            },
+            {
+                "id": "293860",
+                "name": "India",
+                "abbreviation": null,
+                "subcategory": "Country"
+            }
+        ],
+        "ratingHistogram": {
+            "count1": 13,
+            "count2": 25,
+            "count3": 70,
+            "count4": 221,
+            "count5": 1881
+        },
+        "numberOfReviews": 2211,
+        "hotelClass": "3.0",
+        "hotelClassAttribution": "This property is classified according to Giata.",
+        "amenities": [
+            "Internet",
+            "Kids Activities",
+            "Shuttle Bus Service",
+            "Room service",
+            "Free parking",
+            "Restaurant",
+            "Airport transportation",
+            "Wifi",
+            "Public Wifi",
+            "Paid Wifi",
+            "Paid Internet",
+            "Breakfast included",
+            "Dry Cleaning",
+            "Meeting rooms",
+            "Business center",
+            "Fitness center",
+            "Laundry Service",
+            "Concierge",
+            "Banquet Room",
+            "Air conditioning",
+            "Family Rooms",
+            "Minibar",
+            "Conference Facilities",
+            "Babysitting",
+            "Safe",
+            "Swimup Bar",
+            "Flatscreen TV",
+            "Breakfast Buffet",
+            "Housekeeping",
+            "Sauna",
+            "Baggage Storage",
+            "Blackout Curtains",
+            "Car Hire",
+            "Currency Exchange",
+            "Doorperson",
+            "English",
+            "Entertainment Staff",
+            "Fireplace",
+            "Free Private Parking Nearby",
+            "24-Hour Front Desk",
+            "Hindi",
+            "Ironing Service",
+            "24-Hour Security",
+            "Shoeshine",
+            "Taxi Service",
+            "Telephone",
+            "Free Wifi in the Business Center",
+            "Free Wired Internet in the Business Center"
+        ],
+        "priceLevel": "$",
+        "priceRange": "$83 - $107",
+        "roomTips": [
+            {
+                "user": null,
+                "type": "room_tip",
+                "text": "Great Experience and also good response, service good, front office also great response, wonderful experience Tara restaurant and also Staff",
+                "rating": "5",
+                "reviewId": "974215166",
+                "id": "974215166",
+                "createdTime": "2024-10-16T19:52:54-04:00"
+            },
+            {
+                "user": null,
+                "type": "room_tip",
+                "text": "Super ",
+                "rating": "5",
+                "reviewId": "973964901",
+                "id": "973964901",
+                "createdTime": "2024-10-14T21:58:09-04:00"
+            },
+            {
+                "user": null,
+                "type": "room_tip",
+                "text": "Evening checkin and morning checkout followed by tour will be better choice. It gives you energy to walk and explore film city",
+                "rating": "4",
+                "reviewId": "965118818",
+                "id": "965118818",
+                "createdTime": "2024-08-16T06:14:00-04:00"
+            },
+            {
+                "user": null,
+                "type": "room_tip",
+                "text": "Prefer to stay for 1 night.",
+                "rating": "5",
+                "reviewId": "961967407",
+                "id": "961967407",
+                "createdTime": "2024-07-27T20:10:48-04:00"
+            },
+            {
+                "user": null,
+                "type": "room_tip",
+                "text": "You can go to Pool @ Sitara in the morning 7:30 ",
+                "rating": "5",
+                "reviewId": "956612327",
+                "id": "956612327",
+                "createdTime": "2024-06-24T23:28:19-04:00"
+            }
+        ],
+        "isNearbyResult": false,
+        "checkInDate": "2024-10-26",
+        "checkOutDate": "2024-10-27",
+        "numberOfRooms": 126,
+        "categoryReviewScores": [
+            {
+                "categoryName": "Location",
+                "score": 4.5
+            },
+            {
+                "categoryName": "Cleanliness",
+                "score": 4.4
+            },
+            {
+                "categoryName": "Service",
+                "score": 4.4
+            },
+            {
+                "categoryName": "Value",
+                "score": 4
+            }
+        ],
+        "aiReviewsSummary": null,
+        "whatsAppRedirectUrl": null,
+        "photos": [
+            "https://media-cdn.tripadvisor.com/media/photo-o/06/e6/fc/7f/hotel-tara.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/13/11/05/d3/tara-comfort-hotel.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/07/08/64/0f/hotel-tara.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/13/10/fd/a1/lagaan.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/12/d7/ac/34/ramoji-film-city-hotel.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/12/d7/a9/c5/ramoji-film-city-hotel.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/07/08/62/e0/hotel-tara.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/2b/85/5f/4c/caption.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/2b/85/5f/4b/caption.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/29/18/ce/56/ramoji-film-city-tara.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/28/64/dc/73/ramoji-film-city-tara.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/28/64/dc/71/ramoji-film-city-tara.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/28/64/dc/54/ramoji-film-city-tara.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/28/64/dc/4b/ramoji-film-city-tara.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/28/64/dc/4a/ramoji-film-city-tara.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/28/64/dc/46/ramoji-film-city-tara.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/28/64/dc/3f/ramoji-film-city-tara.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/28/64/dc/35/ramoji-film-city-tara.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/28/64/dc/33/ramoji-film-city-tara.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/28/64/dc/32/ramoji-film-city-tara.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/2d/db/11/ba/caption.jpg"
+        ],
+        "travelerChoiceAward": null,
+        "input": "Telangana"
+    },
+    {
+        "reviewTags": [
+            {
+                "text": "guided tour",
+                "reviews": 99
+            },
+            {
+                "text": "galaxy restaurant",
+                "reviews": 46
+            },
+            {
+                "text": "room interior",
+                "reviews": 48
+            },
+            {
+                "text": "food quality",
+                "reviews": 112
+            },
+            {
+                "text": "adventure activities",
+                "reviews": 19
+            },
+            {
+                "text": "hotel ambience",
+                "reviews": 64
+            },
+            {
+                "text": "carnival parade",
+                "reviews": 28
+            },
+            {
+                "text": "staff service",
+                "reviews": 54
+            },
+            {
+                "text": "memorable stay",
+                "reviews": 81
+            },
+            {
+                "text": "special thanks",
+                "reviews": 80
+            },
+            {
+                "text": "front desk staff",
+                "reviews": 62
+            },
+            {
+                "text": "special care",
+                "reviews": 27
+            },
+            {
+                "text": "wonderful experience",
+                "reviews": 73
+            },
+            {
+                "text": "excellent hospitality",
+                "reviews": 33
+            },
+            {
+                "text": "jain food",
+                "reviews": 19
+            },
+            {
+                "text": "excellent stay",
+                "reviews": 67
+            },
+            {
+                "text": "mouth watering",
+                "reviews": 25
+            },
+            {
+                "text": "great ambience",
+                "reviews": 29
+            },
+            {
+                "text": "swimming pool",
+                "reviews": 50
+            },
+            {
+                "text": "comfortable stay",
+                "reviews": 54
+            },
+            {
+                "text": "travel desk",
+                "reviews": 22
+            },
+            {
+                "text": "room service",
+                "reviews": 53
+            },
+            {
+                "text": "front office",
+                "reviews": 40
+            },
+            {
+                "text": "excellent hotel",
+                "reviews": 25
+            },
+            {
+                "text": "house keeping",
+                "reviews": 37
+            },
+            {
+                "text": "special mention",
+                "reviews": 23
+            },
+            {
+                "text": "business trip",
+                "reviews": 22
+            },
+            {
+                "text": "bharathi",
+                "reviews": 200
+            },
+            {
+                "text": "conference",
+                "reviews": 248
+            },
+            {
+                "text": "ms",
+                "reviews": 168
+            }
+        ],
+        "id": "477951",
+        "type": "HOTEL",
+        "category": "hotel",
+        "subcategories": [
+            "Hotel"
+        ],
+        "name": "Sitara Luxury Hotel - Ramoji Film City",
+        "locationString": "Hyderabad, Hyderabad District, Telangana",
+        "description": "The hotel in the sprawling landscape evokes magnificence and grandeur. It offers well-appointed theme suites and royal suites. Endowed with starry delights and garden view \u2014 each floor of the 170 room hotel expresses a compelling theme and decor. Multi-cuisine restaurants, discotheque, sports club and in-house spa offer superstar-style extravaganza.",
+        "image": "https://media-cdn.tripadvisor.com/media/photo-o/12/5e/ae/1c/hotel-facade.jpg",
+        "photoCount": 1578,
+        "rankingPosition": 16,
+        "rating": 5,
+        "rawRanking": 4.786401271820068,
+        "phone": "+91 76598 76598",
+        "address": "Ramoji Film City Main Rd, Hyderabad 501512 India",
+        "addressObj": {
+            "street1": "Ramoji Film City Main Rd",
+            "street2": null,
+            "city": "Hyderabad",
+            "state": "Telangana",
+            "country": "India",
+            "postalcode": "501512"
+        },
+        "localName": "Sitara Luxury Hotel - Ramoji Film City",
+        "localAddress": "Ramoji Film City Main Rd, 501512",
+        "localLangCode": "en-IN",
+        "email": "admin.it@dolphinhotels.com",
+        "latitude": 17.260143,
+        "longitude": 78.6787,
+        "webUrl": "https://www.tripadvisor.com/Hotel_Review-g297586-d477951-Reviews-Sitara_Luxury_Hotel_Ramoji_Film_City-Hyderabad_Hyderabad_District_Telangana.html",
+        "website": "https://www.hotels.ramojifilmcity.com/hotel-sitara/",
+        "rankingString": "#16 of 509 hotels in Hyderabad",
+        "rankingDenominator": "509",
+        "neighborhoodLocations": [
+            {
+                "id": "13087947",
+                "name": "Ramoji Film City"
+            }
+        ],
+        "nearestMetroStations": [],
+        "ancestorLocations": [
+            {
+                "id": "297586",
+                "name": "Hyderabad",
+                "abbreviation": null,
+                "subcategory": "City"
+            },
+            {
+                "id": "12389092",
+                "name": "Hyderabad District",
+                "abbreviation": null,
+                "subcategory": "District"
+            },
+            {
+                "id": "7058854",
+                "name": "Telangana",
+                "abbreviation": null,
+                "subcategory": "State"
+            },
+            {
+                "id": "293860",
+                "name": "India",
+                "abbreviation": null,
+                "subcategory": "Country"
+            }
+        ],
+        "ratingHistogram": {
+            "count1": 25,
+            "count2": 19,
+            "count3": 62,
+            "count4": 254,
+            "count5": 1918
+        },
+        "numberOfReviews": 2277,
+        "hotelClass": "4.0",
+        "hotelClassAttribution": "This property is classified according to Giata.",
+        "amenities": [
+            "Room service",
+            "Restaurant",
+            "Suites",
+            "Pool",
+            "Business center",
+            "Fitness center",
+            "Internet",
+            "Free Internet",
+            "Free parking",
+            "Bar/Lounge",
+            "Spa",
+            "Airport transportation",
+            "Wifi",
+            "Public Wifi",
+            "Paid Wifi",
+            "Paid Internet",
+            "Dry Cleaning",
+            "Meeting rooms",
+            "Laundry Service",
+            "Concierge",
+            "Banquet Room",
+            "Multilingual Staff",
+            "Self-Serve Laundry",
+            "Conference Facilities",
+            "Babysitting",
+            "Safe",
+            "Rooftop Bar",
+            "Swimup Bar",
+            "Flatscreen TV",
+            "Breakfast Buffet",
+            "Poolside Bar",
+            "Private Balcony",
+            "Indoor pool",
+            "Butler Service",
+            "Infinity Pool",
+            "Adult pool",
+            "Outdoor pool",
+            "Breakfast Available",
+            "Parking",
+            "Free Shuttle or Taxi Services",
+            "Facilities for Disabled Guests",
+            "Housekeeping",
+            "Kids Club",
+            "Kids Stay Free",
+            "Sauna",
+            "Allergy-free Room",
+            "Baggage Storage",
+            "Bicycle Rental",
+            "Billiards",
+            "Breakfast in the Room",
+            "Bridal Suite",
+            "Car Hire",
+            "Currency Exchange",
+            "Doorperson",
+            "English",
+            "Entertainment Staff",
+            "Evening Entertainment",
+            "Facial Treatments",
+            "Fitness / Spa Locker Rooms",
+            "24-Hour Front Desk",
+            "Game Room",
+            "Gift Shop",
+            "Hindi",
+            "Interconnected room(s) available",
+            "Ironing Service",
+            "Kids' Meals",
+            "Massage",
+            "Newspaper",
+            "Salon",
+            "24-Hour Security",
+            "Secured Parking",
+            "Shoeshine",
+            "Soundproof Rooms",
+            "Special Diet Menus",
+            "Steam Room",
+            "Table Tennis",
+            "Taxi Service",
+            "Telephone",
+            "Wake Up Service / Alarm Clock"
+        ],
+        "priceLevel": "$$",
+        "priceRange": "$110 - $134",
+        "roomTips": [
+            {
+                "user": null,
+                "type": "room_tip",
+                "text": "Be on time to make the fullest.",
+                "rating": "5",
+                "reviewId": "974895736",
+                "id": "974895736",
+                "createdTime": "2024-10-21T22:36:27-04:00"
+            },
+            {
+                "user": null,
+                "type": "room_tip",
+                "text": "Such a good hotel,and well maintained rooms ,tasty food.......good service..........................................................\n\n....",
+                "rating": "5",
+                "reviewId": "971520053",
+                "id": "971520053",
+                "createdTime": "2024-09-26T22:08:35-04:00"
+            },
+            {
+                "user": null,
+                "type": "room_tip",
+                "text": "Good service from front desk, food also good we will visit..................................................................................",
+                "rating": "5",
+                "reviewId": "971373318",
+                "id": "971373318",
+                "createdTime": "2024-09-25T19:26:52-04:00"
+            },
+            {
+                "user": null,
+                "type": "room_tip",
+                "text": "Would ask hotel to arrange for King size beds for family travelers and that too with Kids",
+                "rating": "5",
+                "reviewId": "971310477",
+                "id": "971310477",
+                "createdTime": "2024-09-25T07:15:10-04:00"
+            },
+            {
+                "user": null,
+                "type": "room_tip",
+                "text": "\ud83d\ude0a\ud83d\ude0a\ud83d\ude0a\ud83d\ude0a super hotel ambiance...................... Thanks for giving good service..........................................................",
+                "rating": "4",
+                "reviewId": "971280930",
+                "id": "971280930",
+                "createdTime": "2024-09-25T03:29:07-04:00"
+            }
+        ],
+        "isNearbyResult": false,
+        "checkInDate": "2024-10-26",
+        "checkOutDate": "2024-10-27",
+        "numberOfRooms": 172,
+        "categoryReviewScores": [
+            {
+                "categoryName": "Location",
+                "score": 4.7
+            },
+            {
+                "categoryName": "Cleanliness",
+                "score": 4.6
+            },
+            {
+                "categoryName": "Service",
+                "score": 4.6
+            },
+            {
+                "categoryName": "Value",
+                "score": 4.5
+            }
+        ],
+        "aiReviewsSummary": null,
+        "whatsAppRedirectUrl": null,
+        "photos": [
+            "https://media-cdn.tripadvisor.com/media/photo-o/12/5e/ae/1c/hotel-facade.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/12/d7/a6/fb/ramoji-film-city-hotel.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/12/d7/a6/f2/ramoji-film-city-hotel.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/12/d7/a6/df/ramoji-film-city-hotel.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/12/d7/a6/d4/ramoji-film-city-hotel.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/12/d7/a6/d0/ramoji-film-city-hotel.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/12/d7/a6/c4/ramoji-film-city-hotel.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/12/d7/a6/21/ramoji-film-city-hotel.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/12/d7/a6/1c/ramoji-film-city-hotel.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/12/d7/a6/06/ramoji-film-city-hotel.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/12/d7/a5/d7/ramoji-film-city-hotel.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/12/d7/a5/d1/ramoji-film-city-hotel.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/07/08/6d/c1/ramoji-film-city-sitara.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/12/5f/16/0a/tajmahal-conference-hall.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/12/5f/15/fc/tajmahal-conference-hall.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/12/5f/15/ec/tajmahal-conference-hall.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/12/5f/15/d9/tajmahal-conference-hall.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/12/5f/15/c0/tajmahal-conference-hall.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/12/5f/15/35/sangam-conference-hall.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/12/5f/15/26/sangam-conference-hall.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/12/5f/13/b3/ramoji-film-city-hotel.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/12/8c/1e/47/theme-room.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/0e/57/65/26/ramoji-film-city-hotel.jpg"
+        ],
+        "travelerChoiceAward": "REGULAR_AWARD",
+        "input": "Telangana"
+    },
+    {
+        "id": "15554259",
+        "type": "HOTEL",
+        "category": "hotel",
+        "subcategories": [
+            "Specialty Lodging"
+        ],
+        "name": "Treebo Trend Address Inn",
+        "locationString": "Hyderabad, Hyderabad District, Telangana",
+        "description": "If you are travelling to Hyderabad and are looking for comfortable accommodation in Banjara Hills, Treebo Address Inn is the perfect pick for you. Located in a quiet neighbourhood on the main road, it\u2019s a modern-styled independent property suitable for corporates, medical tourists, couples, young singles, families, SME owners, and foreigners. If you\u2019re travelling to Hyderabad by flight, the Rajiv Gandhi International Airport is located around 30 km from the hotel. If you are travelling by train, Secunderabad Railway Station is located about 9 km away and Kacheguda Railway Station is about 8 km from the hotel. Alternatively, the local Lakdikapul Train Station is 2 km away. You can also take a bus to the Mahatma Gandhi Bus Stand around 7 km away from the hotel. Treebo Address Inn features a total of 27 rooms spread over 5 floors, categorised into 7 Acacia, 5 Oak, and 15 Maple rooms.",
+        "image": "https://media-cdn.tripadvisor.com/media/photo-o/15/c6/3c/d5/treebo-address-inn.jpg",
+        "photoCount": 86,
+        "rankingPosition": 1,
+        "rating": 5,
+        "rawRanking": 4.665998935699463,
+        "phone": "+91 93228 00100",
+        "address": "Door No 13, 8 2 676 1 C A Road No 13 Banjara Hills, Opp Cafe Graffiti, Hyderabad 500034 India",
+        "addressObj": {
+            "street1": "Door No 13, 8 2 676 1 C A",
+            "street2": "Road No 13 Banjara Hills, Opp Cafe Graffiti",
+            "city": "Hyderabad",
+            "state": "Telangana",
+            "country": "India",
+            "postalcode": "500034"
+        },
+        "localName": "Treebo Trend Address Inn",
+        "localAddress": "Door No 13, 8 2 676 1 C A, Road No 13 Banjara Hills, Opp Cafe Graffiti, 500034",
+        "localLangCode": "en-IN",
+        "email": "hoteladdressinn2018@gmail.com",
+        "latitude": 17.40893,
+        "longitude": 78.44799,
+        "webUrl": "https://www.tripadvisor.com/Hotel_Review-g297586-d15554259-Reviews-Treebo_Trend_Address_Inn-Hyderabad_Hyderabad_District_Telangana.html",
+        "website": "https://www.treebo.com/hotels-in-hyderabad/treebo-address-inn-banjara-hills-959/",
+        "rankingString": "#1 of 78 special hotels in Hyderabad",
+        "rankingDenominator": "78",
+        "neighborhoodLocations": [
+            {
+                "id": "13087979",
+                "name": "Jubilee Hills/Banjara Hills"
+            },
+            {
+                "id": "21002064",
+                "name": "Banjara Hills"
+            }
+        ],
+        "nearestMetroStations": [],
+        "ancestorLocations": [
+            {
+                "id": "297586",
+                "name": "Hyderabad",
+                "abbreviation": null,
+                "subcategory": "City"
+            },
+            {
+                "id": "12389092",
+                "name": "Hyderabad District",
+                "abbreviation": null,
+                "subcategory": "District"
+            },
+            {
+                "id": "7058854",
+                "name": "Telangana",
+                "abbreviation": null,
+                "subcategory": "State"
+            },
+            {
+                "id": "293860",
+                "name": "India",
+                "abbreviation": null,
+                "subcategory": "Country"
+            }
+        ],
+        "ratingHistogram": {
+            "count1": 8,
+            "count2": 2,
+            "count3": 3,
+            "count4": 8,
+            "count5": 203
+        },
+        "numberOfReviews": 224,
+        "hotelClass": "3.0",
+        "hotelClassAttribution": "This property is classified according to Giata.",
+        "amenities": [
+            "Free parking",
+            "Free Wifi",
+            "Breakfast included",
+            "Laundry Service",
+            "Concierge",
+            "Air conditioning",
+            "Baggage Storage",
+            "Bath / Shower",
+            "English",
+            "Complimentary Toiletries",
+            "24-Hour Front Desk",
+            "Hindi",
+            "24-Hour Security",
+            "Telephone",
+            "Room service",
+            "Free Internet",
+            "Flatscreen TV",
+            "Cable / Satellite TV",
+            "Shared Lounge / TV Area"
+        ],
+        "priceLevel": "$",
+        "priceRange": "$27 - $35",
+        "roomTips": [
+            {
+                "user": null,
+                "type": "room_tip",
+                "text": "Obviously.They will not make the mistake which I have made it",
+                "rating": "1",
+                "reviewId": "840883657",
+                "id": "840883657",
+                "createdTime": "2022-05-31T18:00:48-04:00"
+            },
+            {
+                "user": null,
+                "type": "room_tip",
+                "text": "201 is the good room.",
+                "rating": "5",
+                "reviewId": "775658727",
+                "id": "775658727",
+                "createdTime": "2020-10-26T07:44:53-04:00"
+            },
+            {
+                "user": null,
+                "type": "room_tip",
+                "text": "Room is Good.",
+                "rating": "5",
+                "reviewId": "732644409",
+                "id": "732644409",
+                "createdTime": "2019-12-14T05:47:49-05:00"
+            }
+        ],
+        "isNearbyResult": false,
+        "checkInDate": "2024-10-26",
+        "checkOutDate": "2024-10-27",
+        "numberOfRooms": 24,
+        "categoryReviewScores": [
+            {
+                "categoryName": "Location",
+                "score": 4.4
+            },
+            {
+                "categoryName": "Cleanliness",
+                "score": 4.1
+            },
+            {
+                "categoryName": "Service",
+                "score": 4.1
+            },
+            {
+                "categoryName": "Value",
+                "score": 3.6
+            }
+        ],
+        "aiReviewsSummary": null,
+        "whatsAppRedirectUrl": null,
+        "photos": [
+            "https://media-cdn.tripadvisor.com/media/photo-o/15/c6/3c/d5/treebo-address-inn.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/15/c6/3c/ce/treebo-address-inn.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/1f/2f/aa/d7/treebo-trend-address.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/1f/2f/aa/cc/treebo-trend-address.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/1f/2f/aa/cf/treebo-trend-address.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/15/c6/3c/e5/treebo-address-inn.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/15/c6/3d/33/treebo-address-inn.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/15/c6/3d/2c/treebo-address-inn.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/15/c6/3d/12/treebo-address-inn.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/15/c6/3c/c1/treebo-address-inn.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/15/c6/3c/a2/treebo-address-inn.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/15/c6/3d/27/treebo-address-inn.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/15/c6/3d/46/treebo-address-inn.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/15/c6/3d/1f/treebo-address-inn.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/15/c6/3d/39/treebo-address-inn.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/15/c6/3d/48/treebo-address-inn.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/15/c6/3d/4d/treebo-address-inn.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/15/c6/3c/aa/treebo-address-inn.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/15/c6/3d/3e/treebo-address-inn.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/15/c6/3d/03/treebo-address-inn.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/27/8e/ad/8b/caption.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/15/c6/3c/f7/treebo-address-inn.jpg"
+        ],
+        "travelerChoiceAward": null,
+        "reviewTags": [
+            {
+                "text": "mr sandeep",
+                "reviews": 14
+            },
+            {
+                "text": "banjara hills",
+                "reviews": 28
+            },
+            {
+                "text": "idli",
+                "reviews": 12
+            },
+            {
+                "text": "super hotel",
+                "reviews": 6
+            },
+            {
+                "text": "front disk",
+                "reviews": 5
+            },
+            {
+                "text": "morning breakfast",
+                "reviews": 9
+            },
+            {
+                "text": "superb service",
+                "reviews": 7
+            },
+            {
+                "text": "room cleaning",
+                "reviews": 10
+            },
+            {
+                "text": "room service",
+                "reviews": 16
+            },
+            {
+                "text": "family visit",
+                "reviews": 6
+            },
+            {
+                "text": "breakfast service",
+                "reviews": 4
+            },
+            {
+                "text": "very nice hotel",
+                "reviews": 8
+            },
+            {
+                "text": "stay comfortable",
+                "reviews": 3
+            },
+            {
+                "text": "wifi speed",
+                "reviews": 4
+            },
+            {
+                "text": "superb stay",
+                "reviews": 3
+            },
+            {
+                "text": "polite staff",
+                "reviews": 4
+            },
+            {
+                "text": "room size",
+                "reviews": 3
+            },
+            {
+                "text": "maintained rooms",
+                "reviews": 3
+            },
+            {
+                "text": "hotel room",
+                "reviews": 3
+            },
+            {
+                "text": "star hotel",
+                "reviews": 6
+            },
+            {
+                "text": "visit hyderabad",
+                "reviews": 3
+            },
+            {
+                "text": "location",
+                "reviews": 70
+            },
+            {
+                "text": "wisit",
+                "reviews": 6
+            },
+            {
+                "text": "business",
+                "reviews": 26
+            },
+            {
+                "text": "hydrabad",
+                "reviews": 6
+            },
+            {
+                "text": "services",
+                "reviews": 15
+            },
+            {
+                "text": "property",
+                "reviews": 14
+            },
+            {
+                "text": "cleanliness",
+                "reviews": 7
+            },
+            {
+                "text": "guys",
+                "reviews": 5
+            },
+            {
+                "text": "ambience",
+                "reviews": 8
+            }
+        ],
+        "input": "Telangana"
+    },
+    {
+        "reviewTags": [],
+        "id": "27149225",
+        "type": "HOTEL",
+        "category": "hotel",
+        "subcategories": [
+            "Hotel"
+        ],
+        "name": "32 Urban by Akoya Hotels",
+        "locationString": "Hyderabad, Hyderabad District, Telangana",
+        "description": null,
+        "image": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/2d/83/9e/a8/day.jpg",
+        "photoCount": 0,
+        "rankingPosition": 224,
+        "rating": 5,
+        "rawRanking": 3.0446102619171143,
+        "phone": null,
+        "address": "Road Number 1 Plot No. 57, Janardhan Hills, Serillingampally, Hyderabad 500032 India",
+        "addressObj": {
+            "street1": "Road Number 1",
+            "street2": "Plot No. 57, Janardhan Hills, Serillingampally",
+            "city": "Hyderabad",
+            "state": "Telangana",
+            "country": "India",
+            "postalcode": "500032"
+        },
+        "localName": "32 Urban by Akoya Hotels",
+        "localAddress": "Road Number 1, Plot No. 57, Janardhan Hills, Serillingampally, 500032",
+        "localLangCode": "en-IN",
+        "email": null,
+        "latitude": 17.436138,
+        "longitude": 78.3676,
+        "webUrl": "https://www.tripadvisor.com/Hotel_Review-g297586-d27149225-Reviews-32_Urban_by_Akoya_Hotels-Hyderabad_Hyderabad_District_Telangana.html",
+        "website": null,
+        "rankingString": "#224 of 509 hotels in Hyderabad",
+        "rankingDenominator": "509",
+        "neighborhoodLocations": [],
+        "nearestMetroStations": [],
+        "ancestorLocations": [
+            {
+                "id": "297586",
+                "name": "Hyderabad",
+                "abbreviation": null,
+                "subcategory": "City"
+            },
+            {
+                "id": "12389092",
+                "name": "Hyderabad District",
+                "abbreviation": null,
+                "subcategory": "District"
+            },
+            {
+                "id": "7058854",
+                "name": "Telangana",
+                "abbreviation": null,
+                "subcategory": "State"
+            },
+            {
+                "id": "293860",
+                "name": "India",
+                "abbreviation": null,
+                "subcategory": "Country"
+            }
+        ],
+        "ratingHistogram": {
+            "count1": 0,
+            "count2": 0,
+            "count3": 0,
+            "count4": 0,
+            "count5": 1
+        },
+        "numberOfReviews": 1,
+        "hotelClass": "0.0",
+        "amenities": [],
+        "priceLevel": "$",
+        "priceRange": "$45 - $62",
+        "roomTips": [],
+        "isNearbyResult": false,
+        "checkInDate": "2024-10-26",
+        "checkOutDate": "2024-10-27",
+        "numberOfRooms": null,
+        "categoryReviewScores": [],
+        "aiReviewsSummary": null,
+        "whatsAppRedirectUrl": null,
+        "photos": [
+            "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/2d/83/9e/a8/day.jpg",
+            "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/2d/83/9e/a9/living-room.jpg",
+            "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/2d/83/9e/a6/property-building.jpg",
+            "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/2d/83/9e/a7/living-room.jpg",
+            "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/2d/83/9e/a5/lobby-or-reception.jpg"
+        ],
+        "travelerChoiceAward": null,
+        "input": "Telangana"
+    },
+    {
+        "id": "3164478",
+        "type": "HOTEL",
+        "category": "hotel",
+        "subcategories": [
+            "Hotel"
+        ],
+        "name": "Marigold Hotel",
+        "locationString": "Hyderabad, Hyderabad District, Telangana",
+        "description": "If you\u2019re looking for a trendy hotel in Hyderabad, look no further than Marigold By Greenpark.\nWhile staying at Marigold By Greenpark, visitors can check out Hyderabadmyway.com (0.3 mi) and Begumpet Mosque (1.1 mi), some of Hyderabad's top attractions.\nRooms at Marigold By Greenpark offer a flat screen TV, a minibar, and air conditioning providing exceptional comfort and convenience, and guests can go online with free wifi.\nA rooftop terrace, a concierge, and room service are some of the conveniences offered at this hotel. A rooftop pool and free breakfast will also help to make your stay even more special. If you are driving to Marigold By Greenpark, free parking is available.\nIf you like Chinese restaurants, Marigold By Greenpark is conveniently located near Sri Saravana Bhavan, Rika, and Once Upon a Time.\nLooking to explore? Then look no further than Buddha Statue (1.1 mi), Lumbini Park (1.1 mi), and Balkampet Yellamma Temple (1.1 mi), which are some popular Hyderabad attractions \u2013 all conveniently located within walking distance of the hotel.\nThe staff at Marigold By Greenpark looks forward to serving you during your upcoming visit.\n",
+        "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/2b/d5/83/43/caption.jpg",
+        "photoCount": 1037,
+        "rankingPosition": 18,
+        "rating": 5,
+        "rawRanking": 4.784501552581787,
+        "phone": "+91 40 6736 3636",
+        "address": "7-1-25, Ameerpet Rd Leelanagar, Begumpet, Hyderabad 500 016 India",
+        "addressObj": {
+            "street1": "7-1-25, Ameerpet Rd",
+            "street2": "Leelanagar, Begumpet",
+            "city": "Hyderabad",
+            "state": "Telangana",
+            "country": "India",
+            "postalcode": "500 016"
+        },
+        "localName": "Marigold Hotel",
+        "localAddress": "7-1-25, Ameerpet Rd, Leelanagar, Begumpet, 500 016",
+        "localLangCode": "en-IN",
+        "email": "reservations.hyd@marigoldhotels.com",
+        "latitude": 17.437262,
+        "longitude": 78.45442,
+        "webUrl": "https://www.tripadvisor.com/Hotel_Review-g297586-d3164478-Reviews-Marigold_Hotel-Hyderabad_Hyderabad_District_Telangana.html",
+        "website": "http://www.marigoldhotels.com/home",
+        "rankingString": "#18 of 509 hotels in Hyderabad",
+        "rankingDenominator": "509",
+        "neighborhoodLocations": [],
+        "nearestMetroStations": [],
+        "ancestorLocations": [
+            {
+                "id": "297586",
+                "name": "Hyderabad",
+                "abbreviation": null,
+                "subcategory": "City"
+            },
+            {
+                "id": "12389092",
+                "name": "Hyderabad District",
+                "abbreviation": null,
+                "subcategory": "District"
+            },
+            {
+                "id": "7058854",
+                "name": "Telangana",
+                "abbreviation": null,
+                "subcategory": "State"
+            },
+            {
+                "id": "293860",
+                "name": "India",
+                "abbreviation": null,
+                "subcategory": "Country"
+            }
+        ],
+        "ratingHistogram": {
+            "count1": 19,
+            "count2": 17,
+            "count3": 61,
+            "count4": 370,
+            "count5": 2487
+        },
+        "numberOfReviews": 2954,
+        "hotelClass": "5.0",
+        "hotelClassAttribution": "This property is classified according to Giata.",
+        "amenities": [
+            "Pool",
+            "Fitness center",
+            "Internet",
+            "Free Internet",
+            "Bar/Lounge",
+            "Wifi",
+            "Free Wifi",
+            "Suites",
+            "Room service",
+            "Free parking",
+            "Wheelchair access",
+            "Restaurant",
+            "Spa",
+            "Airport transportation",
+            "Breakfast included",
+            "Dry Cleaning",
+            "Meeting rooms",
+            "Non-smoking rooms",
+            "Business center",
+            "Laundry Service",
+            "Banquet Room",
+            "Air conditioning",
+            "Family Rooms",
+            "Multilingual Staff",
+            "Smoking rooms available",
+            "Accessible rooms",
+            "Refrigerator in room",
+            "Minibar",
+            "Conference Facilities",
+            "Safe",
+            "Rooftop Pool",
+            "Flatscreen TV",
+            "Rooftop Terrace",
+            "Breakfast Buffet",
+            "Butler Service",
+            "Outdoor pool",
+            "Breakfast Available",
+            "Kids Stay Free",
+            "Additional Bathroom",
+            "Allergy-free Room",
+            "Baggage Storage",
+            "Bath / Shower",
+            "Blackout Curtains",
+            "Bottled Water",
+            "Car Hire",
+            "24-Hour Check-in",
+            "Express Check-in / Check-out",
+            "Coffee Shop",
+            "Currency Exchange",
+            "Desk",
+            "Doorperson",
+            "English",
+            "Free Private Parking Nearby",
+            "Complimentary Toiletries",
+            "24-Hour Front Desk",
+            "Game Room",
+            "Gift Shop",
+            "Hair Dryer",
+            "Hindi",
+            "Interconnected room(s) available",
+            "Iron",
+            "Ironing Service",
+            "Kid-Friendly Buffet",
+            "Newspaper",
+            "Seating Area",
+            "24-Hour Security",
+            "Secured Parking",
+            "Shoeshine",
+            "Snack Bar",
+            "Taxi Service",
+            "Telephone",
+            "Valet Parking",
+            "Concierge",
+            "Parking",
+            "Cable / Satellite TV",
+            "Electric Kettle",
+            "First Aid Kit",
+            "Complimentary Welcome Drink",
+            "Highchairs Available",
+            "Private Bathrooms",
+            "Tamil",
+            "Umbrella",
+            "Video Game Console",
+            "Walk-in Shower",
+            "Wardrobe / Closet"
+        ],
+        "priceLevel": "$$",
+        "priceRange": "$82 - $126",
+        "roomTips": [
+            {
+                "user": null,
+                "type": "room_tip",
+                "text": "Book directly calling hotel front desk",
+                "rating": "5",
+                "reviewId": "974223245",
+                "id": "974223245",
+                "createdTime": "2024-10-16T22:19:38-04:00"
+            },
+            {
+                "user": null,
+                "type": "room_tip",
+                "text": "Good ",
+                "rating": "5",
+                "reviewId": "973957412",
+                "id": "973957412",
+                "createdTime": "2024-10-14T19:48:02-04:00"
+            },
+            {
+                "user": null,
+                "type": "room_tip",
+                "text": "Good ",
+                "rating": "5",
+                "reviewId": "973822528",
+                "id": "973822528",
+                "createdTime": "2024-10-13T22:56:37-04:00"
+            },
+            {
+                "user": null,
+                "type": "room_tip",
+                "text": "Good",
+                "rating": "5",
+                "reviewId": "972380933",
+                "id": "972380933",
+                "createdTime": "2024-10-03T03:01:56-04:00"
+            },
+            {
+                "user": null,
+                "type": "room_tip",
+                "text": "You can go for it",
+                "rating": "4",
+                "reviewId": "968790315",
+                "id": "968790315",
+                "createdTime": "2024-09-07T23:38:21-04:00"
+            }
+        ],
+        "isNearbyResult": false,
+        "reviewTags": [
+            {
+                "text": "saffron soul",
+                "reviews": 123
+            },
+            {
+                "text": "mekong restaurant",
+                "reviews": 32
+            },
+            {
+                "text": "house keeping",
+                "reviews": 125
+            },
+            {
+                "text": "excellent service",
+                "reviews": 136
+            },
+            {
+                "text": "green park",
+                "reviews": 73
+            },
+            {
+                "text": "comfortable stay",
+                "reviews": 70
+            },
+            {
+                "text": "travel desk",
+                "reviews": 34
+            },
+            {
+                "text": "housekeeping staff",
+                "reviews": 49
+            },
+            {
+                "text": "special mention",
+                "reviews": 56
+            },
+            {
+                "text": "front office",
+                "reviews": 62
+            },
+            {
+                "text": "room service",
+                "reviews": 70
+            },
+            {
+                "text": "buffet spread",
+                "reviews": 22
+            },
+            {
+                "text": "tasty food",
+                "reviews": 30
+            },
+            {
+                "text": "excellent hotel",
+                "reviews": 40
+            },
+            {
+                "text": "the heart of the city",
+                "reviews": 32
+            },
+            {
+                "text": "business trip",
+                "reviews": 59
+            },
+            {
+                "text": "special thanks",
+                "reviews": 64
+            },
+            {
+                "text": "coffee shop",
+                "reviews": 28
+            },
+            {
+                "text": "excellent stay",
+                "reviews": 46
+            },
+            {
+                "text": "great ambience",
+                "reviews": 22
+            },
+            {
+                "text": "room cleaning",
+                "reviews": 22
+            },
+            {
+                "text": "home away from home",
+                "reviews": 24
+            },
+            {
+                "text": "wonderful experience",
+                "reviews": 33
+            },
+            {
+                "text": "rooms are spacious",
+                "reviews": 27
+            },
+            {
+                "text": "biryani",
+                "reviews": 23
+            },
+            {
+                "text": "annapurna",
+                "reviews": 46
+            },
+            {
+                "text": "mr",
+                "reviews": 248
+            },
+            {
+                "text": "team",
+                "reviews": 224
+            },
+            {
+                "text": "hospitality",
+                "reviews": 244
+            },
+            {
+                "text": "services",
+                "reviews": 199
+            }
+        ],
+        "checkInDate": "2024-10-26",
+        "checkOutDate": "2024-10-27",
+        "numberOfRooms": 181,
+        "categoryReviewScores": [
+            {
+                "categoryName": "Location",
+                "score": 4.8
+            },
+            {
+                "categoryName": "Cleanliness",
+                "score": 4.8
+            },
+            {
+                "categoryName": "Service",
+                "score": 4.7
+            },
+            {
+                "categoryName": "Value",
+                "score": 4.7
+            }
+        ],
+        "aiReviewsSummary": null,
+        "whatsAppRedirectUrl": null,
+        "photos": [
+            "https://media-cdn.tripadvisor.com/media/photo-o/2c/21/5c/24/room.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/03/0e/22/a8/marigold-by-greenpark.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/2b/d5/83/43/caption.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/03/15/72/ec/marigold-by-greenpark.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/2b/d5/82/92/caption.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/03/15/73/38/marigold-by-greenpark.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/03/15/73/22/marigold-by-greenpark.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/03/15/73/01/marigold-by-greenpark.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/03/15/72/d2/marigold-by-greenpark.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/03/15/72/c0/marigold-by-greenpark.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/03/15/72/ac/marigold-by-greenpark.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/03/15/72/90/marigold-by-greenpark.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/2c/21/5c/2a/marrygold-studio-lobby.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/2c/21/5c/23/room.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/2c/21/5c/25/marrygold-premium-twin.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/2c/21/5c/26/marrygold-studio.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/2c/21/5c/27/car.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/2c/21/5c/28/exterior.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/2c/21/5c/29/bath-room.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/10/de/7b/1c/lobby--v17451001.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/2d/0e/96/13/caption.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/10/de/7a/c3/mekong--v17451069.jpg"
+        ],
+        "travelerChoiceAward": "REGULAR_AWARD",
+        "input": "Telangana"
+    }
+]

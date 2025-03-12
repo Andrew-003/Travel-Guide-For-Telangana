@@ -1,0 +1,1796 @@
+[{
+  "id": "27704916",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Hotel"
+  ],
+  "name": "OYO Hotel Moon light",
+  "locationString": "Nizamabad, Nizamabad District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/2d/e8/e5/95/lobby-or-reception.jpg",
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 124 620 1464",
+  "address": "D No 1-13-48/1A Vinayak Nagar St 3rd Floor, Opp Hp Petrol Pump, Above IDFC Bank, Nizamabad 503001 India",
+  "addressObj": {
+    "street1": "D No 1-13-48/1A Vinayak Nagar St",
+    "street2": "3rd Floor, Opp Hp Petrol Pump, Above IDFC Bank",
+    "city": "Nizamabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "503001"
+  },
+  "localName": "OYO Hotel Moon light",
+  "localAddress": "D No 1-13-48/1A Vinayak Nagar St, 3rd Floor, Opp Hp Petrol Pump, Above IDFC Bank, 503001",
+  "localLangCode": "en-IN",
+  "email": "talistings@oyorooms.com",
+  "latitude": 18.75,
+  "longitude": 78.25,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g2295101-d27704916-Reviews-OYO_Hotel_Moon_light-Nizamabad_Nizamabad_District_Telangana.html",
+  "website": "https://www.oyorooms.com/236554/",
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295101",
+      "name": "Nizamabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389592",
+      "name": "Nizamabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "hotelClass": "0.0",
+  "amenities": [],
+  "priceLevel": "$",
+  "priceRange": "$20 - $23",
+  "roomTips": [],
+  "isNearbyResult": false,
+  "reviewTags": [],
+  "checkInDate": "2024-11-03",
+  "checkOutDate": "2024-11-04",
+  "numberOfRooms": null,
+  "categoryReviewScores": [],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/2d/e8/e5/95/lobby-or-reception.jpg",
+    "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/2d/f9/16/55/bedroom.jpg",
+    "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/2d/f9/16/54/bedroom.jpg",
+    "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/2d/f5/72/2d/bedroom.jpg",
+    "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/2d/86/b4/2d/bedroom.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Nizamabad,hotels"
+},
+{
+  "reviewTags": [],
+  "id": "26821744",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Bed and Breakfast"
+  ],
+  "name": "iROOMZ City Lite Lodge",
+  "locationString": "Nizamabad, Nizamabad District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": null,
+  "address": "H No 5-7-223 Beside Fire Station, Nizamabad 503180 India",
+  "addressObj": {
+    "street1": "H No 5-7-223",
+    "street2": "Beside Fire Station",
+    "city": "Nizamabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "503180"
+  },
+  "localName": "iROOMZ City Lite Lodge",
+  "localAddress": "H No 5-7-223, Beside Fire Station, 503180",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 18.675444,
+  "longitude": 78.10333,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g2295101-d26821744-Reviews-IROOMZ_City_Lite_Lodge-Nizamabad_Nizamabad_District_Telangana.html",
+  "website": null,
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295101",
+      "name": "Nizamabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389592",
+      "name": "Nizamabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "hotelClass": "2.0",
+  "hotelClassAttribution": "This property is classified according to Giata.",
+  "amenities": [],
+  "priceLevel": "$",
+  "priceRange": "$15 - $18",
+  "roomTips": [],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-03",
+  "checkOutDate": "2024-11-04",
+  "numberOfRooms": null,
+  "categoryReviewScores": [],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/13/7a/a5/ec/side-view.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Nizamabad,hotels"
+},
+{
+  "id": "3948716",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Specialty Lodging"
+  ],
+  "name": "Mayur Hotel",
+  "locationString": "Nizamabad, Nizamabad District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0d/c3/f2/36/img-20161130-wa0000-largejpg.jpg",
+  "photoCount": 5,
+  "rankingPosition": 1,
+  "rating": 3,
+  "rawRanking": 3.006207227706909,
+  "phone": null,
+  "address": "Godown Road Near Bus Station Main Road, Nizamabad India",
+  "addressObj": {
+    "street1": "Godown Road",
+    "street2": "Near Bus Station Main Road",
+    "city": "Nizamabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": null
+  },
+  "localName": "Mayur Hotel",
+  "localAddress": "Godown Road, Near Bus Station Main Road",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 18.67681,
+  "longitude": 78.0995,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g2295101-d3948716-Reviews-Mayur_Hotel-Nizamabad_Nizamabad_District_Telangana.html",
+  "website": null,
+  "rankingString": "#1 of 1 lodge in Nizamabad",
+  "rankingDenominator": "1",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295101",
+      "name": "Nizamabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389592",
+      "name": "Nizamabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 1,
+    "count2": 0,
+    "count3": 3,
+    "count4": 0,
+    "count5": 1
+  },
+  "numberOfReviews": 5,
+  "hotelClass": "0.0",
+  "amenities": [],
+  "priceLevel": null,
+  "priceRange": null,
+  "roomTips": [],
+  "isNearbyResult": false,
+  "reviewTags": [],
+  "checkInDate": "2024-11-03",
+  "checkOutDate": "2024-11-04",
+  "numberOfRooms": null,
+  "categoryReviewScores": [
+    {
+      "categoryName": "Location",
+      "score": 5
+    },
+    {
+      "categoryName": "Rooms",
+      "score": 2
+    },
+    {
+      "categoryName": "Value",
+      "score": 3
+    },
+    {
+      "categoryName": "Cleanliness",
+      "score": 2.5
+    },
+    {
+      "categoryName": "Service",
+      "score": 3
+    },
+    {
+      "categoryName": "Sleep Quality",
+      "score": 2
+    }
+  ],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/0d/c3/f2/35/img-20161130-wa0001-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0d/c3/f2/36/img-20161130-wa0000-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0f/6b/da/d9/broken-flush-tank_rotated_90.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0f/6b/da/c0/switch-board.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0f/6b/da/a8/a-chair-in-the-room.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Nizamabad,hotels"
+},
+{
+  "id": "27179549",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Hotel"
+  ],
+  "name": "Hotel Krishna",
+  "locationString": "Nizamabad, Nizamabad District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 98885 36666",
+  "address": "3-108/75/33, Hyderabad Road, Nizamabad 503001 India",
+  "addressObj": {
+    "street1": "3-108/75/33, Hyderabad Road",
+    "street2": null,
+    "city": "Nizamabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "503001"
+  },
+  "localName": "Hotel Krishna",
+  "localAddress": "3-108/75/33, Hyderabad Road, 503001",
+  "localLangCode": "en-IN",
+  "email": "hotelkrishna9999@gmail.com",
+  "latitude": 18.65308,
+  "longitude": 78.1516,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g2295101-d27179549-Reviews-Hotel_Krishna-Nizamabad_Nizamabad_District_Telangana.html",
+  "website": "https://hotelkrishnanizamabad.com/",
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295101",
+      "name": "Nizamabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389592",
+      "name": "Nizamabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "hotelClass": "0.0",
+  "amenities": [],
+  "priceLevel": "$",
+  "priceRange": "$46 - $92",
+  "roomTips": [],
+  "isNearbyResult": false,
+  "reviewTags": [],
+  "checkInDate": "2024-11-03",
+  "checkOutDate": "2024-11-04",
+  "numberOfRooms": null,
+  "categoryReviewScores": [],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/13/7a/a5/ec/side-view.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Nizamabad,hotels"
+},
+{
+  "reviewTags": [],
+  "id": "4025811",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Bed and Breakfast"
+  ],
+  "name": "Hotel Vamshee International",
+  "locationString": "Nizamabad, Nizamabad District, Telangana",
+  "description": "Hotel Vamshee International is an excellent choice for travelers visiting Nizamabad, offering a family-friendly environment alongside many helpful amenities designed to enhance your stay.\nGuest rooms offer amenities such as a flat screen TV and air conditioning.\nHotel Vamshee International features room service, to help make your stay more enjoyable. The property also boasts an on-site restaurant. If you are driving to Hotel Vamshee International, free parking is available.\nWhen you’re feeling hungry, be sure to check out Parivar Dhaba, which is an Asian restaurant that is popular with locals and out-of-towners alike.\nIf you are interested in exploring Nizamabad, check out some of the nearby attractions, such as Sri Neelakanteshwara Shrine (0.5 mi) and Dichpalli Temple (0.8 mi), all of which are within walking distance of Hotel Vamshee International.\nEnjoy your stay in Nizamabad!\n",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/09/eb/81/c4/semi-delux-with-ac.jpg",
+  "photoCount": 6,
+  "rankingPosition": 2,
+  "rating": 3.5,
+  "rawRanking": 3.029500722885132,
+  "phone": null,
+  "address": "Puhlong X-Road Hyderabad Road, Nizamabad India",
+  "addressObj": {
+    "street1": "Puhlong X-Road",
+    "street2": "Hyderabad Road",
+    "city": "Nizamabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": null
+  },
+  "localName": "Hotel Vamshee International",
+  "localAddress": "Puhlong X-Road, Hyderabad Road",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 18.66499,
+  "longitude": 78.10049,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g2295101-d4025811-Reviews-Hotel_Vamshee_International-Nizamabad_Nizamabad_District_Telangana.html",
+  "website": null,
+  "rankingString": "#2 of 3 small hotels in Nizamabad",
+  "rankingDenominator": "3",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295101",
+      "name": "Nizamabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389592",
+      "name": "Nizamabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 4,
+    "count2": 3,
+    "count3": 6,
+    "count4": 3,
+    "count5": 7
+  },
+  "numberOfReviews": 23,
+  "hotelClass": "3.0",
+  "hotelClassAttribution": "This property is classified according to Giata.",
+  "amenities": [
+    "Restaurant",
+    "Room service",
+    "Free parking",
+    "Bar/Lounge",
+    "Air conditioning",
+    "Flatscreen TV",
+    "Coffee / Tea Maker",
+    "Iron",
+    "Wake Up Service / Alarm Clock"
+  ],
+  "priceLevel": "$",
+  "priceRange": "$34 - $37",
+  "roomTips": [
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Avoid rooms, facing the main road",
+      "rating": "4",
+      "reviewId": "877264383",
+      "id": "877264383",
+      "createdTime": "2023-02-02T20:40:38-05:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "City View is nice - particularly in the night",
+      "rating": "5",
+      "reviewId": "529330082",
+      "id": "529330082",
+      "createdTime": "2017-10-02T22:46:55-04:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Don't ever visit this hotel even by mistake",
+      "rating": "1",
+      "reviewId": "427484108",
+      "id": "427484108",
+      "createdTime": "2016-10-12T22:44:11-04:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "4 th Floor is less noisy. WiFi available",
+      "rating": "5",
+      "reviewId": "337451856",
+      "id": "337451856",
+      "createdTime": "2016-01-04T23:50:15-05:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Better avoid this hotel !!",
+      "rating": "1",
+      "reviewId": "250324693",
+      "id": "250324693",
+      "createdTime": "2015-01-21T04:47:00-05:00"
+    }
+  ],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-03",
+  "checkOutDate": "2024-11-04",
+  "numberOfRooms": null,
+  "categoryReviewScores": [
+    {
+      "categoryName": "Location",
+      "score": 4.4
+    },
+    {
+      "categoryName": "Rooms",
+      "score": 3.6
+    },
+    {
+      "categoryName": "Value",
+      "score": 3.9
+    },
+    {
+      "categoryName": "Cleanliness",
+      "score": 2.9
+    },
+    {
+      "categoryName": "Service",
+      "score": 3.4
+    },
+    {
+      "categoryName": "Sleep Quality",
+      "score": 3.1
+    }
+  ],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/09/eb/81/bf/hotel-lobby.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/09/eb/81/c4/semi-delux-with-ac.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/09/eb/81/b3/one-only-one-3-star-hotel.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0b/a4/b2/5d/img-20160616-083032-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/09/eb/81/c5/hotel-vamshee-international.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/09/eb/81/be/central-view-from-top.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Nizamabad,hotels"
+},
+{
+  "reviewTags": [],
+  "id": "25239918",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Bed and Breakfast"
+  ],
+  "name": "Hotel Lahari International",
+  "locationString": "Nizamabad, Nizamabad District, Telangana",
+  "description": "Hotel Lahari International is the favorite destination for luxury stay, delicious food and celebration. This property has 20 centralized AC luxury rooms with all amenities.",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/27/aa/9b/24/exterior-view.jpg",
+  "photoCount": 11,
+  "rankingPosition": 1,
+  "rating": 5,
+  "rawRanking": 3.06988263130188,
+  "phone": "+91 98886 48886",
+  "address": "Dubbak-Kanteshwar Rd Beside Royaloak, Nizamabad 503002 India",
+  "addressObj": {
+    "street1": "Dubbak-Kanteshwar Rd",
+    "street2": "Beside Royaloak",
+    "city": "Nizamabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "503002"
+  },
+  "localName": "Hotel Lahari International",
+  "localAddress": "Dubbak-Kanteshwar Rd, Beside Royaloak, 503002",
+  "localLangCode": "en-IN",
+  "email": "lahariinternational@gmail.com",
+  "latitude": 18.68382,
+  "longitude": 78.114395,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g2295101-d25239918-Reviews-Hotel_Lahari_International-Nizamabad_Nizamabad_District_Telangana.html",
+  "website": "https://www.lahariinternational.com/",
+  "rankingString": "#1 of 3 small hotels in Nizamabad",
+  "rankingDenominator": "3",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295101",
+      "name": "Nizamabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389592",
+      "name": "Nizamabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 2
+  },
+  "numberOfReviews": 2,
+  "hotelClass": "0.0",
+  "amenities": [
+    "Room service",
+    "Free parking",
+    "Restaurant",
+    "Bar/Lounge",
+    "Free Wifi",
+    "Breakfast included",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Banquet Room",
+    "Air conditioning",
+    "Non-smoking hotel",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Breakfast Available",
+    "Housekeeping",
+    "Kids Stay Free",
+    "Adults Only",
+    "Bath / Shower",
+    "Bottled Water",
+    "Cable / Satellite TV",
+    "Complimentary Tea",
+    "Complimentary Instant Coffee",
+    "24-Hour Front Desk",
+    "Private Bathrooms",
+    "24-Hour Security",
+    "Telephone"
+  ],
+  "priceLevel": "$",
+  "priceRange": "$30 - $37",
+  "roomTips": [],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-03",
+  "checkOutDate": "2024-11-04",
+  "numberOfRooms": 20,
+  "categoryReviewScores": [
+    {
+      "categoryName": "Location",
+      "score": 4
+    },
+    {
+      "categoryName": "Rooms",
+      "score": 5
+    },
+    {
+      "categoryName": "Service",
+      "score": 5
+    }
+  ],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/27/aa/9b/24/exterior-view.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/27/b1/d0/9d/safelocker.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/27/b1/cd/82/24hrs-front-desk.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/27/b1/ca/db/multi-cuisine-restaurant.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/27/b1/ca/a0/coffee-maker.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/27/b1/ca/76/welcome-kit.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/27/b1/a8/1f/twin-bed-executive-room.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/27/b1/a5/77/hotel-lahari-international.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/27/b1/a2/d9/queen-bed-luxury-room.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/27/aa/f4/19/twin-bed-luxury-room.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/27/aa/9b/08/multi-cuisine-restaurant.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Nizamabad,hotels"
+},
+{
+  "reviewTags": [],
+  "id": "25294035",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Hotel"
+  ],
+  "name": "Hotel Trp Bliss",
+  "locationString": "Nizamabad, Nizamabad District, Telangana",
+  "description": "HOTEL TRP BLISS is best mid market luxury hotel in Nizamabad, located at heart of city",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/28/2c/f0/6b/caption.jpg",
+  "photoCount": 14,
+  "rankingPosition": 1,
+  "rating": 5,
+  "rawRanking": 3.067582607269287,
+  "phone": "+91 86880 10811",
+  "address": "7 - 7 - 692 Kumar Galli Road Beside Gunj Kaman Arch., Nizamabad 503001 India",
+  "addressObj": {
+    "street1": "7 - 7 - 692 Kumar Galli Road",
+    "street2": "Beside Gunj Kaman Arch.",
+    "city": "Nizamabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "503001"
+  },
+  "localName": "Hotel Trp Bliss",
+  "localAddress": "7 - 7 - 692 Kumar Galli Road, Beside Gunj Kaman Arch., 503001",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 18.673523,
+  "longitude": 78.09582,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g2295101-d25294035-Reviews-Hotel_Trp_Bliss-Nizamabad_Nizamabad_District_Telangana.html",
+  "website": null,
+  "rankingString": "#1 of 3 hotels in Nizamabad",
+  "rankingDenominator": "3",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295101",
+      "name": "Nizamabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389592",
+      "name": "Nizamabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 2
+  },
+  "numberOfReviews": 2,
+  "hotelClass": "3.0",
+  "hotelClassAttribution": "This property is classified according to Giata.",
+  "amenities": [],
+  "priceLevel": "$",
+  "priceRange": "$16 - $21",
+  "roomTips": [
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Spaciou parking, aesthetic interiors, comfortable place to stay at. Very close to city center with tasty food to have at restaurant. Utilisation of every inch space.",
+      "rating": "5",
+      "reviewId": "878421652",
+      "id": "878421652",
+      "createdTime": "2023-02-12T08:21:23-05:00"
+    }
+  ],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-03",
+  "checkOutDate": "2024-11-04",
+  "numberOfRooms": 40,
+  "categoryReviewScores": [],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/14/11/3f/corridor.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/2c/f0/6c/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/2c/f0/6b/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/2a/bf/4d/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/14/14/59/executive-room.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/14/14/3a/conference-room.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/14/11/37/water-fountain.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/14/11/1c/building-facade.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/14/11/00/goddess-lakshmi.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/14/10/e6/washroom.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/14/10/d8/suite-room.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/14/10/be/suites-rooms.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/14/10/b0/suite-rooms.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/14/10/a1/wasroom.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Nizamabad,hotels"
+},
+{
+  "reviewTags": [],
+  "id": "27513747",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Bed and Breakfast"
+  ],
+  "name": "Laxmi Lodge",
+  "locationString": "Basar, Nirmal District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 94404 49000",
+  "address": "Near Temple Road, Basar 504101 India",
+  "addressObj": {
+    "street1": "Near Temple Road",
+    "street2": null,
+    "city": "Basar",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "504101"
+  },
+  "localName": "Laxmi Lodge",
+  "localAddress": "Near Temple Road, 504101",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 18.878054,
+  "longitude": 77.959496,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g12440653-d27513747-Reviews-Laxmi_Lodge-Basar_Nirmal_District_Telangana.html",
+  "website": null,
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "12440653",
+      "name": "Basar",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389588",
+      "name": "Nirmal District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "hotelClass": "0.0",
+  "amenities": [],
+  "priceLevel": "$",
+  "priceRange": "$19 - $29",
+  "roomTips": [],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-03",
+  "checkOutDate": "2024-11-04",
+  "numberOfRooms": null,
+  "categoryReviewScores": [],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/1a/8a/08/29/this-is-another-show.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Nizamabad,hotels"
+},
+{
+  "reviewTags": [],
+  "id": "4025802",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Hotel"
+  ],
+  "name": "Nikhil Sai International",
+  "locationString": "Nizamabad, Nizamabad District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/05/65/03/d3/nikhil-sai-international.jpg",
+  "photoCount": 16,
+  "rankingPosition": 2,
+  "rating": 3.5,
+  "rawRanking": 3.0545737743377686,
+  "phone": "+91 99129 26277",
+  "address": "D.No.5-6-661, Devi Theatre _X_ Road Hyderabad Road, Nizamabad India",
+  "addressObj": {
+    "street1": "D.No.5-6-661, Devi Theatre _X_ Road",
+    "street2": "Hyderabad Road",
+    "city": "Nizamabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": null
+  },
+  "localName": "Nikhil Sai International",
+  "localAddress": "D.No.5-6-661, Devi Theatre _X_ Road, Hyderabad Road",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": null,
+  "longitude": null,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g2295101-d4025802-Reviews-Nikhil_Sai_International-Nizamabad_Nizamabad_District_Telangana.html",
+  "website": "http://www.hotelnikhilsaiinternational.com",
+  "rankingString": "#2 of 3 hotels in Nizamabad",
+  "rankingDenominator": "3",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295101",
+      "name": "Nizamabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389592",
+      "name": "Nizamabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 8,
+    "count2": 1,
+    "count3": 16,
+    "count4": 17,
+    "count5": 8
+  },
+  "numberOfReviews": 50,
+  "hotelClass": "3.0",
+  "hotelClassAttribution": "This property is classified according to Giata.",
+  "amenities": [
+    "Room service",
+    "Restaurant",
+    "Laundry Service",
+    "Air conditioning",
+    "Internet",
+    "Kids Activities",
+    "Free parking",
+    "Bar/Lounge",
+    "Wifi",
+    "Meeting rooms",
+    "Refrigerator in room",
+    "Minibar",
+    "Safe",
+    "Housekeeping",
+    "Bath / Shower",
+    "Clothes Rack",
+    "English",
+    "24-Hour Front Desk",
+    "Seating Area",
+    "Sofa",
+    "Soundproof Rooms",
+    "Telephone"
+  ],
+  "priceLevel": "$",
+  "priceRange": "$36 - $37",
+  "roomTips": [
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "the rooms facing the main road are somewhat better than the rooms facing the parking which are terrible",
+      "rating": "4",
+      "reviewId": "537128421",
+      "id": "537128421",
+      "createdTime": "2017-10-30T05:34:40-04:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "This is on the main road. Higher the floor, the better.",
+      "rating": "4",
+      "reviewId": "461619783",
+      "id": "461619783",
+      "createdTime": "2017-02-20T21:33:25-05:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Take a higher floor room if you really want to stay there.",
+      "rating": "2",
+      "reviewId": "421149606",
+      "id": "421149606",
+      "createdTime": "2016-09-22T05:24:53-04:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "The higher you go the better you are.",
+      "rating": "3",
+      "reviewId": "399834492",
+      "id": "399834492",
+      "createdTime": "2016-08-01T00:07:05-04:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Rooms facing road have loud ambience.",
+      "rating": "4",
+      "reviewId": "289725250",
+      "id": "289725250",
+      "createdTime": "2015-07-17T00:16:43-04:00"
+    }
+  ],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-03",
+  "checkOutDate": "2024-11-04",
+  "numberOfRooms": 60,
+  "categoryReviewScores": [
+    {
+      "categoryName": "Location",
+      "score": 3.9
+    },
+    {
+      "categoryName": "Rooms",
+      "score": 3.4
+    },
+    {
+      "categoryName": "Value",
+      "score": 3.6
+    },
+    {
+      "categoryName": "Cleanliness",
+      "score": 3
+    },
+    {
+      "categoryName": "Service",
+      "score": 3.4
+    },
+    {
+      "categoryName": "Sleep Quality",
+      "score": 3.4
+    }
+  ],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/06/2b/d9/8e/nikhil-sai.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/05/65/03/d3/nikhil-sai-international.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1f/87/52/d8/nikhil-sai-international.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/09/8e/6a/65/had-fun-at-in-swinger.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/08/63/2d/eb/nikhil-sai-international.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/08/63/2d/d5/nikhil-sai-international.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/08/63/2d/cc/nikhil-sai-international_rotated_270.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/08/63/2d/a2/nikhil-sai-international.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/08/63/2d/99/nikhil-sai-international.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/08/63/2d/86/nikhil-sai-international.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/a5/17/3c/nikhil-sai-international.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/a5/17/2d/nikhil-sai-international.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/a5/17/16/nikhil-sai-international.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/a5/16/ff/nikhil-sai-international.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/06/2b/da/2b/nikhil-sai.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/06/2b/da/0c/nikhil-sai.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Nizamabad,hotels"
+},
+{
+  "reviewTags": [],
+  "id": "5888743",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Specialty Lodging"
+  ],
+  "name": "Laxmi Nivas Lodge",
+  "locationString": "Adilabad, Adilabad District, Telangana",
+  "description": "It is a tourist hotel near Goddess Saraswati temple in Basar, Telangana. This hotel is constructed newly with all modern facilities (2 star rated). Worthy to stay with reasonable rates.Recently we have started a restaurant also for our customers.",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/2a/db/46/de/caption.jpg",
+  "photoCount": 34,
+  "rankingPosition": 1,
+  "rating": 4.5,
+  "rawRanking": 3.249502420425415,
+  "phone": null,
+  "address": "Opposite Shankary Vidyalayam Laxmi Nivas Lodge Opposite Shankary Vidyalayam Basar, Adilabad 504101 India",
+  "addressObj": {
+    "street1": "Opposite Shankary Vidyalayam Laxmi Nivas Lodge Opposite Shankary Vidyalayam",
+    "street2": "Basar",
+    "city": "Adilabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "504101"
+  },
+  "localName": "Laxmi Nivas Lodge",
+  "localAddress": "Opposite Shankary Vidyalayam Laxmi Nivas Lodge Opposite Shankary Vidyalayam, Basar, 504101",
+  "localLangCode": "en-IN",
+  "email": "praveenkumar1043@gmail.com",
+  "latitude": 18.87687,
+  "longitude": 77.95773,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g2282894-d5888743-Reviews-Laxmi_Nivas_Lodge-Adilabad_Adilabad_District_Telangana.html",
+  "website": null,
+  "rankingString": "#1 of 10 lodges in Adilabad",
+  "rankingDenominator": "10",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2282894",
+      "name": "Adilabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389049",
+      "name": "Adilabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 1,
+    "count3": 6,
+    "count4": 10,
+    "count5": 21
+  },
+  "numberOfReviews": 38,
+  "hotelClass": "0.0",
+  "amenities": [
+    "Free Internet",
+    "Free parking",
+    "Public Wifi",
+    "Air conditioning",
+    "Flatscreen TV",
+    "Kids Activities",
+    "Room service",
+    "Non-smoking rooms",
+    "Family Rooms",
+    "Breakfast in the Room",
+    "Car Hire",
+    "24-Hour Front Desk"
+  ],
+  "priceLevel": "$",
+  "priceRange": "$10 - $14",
+  "roomTips": [
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "ALL rooms a good",
+      "rating": "5",
+      "reviewId": "463103574",
+      "id": "463103574",
+      "createdTime": "2017-02-26T21:53:04-05:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "all are the same type rooms, but ac rooms having TV facility.",
+      "rating": "5",
+      "reviewId": "315303761",
+      "id": "315303761",
+      "createdTime": "2015-10-01T03:23:41-04:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "It is good budget hotel in season time, i'm not found any issues",
+      "rating": "4",
+      "reviewId": "251557593",
+      "id": "251557593",
+      "createdTime": "2015-01-28T18:38:05-05:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "room no 101 103 104  are too good ..",
+      "rating": "4",
+      "reviewId": "244359457",
+      "id": "244359457",
+      "createdTime": "2014-12-13T23:18:44-05:00"
+    }
+  ],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-03",
+  "checkOutDate": "2024-11-04",
+  "numberOfRooms": 24,
+  "categoryReviewScores": [
+    {
+      "categoryName": "Location",
+      "score": 4.3
+    },
+    {
+      "categoryName": "Rooms",
+      "score": 4.5
+    },
+    {
+      "categoryName": "Value",
+      "score": 4.6
+    },
+    {
+      "categoryName": "Cleanliness",
+      "score": 4.5
+    },
+    {
+      "categoryName": "Service",
+      "score": 4.3
+    },
+    {
+      "categoryName": "Sleep Quality",
+      "score": 4.7
+    }
+  ],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/2a/db/46/de/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/02/98/18/laxmi-nivas-lodge.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/06/46/aa/de/laxmi-nivas-lodge.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/06/46/a8/d4/exterior-view.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/06/46/a8/d8/bath-room-type-1.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2a/db/46/e1/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/47/80/5d/laxmi-nivas-lodge.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/47/80/56/laxmi-nivas-lodge.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/47/80/51/laxmi-nivas-lodge.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/47/80/4d/laxmi-nivas-lodge.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/47/80/49/laxmi-nivas-lodge.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/47/80/44/laxmi-nivas-lodge.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/47/80/40/laxmi-nivas-lodge.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/47/80/3c/laxmi-nivas-lodge.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/47/80/33/laxmi-nivas-lodge.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/47/80/2e/laxmi-nivas-lodge.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/02/98/b5/laxmi-nivas-lodge.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/02/98/3b/laxmi-nivas-lodge.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/06/46/a8/d9/bath-room-tupe-2.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/0a/3e/bb/laxmi-nivas-lodge.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/18/be/96/ab/img-20190811-073122-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/a7/94/2b/img-20171231-153134-largejpg.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Nizamabad,hotels"
+},
+{
+  "reviewTags": [],
+  "id": "7372326",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Bed and Breakfast"
+  ],
+  "name": "Deeksha Lodge",
+  "locationString": "Adilabad, Adilabad District, Telangana",
+  "description": "Accoumdaction available here A/C rooms& non A/C rooms. Free paking.room service.hotel is near to temple.",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/15/68/2c/c9/room-deekshalodge.jpg",
+  "photoCount": 5,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 94407 43403",
+  "address": "Godavari Road, Near Temple Basar, Adilabad 504101 India",
+  "addressObj": {
+    "street1": "Godavari Road, Near Temple",
+    "street2": "Basar",
+    "city": "Adilabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "504101"
+  },
+  "localName": "Deeksha Lodge",
+  "localAddress": "Godavari Road, Near Temple, Basar, 504101",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 18.875492,
+  "longitude": 77.958725,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g2282894-d7372326-Reviews-Deeksha_Lodge-Adilabad_Adilabad_District_Telangana.html",
+  "website": null,
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2282894",
+      "name": "Adilabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389049",
+      "name": "Adilabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "hotelClass": "0.0",
+  "amenities": [
+    "Room service",
+    "Free parking",
+    "Restaurant",
+    "Pets Allowed",
+    "Laundry Service",
+    "Air conditioning",
+    "Family Rooms",
+    "Kids Activities",
+    "Non-smoking rooms",
+    "Non-smoking hotel",
+    "Baggage Storage"
+  ],
+  "priceLevel": "$",
+  "priceRange": "$13 - $23",
+  "roomTips": [],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-03",
+  "checkOutDate": "2024-11-04",
+  "numberOfRooms": 14,
+  "categoryReviewScores": [],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/15/68/2c/c9/room-deekshalodge.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/15/68/2d/1d/room-deekshalodge.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/15/68/2c/fe/room-deekshalodge.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/15/68/2c/85/deeksha-hotel.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/15/68/2c/24/hotel-building.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Nizamabad,hotels"
+},
+{
+  "reviewTags": [],
+  "id": "26626627",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Hotel"
+  ],
+  "name": "Hotel 4-Seasons",
+  "locationString": "Nizamabad, Nizamabad District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": null,
+  "address": "1-13-48/la Vinayaka Nagar, Nizamabad 503231 India",
+  "addressObj": {
+    "street1": "1-13-48/la Vinayaka Nagar",
+    "street2": null,
+    "city": "Nizamabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "503231"
+  },
+  "localName": "Hotel 4-Seasons",
+  "localAddress": "1-13-48/la Vinayaka Nagar, 503231",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 18.651346,
+  "longitude": 78.11221,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g2295101-d26626627-Reviews-Hotel_4_Seasons-Nizamabad_Nizamabad_District_Telangana.html",
+  "website": null,
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295101",
+      "name": "Nizamabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389592",
+      "name": "Nizamabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "hotelClass": "0.0",
+  "amenities": [],
+  "priceLevel": null,
+  "priceRange": null,
+  "roomTips": [],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-03",
+  "checkOutDate": "2024-11-04",
+  "numberOfRooms": null,
+  "categoryReviewScores": [],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/13/7a/a5/ec/side-view.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Nizamabad,hotels"
+},
+{
+  "id": "9557277",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Bed and Breakfast"
+  ],
+  "name": "Hotel Kapila",
+  "locationString": "Nizamabad, Nizamabad District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": 3,
+  "rating": 2,
+  "rawRanking": 2.7691447734832764,
+  "phone": null,
+  "address": "5 - 6 - 570 4 Hyderabad Road, Nizamabad 503001 India",
+  "addressObj": {
+    "street1": "5 - 6 - 570 4 Hyderabad Road",
+    "street2": null,
+    "city": "Nizamabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "503001"
+  },
+  "localName": "Hotel Kapila",
+  "localAddress": "5 - 6 - 570 4 Hyderabad Road, 503001",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 18.66245,
+  "longitude": 78.11242,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g2295101-d9557277-Reviews-Hotel_Kapila-Nizamabad_Nizamabad_District_Telangana.html",
+  "website": null,
+  "rankingString": "#3 of 3 small hotels in Nizamabad",
+  "rankingDenominator": "3",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295101",
+      "name": "Nizamabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389592",
+      "name": "Nizamabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 2,
+    "count2": 0,
+    "count3": 2,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 4,
+  "hotelClass": "0.0",
+  "amenities": [
+    "Kids Activities",
+    "Free Wifi",
+    "Breakfast included",
+    "Air conditioning",
+    "Baggage Storage",
+    "Car Hire"
+  ],
+  "priceLevel": "$",
+  "priceRange": "$18 - $21",
+  "roomTips": [],
+  "isNearbyResult": false,
+  "reviewTags": [],
+  "checkInDate": "2024-11-03",
+  "checkOutDate": "2024-11-04",
+  "numberOfRooms": 30,
+  "categoryReviewScores": [
+    {
+      "categoryName": "Location",
+      "score": 3
+    },
+    {
+      "categoryName": "Rooms",
+      "score": 2
+    },
+    {
+      "categoryName": "Value",
+      "score": 3
+    },
+    {
+      "categoryName": "Cleanliness",
+      "score": 3
+    },
+    {
+      "categoryName": "Service",
+      "score": 2.7
+    }
+  ],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/13/7a/a5/ec/side-view.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Nizamabad,hotels"
+},
+{
+  "reviewTags": [],
+  "id": "19942496",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Hotel"
+  ],
+  "name": "Hotel Citypride",
+  "locationString": "Nizamabad, Nizamabad District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-w/21/fd/a9/15/n.jpg",
+  "photoCount": 1,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 98498 36367",
+  "address": "Opposite Nizamabad Railway Station, Nizamabad 503001 India",
+  "addressObj": {
+    "street1": "Opposite Nizamabad Railway Station",
+    "street2": null,
+    "city": "Nizamabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "503001"
+  },
+  "localName": "Hotel Citypride",
+  "localAddress": "Opposite Nizamabad Railway Station, 503001",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 18.679024,
+  "longitude": 78.10335,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g2295101-d19942496-Reviews-Hotel_Citypride-Nizamabad_Nizamabad_District_Telangana.html",
+  "website": "https://hotel-city-pride-restaurant-and-lodge.business.site/?utm_source=gmb&utm_medium=referral",
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295101",
+      "name": "Nizamabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389592",
+      "name": "Nizamabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "hotelClass": "0.0",
+  "amenities": [],
+  "priceLevel": null,
+  "priceRange": null,
+  "roomTips": [],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-03",
+  "checkOutDate": "2024-11-04",
+  "numberOfRooms": null,
+  "categoryReviewScores": [],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/21/fd/a9/15/n.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Nizamabad,hotels"
+},
+{
+  "reviewTags": [],
+  "id": "10175730",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Specialty Lodging"
+  ],
+  "name": "Devi Lodge",
+  "locationString": "Nizamabad, Nizamabad District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 84622 52135",
+  "address": "Devi Road, Nizamabad 503001 India",
+  "addressObj": {
+    "street1": "Devi Road",
+    "street2": null,
+    "city": "Nizamabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "503001"
+  },
+  "localName": "Devi Lodge",
+  "localAddress": "Devi Road, 503001",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 18.674215,
+  "longitude": 78.09688,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g2295101-d10175730-Reviews-Devi_Lodge-Nizamabad_Nizamabad_District_Telangana.html",
+  "website": null,
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295101",
+      "name": "Nizamabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389592",
+      "name": "Nizamabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "hotelClass": "0.0",
+  "amenities": [],
+  "priceLevel": null,
+  "priceRange": null,
+  "roomTips": [],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-03",
+  "checkOutDate": "2024-11-04",
+  "numberOfRooms": null,
+  "categoryReviewScores": [],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/13/7a/a5/ec/side-view.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Nizamabad,hotels"
+}]

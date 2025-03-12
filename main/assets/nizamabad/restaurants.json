@@ -1,0 +1,1919 @@
+[{
+  "reviewTags": [],
+  "id": "27651264",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [],
+  "name": "Kfc",
+  "locationString": "Medak, Medak District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 79893 25931",
+  "address": "S/4, Food Court & Filling Station, Gajwel Mandal, Rimmanaguda, Medak 502312 India",
+  "addressObj": {
+    "street1": "S/4, Food Court & Filling Station, Gajwel Mandal, Rimmanaguda",
+    "street2": null,
+    "city": "Medak",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "502312"
+  },
+  "localName": "Kfc",
+  "localAddress": "S/4, Food Court & Filling Station, Gajwel Mandal, Rimmanaguda, 502312",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 18.677193,
+  "longitude": 78.10365,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g2285320-d27651264-Reviews-Kfc-Medak_Medak_District_Telangana.html",
+  "website": "https://restaurants.kfc.co.in/kfc-kfc-karimnagar-highway-restaurants-rimmanaguda-medak-171229/home?utm_source=locator&utm_medium=bing",
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2285320",
+      "name": "Medak",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389567",
+      "name": "Medak District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": null,
+  "priceLevel": null,
+  "dishes": [],
+  "hours": null,
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": true,
+  "priceRange": null,
+  "photos": [],
+  "travelerChoiceAward": null,
+  "cuisines": [],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Nizamabad,restaurants"
+},
+{
+  "id": "27651248",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [],
+  "name": "Cafe Hot Cup",
+  "locationString": "Nizamabad, Nizamabad District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": null,
+  "address": "Opp:munnur Kaapu Sangam,pragathi Nagar, Nizamabad India",
+  "addressObj": {
+    "street1": "Opp:munnur Kaapu Sangam,pragathi Nagar",
+    "street2": null,
+    "city": "Nizamabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": null
+  },
+  "localName": "Cafe Hot Cup",
+  "localAddress": "Opp:munnur Kaapu Sangam,pragathi Nagar",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 18.67168,
+  "longitude": 78.10671,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g2295101-d27651248-Reviews-Cafe_Hot_Cup-Nizamabad_Nizamabad_District_Telangana.html",
+  "website": null,
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295101",
+      "name": "Nizamabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389592",
+      "name": "Nizamabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": null,
+  "priceLevel": null,
+  "dishes": [],
+  "hours": null,
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": false,
+  "reviewTags": [],
+  "priceRange": null,
+  "photos": [],
+  "travelerChoiceAward": null,
+  "cuisines": [],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Nizamabad,restaurants"
+},
+{
+  "id": "27651254",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [],
+  "name": "Green Heaven",
+  "locationString": "Nizamabad, Nizamabad District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": null,
+  "address": "Nh-16, Nizamabad 503001 India",
+  "addressObj": {
+    "street1": "Nh-16",
+    "street2": null,
+    "city": "Nizamabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "503001"
+  },
+  "localName": "Green Heaven",
+  "localAddress": "Nh-16, 503001",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 18.67548,
+  "longitude": 78.10663,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g2295101-d27651254-Reviews-Green_Heaven-Nizamabad_Nizamabad_District_Telangana.html",
+  "website": null,
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295101",
+      "name": "Nizamabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389592",
+      "name": "Nizamabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": null,
+  "priceLevel": null,
+  "dishes": [],
+  "hours": null,
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": false,
+  "reviewTags": [],
+  "priceRange": null,
+  "photos": [],
+  "travelerChoiceAward": null,
+  "cuisines": [],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Nizamabad,restaurants"
+},
+{
+  "reviewTags": [],
+  "id": "11949738",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [],
+  "name": "Parivar Dhaba",
+  "locationString": "Nizamabad, Nizamabad District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 92465 12991",
+  "address": "Hyderabad-Basra Road Vinayak Nagar, Nizamabad India",
+  "addressObj": {
+    "street1": "Hyderabad-Basra Road",
+    "street2": "Vinayak Nagar",
+    "city": "Nizamabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": null
+  },
+  "localName": "Parivar Dhaba",
+  "localAddress": "Hyderabad-Basra Road, Vinayak Nagar",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.4757,
+  "longitude": 78.53767,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g2295101-d11949738-Reviews-Parivar_Dhaba-Nizamabad_Nizamabad_District_Telangana.html",
+  "website": null,
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295101",
+      "name": "Nizamabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389592",
+      "name": "Nizamabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": "Open Now",
+  "priceLevel": null,
+  "dishes": [],
+  "hours": {
+    "weekRanges": [
+      [
+        {
+          "open": 660,
+          "openHours": "11:00",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ],
+      [
+        {
+          "open": 660,
+          "openHours": "11:00",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ],
+      [
+        {
+          "open": 660,
+          "openHours": "11:00",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ],
+      [
+        {
+          "open": 660,
+          "openHours": "11:00",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ],
+      [
+        {
+          "open": 660,
+          "openHours": "11:00",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ],
+      [
+        {
+          "open": 660,
+          "openHours": "11:00",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ],
+      [
+        {
+          "open": 660,
+          "openHours": "11:00",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ]
+    ],
+    "timezone": "Asia/Kolkata"
+  },
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": false,
+  "priceRange": null,
+  "photos": [],
+  "travelerChoiceAward": null,
+  "cuisines": [],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [
+    "Lunch",
+    "Dinner"
+  ],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Nizamabad,restaurants"
+},
+{
+  "id": "27651242",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [],
+  "name": "Pizza Hut",
+  "locationString": "Nizamabad, Nizamabad District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 1800 202 2022",
+  "address": "Shop No F3, 1st Floor, Venu Mall, Hyderabad Rd, Phulong Bridge, Pragathi Ngr, Nizamabad 503001 India",
+  "addressObj": {
+    "street1": "Shop No F3, 1st Floor, Venu Mall, Hyderabad Rd, Phulong Bridge, Pragathi Ngr",
+    "street2": null,
+    "city": "Nizamabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "503001"
+  },
+  "localName": "Pizza Hut",
+  "localAddress": "Shop No F3, 1st Floor, Venu Mall, Hyderabad Rd, Phulong Bridge, Pragathi Ngr, 503001",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 18.669575,
+  "longitude": 78.10516,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g2295101-d27651242-Reviews-Pizza_Hut-Nizamabad_Nizamabad_District_Telangana.html",
+  "website": "https://restaurants.pizzahut.co.in/pizza-hut-ph-venu-mall-nizamabad-pizza-restaurant-pragathi-ngr-nizamabad-123742/home?utm_source=locator&utm_medium=bing",
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295101",
+      "name": "Nizamabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389592",
+      "name": "Nizamabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": null,
+  "priceLevel": null,
+  "dishes": [],
+  "hours": null,
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": false,
+  "reviewTags": [],
+  "priceRange": null,
+  "photos": [],
+  "travelerChoiceAward": null,
+  "cuisines": [],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Nizamabad,restaurants"
+},
+{
+  "reviewTags": [],
+  "id": "26340004",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [],
+  "name": "Zafraan",
+  "locationString": "Nizamabad, Nizamabad District, Telangana",
+  "description": "Welcome to \"Flavors of the World,\" our exquisite multicusine restaurant that takes you on a culinary journey across the India. Step into a warm and inviting ambiance where aromas mingle, and flavors dance on your taste buds. Our restaurant is designed to offer a memorable dining experience that caters to a diverse range of palates and preferences. Decor: The restaurant boasts a modern yet cozy atmosphere with tasteful decor that reflects the fusion of cultures. Rich colors, soft lighting, and elegant furnishings create a welcoming space for our guests. Artwork, inspired by different countries, adorns the walls, adding to the vibrant and multicultural ambiance. Menu: Our extensive menu showcases a delectable array of dishes from various cuisines, ensuring there's something for everyone. Our talented chefs have carefully crafted each dish to capture the authenticity and essence of the respective cuisines. Service: Our friendly and attentive staff is dedicated to providing top-notch service, ensuring that your dining experience is seamless and memorable. Whether you're a food enthusiast or simply looking to explore new flavors, our knowledgeable staff is always ready to guide you through the menu and offer recommendations. Service: Our friendly and attentive staff is dedicated to providing top-notch service, ensuring that your dining experience is seamless and memorable. Whether you're a food enthusiast or simply looking to explore new flavors, our knowledgeable staff is always ready to guide you through the menu and offer recommendations. Service: Our friendly and attentive staff is dedicated to providing top-notch service, ensuring that your dining experience is seamless and memorable. Whether you're a food enthusiast or simply looking to explore new flavors, our knowledgeable staff is always ready to guide you through the menu and offer recommendations.",
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": null,
+  "address": "Colletor Ground Road Opp Tilak Garden Complex, Nizamabad India",
+  "addressObj": {
+    "street1": "Colletor Ground Road",
+    "street2": "Opp Tilak Garden Complex",
+    "city": "Nizamabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": null
+  },
+  "localName": "Zafraan",
+  "localAddress": "Colletor Ground Road, Opp Tilak Garden Complex",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 18.676245,
+  "longitude": 78.1042,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g2295101-d26340004-Reviews-Zafraan-Nizamabad_Nizamabad_District_Telangana.html",
+  "website": null,
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295101",
+      "name": "Nizamabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389592",
+      "name": "Nizamabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": "Open Now",
+  "priceLevel": null,
+  "dishes": [],
+  "hours": {
+    "weekRanges": [
+      [
+        {
+          "open": 600,
+          "openHours": "10:00",
+          "close": 1440,
+          "closeHours": "00:00"
+        }
+      ],
+      [
+        {
+          "open": 600,
+          "openHours": "10:00",
+          "close": 1440,
+          "closeHours": "00:00"
+        }
+      ],
+      [
+        {
+          "open": 600,
+          "openHours": "10:00",
+          "close": 1440,
+          "closeHours": "00:00"
+        }
+      ],
+      [
+        {
+          "open": 600,
+          "openHours": "10:00",
+          "close": 1440,
+          "closeHours": "00:00"
+        }
+      ],
+      [
+        {
+          "open": 600,
+          "openHours": "10:00",
+          "close": 1440,
+          "closeHours": "00:00"
+        }
+      ],
+      [
+        {
+          "open": 600,
+          "openHours": "10:00",
+          "close": 1440,
+          "closeHours": "00:00"
+        }
+      ],
+      [
+        {
+          "open": 600,
+          "openHours": "10:00",
+          "close": 1440,
+          "closeHours": "00:00"
+        }
+      ]
+    ],
+    "timezone": "Asia/Kolkata"
+  },
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": false,
+  "priceRange": null,
+  "photos": [],
+  "travelerChoiceAward": null,
+  "cuisines": [
+    "Chinese",
+    "Indian"
+  ],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [
+    "Delivery",
+    "Private Dining",
+    "Seating",
+    "Parking Available",
+    "Street Parking",
+    "Valet Parking",
+    "American Express",
+    "Mastercard",
+    "Visa",
+    "Digital Payments",
+    "Cash Only",
+    "Free Wifi",
+    "Discover",
+    "Accepts Credit Cards",
+    "Non-smoking restaurants"
+  ],
+  "mealTypes": [
+    "Lunch",
+    "Dinner",
+    "Brunch"
+  ],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Nizamabad,restaurants"
+},
+{
+  "reviewTags": [],
+  "id": "27651225",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [],
+  "name": "Second Wife Kitchen Restaurant Nizamabad",
+  "locationString": "Nizamabad, Nizamabad District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 90008 67557",
+  "address": "Fm Arabian Mataam Mandi Restaurant Nn Function Hall N, Nizamabad 503001 India",
+  "addressObj": {
+    "street1": "Fm Arabian Mataam Mandi Restaurant Nn Function Hall N",
+    "street2": null,
+    "city": "Nizamabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "503001"
+  },
+  "localName": "Second Wife Kitchen Restaurant Nizamabad",
+  "localAddress": "Fm Arabian Mataam Mandi Restaurant Nn Function Hall N, 503001",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 18.668652,
+  "longitude": 78.09352,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g2295101-d27651225-Reviews-Second_Wife_Kitchen_Restaurant_Nizamabad-Nizamabad_Nizamabad_District_Telangana.html",
+  "website": null,
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295101",
+      "name": "Nizamabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389592",
+      "name": "Nizamabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": null,
+  "priceLevel": null,
+  "dishes": [],
+  "hours": null,
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": false,
+  "priceRange": null,
+  "photos": [],
+  "travelerChoiceAward": null,
+  "cuisines": [
+    "Indian"
+  ],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Nizamabad,restaurants"
+},
+{
+  "reviewTags": [],
+  "id": "27743595",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [],
+  "name": "Manasa Restaurent",
+  "locationString": "Nizamabad, Nizamabad District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 93475 56751",
+  "address": "Kanteshwar - Hyderabad Bypass Road, Nizamabad India",
+  "addressObj": {
+    "street1": "Kanteshwar - Hyderabad Bypass Road",
+    "street2": null,
+    "city": "Nizamabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": null
+  },
+  "localName": "Manasa Restaurent",
+  "localAddress": "Kanteshwar - Hyderabad Bypass Road",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 18.688068,
+  "longitude": 78.120026,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g2295101-d27743595-Reviews-Manasa_Restaurent-Nizamabad_Nizamabad_District_Telangana.html",
+  "website": null,
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295101",
+      "name": "Nizamabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389592",
+      "name": "Nizamabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": "Open Now",
+  "priceLevel": null,
+  "dishes": [],
+  "hours": {
+    "weekRanges": [
+      [
+        {
+          "open": 660,
+          "openHours": "11:00",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ],
+      [
+        {
+          "open": 660,
+          "openHours": "11:00",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ],
+      [
+        {
+          "open": 660,
+          "openHours": "11:00",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ],
+      [
+        {
+          "open": 660,
+          "openHours": "11:00",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ],
+      [
+        {
+          "open": 660,
+          "openHours": "11:00",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ],
+      [
+        {
+          "open": 660,
+          "openHours": "11:00",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ],
+      [
+        {
+          "open": 660,
+          "openHours": "11:00",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ]
+    ],
+    "timezone": "Asia/Kolkata"
+  },
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": false,
+  "priceRange": null,
+  "photos": [],
+  "travelerChoiceAward": null,
+  "cuisines": [
+    "Indian"
+  ],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [
+    "Lunch",
+    "Dinner"
+  ],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Nizamabad,restaurants"
+},
+{
+  "reviewTags": [],
+  "id": "5508627",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [
+    "Sit down"
+  ],
+  "name": "India Jakran Pally",
+  "locationString": "Nizamabad, Nizamabad District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": 5,
+  "rating": 5,
+  "rawRanking": 3.0226495265960693,
+  "phone": null,
+  "address": "Jakranpally, Nizamabad India",
+  "addressObj": {
+    "street1": "Jakranpally",
+    "street2": null,
+    "city": "Nizamabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": null
+  },
+  "localName": "India Jakran Pally",
+  "localAddress": "Jakranpally",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": null,
+  "longitude": null,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g2295101-d5508627-Reviews-India_Jakran_Pally-Nizamabad_Nizamabad_District_Telangana.html",
+  "website": null,
+  "rankingString": "#5 of 33 Restaurants in Nizamabad",
+  "rankingDenominator": "33",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295101",
+      "name": "Nizamabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389592",
+      "name": "Nizamabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 1
+  },
+  "numberOfReviews": 1,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": null,
+  "priceLevel": null,
+  "dishes": [],
+  "hours": null,
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": false,
+  "priceRange": null,
+  "photos": [],
+  "travelerChoiceAward": null,
+  "cuisines": [
+    "Indian"
+  ],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Nizamabad,restaurants"
+},
+{
+  "reviewTags": [],
+  "id": "12113881",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [],
+  "name": "Makkhan Shah",
+  "locationString": "Nizamabad, Nizamabad District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/1a/4e/86/45/makkhan-shah.jpg",
+  "photoCount": 1,
+  "rankingPosition": 6,
+  "rating": 5,
+  "rawRanking": 3.022641658782959,
+  "phone": "+91 84622 35102",
+  "address": "Vinayaknagar Opp Bank of India, Nizamabad 503001 India",
+  "addressObj": {
+    "street1": "Vinayaknagar",
+    "street2": "Opp Bank of India",
+    "city": "Nizamabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "503001"
+  },
+  "localName": "Makkhan Shah",
+  "localAddress": "Vinayaknagar, Opp Bank of India, 503001",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": null,
+  "longitude": null,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g2295101-d12113881-Reviews-Makkhan_Shah-Nizamabad_Nizamabad_District_Telangana.html",
+  "website": null,
+  "rankingString": "#6 of 33 Restaurants in Nizamabad",
+  "rankingDenominator": "33",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295101",
+      "name": "Nizamabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389592",
+      "name": "Nizamabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 1
+  },
+  "numberOfReviews": 1,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": "Open Now",
+  "priceLevel": null,
+  "dishes": [],
+  "hours": {
+    "weekRanges": [
+      [
+        {
+          "open": 675,
+          "openHours": "11:15",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ],
+      [
+        {
+          "open": 675,
+          "openHours": "11:15",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ],
+      [
+        {
+          "open": 675,
+          "openHours": "11:15",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ],
+      [
+        {
+          "open": 675,
+          "openHours": "11:15",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ],
+      [
+        {
+          "open": 675,
+          "openHours": "11:15",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ],
+      [
+        {
+          "open": 675,
+          "openHours": "11:15",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ],
+      [
+        {
+          "open": 675,
+          "openHours": "11:15",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ]
+    ],
+    "timezone": "Asia/Kolkata"
+  },
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": false,
+  "priceRange": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/1a/4e/86/45/makkhan-shah.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "cuisines": [],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [
+    "Lunch",
+    "Dinner"
+  ],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Nizamabad,restaurants"
+},
+{
+  "id": "11716642",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [
+    "Sit down"
+  ],
+  "name": "Taj Tandoori Dhaba",
+  "locationString": "Nizamabad, Nizamabad District, Telangana",
+  "description": "You will find the best cuisine in the city at our place a great ambiance for party's family get toghters and lot more",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/10/7b/ff/01/taj-tandoori-dhaba.jpg",
+  "photoCount": 6,
+  "rankingPosition": 4,
+  "rating": 4,
+  "rawRanking": 3.02852201461792,
+  "phone": null,
+  "address": "Taj Building, Arsapally, Near Hanuman Temple, Nizamabad 503002 India",
+  "addressObj": {
+    "street1": null,
+    "street2": "Taj Building, Arsapally, Near Hanuman Temple",
+    "city": "Nizamabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "503002"
+  },
+  "localName": "Taj Tandoori Dhaba",
+  "localAddress": "Taj Building, Arsapally, Near Hanuman Temple, 503002",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": null,
+  "longitude": null,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g2295101-d11716642-Reviews-Taj_Tandoori_Dhaba-Nizamabad_Nizamabad_District_Telangana.html",
+  "website": null,
+  "rankingString": "#4 of 33 Restaurants in Nizamabad",
+  "rankingDenominator": "33",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295101",
+      "name": "Nizamabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389592",
+      "name": "Nizamabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 3,
+    "count5": 0
+  },
+  "numberOfReviews": 3,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": null,
+  "priceLevel": "$$$$",
+  "dishes": [],
+  "hours": null,
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": false,
+  "reviewTags": [],
+  "priceRange": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/10/7b/ff/01/taj-tandoori-dhaba.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/10/7b/fe/8a/taj-tandoori-dhaba.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/10/7b/fd/f3/taj-tandoori-dhaba.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/10/7b/fd/98/taj-tandoori-dhaba.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/10/7b/fd/31/taj-tandoori-dhaba.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/7b/fc/d5/taj-tandoori-dhaba.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/7b/fd/31/taj-tandoori-dhaba.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/7b/fd/98/taj-tandoori-dhaba.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/7b/fd/f3/taj-tandoori-dhaba.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/7b/fe/8a/taj-tandoori-dhaba.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/7b/ff/01/taj-tandoori-dhaba.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "cuisines": [
+    "Chinese",
+    "Indian",
+    "Fast Food"
+  ],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Nizamabad,restaurants"
+},
+{
+  "reviewTags": [],
+  "id": "12877022",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [
+    "Sit down"
+  ],
+  "name": "Angeethi Blu",
+  "locationString": "Nizamabad, Nizamabad District, Telangana",
+  "description": "ANGEETHI BLU The Pure Veg. Restaurant A/C WE SERVE NORTH INDIAN AND CHINESE CUISINE LOCATED AT NIZAMABAD - ARMOOR ROAD, NEAR VICEROY GARDEN OPP. PRITHVI APARTMENTS NIZAMABAD",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/10/99/40/a7/exterior-view.jpg",
+  "photoCount": 3,
+  "rankingPosition": 2,
+  "rating": 4,
+  "rawRanking": 3.0393714904785156,
+  "phone": "+91 92917 17171",
+  "address": "Mubarak Nagar Road Near Viceroy Garden, Nizamabad 503002 India",
+  "addressObj": {
+    "street1": "Mubarak Nagar Road",
+    "street2": "Near Viceroy Garden",
+    "city": "Nizamabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "503002"
+  },
+  "localName": "Angeethi Blu",
+  "localAddress": "Mubarak Nagar Road, Near Viceroy Garden, 503002",
+  "localLangCode": "en-IN",
+  "email": "angeethirestaurant@gmail.com",
+  "latitude": 18.704227,
+  "longitude": 78.125084,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g2295101-d12877022-Reviews-Angeethi_Blu-Nizamabad_Nizamabad_District_Telangana.html",
+  "website": "https://www.facebook.com/angeethiblu/",
+  "rankingString": "#2 of 33 Restaurants in Nizamabad",
+  "rankingDenominator": "33",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295101",
+      "name": "Nizamabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389592",
+      "name": "Nizamabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 1,
+    "count3": 1,
+    "count4": 0,
+    "count5": 3
+  },
+  "numberOfReviews": 5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": "Open Now",
+  "priceLevel": "$$$$",
+  "dishes": [],
+  "hours": {
+    "weekRanges": [
+      [
+        {
+          "open": 690,
+          "openHours": "11:30",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ],
+      [
+        {
+          "open": 690,
+          "openHours": "11:30",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ],
+      [
+        {
+          "open": 690,
+          "openHours": "11:30",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ],
+      [
+        {
+          "open": 690,
+          "openHours": "11:30",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ],
+      [
+        {
+          "open": 690,
+          "openHours": "11:30",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ],
+      [
+        {
+          "open": 690,
+          "openHours": "11:30",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ],
+      [
+        {
+          "open": 690,
+          "openHours": "11:30",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ]
+    ],
+    "timezone": "Asia/Kolkata"
+  },
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": false,
+  "priceRange": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/10/99/40/a7/exterior-view.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/10/99/40/a9/interior-1.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/10/9f/ee/4d/angeethi-blu.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "cuisines": [
+    "Chinese",
+    "Indian"
+  ],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [
+    "Outdoor Seating",
+    "Private Dining",
+    "Seating",
+    "Parking Available",
+    "Street Parking",
+    "Free off-street parking",
+    "Digital Payments",
+    "Cash Only"
+  ],
+  "mealTypes": [
+    "Lunch",
+    "Dinner"
+  ],
+  "isClaimedIcon": true,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Nizamabad,restaurants"
+},
+{
+  "reviewTags": [],
+  "id": "4166815",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [
+    "Sit down"
+  ],
+  "name": "Angeethi Restaurant",
+  "locationString": "Nizamabad, Nizamabad District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/03/f7/19/9c/angeethi-restaurant.jpg",
+  "photoCount": 19,
+  "rankingPosition": 1,
+  "rating": 4,
+  "rawRanking": 3.058255195617676,
+  "phone": "+91 84626 55506",
+  "address": "Vinayak Nagar, Near Pulong Bridge; Hyd Road Near Indira Gandhi Statue, Nizamabad 503001 India",
+  "addressObj": {
+    "street1": "Vinayak Nagar, Near Pulong Bridge; Hyd Road",
+    "street2": "Near Indira Gandhi Statue",
+    "city": "Nizamabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "503001"
+  },
+  "localName": "Angeethi Restaurant",
+  "localAddress": "Vinayak Nagar, Near Pulong Bridge; Hyd Road, Near Indira Gandhi Statue, 503001",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": null,
+  "longitude": null,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g2295101-d4166815-Reviews-Angeethi_Restaurant-Nizamabad_Nizamabad_District_Telangana.html",
+  "website": null,
+  "rankingString": "#1 of 33 Restaurants in Nizamabad",
+  "rankingDenominator": "33",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295101",
+      "name": "Nizamabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389592",
+      "name": "Nizamabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 1,
+    "count2": 1,
+    "count3": 1,
+    "count4": 5,
+    "count5": 6
+  },
+  "numberOfReviews": 14,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": "Open Now",
+  "priceLevel": "$$ - $$$",
+  "dishes": [],
+  "hours": {
+    "weekRanges": [
+      [
+        {
+          "open": 690,
+          "openHours": "11:30",
+          "close": 1350,
+          "closeHours": "22:30"
+        }
+      ],
+      [
+        {
+          "open": 690,
+          "openHours": "11:30",
+          "close": 1350,
+          "closeHours": "22:30"
+        }
+      ],
+      [
+        {
+          "open": 690,
+          "openHours": "11:30",
+          "close": 1350,
+          "closeHours": "22:30"
+        }
+      ],
+      [
+        {
+          "open": 690,
+          "openHours": "11:30",
+          "close": 1350,
+          "closeHours": "22:30"
+        }
+      ],
+      [
+        {
+          "open": 690,
+          "openHours": "11:30",
+          "close": 1350,
+          "closeHours": "22:30"
+        }
+      ],
+      [
+        {
+          "open": 690,
+          "openHours": "11:30",
+          "close": 1350,
+          "closeHours": "22:30"
+        }
+      ],
+      [
+        {
+          "open": 690,
+          "openHours": "11:30",
+          "close": 1350,
+          "closeHours": "22:30"
+        }
+      ]
+    ],
+    "timezone": "Asia/Kolkata"
+  },
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": false,
+  "priceRange": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/03/f7/19/8c/angeethi-restaurant.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/03/f7/19/9c/angeethi-restaurant.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/03/f7/19/8d/angeethi-restaurant.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/03/f7/19/99/angeethi-restaurant.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/a7/91/62/img-20180101-wa0027-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/1a/5e/1d/2.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/c5/d3/9d/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/c5/d2/a2/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/27/73/09/5c/angeethi.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/27/73/09/5b/angeethi.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/27/73/09/5a/angeethi.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/a7/91/64/img-20180101-wa0023-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/a7/91/63/img-20180101-wa0024-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/1a/5e/54/4.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/1a/5e/3c/3.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/1a/5e/11/garden-ambience.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/06/d6/66/97/inside.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/06/d6/65/93/angeethi-restaurant.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/06/d6/65/91/angeethi-restaurant.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/c5/d2/a2/caption.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/c5/d3/9d/caption.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/a7/91/64/img-20180101-wa0023-largejpg.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/a7/91/63/img-20180101-wa0024-largejpg.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/a7/91/62/img-20180101-wa0027-largejpg.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/d6/65/91/angeethi-restaurant.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/d6/65/93/angeethi-restaurant.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/d6/66/97/inside.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "cuisines": [
+    "Indian",
+    "Asian"
+  ],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [
+    "Reservations",
+    "Seating",
+    "Parking Available",
+    "Street Parking",
+    "Free off-street parking",
+    "Digital Payments",
+    "Cash Only",
+    "Table Service"
+  ],
+  "mealTypes": [
+    "Lunch",
+    "Dinner"
+  ],
+  "isClaimedIcon": true,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Nizamabad,restaurants"
+},
+{
+  "reviewTags": [],
+  "id": "13403437",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [
+    "Sit down"
+  ],
+  "name": "Hotel Shathavahana",
+  "locationString": "Nizamabad, Nizamabad District, Telangana",
+  "description": "If Biryani is what you love, you have come to the best place to have it. Our mission is to ensure that we serve the best Dum Biryani, using the best ingredients possible, at an amazing price and quantity that will leave you more than satisfied.",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/12/4a/d9/e2/hotel-shathavahana.jpg",
+  "photoCount": 9,
+  "rankingPosition": 3,
+  "rating": 4,
+  "rawRanking": 3.036029100418091,
+  "phone": "+91 73821 01112",
+  "address": "100 Feet Road, First Mayor Street Road beside Baswa Garden, Nizamabad 503001 India",
+  "addressObj": {
+    "street1": "100 Feet Road, First Mayor Street Road",
+    "street2": "beside Baswa Garden",
+    "city": "Nizamabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "503001"
+  },
+  "localName": "Hotel Shathavahana",
+  "localAddress": "100 Feet Road, First Mayor Street Road, beside Baswa Garden, 503001",
+  "localLangCode": "en-IN",
+  "email": "info@hotelshathavahana.com",
+  "latitude": 18.665314,
+  "longitude": 78.114944,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g2295101-d13403437-Reviews-Hotel_Shathavahana-Nizamabad_Nizamabad_District_Telangana.html",
+  "website": "http://www.hotelshathavahana.com",
+  "rankingString": "#3 of 33 Restaurants in Nizamabad",
+  "rankingDenominator": "33",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295101",
+      "name": "Nizamabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389592",
+      "name": "Nizamabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 1,
+    "count2": 0,
+    "count3": 0,
+    "count4": 3,
+    "count5": 2
+  },
+  "numberOfReviews": 6,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": null,
+  "priceLevel": "$$ - $$$",
+  "dishes": [],
+  "hours": null,
+  "menuWebUrl": "http://www.hotelshathavahana.com/images/hs_menu.pdf",
+  "ownersTopReasons": null,
+  "isNearbyResult": false,
+  "priceRange": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/12/70/de/c0/ac-section.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/12/4a/d9/e2/hotel-shathavahana.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1b/e8/90/70/hotel-shathavahana.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/12/70/de/c7/non-ac.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/12/70/de/c4/parking-place.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/12/70/de/c2/entrance.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/e8/90/70/hotel-shathavahana.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/70/de/c4/parking-place.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/70/de/c7/non-ac.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/70/de/c0/ac-section.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/70/de/c2/entrance.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/4a/d9/e9/hotel-shathavahana.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/4a/d9/e2/hotel-shathavahana.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/4a/d9/dc/hotel-shathavahana.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/4a/d9/d6/hotel-shathavahana.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "cuisines": [
+    "Chinese",
+    "Indian"
+  ],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Nizamabad,restaurants"
+},
+{
+  "reviewTags": [],
+  "id": "19741427",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [],
+  "name": "Laxmi narasimha mess",
+  "locationString": "Nizamabad, Nizamabad District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 83093 17123",
+  "address": "Devi lodge complex, Nizamabad India",
+  "addressObj": {
+    "street1": "Devi lodge complex",
+    "street2": null,
+    "city": "Nizamabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": null
+  },
+  "localName": "Laxmi narasimha mess",
+  "localAddress": "Devi lodge complex",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": null,
+  "longitude": null,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g2295101-d19741427-Reviews-Laxmi_narasimha_mess-Nizamabad_Nizamabad_District_Telangana.html",
+  "website": null,
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295101",
+      "name": "Nizamabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389592",
+      "name": "Nizamabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": null,
+  "priceLevel": null,
+  "dishes": [],
+  "hours": null,
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": false,
+  "priceRange": null,
+  "photos": [],
+  "travelerChoiceAward": null,
+  "cuisines": [
+    "Indian"
+  ],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Nizamabad,restaurants"
+}]

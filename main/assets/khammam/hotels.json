@@ -1,0 +1,3473 @@
+[{
+  "id": "4023369",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Specialty Lodging"
+  ],
+  "name": "Gopi Krishna Hotel",
+  "locationString": "Khammam, Khammam District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": 7,
+  "rating": 1,
+  "rawRanking": 2.903339385986328,
+  "phone": "+91 91772 81017",
+  "address": "Browns College, Wyra Main Road V V Palem, Khammam India",
+  "addressObj": {
+    "street1": "Browns College, Wyra Main Road",
+    "street2": "V V Palem",
+    "city": "Khammam",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": null
+  },
+  "localName": "Gopi Krishna Hotel",
+  "localAddress": "Browns College, Wyra Main Road, V V Palem",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": null,
+  "longitude": null,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g1005753-d4023369-Reviews-Gopi_Krishna_Hotel-Khammam_Khammam_District_Telangana.html",
+  "website": null,
+  "rankingString": "#7 of 9 lodges in Khammam",
+  "rankingDenominator": "9",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "1005753",
+      "name": "Khammam",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389543",
+      "name": "Khammam District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 1,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 1,
+  "hotelClass": "0.0",
+  "amenities": [],
+  "priceLevel": null,
+  "priceRange": null,
+  "roomTips": [],
+  "isNearbyResult": false,
+  "reviewTags": [],
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "numberOfRooms": null,
+  "categoryReviewScores": [
+    {
+      "categoryName": "Location",
+      "score": 3
+    },
+    {
+      "categoryName": "Rooms",
+      "score": 2
+    },
+    {
+      "categoryName": "Value",
+      "score": 1
+    },
+    {
+      "categoryName": "Cleanliness",
+      "score": 2
+    },
+    {
+      "categoryName": "Service",
+      "score": 2
+    },
+    {
+      "categoryName": "Sleep Quality",
+      "score": 1
+    }
+  ],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/d5/11/43/kinnerasani-wildlife.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Khammam,hotels"
+},
+{
+  "id": "23193430",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Bed and Breakfast"
+  ],
+  "name": "Hotel Vaibhav Inn",
+  "locationString": "Khammam, Khammam District, Telangana",
+  "description": "Hotel Vaibhav Inn – a luxury business class hotel offering ultimate comfort and luxury with 24 x 7 front desk welcoming guests all seven days of the week. This 4-storied hotel is a beautiful combination of traditional grandeur and modern facilities. The 16 exclusive guest rooms are furnished with a range of upholstery and comfy bed to smoothen your stays. Vaibhav Inn hotel is attached to southern spice – a multi cuisine restaurant savoring your taste buds. Don’t forget to Check in to Vaibhav Inn if you have ever have to visit Khammam. Hotel Vaibhav Inn is the favorite choice for quick business traveler and for luxury family travel. All rooms at Hotel Vaibhav Inn comes in at competitive pricing with best in class hospitality and service.",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/23/4a/ff/04/hotel-vaibhav-inn.jpg",
+  "photoCount": 232,
+  "rankingPosition": 2,
+  "rating": 3.5,
+  "rawRanking": 3.0111069679260254,
+  "phone": "+91 98560 75607",
+  "address": "60 Nehru Nagar Wyra Road H No: 11 - 4 - 59, Khammam 507002 India",
+  "addressObj": {
+    "street1": "60 Nehru Nagar Wyra Road H No: 11 - 4 - 59",
+    "street2": null,
+    "city": "Khammam",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "507002"
+  },
+  "localName": "Hotel Vaibhav Inn",
+  "localAddress": "60 Nehru Nagar Wyra Road H No: 11 - 4 - 59, 507002",
+  "localLangCode": "en-IN",
+  "email": "hotelvaibhavinn26@gmail.com",
+  "latitude": 17.24771,
+  "longitude": 80.149414,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g1005753-d23193430-Reviews-Hotel_Vaibhav_Inn-Khammam_Khammam_District_Telangana.html",
+  "website": "https://vaibhavinnhotel.com",
+  "rankingString": "#2 of 2 guest houses in Khammam",
+  "rankingDenominator": "2",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "1005753",
+      "name": "Khammam",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389543",
+      "name": "Khammam District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 1,
+    "count3": 0,
+    "count4": 0,
+    "count5": 1
+  },
+  "numberOfReviews": 2,
+  "hotelClass": "0.0",
+  "amenities": [
+    "Internet",
+    "Suites",
+    "Room service",
+    "Free parking",
+    "Wheelchair access",
+    "Restaurant",
+    "Free Wifi",
+    "Breakfast included",
+    "Concierge",
+    "Air conditioning"
+  ],
+  "priceLevel": "₹",
+  "priceRange": "₹2,102 - ₹3,364",
+  "roomTips": [
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Choose Executive Rooms",
+      "rating": "5",
+      "reviewId": "783598560",
+      "id": "783598560",
+      "createdTime": "2021-02-26T04:51:19-05:00"
+    }
+  ],
+  "isNearbyResult": false,
+  "reviewTags": [
+    {
+      "text": "rooms",
+      "reviews": 2
+    }
+  ],
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "numberOfRooms": 16,
+  "categoryReviewScores": [
+    {
+      "categoryName": "Location",
+      "score": 5
+    },
+    {
+      "categoryName": "Value",
+      "score": 5
+    },
+    {
+      "categoryName": "Service",
+      "score": 5
+    }
+  ],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/cb/b3/7f/hotel-vaibhav-inn.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/23/4b/04/56/hotel-vaibhav-inn.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/23/4b/04/4a/hotel-vaibhav-inn.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/23/4b/04/45/hotel-vaibhav-inn.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/23/4b/04/41/hotel-vaibhav-inn.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/23/4b/04/3b/hotel-vaibhav-inn.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/23/4b/04/32/hotel-vaibhav-inn.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/23/4b/04/28/hotel-vaibhav-inn.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/23/4b/04/24/hotel-vaibhav-inn.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/23/4b/04/1e/hotel-vaibhav-inn.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/23/4b/04/14/hotel-vaibhav-inn.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/23/4b/04/13/hotel-vaibhav-inn.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/23/4b/04/0a/hotel-vaibhav-inn.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/23/4b/03/f6/hotel-vaibhav-inn.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/23/4b/03/e7/hotel-vaibhav-inn.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/23/4b/03/d4/hotel-vaibhav-inn.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/23/4b/03/cc/hotel-vaibhav-inn.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/23/4b/02/fe/hotel-vaibhav-inn.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/23/4b/02/e3/hotel-vaibhav-inn.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/23/4b/02/dc/hotel-vaibhav-inn.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/23/4b/02/d9/hotel-vaibhav-inn.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/cb/b3/7e/hotel-vaibhav-inn.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/cb/b3/7b/private-dining-room.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Khammam,hotels"
+},
+{
+  "id": "4023359",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Specialty Lodging"
+  ],
+  "name": "Thatipalli Residency Hotel",
+  "locationString": "Khammam, Khammam District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": 6,
+  "rating": 4,
+  "rawRanking": 3.006181240081787,
+  "phone": "+91 90423 00581",
+  "address": "5-5-50/51, M G Road Cooli Lane, Kothagudem, Khammam India",
+  "addressObj": {
+    "street1": "5-5-50/51, M G Road",
+    "street2": "Cooli Lane, Kothagudem",
+    "city": "Khammam",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": null
+  },
+  "localName": "Thatipalli Residency Hotel",
+  "localAddress": "5-5-50/51, M G Road, Cooli Lane, Kothagudem",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": null,
+  "longitude": null,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g1005753-d4023359-Reviews-Thatipalli_Residency_Hotel-Khammam_Khammam_District_Telangana.html",
+  "website": null,
+  "rankingString": "#6 of 9 lodges in Khammam",
+  "rankingDenominator": "9",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "1005753",
+      "name": "Khammam",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389543",
+      "name": "Khammam District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 1,
+    "count5": 0
+  },
+  "numberOfReviews": 1,
+  "hotelClass": "0.0",
+  "amenities": [],
+  "priceLevel": null,
+  "priceRange": null,
+  "roomTips": [],
+  "isNearbyResult": false,
+  "reviewTags": [],
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "numberOfRooms": null,
+  "categoryReviewScores": [],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/d5/11/43/kinnerasani-wildlife.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Khammam,hotels"
+},
+{
+  "reviewTags": [],
+  "id": "4023336",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Specialty Lodging"
+  ],
+  "name": "Hotel Ishta Residency",
+  "locationString": "Khammam, Khammam District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/06/1b/01/55/hotel-ishta-residency.jpg",
+  "photoCount": 1,
+  "rankingPosition": 5,
+  "rating": 3.5,
+  "rawRanking": 3.008713722229004,
+  "phone": "+91 87422 32302",
+  "address": "NST Road Near Rythu Bazar, Khammam India",
+  "addressObj": {
+    "street1": "NST Road",
+    "street2": "Near Rythu Bazar",
+    "city": "Khammam",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": null
+  },
+  "localName": "Hotel Ishta Residency",
+  "localAddress": "NST Road, Near Rythu Bazar",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.25636,
+  "longitude": 80.15711,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g1005753-d4023336-Reviews-Hotel_Ishta_Residency-Khammam_Khammam_District_Telangana.html",
+  "website": null,
+  "rankingString": "#5 of 9 lodges in Khammam",
+  "rankingDenominator": "9",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "1005753",
+      "name": "Khammam",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389543",
+      "name": "Khammam District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 2,
+    "count4": 1,
+    "count5": 0
+  },
+  "numberOfReviews": 3,
+  "hotelClass": "0.0",
+  "amenities": [],
+  "priceLevel": null,
+  "priceRange": null,
+  "roomTips": [
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "I got a luxury room. Worth going for as I'm not sure a/c is included in standard room.",
+      "rating": "3",
+      "reviewId": "212810854",
+      "id": "212810854",
+      "createdTime": "2014-06-30T07:32:12-04:00"
+    }
+  ],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "numberOfRooms": null,
+  "categoryReviewScores": [],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/06/1b/01/55/hotel-ishta-residency.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Khammam,hotels"
+},
+{
+  "reviewTags": [],
+  "id": "4023343",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Specialty Lodging"
+  ],
+  "name": "Krishna Hotel",
+  "locationString": "Khammam, Khammam District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": 3,
+  "rating": 4,
+  "rawRanking": 3.0182247161865234,
+  "phone": "+91 87422 23807",
+  "address": "9-2-140/1 Near APSRTC Bus Stand, Khammam India",
+  "addressObj": {
+    "street1": "9-2-140/1",
+    "street2": "Near APSRTC Bus Stand",
+    "city": "Khammam",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": null
+  },
+  "localName": "Krishna Hotel",
+  "localAddress": "9-2-140/1, Near APSRTC Bus Stand",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": null,
+  "longitude": null,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g1005753-d4023343-Reviews-Krishna_Hotel-Khammam_Khammam_District_Telangana.html",
+  "website": null,
+  "rankingString": "#3 of 9 lodges in Khammam",
+  "rankingDenominator": "9",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "1005753",
+      "name": "Khammam",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389543",
+      "name": "Khammam District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 2,
+    "count5": 0
+  },
+  "numberOfReviews": 2,
+  "hotelClass": "0.0",
+  "amenities": [
+    "Kids Activities"
+  ],
+  "priceLevel": null,
+  "priceRange": null,
+  "roomTips": [],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "numberOfRooms": null,
+  "categoryReviewScores": [
+    {
+      "categoryName": "Rooms",
+      "score": 3
+    },
+    {
+      "categoryName": "Cleanliness",
+      "score": 3
+    },
+    {
+      "categoryName": "Service",
+      "score": 3
+    }
+  ],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/d5/11/43/kinnerasani-wildlife.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Khammam,hotels"
+},
+{
+  "id": "17788949",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Hotel"
+  ],
+  "name": "Sri Sri Sri Hotel",
+  "locationString": "Khammam, Khammam District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1c/48/e2/00/family-restaurant.jpg",
+  "photoCount": 9,
+  "rankingPosition": 3,
+  "rating": 4.5,
+  "rawRanking": 3.0591542720794678,
+  "phone": "+91 87422 98333",
+  "address": "11-11-189/2 By Pass Road Vijaynagar Colony 2, Behind HP Bunk, Khammam 507003 India",
+  "addressObj": {
+    "street1": "11-11-189/2 By Pass Road",
+    "street2": "Vijaynagar Colony 2, Behind HP Bunk",
+    "city": "Khammam",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "507003"
+  },
+  "localName": "Sri Sri Sri Hotel",
+  "localAddress": "11-11-189/2 By Pass Road, Vijaynagar Colony 2, Behind HP Bunk, 507003",
+  "localLangCode": "en-IN",
+  "email": "srisrisrihotel@gmail.com",
+  "latitude": 17.261072,
+  "longitude": 80.15375,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g1005753-d17788949-Reviews-Sri_Sri_Sri_Hotel-Khammam_Khammam_District_Telangana.html",
+  "website": "http://www.srisrisrihotel.com/index.html",
+  "rankingString": "#3 of 5 hotels in Khammam",
+  "rankingDenominator": "5",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "1005753",
+      "name": "Khammam",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389543",
+      "name": "Khammam District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 1,
+    "count5": 2
+  },
+  "numberOfReviews": 3,
+  "hotelClass": "3.0",
+  "hotelClassAttribution": "This property is classified according to Giata.",
+  "amenities": [],
+  "priceLevel": "₹",
+  "priceRange": "₹2,355 - ₹2,607",
+  "roomTips": [],
+  "isNearbyResult": false,
+  "reviewTags": [],
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "numberOfRooms": 28,
+  "categoryReviewScores": [
+    {
+      "categoryName": "Service",
+      "score": 5
+    }
+  ],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/1a/de/34/6a/sri-sri-sri-hotel.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/48/e2/00/family-restaurant.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/48/e1/ff/family-restaurant.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/48/e1/fe/family-restaurant.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/48/e1/fd/family-restaurant.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/48/e1/fc/family-restaurant.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/48/e1/fb/family-restaurant.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1a/de/36/f8/sri-sri-sri-hotel.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1a/de/34/5f/sri-sri-sri-hotel.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Khammam,hotels"
+},
+{
+  "reviewTags": [],
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "numberOfRooms": null,
+  "categoryReviewScores": [
+    {
+      "categoryName": "Location",
+      "score": 4
+    },
+    {
+      "categoryName": "Rooms",
+      "score": 5
+    },
+    {
+      "categoryName": "Value",
+      "score": 4
+    },
+    {
+      "categoryName": "Cleanliness",
+      "score": 4.5
+    },
+    {
+      "categoryName": "Service",
+      "score": 4.4
+    },
+    {
+      "categoryName": "Sleep Quality",
+      "score": 4
+    }
+  ],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/03/7c/61/hotel-grand-gayathri.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/14/aa/de/4a/hotel-grand-gayathri.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/14/a6/6b/de/hotel-grand-gayathri.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/03/7c/77/hotel-grand-gayathri.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/03/7c/74/hotel-grand-gayathri.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/03/7c/56/hotel-grand-gayathri.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "rankingPosition": 1,
+  "rankingDenominator": "13",
+  "rankingString": "#1 of 13 B&Bs / Inns in Khammam",
+  "id": "13538009",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Bed and Breakfast"
+  ],
+  "name": "Hotel Grand Gayathri",
+  "locationString": "Khammam, Khammam District, Telangana",
+  "description": "Finding an ideal budget friendly guest house in Khammam does not have to be difficult. Welcome to Hotel Grand Gayathri, a nice option for travelers like you.\nYou’ll enjoy relaxing rooms that offer air conditioning, and you can stay connected during your stay as Hotel Grand Gayathri offers guests free wifi.\nThe guest house features a 24 hour front desk, a concierge, and room service. Plus, Hotel Grand Gayathri offers an on-site restaurant, providing a pleasant respite from your busy day. For guests with a vehicle, free parking is available.\nIf you're looking for a place to eat, Haveli Restaurant (1.0 mi) is a popular option that is within walking distance of Hotel Grand Gayathri.\nPlus, during your trip, don't forget to check out a park, such as Dhanavayi Gudem Park.\nHotel Grand Gayathri looks forward to welcoming you on your visit to Khammam.\n",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/14/a6/6b/de/hotel-grand-gayathri.jpg",
+  "photoCount": 6,
+  "rating": 4,
+  "rawRanking": 3.0833868980407715,
+  "phone": "+91 91000 51711",
+  "address": "Wyra Road, Khammam 507002 India",
+  "addressObj": {
+    "street1": "Wyra Road",
+    "street2": null,
+    "city": "Khammam",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "507002"
+  },
+  "localName": "Hotel Grand Gayathri",
+  "localAddress": "Wyra Road, 507002",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.24614,
+  "longitude": 80.16965,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g1005753-d13538009-Reviews-Hotel_Grand_Gayathri-Khammam_Khammam_District_Telangana.html",
+  "website": "https://www.facebook.com/hotelgrandgayathrikmm/",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "1005753",
+      "name": "Khammam",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389543",
+      "name": "Khammam District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 1,
+    "count2": 0,
+    "count3": 1,
+    "count4": 6,
+    "count5": 3
+  },
+  "numberOfReviews": 11,
+  "hotelClass": "0.0",
+  "amenities": [
+    "Room service",
+    "Restaurant",
+    "Kids Activities",
+    "Free parking",
+    "Free Wifi",
+    "Meeting rooms",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Family Rooms",
+    "Non-smoking hotel",
+    "Housekeeping",
+    "BBQ Facilities",
+    "Bottled Water",
+    "Breakfast in the Room",
+    "Car Hire",
+    "Coffee Shop",
+    "English",
+    "24-Hour Front Desk",
+    "Hindi",
+    "Ironing Service",
+    "Newspaper",
+    "Parking Garage",
+    "Private Check-in / Check-out",
+    "Secured Parking",
+    "Shoeshine",
+    "Special Diet Menus",
+    "VIP Room Facilities"
+  ],
+  "priceLevel": "₹",
+  "priceRange": "₹3,532 - ₹3,700",
+  "roomTips": [
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "suitable for solo only",
+      "rating": "4",
+      "reviewId": "804370729",
+      "id": "804370729",
+      "createdTime": "2021-08-16T19:27:13-04:00"
+    }
+  ],
+  "isNearbyResult": false,
+  "input": "Telangana,Khammam,hotels"
+},
+{
+  "id": "10102079",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Specialty Lodging"
+  ],
+  "name": "Hotel Kaveri",
+  "locationString": "Khammam, Khammam District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0b/df/9d/96/hotel-kaveri.jpg",
+  "photoCount": 7,
+  "rankingPosition": 8,
+  "rating": 2.5,
+  "rawRanking": 2.877833366394043,
+  "phone": "+91 87422 38565",
+  "address": "Wyra Road Balaji Naga, Khammam 507001 India",
+  "addressObj": {
+    "street1": "Wyra Road",
+    "street2": "Balaji Naga",
+    "city": "Khammam",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "507001"
+  },
+  "localName": "Hotel Kaveri",
+  "localAddress": "Wyra Road, Balaji Naga, 507001",
+  "localLangCode": "en-IN",
+  "email": "hotelkaverikmm@gmail.com",
+  "latitude": 17.2518,
+  "longitude": 80.14172,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g1005753-d10102079-Reviews-Hotel_Kaveri-Khammam_Khammam_District_Telangana.html",
+  "website": "https://www.facebook.com/HotelKaverikhammam/",
+  "rankingString": "#8 of 9 lodges in Khammam",
+  "rankingDenominator": "9",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "1005753",
+      "name": "Khammam",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389543",
+      "name": "Khammam District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 2,
+    "count3": 2,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 4,
+  "hotelClass": "3.0",
+  "hotelClassAttribution": "This property is classified according to Giata.",
+  "amenities": [
+    "Kids Activities",
+    "Room service",
+    "Free parking",
+    "Restaurant",
+    "Bar/Lounge",
+    "Free Wifi",
+    "Breakfast included",
+    "Laundry Service"
+  ],
+  "priceLevel": "₹",
+  "priceRange": "₹2,018 - ₹2,186",
+  "roomTips": [
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Not for Family stay.",
+      "rating": "3",
+      "reviewId": "389978079",
+      "id": "389978079",
+      "createdTime": "2016-07-06T23:52:43-04:00"
+    }
+  ],
+  "isNearbyResult": false,
+  "reviewTags": [],
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "numberOfRooms": 22,
+  "categoryReviewScores": [
+    {
+      "categoryName": "Location",
+      "score": 4
+    },
+    {
+      "categoryName": "Rooms",
+      "score": 2
+    },
+    {
+      "categoryName": "Value",
+      "score": 3
+    },
+    {
+      "categoryName": "Service",
+      "score": 2.3
+    },
+    {
+      "categoryName": "Sleep Quality",
+      "score": 2
+    }
+  ],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/0b/df/9d/96/hotel-kaveri.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0b/df/9e/95/ramp-to-the-entrance.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0b/df/9e/50/poorly-lighted-reception.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0b/df/9e/05/ugly-front-elevation.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0b/df/9d/d0/hotel-kaveri.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0b/df/9d/4a/dark-passage-to-the-rooms.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0b/e6/9f/d8/front-elevation.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Khammam,hotels"
+},
+{
+  "reviewTags": [],
+  "id": "11886142",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Specialty Lodging"
+  ],
+  "name": "Orchid Hotel",
+  "locationString": "Khammam, Khammam District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": 9,
+  "rating": 1,
+  "rawRanking": 2.7456326484680176,
+  "phone": null,
+  "address": "Suryapeta - Badrachalam Road, Khammam 507003 India",
+  "addressObj": {
+    "street1": "Suryapeta - Badrachalam Road",
+    "street2": null,
+    "city": "Khammam",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "507003"
+  },
+  "localName": "Orchid Hotel",
+  "localAddress": "Suryapeta - Badrachalam Road, 507003",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.25826,
+  "longitude": 80.15843,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g1005753-d11886142-Reviews-Orchid_Hotel-Khammam_Khammam_District_Telangana.html",
+  "website": null,
+  "rankingString": "#9 of 9 lodges in Khammam",
+  "rankingDenominator": "9",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "1005753",
+      "name": "Khammam",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389543",
+      "name": "Khammam District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 2,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 2,
+  "hotelClass": "0.0",
+  "amenities": [
+    "Room service",
+    "Free parking",
+    "Restaurant",
+    "Free Wifi",
+    "Laundry Service",
+    "Air conditioning",
+    "24-Hour Front Desk"
+  ],
+  "priceLevel": null,
+  "priceRange": null,
+  "roomTips": [],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "numberOfRooms": null,
+  "categoryReviewScores": [],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/d5/11/43/kinnerasani-wildlife.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Khammam,hotels"
+},
+{
+  "id": "15745134",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Specialty Lodging"
+  ],
+  "name": "Rest Inn Hotel",
+  "locationString": "Khammam, Khammam District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/1a/67/63/45/img-20191225-143950-1.jpg",
+  "photoCount": 3,
+  "rankingPosition": 1,
+  "rating": 4,
+  "rawRanking": 3.0473716259002686,
+  "phone": "+91 90902 22888",
+  "address": "Khammam Bypass Rd Near N.T.R Statue, Khammam 507002 India",
+  "addressObj": {
+    "street1": "Khammam Bypass Rd",
+    "street2": "Near N.T.R Statue",
+    "city": "Khammam",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "507002"
+  },
+  "localName": "Rest Inn Hotel",
+  "localAddress": "Khammam Bypass Rd, Near N.T.R Statue, 507002",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.259045,
+  "longitude": 80.15772,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g1005753-d15745134-Reviews-Rest_Inn_Hotel-Khammam_Khammam_District_Telangana.html",
+  "website": "https://www.facebook.com/RestINNkhammam/",
+  "rankingString": "#1 of 1 limited service property in Khammam",
+  "rankingDenominator": "1",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "1005753",
+      "name": "Khammam",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389543",
+      "name": "Khammam District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 2,
+    "count4": 1,
+    "count5": 1
+  },
+  "numberOfReviews": 4,
+  "hotelClass": "0.0",
+  "amenities": [
+    "Kids Activities",
+    "Restaurant",
+    "Laundry Service"
+  ],
+  "priceLevel": "₹",
+  "priceRange": "₹1,682 - ₹2,355",
+  "roomTips": [],
+  "isNearbyResult": false,
+  "reviewTags": [],
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "numberOfRooms": null,
+  "categoryReviewScores": [
+    {
+      "categoryName": "Rooms",
+      "score": 4
+    },
+    {
+      "categoryName": "Cleanliness",
+      "score": 4.5
+    },
+    {
+      "categoryName": "Service",
+      "score": 4.5
+    }
+  ],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/1a/67/63/45/img-20191225-143950-1.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1a/67/63/44/img-20191225-143958-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1a/67/63/43/img-20191225-144005-largejpg.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Khammam,hotels"
+},
+{
+  "id": "4815404",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Hotel"
+  ],
+  "name": "Hotel Athidi Residency",
+  "locationString": "Khammam, Khammam District, Telangana",
+  "description": "Everyone needs a place to lay their weary head. For travelers visiting Khammam, Hotel Athidi Residency is an excellent choice for rest and rejuvenation. Well-known for its budget friendly environment and proximity to great restaurants and attractions, Hotel Athidi Residency makes it easy to enjoy the best of Khammam.\nRooms at Hotel Athidi Residency offer a kitchenette and air conditioning providing exceptional comfort and convenience, and guests can go online with free wifi.\nRoom service is one of the conveniences offered at this hotel. Free breakfast will also help to make your stay even more special. If you are driving to Hotel Athidi Residency, free parking is available.\nWhen you’re feeling hungry, be sure to check out Hotel Kaveri, Haveli Restaurant, and Kaveri, which are some Indian restaurants that are popular with locals and out-of-towners alike.\nIf you are looking for something to do in the area, Dhanavayi Gudem Park (0.8 mi) is a popular attraction that is within walking distance of Hotel Athidi Residency.\nWhether you’re traveling for business, pleasure or both, Hotel Athidi Residency is sure to make your visit to Khammam one worth remembering.\n",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/09/b4/d0/a6/hotel-athidi-residency.jpg",
+  "photoCount": 1,
+  "rankingPosition": 2,
+  "rating": 4,
+  "rawRanking": 3.0637636184692383,
+  "phone": "+91 87422 24661",
+  "address": "9-3-133 Old Club Rd, Khammam 507001 India",
+  "addressObj": {
+    "street1": "9-3-133 Old Club Rd",
+    "street2": null,
+    "city": "Khammam",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "507001"
+  },
+  "localName": "Hotel Athidi Residency",
+  "localAddress": "9-3-133 Old Club Rd, 507001",
+  "localLangCode": "en-IN",
+  "email": "customercare@hoteladithi.com",
+  "latitude": 17.25081,
+  "longitude": 80.14042,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g1005753-d4815404-Reviews-Hotel_Athidi_Residency-Khammam_Khammam_District_Telangana.html",
+  "website": "http://www.hotelathidi.com",
+  "rankingString": "#2 of 5 hotels in Khammam",
+  "rankingDenominator": "5",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "1005753",
+      "name": "Khammam",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389543",
+      "name": "Khammam District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 1,
+    "count3": 1,
+    "count4": 3,
+    "count5": 4
+  },
+  "numberOfReviews": 9,
+  "hotelClass": "0.0",
+  "amenities": [
+    "Internet",
+    "Room service",
+    "Free Internet",
+    "Free parking",
+    "Wheelchair access",
+    "Kitchenette",
+    "Wifi",
+    "Free Wifi",
+    "Breakfast included",
+    "Kids Activities",
+    "Air conditioning"
+  ],
+  "priceLevel": "₹",
+  "priceRange": "₹1,009 - ₹2,523",
+  "roomTips": [
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "All rooms are fine and great",
+      "rating": "5",
+      "reviewId": "560820611",
+      "id": "560820611",
+      "createdTime": "2018-02-16T03:56:38-05:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "All the rooms are equally good.",
+      "rating": "5",
+      "reviewId": "283493379",
+      "id": "283493379",
+      "createdTime": "2015-06-27T22:15:50-04:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "overall it has nice accommodation one can feel.but,fare is little...very little.. high.but, excellent rooms and accommodate. must-have like.....",
+      "rating": "5",
+      "reviewId": "192625239",
+      "id": "192625239",
+      "createdTime": "2014-01-30T18:46:12-05:00"
+    }
+  ],
+  "isNearbyResult": false,
+  "reviewTags": [],
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "numberOfRooms": 40,
+  "categoryReviewScores": [
+    {
+      "categoryName": "Location",
+      "score": 4
+    },
+    {
+      "categoryName": "Rooms",
+      "score": 4.3
+    },
+    {
+      "categoryName": "Value",
+      "score": 4.2
+    },
+    {
+      "categoryName": "Cleanliness",
+      "score": 3.3
+    },
+    {
+      "categoryName": "Service",
+      "score": 3.4
+    },
+    {
+      "categoryName": "Sleep Quality",
+      "score": 3.3
+    }
+  ],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/09/b4/d0/a6/hotel-athidi-residency.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Khammam,hotels"
+},
+{
+  "reviewTags": [],
+  "id": "4311333",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Bed and Breakfast"
+  ],
+  "name": "Hotel Harsha Residency",
+  "locationString": "Khammam, Khammam District, Telangana",
+  "description": "Hotel Harsha has the perfect, affordable hotel room for your next trip. Offering a warm, inviting atmosphere you'll love the relaxing feel of Hotel Harsha during your next family vacation, weekend getaway or business trip. We offer exquisite dining facilities with our restaurant Red Chillies, state-of-the-art conference facilities, banquet halls and much more.",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/03/f7/e5/34/getlstd-property-photo.jpg",
+  "photoCount": 1,
+  "rankingPosition": 1,
+  "rating": 4,
+  "rawRanking": 3.055393934249878,
+  "phone": "+91 87422 34569",
+  "address": "2-2-11,12, Burma Shell Road Gandhi Chowk, Khammam 507001 India",
+  "addressObj": {
+    "street1": "2-2-11,12, Burma Shell Road",
+    "street2": "Gandhi Chowk",
+    "city": "Khammam",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "507001"
+  },
+  "localName": "Hotel Harsha Residency",
+  "localAddress": "2-2-11,12, Burma Shell Road, Gandhi Chowk, 507001",
+  "localLangCode": "en-IN",
+  "email": "hotelharsharesidency@yahoo.co.in",
+  "latitude": 17.24583,
+  "longitude": 80.13896,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g1005753-d4311333-Reviews-Hotel_Harsha_Residency-Khammam_Khammam_District_Telangana.html",
+  "website": "http://www.hotelharsharesidency.com",
+  "rankingString": "#1 of 2 small hotels in Khammam",
+  "rankingDenominator": "2",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "1005753",
+      "name": "Khammam",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389543",
+      "name": "Khammam District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 6,
+    "count4": 2,
+    "count5": 4
+  },
+  "numberOfReviews": 12,
+  "hotelClass": "0.0",
+  "amenities": [
+    "Internet",
+    "Suites",
+    "Free Internet",
+    "Free parking",
+    "Kids Activities",
+    "Room service",
+    "Restaurant",
+    "Kitchenette",
+    "Wifi",
+    "Free Wifi",
+    "Dry Cleaning",
+    "Laundry Service"
+  ],
+  "priceLevel": "₹",
+  "priceRange": "₹1,177 - ₹1,682",
+  "roomTips": [
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Room service is a bit late, so order your food a bit early than the time you plan to have it.",
+      "rating": "3",
+      "reviewId": "266964187",
+      "id": "266964187",
+      "createdTime": "2015-04-21T01:04:25-04:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Rooms on the right side are better,",
+      "rating": "3",
+      "reviewId": "182299256",
+      "id": "182299256",
+      "createdTime": "2013-10-24T20:26:41-04:00"
+    }
+  ],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "numberOfRooms": 30,
+  "categoryReviewScores": [
+    {
+      "categoryName": "Location",
+      "score": 3.1
+    },
+    {
+      "categoryName": "Rooms",
+      "score": 3.9
+    },
+    {
+      "categoryName": "Value",
+      "score": 3.9
+    },
+    {
+      "categoryName": "Cleanliness",
+      "score": 4.5
+    },
+    {
+      "categoryName": "Service",
+      "score": 3.9
+    },
+    {
+      "categoryName": "Sleep Quality",
+      "score": 4.3
+    }
+  ],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/03/f7/e5/34/getlstd-property-photo.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Khammam,hotels"
+},
+{
+  "reviewTags": [
+    {
+      "text": "small town",
+      "reviews": 3
+    },
+    {
+      "text": "a great deal",
+      "reviews": 2
+    },
+    {
+      "text": "hot water",
+      "reviews": 3
+    }
+  ],
+  "id": "7344537",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Hotel"
+  ],
+  "name": "Hotel S Park",
+  "locationString": "Khammam, Khammam District, Telangana",
+  "description": "Hotel S Park is an excellent choice for travelers visiting Khammam, offering a family-friendly environment alongside many helpful amenities designed to enhance your stay.\nThe rooms offer air conditioning, and getting online is possible, as free wifi is available, allowing you to rest and refresh with ease.\nHotel S Park features room service. In addition, as a valued Hotel S Park guest, you can enjoy an on-site restaurant that is available on-site. Guests arriving by vehicle have access to free parking.\nIf you like Indian restaurants, Hotel S Park is conveniently located near Hotel Kaveri, Haveli Restaurant, and Kaveri.\nBest of all, Hotel S Park makes it easy to experience some great Khammam attractions like Dhanavayi Gudem Park, which is a popular park.\nEnjoy your stay in Khammam!\n",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/07/1b/30/ca/hotel-s-park.jpg",
+  "photoCount": 26,
+  "rankingPosition": 1,
+  "rating": 4.5,
+  "rawRanking": 3.320995330810547,
+  "phone": "+91 87422 56999",
+  "address": "1-8-89, 90, 91, Jubilee Pura, opp Jubilee Club, near Sai Ram Theatre, Khammam 507003 India",
+  "addressObj": {
+    "street1": "1-8-89, 90, 91, Jubilee Pura, opp Jubilee Club, near Sai Ram Theatre",
+    "street2": null,
+    "city": "Khammam",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "507003"
+  },
+  "localName": "Hotel S Park",
+  "localAddress": "1-8-89, 90, 91, Jubilee Pura, opp Jubilee Club, near Sai Ram Theatre, 507003",
+  "localLangCode": "en-IN",
+  "email": "info@hotel-s-park.com",
+  "latitude": 17.251717,
+  "longitude": 80.13404,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g1005753-d7344537-Reviews-Hotel_S_Park-Khammam_Khammam_District_Telangana.html",
+  "website": "http://hotel-s-park.com/",
+  "rankingString": "#1 of 5 hotels in Khammam",
+  "rankingDenominator": "5",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "1005753",
+      "name": "Khammam",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389543",
+      "name": "Khammam District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 1,
+    "count2": 0,
+    "count3": 1,
+    "count4": 16,
+    "count5": 17
+  },
+  "numberOfReviews": 35,
+  "hotelClass": "3.5",
+  "hotelClassAttribution": "This property is classified according to Giata.",
+  "amenities": [
+    "Room service",
+    "Restaurant",
+    "Laundry Service",
+    "Air conditioning",
+    "Free Internet",
+    "Free parking",
+    "Wifi",
+    "Free Wifi",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Concierge",
+    "Banquet Room",
+    "Refrigerator in room",
+    "Conference Facilities",
+    "Non-smoking hotel",
+    "Safe",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Breakfast Available",
+    "Housekeeping",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bottled Water",
+    "Cable / Satellite TV",
+    "Car Hire",
+    "Clothes Dryer",
+    "Clothes Rack",
+    "Coffee / Tea Maker",
+    "Currency Exchange",
+    "Electric Kettle",
+    "English",
+    "Extra Long Beds",
+    "First Aid Kit",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Hindi",
+    "Ironing Service",
+    "Kid-Friendly Buffet",
+    "Newspaper",
+    "Seating Area",
+    "24-Hour Security",
+    "Shoeshine",
+    "Sofa",
+    "Soundproof Rooms",
+    "Special Diet Menus",
+    "Sun Umbrellas",
+    "Telephone",
+    "Tile / Marble Floor",
+    "Umbrella",
+    "Valet Parking",
+    "VIP Room Facilities",
+    "Wake Up Service / Alarm Clock",
+    "Wardrobe / Closet"
+  ],
+  "priceLevel": "₹",
+  "priceRange": "₹3,195 - ₹3,532",
+  "roomTips": [
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Stay in suite room for best experience",
+      "rating": "5",
+      "reviewId": "479355496",
+      "id": "479355496",
+      "createdTime": "2017-04-26T21:10:28-04:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "you dont get a great view from your window you can choose any room as all the rooms were good according to the range",
+      "rating": "5",
+      "reviewId": "273926721",
+      "id": "273926721",
+      "createdTime": "2015-05-22T22:42:02-04:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "fully loaded services",
+      "rating": "5",
+      "reviewId": "262583614",
+      "id": "262583614",
+      "createdTime": "2015-03-29T23:14:18-04:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Rooms on higher floors are quieter.",
+      "rating": "4",
+      "reviewId": "245190521",
+      "id": "245190521",
+      "createdTime": "2014-12-19T20:35:32-05:00"
+    }
+  ],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "numberOfRooms": 42,
+  "categoryReviewScores": [
+    {
+      "categoryName": "Location",
+      "score": 4.3
+    },
+    {
+      "categoryName": "Rooms",
+      "score": 4.8
+    },
+    {
+      "categoryName": "Value",
+      "score": 4.4
+    },
+    {
+      "categoryName": "Cleanliness",
+      "score": 4.6
+    },
+    {
+      "categoryName": "Service",
+      "score": 4.5
+    },
+    {
+      "categoryName": "Sleep Quality",
+      "score": 4.8
+    }
+  ],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/1b/30/e8/hotel-s-park.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/1b/30/ca/hotel-s-park.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/1b/30/fc/hotel-s-park.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/1b/30/fb/hotel-s-park.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/1b/30/f7/hotel-s-park.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/1b/30/f2/hotel-s-park.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/1b/30/ee/hotel-s-park.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/1b/30/e1/hotel-s-park.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/1b/30/dc/hotel-s-park.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/1b/30/d7/hotel-s-park.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/1b/30/d0/hotel-s-park.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/1b/30/c2/hotel-s-park.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/1b/30/31/hotel-s-park.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/18/ab/09/hotel-s-park.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/16/9c/5d/b2/superb-place-in-khammam.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/16/9c/5d/b1/superb-place-in-khammam.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/12/8d/b0/23/img-20170803-144911-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0e/5b/cf/2b/lobby.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0b/dc/d5/12/20160701-195912-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0b/dc/d5/10/20160701-195921-largejpg.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Khammam,hotels"
+},
+{
+  "id": "4023330",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Specialty Lodging"
+  ],
+  "name": "Budget Hotel",
+  "locationString": "Khammam, Khammam District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/05/50/8d/ef/budget-hotel-from-ganesh.jpg",
+  "photoCount": 5,
+  "rankingPosition": 1,
+  "rating": 3.5,
+  "rawRanking": 3.047213077545166,
+  "phone": "+91 87422 27755",
+  "address": "2-2-58, Gandhi Chowk Next To Telangana Agencies, Khammam India",
+  "addressObj": {
+    "street1": "2-2-58, Gandhi Chowk",
+    "street2": "Next To Telangana Agencies",
+    "city": "Khammam",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": null
+  },
+  "localName": "Budget Hotel",
+  "localAddress": "2-2-58, Gandhi Chowk, Next To Telangana Agencies",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.24644,
+  "longitude": 80.13842,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g1005753-d4023330-Reviews-Budget_Hotel-Khammam_Khammam_District_Telangana.html",
+  "website": null,
+  "rankingString": "#1 of 9 lodges in Khammam",
+  "rankingDenominator": "9",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "1005753",
+      "name": "Khammam",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389543",
+      "name": "Khammam District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 2,
+    "count2": 1,
+    "count3": 3,
+    "count4": 10,
+    "count5": 2
+  },
+  "numberOfReviews": 18,
+  "hotelClass": "3.0",
+  "hotelClassAttribution": "This property is classified according to Giata.",
+  "amenities": [
+    "Restaurant",
+    "Room service",
+    "Pets Allowed",
+    "Airport transportation",
+    "Free Wifi",
+    "Business center",
+    "Air conditioning",
+    "Sauna",
+    "Bicycle Rental",
+    "Currency Exchange"
+  ],
+  "priceLevel": "₹",
+  "priceRange": "₹2,102 - ₹2,523",
+  "roomTips": [
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Do not book more than 2 people per room",
+      "rating": "2",
+      "reviewId": "511681079",
+      "id": "511681079",
+      "createdTime": "2017-08-12T01:17:15-04:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "choose suite rooms which is good",
+      "rating": "4",
+      "reviewId": "424333310",
+      "id": "424333310",
+      "createdTime": "2016-10-02T04:08:48-04:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "2nd floor rooms are very good with ventilation.",
+      "rating": "4",
+      "reviewId": "267694983",
+      "id": "267694983",
+      "createdTime": "2015-04-24T05:15:08-04:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Go for left side",
+      "rating": "4",
+      "reviewId": "195683385",
+      "id": "195683385",
+      "createdTime": "2014-02-28T07:02:44-05:00"
+    }
+  ],
+  "isNearbyResult": false,
+  "reviewTags": [],
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "numberOfRooms": 27,
+  "categoryReviewScores": [
+    {
+      "categoryName": "Location",
+      "score": 4.1
+    },
+    {
+      "categoryName": "Rooms",
+      "score": 3.8
+    },
+    {
+      "categoryName": "Value",
+      "score": 3.8
+    },
+    {
+      "categoryName": "Cleanliness",
+      "score": 3.8
+    },
+    {
+      "categoryName": "Service",
+      "score": 3.7
+    },
+    {
+      "categoryName": "Sleep Quality",
+      "score": 3.7
+    }
+  ],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/05/50/8d/ef/budget-hotel-from-ganesh.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/10/3e/19/88/extra-bed-squeezed-into.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/08/fc/ae/be/budget-hotel.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/06/f3/d8/9f/budget-hotel.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/05/50/8e/1f/budget-hotel.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Khammam,hotels"
+},
+{
+  "reviewTags": [],
+  "id": "5858049",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Specialty Lodging"
+  ],
+  "name": "Hotel Lepakshi",
+  "locationString": "Khammam, Khammam District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": 2,
+  "rating": 4,
+  "rawRanking": 3.027743101119995,
+  "phone": null,
+  "address": "Mg Road National Highway 221, Khammam 507101 India",
+  "addressObj": {
+    "street1": "Mg Road",
+    "street2": "National Highway 221",
+    "city": "Khammam",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "507101"
+  },
+  "localName": "Hotel Lepakshi",
+  "localAddress": "Mg Road, National Highway 221, 507101",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.55234,
+  "longitude": 80.61617,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g1005753-d5858049-Reviews-Hotel_Lepakshi-Khammam_Khammam_District_Telangana.html",
+  "website": null,
+  "rankingString": "#2 of 9 lodges in Khammam",
+  "rankingDenominator": "9",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "1005753",
+      "name": "Khammam",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389543",
+      "name": "Khammam District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 1,
+    "count4": 2,
+    "count5": 1
+  },
+  "numberOfReviews": 4,
+  "hotelClass": "0.0",
+  "amenities": [
+    "Kids Activities"
+  ],
+  "priceLevel": null,
+  "priceRange": null,
+  "roomTips": [
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "AC twin sharing room",
+      "rating": "4",
+      "reviewId": "418703126",
+      "id": "418703126",
+      "createdTime": "2016-09-14T23:34:15-04:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Ask for the newly refurbished suites",
+      "rating": "5",
+      "reviewId": "203619041",
+      "id": "203619041",
+      "createdTime": "2014-05-01T10:40:11-04:00"
+    }
+  ],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "numberOfRooms": null,
+  "categoryReviewScores": [
+    {
+      "categoryName": "Location",
+      "score": 3
+    },
+    {
+      "categoryName": "Rooms",
+      "score": 4
+    },
+    {
+      "categoryName": "Value",
+      "score": 5
+    },
+    {
+      "categoryName": "Cleanliness",
+      "score": 3.5
+    },
+    {
+      "categoryName": "Service",
+      "score": 3.7
+    },
+    {
+      "categoryName": "Sleep Quality",
+      "score": 4
+    }
+  ],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/d5/11/43/kinnerasani-wildlife.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Khammam,hotels"
+},
+{
+  "reviewTags": [],
+  "id": "10180714",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Bed and Breakfast"
+  ],
+  "name": "Hotel Samrat",
+  "locationString": "Khammam, Khammam District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": 2,
+  "rating": 3.5,
+  "rawRanking": 3.008894920349121,
+  "phone": null,
+  "address": "Station Road, Khammam 507001 India",
+  "addressObj": {
+    "street1": "Station Road",
+    "street2": null,
+    "city": "Khammam",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "507001"
+  },
+  "localName": "Hotel Samrat",
+  "localAddress": "Station Road, 507001",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.24914,
+  "longitude": 80.14158,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g1005753-d10180714-Reviews-Hotel_Samrat-Khammam_Khammam_District_Telangana.html",
+  "website": null,
+  "rankingString": "#2 of 2 small hotels in Khammam",
+  "rankingDenominator": "2",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "1005753",
+      "name": "Khammam",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389543",
+      "name": "Khammam District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 2,
+    "count4": 1,
+    "count5": 0
+  },
+  "numberOfReviews": 3,
+  "hotelClass": "0.0",
+  "amenities": [
+    "Kids Activities",
+    "Laundry Service"
+  ],
+  "priceLevel": null,
+  "priceRange": null,
+  "roomTips": [],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "numberOfRooms": 18,
+  "categoryReviewScores": [
+    {
+      "categoryName": "Location",
+      "score": 3
+    },
+    {
+      "categoryName": "Cleanliness",
+      "score": 3
+    },
+    {
+      "categoryName": "Service",
+      "score": 3
+    }
+  ],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/d5/11/43/kinnerasani-wildlife.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Khammam,hotels"
+},
+{
+  "reviewTags": [],
+  "id": "27946575",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Bed and Breakfast"
+  ],
+  "name": "Collection O Hotel Simhadri Grand",
+  "locationString": "Khammam, Khammam District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 124 620 1464",
+  "address": "No. 1/22, Khammam - Yellandu Road Near NTR circle, Beside Bhadadri Grand, Khammam 507002 India",
+  "addressObj": {
+    "street1": "No. 1/22, Khammam - Yellandu Road",
+    "street2": "Near NTR circle, Beside Bhadadri Grand",
+    "city": "Khammam",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "507002"
+  },
+  "localName": "Collection O Hotel Simhadri Grand",
+  "localAddress": "No. 1/22, Khammam - Yellandu Road, Near NTR circle, Beside Bhadadri Grand, 507002",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.258694,
+  "longitude": 80.165085,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g1005753-d27946575-Reviews-Collection_O_Hotel_Simhadri_Grand-Khammam_Khammam_District_Telangana.html",
+  "website": null,
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "1005753",
+      "name": "Khammam",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389543",
+      "name": "Khammam District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "hotelClass": "0.0",
+  "amenities": [],
+  "priceLevel": null,
+  "priceRange": null,
+  "roomTips": [],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "numberOfRooms": null,
+  "categoryReviewScores": [],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/d5/11/43/kinnerasani-wildlife.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Khammam,hotels"
+},
+{
+  "reviewTags": [],
+  "id": "27511437",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Hotel"
+  ],
+  "name": "Oyo Hotel Arjun Residency",
+  "locationString": "Khammam, Khammam District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/2d/82/50/08/bedroom.jpg",
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 124 620 1464",
+  "address": "Mamata Medical College Rd, Khammam 507002 India",
+  "addressObj": {
+    "street1": "Mamata Medical College Rd",
+    "street2": null,
+    "city": "Khammam",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "507002"
+  },
+  "localName": "Oyo Hotel Arjun Residency",
+  "localAddress": "Mamata Medical College Rd, 507002",
+  "localLangCode": "en-IN",
+  "email": "talistings@oyorooms.com",
+  "latitude": 17.24408,
+  "longitude": 80.16367,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g1005753-d27511437-Reviews-Oyo_Hotel_Arjun_Residency-Khammam_Khammam_District_Telangana.html",
+  "website": "https://www.oyorooms.com/232997/",
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "1005753",
+      "name": "Khammam",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389543",
+      "name": "Khammam District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "hotelClass": "0.0",
+  "amenities": [],
+  "priceLevel": "₹",
+  "priceRange": "₹1,093 - ₹1,345",
+  "roomTips": [],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "numberOfRooms": 14,
+  "categoryReviewScores": [],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/2d/82/50/08/bedroom.jpg",
+    "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/2d/c8/ed/52/bedroom.jpg",
+    "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/2d/82/50/06/bedroom.jpg",
+    "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/2d/82/50/07/bedroom.jpg",
+    "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/2d/82/50/09/bedroom.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Khammam,hotels"
+},
+{
+  "reviewTags": [],
+  "id": "23836571",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Hotel"
+  ],
+  "name": "Hotel Ista Prime",
+  "locationString": "Khammam, Khammam District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/22/b6/43/d3/caption.jpg",
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": null,
+  "address": "Wyra Road Indira Nagar Colony, Khammam 507002 India",
+  "addressObj": {
+    "street1": "Wyra Road Indira Nagar Colony",
+    "street2": null,
+    "city": "Khammam",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "507002"
+  },
+  "localName": "Hotel Ista Prime",
+  "localAddress": "Wyra Road Indira Nagar Colony, 507002",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.252193,
+  "longitude": 80.16383,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g1005753-d23836571-Reviews-Hotel_Ista_Prime-Khammam_Khammam_District_Telangana.html",
+  "website": null,
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "1005753",
+      "name": "Khammam",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389543",
+      "name": "Khammam District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "hotelClass": "3.0",
+  "hotelClassAttribution": "This property is classified according to Giata.",
+  "amenities": [],
+  "priceLevel": null,
+  "priceRange": null,
+  "roomTips": [],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "numberOfRooms": null,
+  "categoryReviewScores": [],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/22/86/90/28/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/22/b6/43/d3/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/22/b6/43/d1/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/22/b6/43/cf/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/22/b3/e9/70/caption.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Khammam,hotels"
+},
+{
+  "id": "26681593",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Bed and Breakfast"
+  ],
+  "name": "OYO Flagship Hotel Sri Arunachala Grand",
+  "locationString": "Khammam, Khammam District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 124 620 1464",
+  "address": "17-303/1/A/1 Khammam Bypass Road Opposite Rrr Convention Hall, Dwaraka Nagar, Bank Colony, Khammam 507001 India",
+  "addressObj": {
+    "street1": "17-303/1/A/1 Khammam Bypass Road",
+    "street2": "Opposite Rrr Convention Hall, Dwaraka Nagar, Bank Colony",
+    "city": "Khammam",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "507001"
+  },
+  "localName": "OYO Flagship Hotel Sri Arunachala Grand",
+  "localAddress": "17-303/1/A/1 Khammam Bypass Road, Opposite Rrr Convention Hall, Dwaraka Nagar, Bank Colony, 507001",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.259556,
+  "longitude": 80.155914,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g1005753-d26681593-Reviews-OYO_Flagship_Hotel_Sri_Arunachala_Grand-Khammam_Khammam_District_Telangana.html",
+  "website": "https://www.oyorooms.com/213127/",
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "1005753",
+      "name": "Khammam",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389543",
+      "name": "Khammam District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "hotelClass": "0.0",
+  "amenities": [],
+  "priceLevel": null,
+  "priceRange": null,
+  "roomTips": [],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "numberOfRooms": null,
+  "categoryReviewScores": [],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/d5/11/43/kinnerasani-wildlife.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "reviewTags": [],
+  "input": "Telangana,Khammam,hotels"
+},
+{
+  "reviewTags": [],
+  "id": "27416578",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Bed and Breakfast"
+  ],
+  "name": "Hotel Sri Sai Residency",
+  "locationString": "Khammam, Khammam District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/2d/83/ee/ba/hotel-sri-sai-residen.jpg",
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": null,
+  "address": "ear New Busstand, H No 11-10-860/20, N.s.p.quarters, Khammam 507001 India",
+  "addressObj": {
+    "street1": "ear New Busstand, H No 11-10-860/20, N.s.p.quarters",
+    "street2": null,
+    "city": "Khammam",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "507001"
+  },
+  "localName": "Hotel Sri Sai Residency",
+  "localAddress": "ear New Busstand, H No 11-10-860/20, N.s.p.quarters, 507001",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.25922,
+  "longitude": 80.1484,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g1005753-d27416578-Reviews-Hotel_Sri_Sai_Residency-Khammam_Khammam_District_Telangana.html",
+  "website": null,
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "1005753",
+      "name": "Khammam",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389543",
+      "name": "Khammam District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "hotelClass": "0.0",
+  "amenities": [],
+  "priceLevel": "₹",
+  "priceRange": "₹2,439",
+  "roomTips": [],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "numberOfRooms": null,
+  "categoryReviewScores": [],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/2d/83/ee/ba/hotel-sri-sai-residen.jpg",
+    "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/2d/83/ee/b6/hotel-sri-sai-residen.jpg",
+    "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/2d/83/ee/b7/hotel-sri-sai-residen.jpg",
+    "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/2d/83/ee/b8/hotel-sri-sai-residen.jpg",
+    "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/2d/83/ee/b9/hotel-sri-sai-residen.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Khammam,hotels"
+},
+{
+  "id": "4023356",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Specialty Lodging"
+  ],
+  "name": "Sindhu Hotel",
+  "locationString": "Khammam, Khammam District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": 4,
+  "rating": 4,
+  "rawRanking": 3.0100696086883545,
+  "phone": "+91 87422 30200",
+  "address": "Lenin Nagar, Braman Bazar, Bhurhanpuram beside Busstand, Khammam 507001 India",
+  "addressObj": {
+    "street1": "Lenin Nagar, Braman Bazar, Bhurhanpuram",
+    "street2": "beside Busstand",
+    "city": "Khammam",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "507001"
+  },
+  "localName": "Sindhu Hotel",
+  "localAddress": "Lenin Nagar, Braman Bazar, Bhurhanpuram, beside Busstand, 507001",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.25027,
+  "longitude": 80.14269,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g1005753-d4023356-Reviews-Sindhu_Hotel-Khammam_Khammam_District_Telangana.html",
+  "website": null,
+  "rankingString": "#4 of 9 lodges in Khammam",
+  "rankingDenominator": "9",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "1005753",
+      "name": "Khammam",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389543",
+      "name": "Khammam District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 1,
+    "count5": 0
+  },
+  "numberOfReviews": 1,
+  "hotelClass": "0.0",
+  "amenities": [
+    "Kids Activities"
+  ],
+  "priceLevel": null,
+  "priceRange": null,
+  "roomTips": [],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "numberOfRooms": null,
+  "categoryReviewScores": [
+    {
+      "categoryName": "Rooms",
+      "score": 4
+    },
+    {
+      "categoryName": "Cleanliness",
+      "score": 4
+    },
+    {
+      "categoryName": "Service",
+      "score": 4
+    }
+  ],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/d5/11/43/kinnerasani-wildlife.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "reviewTags": [],
+  "input": "Telangana,Khammam,hotels"
+},
+{
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "numberOfRooms": 40,
+  "categoryReviewScores": [
+    {
+      "categoryName": "Location",
+      "score": 3.8
+    },
+    {
+      "categoryName": "Rooms",
+      "score": 3.3
+    },
+    {
+      "categoryName": "Value",
+      "score": 2.4
+    },
+    {
+      "categoryName": "Cleanliness",
+      "score": 3.8
+    },
+    {
+      "categoryName": "Service",
+      "score": 2.5
+    },
+    {
+      "categoryName": "Sleep Quality",
+      "score": 4
+    }
+  ],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/0a/24/92/9e/lobby.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0a/24/92/f3/exterior.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0a/73/dc/b3/exterior.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "rankingPosition": 4,
+  "rankingDenominator": "27",
+  "rankingString": "#4 of 27 hotels in Khammam",
+  "reviewTags": [],
+  "id": "952417",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Hotel"
+  ],
+  "name": "Vishnu Deluxe Lodge",
+  "locationString": "Khammam, Khammam District, Telangana",
+  "description": "Hotel Vishnu is a centrally located hotel in the heart of the town of Khammam. This hotel offers all the essential facilities which cater to the varied needs of the guests. Warm hospitality, attentive service, free wifi, 24x7 power backup, central AC are some of its additional merits apart from well-equipped rooms.",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0a/24/92/f3/exterior.jpg",
+  "photoCount": 3,
+  "rating": 3,
+  "rawRanking": 2.999255895614624,
+  "phone": "+91 87422 52281",
+  "address": "H. No. 11-1-4, Bus Depot Road Mayuri Center, Balaji Nagar, Khammam 507001 India",
+  "addressObj": {
+    "street1": "H. No. 11-1-4, Bus Depot Road",
+    "street2": "Mayuri Center, Balaji Nagar",
+    "city": "Khammam",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "507001"
+  },
+  "localName": "Vishnu Deluxe Lodge",
+  "localAddress": "H. No. 11-1-4, Bus Depot Road, Mayuri Center, Balaji Nagar, 507001",
+  "localLangCode": "en-IN",
+  "email": "hotelvishnukmm@gmail.com",
+  "latitude": 17.252497,
+  "longitude": 80.141205,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g1005753-d952417-Reviews-Vishnu_Deluxe_Lodge-Khammam_Khammam_District_Telangana.html",
+  "website": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "1005753",
+      "name": "Khammam",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389543",
+      "name": "Khammam District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 2,
+    "count2": 1,
+    "count3": 1,
+    "count4": 7,
+    "count5": 0
+  },
+  "numberOfReviews": 11,
+  "hotelClass": "3.0",
+  "hotelClassAttribution": "This property is classified according to Giata.",
+  "amenities": [
+    "Suites",
+    "Free parking",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Banquet Room",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Conference Facilities",
+    "Kids Activities",
+    "Room service",
+    "Restaurant",
+    "Meeting rooms",
+    "Air conditioning",
+    "Non-smoking hotel"
+  ],
+  "priceLevel": "₹₹",
+  "priceRange": "₹10,343 - ₹11,100",
+  "roomTips": [
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Rooms in the back of the hotel away from main road are quieter",
+      "rating": "4",
+      "reviewId": "355949184",
+      "id": "355949184",
+      "createdTime": "2016-03-16T01:23:44-04:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Rooms are good on first floor onwards. Try for the backside to avoid traffic noise.",
+      "rating": "4",
+      "reviewId": "142556628",
+      "id": "142556628",
+      "createdTime": "2012-10-11T06:34:47-04:00"
+    }
+  ],
+  "isNearbyResult": false,
+  "input": "Telangana,Khammam,hotels"
+},
+{
+  "reviewTags": [],
+  "id": "4023386",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Specialty Lodging"
+  ],
+  "name": "Swaroopa Hotel",
+  "locationString": "Khammam, Khammam District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 91771 91289",
+  "address": "8-66/1, Wyra Main Road Near Laqshya Engineering College, Khammam India",
+  "addressObj": {
+    "street1": "8-66/1, Wyra Main Road",
+    "street2": "Near Laqshya Engineering College",
+    "city": "Khammam",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": null
+  },
+  "localName": "Swaroopa Hotel",
+  "localAddress": "8-66/1, Wyra Main Road, Near Laqshya Engineering College",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": null,
+  "longitude": null,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g1005753-d4023386-Reviews-Swaroopa_Hotel-Khammam_Khammam_District_Telangana.html",
+  "website": null,
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "1005753",
+      "name": "Khammam",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389543",
+      "name": "Khammam District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "hotelClass": "0.0",
+  "amenities": [],
+  "priceLevel": null,
+  "priceRange": null,
+  "roomTips": [],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "numberOfRooms": null,
+  "categoryReviewScores": [],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/d5/11/43/kinnerasani-wildlife.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Khammam,hotels"
+},
+{
+  "id": "4025496",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Specialty Lodging"
+  ],
+  "name": "Asma Hotel",
+  "locationString": "Khammam, Khammam District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 92485 83886",
+  "address": "Main Rood Sarapaka Manuguru, Khammam India",
+  "addressObj": {
+    "street1": "Main Rood Sarapaka",
+    "street2": "Manuguru",
+    "city": "Khammam",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": null
+  },
+  "localName": "Asma Hotel",
+  "localAddress": "Main Rood Sarapaka, Manuguru",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": null,
+  "longitude": null,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g1005753-d4025496-Reviews-Asma_Hotel-Khammam_Khammam_District_Telangana.html",
+  "website": null,
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "1005753",
+      "name": "Khammam",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389543",
+      "name": "Khammam District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "hotelClass": "0.0",
+  "amenities": [],
+  "priceLevel": null,
+  "priceRange": null,
+  "roomTips": [],
+  "isNearbyResult": false,
+  "reviewTags": [],
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "numberOfRooms": null,
+  "categoryReviewScores": [],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/d5/11/43/kinnerasani-wildlife.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Khammam,hotels"
+},
+{
+  "id": "4025498",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Specialty Lodging"
+  ],
+  "name": "Hotel Sri SAI Ganesh",
+  "locationString": "Khammam, Khammam District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 99518 64471",
+  "address": "Main Road Manuguru, Khammam India",
+  "addressObj": {
+    "street1": "Main Road",
+    "street2": "Manuguru",
+    "city": "Khammam",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": null
+  },
+  "localName": "Hotel Sri SAI Ganesh",
+  "localAddress": "Main Road, Manuguru",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": null,
+  "longitude": null,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g1005753-d4025498-Reviews-Hotel_Sri_SAI_Ganesh-Khammam_Khammam_District_Telangana.html",
+  "website": null,
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "1005753",
+      "name": "Khammam",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389543",
+      "name": "Khammam District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "hotelClass": "0.0",
+  "amenities": [],
+  "priceLevel": null,
+  "priceRange": null,
+  "roomTips": [],
+  "isNearbyResult": false,
+  "reviewTags": [],
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "numberOfRooms": null,
+  "categoryReviewScores": [],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/d5/11/43/kinnerasani-wildlife.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Khammam,hotels"
+},
+{
+  "reviewTags": [],
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "numberOfRooms": null,
+  "categoryReviewScores": [],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/d5/11/43/kinnerasani-wildlife.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "id": "4025500",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Specialty Lodging"
+  ],
+  "name": "Ganesh SAI Hotel",
+  "locationString": "Khammam, Khammam District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 95530 81952",
+  "address": "Bandari Gudem Near Tdp Center, Manuguru, Khammam India",
+  "addressObj": {
+    "street1": "Bandari Gudem",
+    "street2": "Near Tdp Center, Manuguru",
+    "city": "Khammam",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": null
+  },
+  "localName": "Ganesh SAI Hotel",
+  "localAddress": "Bandari Gudem, Near Tdp Center, Manuguru",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": null,
+  "longitude": null,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g1005753-d4025500-Reviews-Ganesh_SAI_Hotel-Khammam_Khammam_District_Telangana.html",
+  "website": null,
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "1005753",
+      "name": "Khammam",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389543",
+      "name": "Khammam District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "hotelClass": "0.0",
+  "amenities": [],
+  "priceLevel": null,
+  "priceRange": null,
+  "roomTips": [],
+  "isNearbyResult": false,
+  "input": "Telangana,Khammam,hotels"
+},
+{
+  "reviewTags": [],
+  "id": "4023421",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Specialty Lodging"
+  ],
+  "name": "Hotel Kasmo",
+  "locationString": "Khammam, Khammam District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 98481 36110",
+  "address": "MG Road Kothagudem, Khammam India",
+  "addressObj": {
+    "street1": "MG Road",
+    "street2": "Kothagudem",
+    "city": "Khammam",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": null
+  },
+  "localName": "Hotel Kasmo",
+  "localAddress": "MG Road, Kothagudem",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.544,
+  "longitude": 80.63834,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g1005753-d4023421-Reviews-Hotel_Kasmo-Khammam_Khammam_District_Telangana.html",
+  "website": null,
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "1005753",
+      "name": "Khammam",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389543",
+      "name": "Khammam District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "hotelClass": "0.0",
+  "amenities": [],
+  "priceLevel": null,
+  "priceRange": null,
+  "roomTips": [],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "numberOfRooms": null,
+  "categoryReviewScores": [],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/d5/11/43/kinnerasani-wildlife.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Khammam,hotels"
+},
+{
+  "reviewTags": [],
+  "id": "4023354",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Specialty Lodging"
+  ],
+  "name": "Venus International Hotel",
+  "locationString": "Khammam, Khammam District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 87422 27780",
+  "address": "9-1-74/1 Station Road, Khammam India",
+  "addressObj": {
+    "street1": "9-1-74/1",
+    "street2": "Station Road",
+    "city": "Khammam",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": null
+  },
+  "localName": "Venus International Hotel",
+  "localAddress": "9-1-74/1, Station Road",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.24914,
+  "longitude": 80.14158,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g1005753-d4023354-Reviews-Venus_International_Hotel-Khammam_Khammam_District_Telangana.html",
+  "website": null,
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "1005753",
+      "name": "Khammam",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389543",
+      "name": "Khammam District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "hotelClass": "0.0",
+  "amenities": [
+    "Restaurant"
+  ],
+  "priceLevel": null,
+  "priceRange": null,
+  "roomTips": [],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "numberOfRooms": null,
+  "categoryReviewScores": [],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/d5/11/43/kinnerasani-wildlife.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Khammam,hotels"
+},
+{
+  "reviewTags": [],
+  "id": "19914996",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Hotel"
+  ],
+  "name": "Palette - S Park Hotel",
+  "locationString": "Khammam, Khammam District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": null,
+  "address": "1 - 8 - 89 90 91 Jubilee Pura Suryapeta Khammam Rd, Opp. Jubilee Club, Moti Nagar, Khammam 507003 India",
+  "addressObj": {
+    "street1": "1 - 8 - 89 90 91 Jubilee Pura Suryapeta",
+    "street2": "Khammam Rd, Opp. Jubilee Club, Moti Nagar",
+    "city": "Khammam",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "507003"
+  },
+  "localName": "Palette - S Park Hotel",
+  "localAddress": "1 - 8 - 89 90 91 Jubilee Pura Suryapeta, Khammam Rd, Opp. Jubilee Club, Moti Nagar, 507003",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.251968,
+  "longitude": 80.134,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g1005753-d19914996-Reviews-Palette_S_Park_Hotel-Khammam_Khammam_District_Telangana.html",
+  "website": null,
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "1005753",
+      "name": "Khammam",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389543",
+      "name": "Khammam District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "hotelClass": "0.0",
+  "amenities": [],
+  "priceLevel": "₹",
+  "priceRange": "₹3,448",
+  "roomTips": [],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "numberOfRooms": null,
+  "categoryReviewScores": [],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/d5/11/43/kinnerasani-wildlife.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Khammam,hotels"
+}]

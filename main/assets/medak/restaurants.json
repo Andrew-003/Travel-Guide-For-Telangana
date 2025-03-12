@@ -1,0 +1,1374 @@
+[{
+  "reviewTags": [],
+  "id": "27568689",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [],
+  "name": "Pizza Hut",
+  "locationString": "Medak, Medak District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 1800 202 2022",
+  "address": "Shop No B/1, Sy No 21, 229 To 232, Gr Flr, Ramachandrapuram, Ashok Nagar, Medak 502302 India",
+  "addressObj": {
+    "street1": "Shop No B/1, Sy No 21, 229 To 232, Gr Flr, Ramachandrapuram, Ashok Nagar",
+    "street2": null,
+    "city": "Medak",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "502302"
+  },
+  "localName": "Pizza Hut",
+  "localAddress": "Shop No B/1, Sy No 21, 229 To 232, Gr Flr, Ramachandrapuram, Ashok Nagar, 502302",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.501844,
+  "longitude": 78.31153,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g2285320-d27568689-Reviews-Pizza_Hut-Medak_Medak_District_Telangana.html",
+  "website": "https://restaurants.pizzahut.co.in/pizza-hut-ph-ashok-nagar-hyd-pizza-restaurant-ashok-nagar-medak-136182/home?utm_source=locator&utm_medium=bing",
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2285320",
+      "name": "Medak",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389567",
+      "name": "Medak District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": null,
+  "priceLevel": null,
+  "dishes": [],
+  "hours": null,
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": true,
+  "priceRange": null,
+  "photos": [],
+  "travelerChoiceAward": null,
+  "cuisines": [
+    "Pizza"
+  ],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Medak District,restaurants"
+},
+{
+  "reviewTags": [],
+  "id": "27651200",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [],
+  "name": "Sri Hamsa Restaurant",
+  "locationString": "Medak, Medak District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 84648 41342",
+  "address": "Ramanthapur, Medak 502220 India",
+  "addressObj": {
+    "street1": "Ramanthapur",
+    "street2": null,
+    "city": "Medak",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "502220"
+  },
+  "localName": "Sri Hamsa Restaurant",
+  "localAddress": "Ramanthapur, 502220",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 18.322586,
+  "longitude": 78.33317,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g2285320-d27651200-Reviews-Sri_Hamsa_Restaurant-Medak_Medak_District_Telangana.html",
+  "website": null,
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2285320",
+      "name": "Medak",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389567",
+      "name": "Medak District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": null,
+  "priceLevel": null,
+  "dishes": [],
+  "hours": null,
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": true,
+  "priceRange": null,
+  "photos": [],
+  "travelerChoiceAward": null,
+  "cuisines": [
+    "Indian"
+  ],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Medak District,restaurants"
+},
+{
+  "id": "27651173",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [],
+  "name": "Dum Tea",
+  "locationString": "Medak, Medak District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 91606 05326",
+  "address": "Shop No. R/o H No.  8-57, Shankarpalli  Road Kandi Medak, Medak 502285 India",
+  "addressObj": {
+    "street1": "Shop No. R/o H No.  8-57, Shankarpalli  Road Kandi Medak",
+    "street2": null,
+    "city": "Medak",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "502285"
+  },
+  "localName": "Dum Tea",
+  "localAddress": "Shop No. R/o H No.  8-57, Shankarpalli  Road Kandi Medak, 502285",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 18.045992,
+  "longitude": 78.26557,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g2285320-d27651173-Reviews-Dum_Tea-Medak_Medak_District_Telangana.html",
+  "website": null,
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2285320",
+      "name": "Medak",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389567",
+      "name": "Medak District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": null,
+  "priceLevel": null,
+  "dishes": [],
+  "hours": null,
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": true,
+  "reviewTags": [],
+  "priceRange": null,
+  "photos": [],
+  "travelerChoiceAward": null,
+  "cuisines": [],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Medak District,restaurants"
+},
+{
+  "reviewTags": [],
+  "id": "27651155",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [],
+  "name": "Sony International Family Restaurant",
+  "locationString": "Medak, Medak District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 99635 53999",
+  "address": "Masaipet Village, Medak District, Telangana, Medak 502255 India",
+  "addressObj": {
+    "street1": "Masaipet Village, Medak District, Telangana",
+    "street2": null,
+    "city": "Medak",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "502255"
+  },
+  "localName": "Sony International Family Restaurant",
+  "localAddress": "Masaipet Village, Medak District, Telangana, 502255",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.925898,
+  "longitude": 78.45843,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g2285320-d27651155-Reviews-Sony_International_Family_Restaurant-Medak_Medak_District_Telangana.html",
+  "website": null,
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2285320",
+      "name": "Medak",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389567",
+      "name": "Medak District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": null,
+  "priceLevel": null,
+  "dishes": [],
+  "hours": null,
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": true,
+  "priceRange": null,
+  "photos": [],
+  "travelerChoiceAward": null,
+  "cuisines": [],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Medak District,restaurants"
+},
+{
+  "reviewTags": [],
+  "id": "15214743",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [
+    "Sit down"
+  ],
+  "name": "Frescos Pizza",
+  "locationString": "Rudraram, Medak District, Telangana",
+  "description": "Frescos Pizza in Rudraram is amongst the top picks of the locals to satiate cravings for mouth-watering pizzas. This restaurant specializes in serving a range of wood fired pizzas made with the goodness of hand-picked toppings. The locals have developed a liking for its pocket-friendly and mouth-watering pizzas. The pizzas are generously sprinkled with a variety of toppings.",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-w/15/1e/cb/f7/authentic-italian-wood.jpg",
+  "photoCount": 6,
+  "rankingPosition": 1,
+  "rating": 4.5,
+  "rawRanking": 3.062224864959717,
+  "phone": "+91 81798 79879",
+  "address": "Maa Drivin9, Rudraram 502329 India",
+  "addressObj": {
+    "street1": "Maa Drivin9",
+    "street2": null,
+    "city": "Rudraram",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "502329"
+  },
+  "localName": "Frescos Pizza",
+  "localAddress": "Maa Drivin9, 502329",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.568703,
+  "longitude": 78.15938,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g19186883-d15214743-Reviews-Frescos_Pizza-Rudraram_Medak_District_Telangana.html",
+  "website": "http://www.frescospizza.com",
+  "rankingString": "#1 of 1 Restaurant in Rudraram",
+  "rankingDenominator": "1",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "19186883",
+      "name": "Rudraram",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389567",
+      "name": "Medak District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 2,
+    "count5": 2
+  },
+  "numberOfReviews": 4,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": "Open Now",
+  "priceLevel": "$$ - $$$",
+  "dishes": [],
+  "hours": {
+    "weekRanges": [
+      [
+        {
+          "open": 660,
+          "openHours": "11:00",
+          "close": 1350,
+          "closeHours": "22:30"
+        }
+      ],
+      [
+        {
+          "open": 660,
+          "openHours": "11:00",
+          "close": 1320,
+          "closeHours": "22:00"
+        }
+      ],
+      [
+        {
+          "open": 660,
+          "openHours": "11:00",
+          "close": 1320,
+          "closeHours": "22:00"
+        }
+      ],
+      [
+        {
+          "open": 660,
+          "openHours": "11:00",
+          "close": 1320,
+          "closeHours": "22:00"
+        }
+      ],
+      [
+        {
+          "open": 660,
+          "openHours": "11:00",
+          "close": 1320,
+          "closeHours": "22:00"
+        }
+      ],
+      [
+        {
+          "open": 660,
+          "openHours": "11:00",
+          "close": 1320,
+          "closeHours": "22:00"
+        }
+      ],
+      [
+        {
+          "open": 660,
+          "openHours": "11:00",
+          "close": 1350,
+          "closeHours": "22:30"
+        }
+      ]
+    ],
+    "timezone": "Asia/Kolkata"
+  },
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": true,
+  "priceRange": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/14/fa/07/35/getlstd-property-photo.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/15/1b/dd/2c/beautiful-restuaurant.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/15/1e/cb/f7/authentic-italian-wood.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/15/30/ac/c1/out-door-dinning.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/15/1e/cb/00/right-place-for-outing.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/15/1e/ca/a5/lovely-ambience.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "cuisines": [
+    "Italian",
+    "Pizza",
+    "Fast Food"
+  ],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [
+    "Lunch",
+    "Dinner"
+  ],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Medak District,restaurants"
+},
+{
+  "reviewTags": [],
+  "id": "27651264",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [],
+  "name": "Kfc",
+  "locationString": "Medak, Medak District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 79893 25931",
+  "address": "S/4, Food Court & Filling Station, Gajwel Mandal, Rimmanaguda, Medak 502312 India",
+  "addressObj": {
+    "street1": "S/4, Food Court & Filling Station, Gajwel Mandal, Rimmanaguda",
+    "street2": null,
+    "city": "Medak",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "502312"
+  },
+  "localName": "Kfc",
+  "localAddress": "S/4, Food Court & Filling Station, Gajwel Mandal, Rimmanaguda, 502312",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 18.677193,
+  "longitude": 78.10365,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g2285320-d27651264-Reviews-Kfc-Medak_Medak_District_Telangana.html",
+  "website": "https://restaurants.kfc.co.in/kfc-kfc-karimnagar-highway-restaurants-rimmanaguda-medak-171229/home?utm_source=locator&utm_medium=bing",
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2285320",
+      "name": "Medak",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389567",
+      "name": "Medak District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": null,
+  "priceLevel": null,
+  "dishes": [],
+  "hours": null,
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": true,
+  "priceRange": null,
+  "photos": [],
+  "travelerChoiceAward": null,
+  "cuisines": [],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Medak District,restaurants"
+},
+{
+  "reviewTags": [],
+  "id": "13433942",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [],
+  "name": "Hotel Vindhu Vihar Family Restaurant",
+  "locationString": "Medak, Medak District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": 1,
+  "rating": 4.5,
+  "rawRanking": 3.038501739501953,
+  "phone": "+91 91000 71605",
+  "address": "Khandi, opposite Sangareddy Rock Church beside the National Highway 65,, Medak 502285 India",
+  "addressObj": {
+    "street1": "Khandi, opposite Sangareddy Rock Church",
+    "street2": "beside the National Highway 65,",
+    "city": "Medak",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "502285"
+  },
+  "localName": "Hotel Vindhu Vihar Family Restaurant",
+  "localAddress": "Khandi, opposite Sangareddy Rock Church, beside the National Highway 65,, 502285",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": null,
+  "longitude": null,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g2285320-d13433942-Reviews-Hotel_Vindhu_Vihar_Family_Restaurant-Medak_Medak_District_Telangana.html",
+  "website": null,
+  "rankingString": "#1 of 8 Restaurants in Medak",
+  "rankingDenominator": "8",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2285320",
+      "name": "Medak",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389567",
+      "name": "Medak District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 2,
+    "count5": 1
+  },
+  "numberOfReviews": 3,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": "Open Now",
+  "priceLevel": null,
+  "dishes": [],
+  "hours": {
+    "weekRanges": [
+      [
+        {
+          "open": 420,
+          "openHours": "07:00",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ],
+      [
+        {
+          "open": 420,
+          "openHours": "07:00",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ],
+      [
+        {
+          "open": 420,
+          "openHours": "07:00",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ],
+      [
+        {
+          "open": 420,
+          "openHours": "07:00",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ],
+      [
+        {
+          "open": 420,
+          "openHours": "07:00",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ],
+      [
+        {
+          "open": 420,
+          "openHours": "07:00",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ],
+      [
+        {
+          "open": 420,
+          "openHours": "07:00",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ]
+    ],
+    "timezone": "Asia/Kolkata"
+  },
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": true,
+  "priceRange": null,
+  "photos": [],
+  "travelerChoiceAward": null,
+  "cuisines": [
+    "Indian"
+  ],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [
+    "Breakfast",
+    "Lunch",
+    "Dinner"
+  ],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Medak District,restaurants"
+},
+{
+  "reviewTags": [],
+  "id": "11739260",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [],
+  "name": "Swagath Restaurant",
+  "locationString": "Medak, Medak District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": 2,
+  "rating": 3,
+  "rawRanking": 3.005270481109619,
+  "phone": "+91 94411 25383",
+  "address": "CSI Complex, Medak India",
+  "addressObj": {
+    "street1": "CSI Complex",
+    "street2": null,
+    "city": "Medak",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": null
+  },
+  "localName": "Swagath Restaurant",
+  "localAddress": "CSI Complex",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 18.051937,
+  "longitude": 78.26946,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g2285320-d11739260-Reviews-Swagath_Restaurant-Medak_Medak_District_Telangana.html",
+  "website": "http://www.facebook.com/swagathmedak",
+  "rankingString": "#2 of 8 Restaurants in Medak",
+  "rankingDenominator": "8",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2285320",
+      "name": "Medak",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389567",
+      "name": "Medak District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 1,
+    "count2": 0,
+    "count3": 2,
+    "count4": 0,
+    "count5": 1
+  },
+  "numberOfReviews": 4,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": null,
+  "priceLevel": null,
+  "dishes": [],
+  "hours": null,
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": true,
+  "priceRange": null,
+  "photos": [],
+  "travelerChoiceAward": null,
+  "cuisines": [
+    "Indian"
+  ],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Medak District,restaurants"
+},
+{
+  "reviewTags": [],
+  "priceRange": null,
+  "photos": [],
+  "travelerChoiceAward": null,
+  "cuisines": [],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "id": "27651041",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [],
+  "name": "Sangareedy",
+  "locationString": "Zaheerabad, Medak District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+916302713430",
+  "address": "Zaheerabad, Zaheerabad 502220 India",
+  "addressObj": {
+    "street1": "Zaheerabad ",
+    "street2": null,
+    "city": "Zaheerabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "502220"
+  },
+  "localName": "Sangareedy",
+  "localAddress": "Zaheerabad, 502220",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.68068,
+  "longitude": 77.61165,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g12461499-d27651041-Reviews-Sangareedy-Zaheerabad_Medak_District_Telangana.html",
+  "website": "http://delivery.com/",
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "12461499",
+      "name": "Zaheerabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389567",
+      "name": "Medak District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": null,
+  "priceLevel": null,
+  "dishes": [],
+  "hours": null,
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": true,
+  "input": "Telangana,Medak District,restaurants"
+},
+{
+  "id": "27651038",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [],
+  "name": "Zee Dhaba",
+  "locationString": "Zaheerabad, Medak District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 86887 12545",
+  "address": "Andhra Pradesh, Zaheerabad 502220 India",
+  "addressObj": {
+    "street1": "Andhra Pradesh",
+    "street2": null,
+    "city": "Zaheerabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "502220"
+  },
+  "localName": "Zee Dhaba",
+  "localAddress": "Andhra Pradesh, 502220",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.685474,
+  "longitude": 77.58874,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g12461499-d27651038-Reviews-Zee_Dhaba-Zaheerabad_Medak_District_Telangana.html",
+  "website": null,
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "12461499",
+      "name": "Zaheerabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389567",
+      "name": "Medak District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": null,
+  "priceLevel": null,
+  "dishes": [],
+  "hours": null,
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": true,
+  "reviewTags": [],
+  "priceRange": null,
+  "photos": [],
+  "travelerChoiceAward": null,
+  "cuisines": [
+    "Indian"
+  ],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Medak District,restaurants"
+},
+{
+  "id": "27651176",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [],
+  "name": "Wesiy Ground",
+  "locationString": "Medak, Medak District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": null,
+  "address": "Wesly College Road, Medak 502110 India",
+  "addressObj": {
+    "street1": "Wesly College Road",
+    "street2": null,
+    "city": "Medak",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "502110"
+  },
+  "localName": "Wesiy Ground",
+  "localAddress": "Wesly College Road, 502110",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 18.054523,
+  "longitude": 78.26692,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g2285320-d27651176-Reviews-Wesiy_Ground-Medak_Medak_District_Telangana.html",
+  "website": null,
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2285320",
+      "name": "Medak",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389567",
+      "name": "Medak District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": null,
+  "priceLevel": null,
+  "dishes": [],
+  "hours": null,
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": true,
+  "reviewTags": [],
+  "priceRange": null,
+  "photos": [],
+  "travelerChoiceAward": null,
+  "cuisines": [],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Medak District,restaurants"
+},
+{
+  "id": "27651040",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [],
+  "name": "Tulja Bhavani Netcafe",
+  "locationString": "Zaheerabad, Medak District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 96401 07059",
+  "address": "Governament Degree Collage, Zaheerabad 502220 India",
+  "addressObj": {
+    "street1": "Governament Degree Collage",
+    "street2": null,
+    "city": "Zaheerabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "502220"
+  },
+  "localName": "Tulja Bhavani Netcafe",
+  "localAddress": "Governament Degree Collage, 502220",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.68061,
+  "longitude": 77.61166,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g12461499-d27651040-Reviews-Tulja_Bhavani_Netcafe-Zaheerabad_Medak_District_Telangana.html",
+  "website": "http://tbnc.com",
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "12461499",
+      "name": "Zaheerabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389567",
+      "name": "Medak District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": null,
+  "priceLevel": null,
+  "dishes": [],
+  "hours": null,
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": true,
+  "reviewTags": [],
+  "priceRange": null,
+  "photos": [],
+  "travelerChoiceAward": null,
+  "cuisines": [],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Medak District,restaurants"
+},
+{
+  "reviewTags": [],
+  "id": "27651044",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [],
+  "name": "Highway Pakwaan",
+  "locationString": "Zaheerabad, Medak District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 99082 83939",
+  "address": "Nh9 Mumbai Highway, Zaheerabad 502321 India",
+  "addressObj": {
+    "street1": "Nh9 Mumbai Highway",
+    "street2": null,
+    "city": "Zaheerabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "502321"
+  },
+  "localName": "Highway Pakwaan",
+  "localAddress": "Nh9 Mumbai Highway, 502321",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.68,
+  "longitude": 77.62,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g12461499-d27651044-Reviews-Highway_Pakwaan-Zaheerabad_Medak_District_Telangana.html",
+  "website": "http://www.highwaypawkaan.com",
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "12461499",
+      "name": "Zaheerabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389567",
+      "name": "Medak District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": null,
+  "priceLevel": null,
+  "dishes": [],
+  "hours": null,
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": true,
+  "priceRange": null,
+  "photos": [],
+  "travelerChoiceAward": null,
+  "cuisines": [
+    "Indian"
+  ],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Medak District,restaurants"
+}]

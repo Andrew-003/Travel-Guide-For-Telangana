@@ -1,0 +1,2787 @@
+[{
+  "searchString": "hotels",
+  "rank": 21,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@18.146930749896114,79.40433137714626,15z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "Anu Biryani point",
+  "subTitle": "అను బిర్యాని పాయింట్",
+  "description": null,
+  "price": null,
+  "categoryName": "Hotel",
+  "address": "Jeelugula, HDFC bank, back, Warangal, Jilugula, Telangana 505498, India",
+  "neighborhood": "back",
+  "street": "Jeelugula, HDFC bank",
+  "city": "Warangal, Jilugula",
+  "postalCode": "505498",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": null,
+  "phoneUnformatted": null,
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 18.1386533,
+    "lng": 79.4047038
+  },
+  "locatedIn": null,
+  "plusCode": "4CQ3+FV Jilugula, Telangana, India",
+  "menu": null,
+  "totalScore": null,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJH2FwRiA1MzoRiSYY5JDVbDY",
+  "categories": [
+    "Hotel"
+  ],
+  "fid": "0x3a3335204670611f:0x366cd590e4182689",
+  "cid": "3921744193811654281",
+  "reviewsCount": 0,
+  "reviewsDistribution": null,
+  "imagesCount": 4,
+  "imageCategories": [
+    "All",
+    "Exterior",
+    "By owner",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T08:36:20.470Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Up And Up Biryani Point",
+      "reviewsCount": 10,
+      "totalScore": 4.6
+    },
+    {
+      "category": "People also search for",
+      "title": "Orugallu biryani point",
+      "reviewsCount": 78,
+      "totalScore": 4.2
+    },
+    {
+      "category": "People also search for",
+      "title": "Anil Biryani Point",
+      "reviewsCount": 1,
+      "totalScore": 5
+    }
+  ],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {},
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=Anu%20Biryani%20point&query_place_id=ChIJH2FwRiA1MzoRiSYY5JDVbDY",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNYBdlqEBL2P1vn2hTEZTcZqub4gEpIE_fb0VFI=w408-h306-k-no",
+  "kgmid": "/g/11vb944yck",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNYBdlqEBL2P1vn2hTEZTcZqub4gEpIE_fb0VFI=w1920-h1080-k-no",
+      "authorName": "Anu Biryani point",
+      "authorUrl": "https://maps.google.com/maps/contrib/118257073618446567443",
+      "uploadedAt": "2023-09-13T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipNYBdlqEBL2P1vn2hTEZTcZqub4gEpIE_fb0VFI=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 1,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@18.016385492871976,79.30150774750598,15z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "Haritha Hotel",
+  "subTitle": "హరిత హోటల్",
+  "description": null,
+  "price": null,
+  "categoryName": "Hotel",
+  "address": "28Q9+J8P, Unnamed Rd, Kothakonda, Telangana 505471, India",
+  "neighborhood": null,
+  "street": "28Q9+J8P, Unnamed Rd",
+  "city": "Kothakonda",
+  "postalCode": "505471",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": null,
+  "phoneUnformatted": null,
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 18.0390794,
+    "lng": 79.3183189
+  },
+  "locatedIn": null,
+  "plusCode": null,
+  "menu": null,
+  "totalScore": 4.2,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJK3_uTnS0zDsRPyEe0Aj5rjg",
+  "categories": [
+    "Hotel"
+  ],
+  "fid": "0x3bccb4744eee7f2b:0x38aef908d01e213f",
+  "cid": "4084475728318308671",
+  "reviewsCount": 105,
+  "reviewsDistribution": {
+    "oneStar": 4,
+    "twoStar": 7,
+    "threeStar": 10,
+    "fourStar": 27,
+    "fiveStar": 57
+  },
+  "imagesCount": 52,
+  "imageCategories": [
+    "All",
+    "Rooms",
+    "Videos",
+    "Exterior",
+    "Food & drink",
+    "From visitors",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T08:36:20.667Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": "2024-11-04",
+  "checkOutDate": "2024-11-05",
+  "similarHotelsNearby": [
+    {
+      "name": "Village Stay Hotels & Resorts",
+      "rating": 4.8,
+      "reviews": 413,
+      "description": "Higher guest rating",
+      "price": null
+    }
+  ],
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [
+    {
+      "title": "AC",
+      "count": 2
+    },
+    {
+      "title": "village",
+      "count": 2
+    }
+  ],
+  "additionalInfo": {},
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=Haritha%20Hotel&query_place_id=ChIJK3_uTnS0zDsRPyEe0Aj5rjg",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPJynmYQgXWsqQoA5BiRRg_AvB5Qf-WNkFjHGQ=w520-h240-k-no",
+  "kgmid": "/g/11cmtsgw3n",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPJynmYQgXWsqQoA5BiRRg_AvB5Qf-WNkFjHGQ=w1920-h1080-k-no",
+      "authorName": "Dear Venu Gopal",
+      "authorUrl": "https://maps.google.com/maps/contrib/100588091795162940709",
+      "uploadedAt": "2021-02-07T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipPJynmYQgXWsqQoA5BiRRg_AvB5Qf-WNkFjHGQ=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 1,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@18.146930749896114,79.40433137714626,15z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "Village Stay Hotels & Resorts",
+  "subTitle": "విలేజ్ స్టే హోటల్స్ & రిసార్ట్స్",
+  "description": null,
+  "price": null,
+  "categoryName": "Resort hotel",
+  "address": "Survey No 572, Vangara Village, Bheemadevarapally, Vangara, Telangana 505497, India",
+  "neighborhood": null,
+  "street": "Survey No 572, Vangara Village, Bheemadevarapally",
+  "city": "Vangara",
+  "postalCode": "505497",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": "+91 99635 11066",
+  "phoneUnformatted": "+919963511066",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 18.1093907,
+    "lng": 79.3307905
+  },
+  "locatedIn": null,
+  "plusCode": "485J+Q8 Vangara, Telangana, India",
+  "menu": null,
+  "totalScore": 4.8,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ59YYIfS1zDsRzeb64gye8Ts",
+  "categories": [
+    "Resort hotel"
+  ],
+  "fid": "0x3bccb5f42118d6e7:0x3bf19e0ce2fae6cd",
+  "cid": "4319407295809906381",
+  "reviewsCount": 413,
+  "reviewsDistribution": {
+    "oneStar": 7,
+    "twoStar": 3,
+    "threeStar": 7,
+    "fourStar": 19,
+    "fiveStar": 377
+  },
+  "imagesCount": 442,
+  "imageCategories": [
+    "All",
+    "Rooms",
+    "Videos",
+    "Exterior",
+    "Food & drink",
+    "From visitors",
+    "By owner",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T08:36:26.575Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": "2024-11-04",
+  "checkOutDate": "2024-11-05",
+  "similarHotelsNearby": [
+    {
+      "name": "Haritha Hotel",
+      "rating": 4.2,
+      "reviews": 105,
+      "description": null,
+      "price": null
+    }
+  ],
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [
+    {
+      "title": "Services",
+      "count": 1
+    }
+  ],
+  "reviewsTags": [
+    {
+      "title": "peaceful",
+      "count": 11
+    },
+    {
+      "title": "nature",
+      "count": 7
+    },
+    {
+      "title": "beautiful",
+      "count": 5
+    },
+    {
+      "title": "management",
+      "count": 4
+    },
+    {
+      "title": "atmosphere",
+      "count": 2
+    },
+    {
+      "title": "eco friendly",
+      "count": 2
+    },
+    {
+      "title": "behaviour",
+      "count": 2
+    },
+    {
+      "title": "home",
+      "count": 2
+    }
+  ],
+  "additionalInfo": {},
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": {
+    "postDate": "3 years ago",
+    "postedBy": {
+      "totalReviews": null
+    },
+    "media": []
+  },
+  "url": "https://www.google.com/maps/search/?api=1&query=Village%20Stay%20Hotels%20%26%20Resorts&query_place_id=ChIJ59YYIfS1zDsRzeb64gye8Ts",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOEXTWuyJoKAfW-ayn9M91DSwDTd_iC2RmCJopz=w408-h306-k-no",
+  "kgmid": "/g/11k7bvk1cy",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOEXTWuyJoKAfW-ayn9M91DSwDTd_iC2RmCJopz=w1920-h1080-k-no",
+      "authorName": "Village Stay Hotels & Resorts",
+      "authorUrl": "https://maps.google.com/maps/contrib/115976944629570757876",
+      "uploadedAt": "2021-01-24T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipOEXTWuyJoKAfW-ayn9M91DSwDTd_iC2RmCJopz=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 8,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@18.146930749896114,79.50715500678655,15z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "OYO 85580 AMS ELITE RESIDENCY",
+  "subTitle": "OYO 85580 AMS ఎలితే రెసిడెన్సీ",
+  "description": null,
+  "price": null,
+  "categoryName": "Hotel",
+  "address": "Prof Janardan Rao marg, Jagruti Colony, Naim Nagar, Hanamkonda, Telangana 506009, India",
+  "neighborhood": "Jagruti Colony, Naim Nagar",
+  "street": "Prof Janardan Rao marg",
+  "city": "Hanamkonda",
+  "postalCode": "506009",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": "+91 98663 29761",
+  "phoneUnformatted": "+919866329761",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 18.0178472,
+    "lng": 79.5542429
+  },
+  "locatedIn": "The Arvind Store",
+  "plusCode": "2H93+4M Hanamkonda, Telangana, India",
+  "menu": null,
+  "totalScore": 4.1,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJn_GuxLtPMzoRqZPGPYhrpaI",
+  "categories": [
+    "Hotel"
+  ],
+  "fid": "0x3a334fbbc4aef19f:0xa2a56b883dc693a9",
+  "cid": "11719891838197732265",
+  "reviewsCount": 72,
+  "reviewsDistribution": {
+    "oneStar": 10,
+    "twoStar": 2,
+    "threeStar": 5,
+    "fourStar": 10,
+    "fiveStar": 45
+  },
+  "imagesCount": 44,
+  "imageCategories": [
+    "All",
+    "Rooms",
+    "Exterior",
+    "From visitors",
+    "By owner",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T08:36:35.446Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": "2024-11-04",
+  "checkOutDate": "2024-11-05",
+  "similarHotelsNearby": [
+    {
+      "name": "Hotel Landmark",
+      "rating": 3.7,
+      "reviews": 2702,
+      "description": "Free breakfast, Wi-Fi, and parking",
+      "price": "$31"
+    },
+    {
+      "name": "Hotel Ashoka",
+      "rating": 3.8,
+      "reviews": 8124,
+      "description": "Free breakfast",
+      "price": "$38"
+    },
+    {
+      "name": "Landmark residency",
+      "rating": 3.4,
+      "reviews": 29,
+      "description": null,
+      "price": "$28"
+    },
+    {
+      "name": "HOTEL ML GRAND",
+      "rating": 4.3,
+      "reviews": 125,
+      "description": "Free Wi-Fi",
+      "price": null
+    },
+    {
+      "name": "Collection O Sri Narmada Grand",
+      "rating": 3.4,
+      "reviews": 5,
+      "description": "Free Wi-Fi and parking",
+      "price": null
+    },
+    {
+      "name": "Nakshatra Homes",
+      "rating": 3.6,
+      "reviews": 5,
+      "description": null,
+      "price": null
+    },
+    {
+      "name": "Papadams Blue Warangal",
+      "rating": 4,
+      "reviews": 5640,
+      "description": "Free breakfast and Wi-Fi",
+      "price": null
+    },
+    {
+      "name": "Star Lodge",
+      "rating": 3.4,
+      "reviews": 7,
+      "description": null,
+      "price": null
+    }
+  ],
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [
+    {
+      "title": "respect",
+      "count": 2
+    },
+    {
+      "title": "service",
+      "count": 2
+    },
+    {
+      "title": "customers",
+      "count": 2
+    }
+  ],
+  "additionalInfo": {},
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=OYO%2085580%20AMS%20ELITE%20RESIDENCY&query_place_id=ChIJn_GuxLtPMzoRqZPGPYhrpaI",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOayW1RqGRIGo36veh-ptw7oOVIYzlmFmPCDEOt=w425-h240-k-no",
+  "kgmid": "/g/11rhrtmynm",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOayW1RqGRIGo36veh-ptw7oOVIYzlmFmPCDEOt=w1920-h1080-k-no",
+      "authorName": "OYO 85580 AMS ELITE RESIDENCY",
+      "authorUrl": "https://maps.google.com/maps/contrib/102798053121794229277",
+      "uploadedAt": "2022-01-29T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipOayW1RqGRIGo36veh-ptw7oOVIYzlmFmPCDEOt=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 7,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@18.146930749896114,79.50715500678655,15z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "Happy Home stay",
+  "subTitle": "హ్యాపీ హోమ్ స్టే",
+  "description": null,
+  "price": "$18",
+  "categoryName": "Hotel",
+  "address": "Kakatiya Nagar, Ring Road, near Bheemaram, Hanamkonda, Telangana 506015, India",
+  "neighborhood": null,
+  "street": "Kakatiya Nagar, Ring Road, near Bheemaram",
+  "city": "Hanamkonda",
+  "postalCode": "506015",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": "https://www.booking.com/Share-Noo0Jaf",
+  "phone": null,
+  "phoneUnformatted": null,
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 18.0418627,
+    "lng": 79.5275726
+  },
+  "locatedIn": null,
+  "plusCode": "2GRH+P2 Hanamkonda, Telangana, India",
+  "menu": null,
+  "totalScore": null,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJcXzVlYdPMzoRzE_U40oe8Dc",
+  "categories": [
+    "Hotel"
+  ],
+  "fid": "0x3a334f8795d57c71:0x37f01e4ae3d44fcc",
+  "cid": "4030754973495349196",
+  "reviewsCount": 0,
+  "reviewsDistribution": null,
+  "imagesCount": 5,
+  "imageCategories": [
+    "All",
+    "Rooms",
+    "Exterior",
+    "By owner",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T08:36:39.953Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": "2025-01-01",
+  "checkOutDate": "2025-01-02",
+  "similarHotelsNearby": [
+    {
+      "name": "KK Homestay",
+      "rating": 5,
+      "reviews": 6,
+      "description": null,
+      "price": "$26"
+    },
+    {
+      "name": "OYO Flagship 813360 Hotel Ragas",
+      "rating": 3,
+      "reviews": 20,
+      "description": "Free Wi-Fi",
+      "price": "$11"
+    },
+    {
+      "name": "Hotel Swagath Grand - Yerragattugutta, Warangal",
+      "rating": 4.6,
+      "reviews": 48,
+      "description": null,
+      "price": null
+    },
+    {
+      "name": "OYO Flagship 812935 Hotel As Residency",
+      "rating": 4.3,
+      "reviews": 28,
+      "description": null,
+      "price": null
+    },
+    {
+      "name": "V Grand",
+      "rating": 4.5,
+      "reviews": 183,
+      "description": null,
+      "price": null
+    },
+    {
+      "name": "Collection O Sri Narmada Grand",
+      "rating": 3.4,
+      "reviews": 5,
+      "description": "Free Wi-Fi and parking",
+      "price": null
+    },
+    {
+      "name": "Papadams Blue Warangal",
+      "rating": 4,
+      "reviews": 5640,
+      "description": "Free breakfast and Wi-Fi",
+      "price": null
+    },
+    {
+      "name": "Hotel Landmark",
+      "rating": 3.7,
+      "reviews": 2702,
+      "description": "Free breakfast, Wi-Fi, and parking",
+      "price": null
+    }
+  ],
+  "hotelReviewSummary": null,
+  "hotelAds": [
+    {
+      "title": "Booking.com",
+      "googleUrl": "http://www.google.com/travel/clk?pc=AA80Osz8mcbaym-tVtNdb3pV7fwjwFC0Ln4Uxt_FuSgWXyO_I80CK6ZI-pJPPvg_lB8k3iLQMJ0DAULtadJ6B8EPBRC80AOoKgOor-zzicPfDpl3mFIoIsijRUKBIlY_0kybi6k1TNOr53BTvg&pcurl=https://www.booking.com/hotel/in/happy-homestay-hanamkonda1.html?checkin%3D2025-01-01%26checkout%3D2025-01-02%26group_adults%3D2%26req_adults%3D2%26show_room%3D1171534201_389695476_2_0_0%26lang%3Den%26selected_currency%3DUSD%26exrt%3D0.01188582%26ext_price_total%3D19.97%26ext_price_tax%3D2.14%26xfc%3DINR%26hca%3Dm%26group_children%3D0%26req_children%3D0%26%26ts%3D1729782917%26no_rooms%3D1%26edgtid%3DTJo8vIsVRri0Q4MUAx5IWg%26efpc%3DFQCwChaAsAoT%26utm_source%3Dmetagha%26utm_medium%3Dmapresults%26utm_campaign%3DUS%26utm_term%3Dhotel-11715342%26utm_content%3Ddev-desktop_los-1_bw-60_dow-Wednesday_defdate-1_room-0_gstadt-2_rateid-public_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-0_checkin-20250101_ppt-%26aid%3D2127489%26label%3Dmetagha-link-MRUS-hotel-11715342_dev-desktop_los-1_bw-60_dow-Wednesday_defdate-1_room-0_gstadt-2_rateid-public_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-0_checkin-20250101_ppt-",
+      "isOfficialSite": false,
+      "price": "$20",
+      "url": "https://www.booking.com/hotel/in/happy-homestay-hanamkonda1.html?checkin=2025-01-01&checkout=2025-01-02&group_adults=2&req_adults=2&show_room=1171534201_389695476_2_0_0&lang=en&selected_currency=USD&exrt=0.01188582&ext_price_total=19.97&ext_price_tax=2.14&xfc=INR&hca=m&group_children=0&req_children=0&&ts=1729782917&no_rooms=1&edgtid=TJo8vIsVRri0Q4MUAx5IWg&efpc=FQCwChaAsAoT&utm_source=metagha&utm_medium=mapresults&utm_campaign=US&utm_term=hotel-11715342&utm_content=dev-desktop_los-1_bw-60_dow-Wednesday_defdate-1_room-0_gstadt-2_rateid-public_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-0_checkin-20250101_ppt-&aid=2127489&label=metagha-link-MRUS-hotel-11715342_dev-desktop_los-1_bw-60_dow-Wednesday_defdate-1_room-0_gstadt-2_rateid-public_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-0_checkin-20250101_ppt-"
+    }
+  ],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {},
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=Happy%20Home%20stay&query_place_id=ChIJcXzVlYdPMzoRzE_U40oe8Dc",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipN34r8Rjvb4ZPml-mJzb10l8FYEQhcgOqI4nMeR=w537-h240-k-no",
+  "kgmid": "/g/11vwnyvdxc",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipN34r8Rjvb4ZPml-mJzb10l8FYEQhcgOqI4nMeR=w1920-h1080-k-no",
+      "authorName": "Happy Home stay",
+      "authorUrl": "https://maps.google.com/maps/contrib/101607791168931599401",
+      "uploadedAt": "2024-04-01T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipN34r8Rjvb4ZPml-mJzb10l8FYEQhcgOqI4nMeR=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 5,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@18.146930749896114,79.50715500678655,15z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "OYO The Hotel Fourteen",
+  "subTitle": "ది హోటల్ ఫోర్టీన్",
+  "description": null,
+  "price": null,
+  "categoryName": "Hotel",
+  "address": "Karimnagar Rd, near TB Hospital, Bank Colony, Hanamkonda, Telangana 506001, India",
+  "neighborhood": "Bank Colony",
+  "street": "Karimnagar Rd, near TB Hospital",
+  "city": "Hanamkonda",
+  "postalCode": "506001",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": null,
+  "phoneUnformatted": null,
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 18.024953,
+    "lng": 79.5468136
+  },
+  "locatedIn": null,
+  "plusCode": "2GFW+XP Hanamkonda, Telangana, India",
+  "menu": null,
+  "totalScore": 4.9,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJQYYqHVNPMzoRQjYQKeG2BTg",
+  "categories": [
+    "Hotel"
+  ],
+  "fid": "0x3a334f531d2a8641:0x3805b6e129103642",
+  "cid": "4036833719180342850",
+  "reviewsCount": 11,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 1,
+    "fiveStar": 10
+  },
+  "imagesCount": 5,
+  "imageCategories": [
+    "All",
+    "Rooms",
+    "Exterior",
+    "From visitors",
+    "By owner",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T08:36:47.848Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": "2024-11-04",
+  "checkOutDate": "2024-11-05",
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [
+    {
+      "title": "atmosphere",
+      "count": 2
+    }
+  ],
+  "additionalInfo": {},
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=OYO%20The%20Hotel%20Fourteen&query_place_id=ChIJQYYqHVNPMzoRQjYQKeG2BTg",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipP0T1eZg16TeiKOVs8BmwY73bdsx24WJyZ9lh1h=w408-h272-k-no",
+  "kgmid": "/g/11w2gqq1yz",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipP0T1eZg16TeiKOVs8BmwY73bdsx24WJyZ9lh1h=w1920-h1080-k-no",
+      "authorName": "OYO The Hotel Fourteen",
+      "authorUrl": "https://maps.google.com/maps/contrib/107667757908369041341",
+      "uploadedAt": "2024-07-21T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipP0T1eZg16TeiKOVs8BmwY73bdsx24WJyZ9lh1h=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 3,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@18.146930749896114,79.50715500678655,15z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "OYO Hotel Moonlight Inn",
+  "subTitle": "OYO హోటల్ మూన్లైట్ ఇన్న్",
+  "description": null,
+  "price": "$9",
+  "categoryName": "Hotel",
+  "address": "55-1-035/A/2Bheemaram, Bheemaram, Warangal, Hanamkonda, Telangana 506015, India",
+  "neighborhood": "Bheemaram",
+  "street": "55-1-035/A/2Bheemaram",
+  "city": "Warangal, Hanamkonda",
+  "postalCode": "506015",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": "https://www.oyorooms.com/240886/",
+  "phone": "+91 124 620 1464",
+  "phoneUnformatted": "+911246201464",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 18.0310912,
+    "lng": 79.5411264
+  },
+  "locatedIn": null,
+  "plusCode": "2GJR+CF Hanamkonda, Telangana, India",
+  "menu": null,
+  "totalScore": 3,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJM_dvVd1PMzoR-i5PQ9xZWCY",
+  "categories": [
+    "Hotel"
+  ],
+  "fid": "0x3a334fdd556ff733:0x265859dc434f2efa",
+  "cid": "2763057173948739322",
+  "reviewsCount": 2,
+  "reviewsDistribution": {
+    "oneStar": 1,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 1
+  },
+  "imagesCount": 5,
+  "imageCategories": [
+    "All",
+    "Rooms",
+    "Exterior",
+    "By owner",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T08:36:49.108Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": "2024-11-08",
+  "checkOutDate": "2024-11-09",
+  "similarHotelsNearby": [
+    {
+      "name": "OYO Flagship 812935 Hotel As Residency",
+      "rating": 4.3,
+      "reviews": 28,
+      "description": "Higher guest rating",
+      "price": null
+    },
+    {
+      "name": "OYO 85580 AMS ELITE RESIDENCY",
+      "rating": 4.1,
+      "reviews": 72,
+      "description": "Higher guest rating",
+      "price": null
+    },
+    {
+      "name": "Hotel Swagath Grand - Yerragattugutta, Warangal",
+      "rating": 4.6,
+      "reviews": 48,
+      "description": "Higher guest rating",
+      "price": null
+    },
+    {
+      "name": "HOTEL ML GRAND",
+      "rating": 4.3,
+      "reviews": 125,
+      "description": "Free Wi-Fi",
+      "price": null
+    },
+    {
+      "name": "Collection O Sri Narmada Grand",
+      "rating": 3.4,
+      "reviews": 5,
+      "description": "Free Wi-Fi and parking",
+      "price": null
+    },
+    {
+      "name": "Nakshatra Homes",
+      "rating": 3.6,
+      "reviews": 5,
+      "description": null,
+      "price": null
+    }
+  ],
+  "hotelReviewSummary": null,
+  "hotelAds": [
+    {
+      "title": "Agoda",
+      "googleUrl": "http://www.google.com/travel/clk?pc=AA80OszQJRUncOcx2qzomagZpV0d2zfbBSaln1zuxeHtumnafsvUIuV3aP7rCV9cYkrBsgsv5gy_RcCQbGtiiadteofaHZz8LoU2-4MsOFVk82hakZTRd9iZQYC0dtCKOGxFtPjHcw&pcurl=https://www.agoda.com/partners/partnersearch.aspx?site_id%3D1917614%26CkInDay%3D08%26CkInMonth%3D11%26CkInYear%3D2024%26CkOutDay%3D09%26campaignid%3D%26CkOutMonth%3D11%26CkOutYear%3D2024%26SearchDateType%3Ddefault%26NumberOfAdults%3D2%26LT%3D6%26NumberOfChildren%3D0%26childages%3D%26NumberOfRooms%3D1%26gsite%3Dmapresults%26los%3D1%26PartnerCurrency%3DINR%26hid%3D56316042%26RoomID%3D865833799%26masterRoomId%3D865833799%26PriceTax%3D1.07%26PriceTotal%3D10.01%26RatePlan%3D07cc61ea-1545-16b5-d0fb-57b25a2eac66%26UserCountry%3DUS%26Currency%3DUSD%26UserDevice%3Ddesktop%26Verif%3Dfalse%26rr%3Drow_desktop%26audience_list%3D%26mcid%3D332%26booking_source%3Dcpc%26adType%3D0%26mpt%3DMmtNQVBpRFplQyt6MWd6NkgyeXlQLzVXZ2UySWhhM0c1bHpWUkRuekp6V2VUZz09%26original_rr%3D",
+      "isOfficialSite": false,
+      "price": "$10",
+      "url": "https://www.agoda.com/partners/partnersearch.aspx?site_id=1917614&CkInDay=08&CkInMonth=11&CkInYear=2024&CkOutDay=09&campaignid=&CkOutMonth=11&CkOutYear=2024&SearchDateType=default&NumberOfAdults=2&LT=6&NumberOfChildren=0&childages=&NumberOfRooms=1&gsite=mapresults&los=1&PartnerCurrency=INR&hid=56316042&RoomID=865833799&masterRoomId=865833799&PriceTax=1.07&PriceTotal=10.01&RatePlan=07cc61ea-1545-16b5-d0fb-57b25a2eac66&UserCountry=US&Currency=USD&UserDevice=desktop&Verif=false&rr=row_desktop&audience_list=&mcid=332&booking_source=cpc&adType=0&mpt=MmtNQVBpRFplQyt6MWd6NkgyeXlQLzVXZ2UySWhhM0c1bHpWUkRuekp6V2VUZz09&original_rr="
+    }
+  ],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {},
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=OYO%20Hotel%20Moonlight%20Inn&query_place_id=ChIJM_dvVd1PMzoR-i5PQ9xZWCY",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNnYTNx6U8KzbhFvTYYCwHlIdq97fLjmYXCK0cJ=w408-h272-k-no",
+  "kgmid": "/g/11vzps5qrv",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNnYTNx6U8KzbhFvTYYCwHlIdq97fLjmYXCK0cJ=w1920-h1080-k-no",
+      "authorName": "OYO Hotel Moonlight Inn",
+      "authorUrl": "https://maps.google.com/maps/contrib/105451136447700755147",
+      "uploadedAt": "2024-05-14T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipNnYTNx6U8KzbhFvTYYCwHlIdq97fLjmYXCK0cJ=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 6,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@18.146930749896114,79.50715500678655,15z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "OYO Flagship 812935 Hotel As Residency",
+  "subTitle": "OYO ఫ్లాగ్షిప్ 812935 హోటల్ అస్ రెసిడెన్సి",
+  "description": null,
+  "price": null,
+  "categoryName": "Hotel",
+  "address": "55-1-191, above the HDFC BANK, Ramaram, Bheemaram, hasanparthy, Hanamkonda, Telangana 506015, India",
+  "neighborhood": "Ramaram, Bheemaram",
+  "street": "55-1-191, above the HDFC BANK",
+  "city": "hasanparthy, Hanamkonda",
+  "postalCode": "506015",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": "https://www.oyorooms.com/211527/",
+  "phone": "+91 124 620 1464",
+  "phoneUnformatted": "+911246201464",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 18.0383918,
+    "lng": 79.5374266
+  },
+  "locatedIn": null,
+  "plusCode": "2GQP+9X Bheemaram, Hanamkonda, Telangana, India",
+  "menu": null,
+  "totalScore": 4.3,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJs0BTSt9PMzoRCBJaRtJVaiI",
+  "categories": [
+    "Hotel"
+  ],
+  "fid": "0x3a334fdf4a5340b3:0x226a55d2465a1208",
+  "cid": "2479888906432680456",
+  "reviewsCount": 28,
+  "reviewsDistribution": {
+    "oneStar": 1,
+    "twoStar": 0,
+    "threeStar": 5,
+    "fourStar": 5,
+    "fiveStar": 17
+  },
+  "imagesCount": 181,
+  "imageCategories": [
+    "All",
+    "Rooms",
+    "Videos",
+    "Exterior",
+    "From visitors",
+    "By owner",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T08:36:51.340Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": "2024-11-04",
+  "checkOutDate": "2024-11-05",
+  "similarHotelsNearby": [
+    {
+      "name": "HOTEL ML GRAND",
+      "rating": 4.3,
+      "reviews": 125,
+      "description": "Free Wi-Fi",
+      "price": "£31"
+    },
+    {
+      "name": "Hotel Swagath Grand - Yerragattugutta, Warangal",
+      "rating": 4.6,
+      "reviews": 48,
+      "description": null,
+      "price": "£28"
+    },
+    {
+      "name": "KK Homestay",
+      "rating": 5,
+      "reviews": 6,
+      "description": "Higher guest rating",
+      "price": "£23"
+    },
+    {
+      "name": "Landmark residency",
+      "rating": 3.4,
+      "reviews": 29,
+      "description": null,
+      "price": "£24"
+    },
+    {
+      "name": "Hotel Landmark",
+      "rating": 3.7,
+      "reviews": 2702,
+      "description": "Free breakfast, Wi-Fi and parking",
+      "price": "£27"
+    },
+    {
+      "name": "Collection O Sri Narmada Grand",
+      "rating": 3.4,
+      "reviews": 5,
+      "description": "Free Wi-Fi and parking",
+      "price": null
+    },
+    {
+      "name": "Papadams Blue Warangal",
+      "rating": 4,
+      "reviews": 5640,
+      "description": "Free breakfast and Wi-Fi",
+      "price": null
+    },
+    {
+      "name": "OYO Mitra Residency",
+      "rating": 4,
+      "reviews": 356,
+      "description": "Free Wi-Fi",
+      "price": null
+    }
+  ],
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {},
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=OYO%20Flagship%20812935%20Hotel%20As%20Residency&query_place_id=ChIJs0BTSt9PMzoRCBJaRtJVaiI",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOU9iTDGuhGU3ePg427znbLSvfDaUJDnNrUp_Rq=w408-h306-k-no",
+  "kgmid": "/g/11stgg33pp",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOU9iTDGuhGU3ePg427znbLSvfDaUJDnNrUp_Rq=w1920-h1080-k-no",
+      "authorName": "OYO Flagship 812935 Hotel As Residency",
+      "authorUrl": "https://maps.google.com/maps/contrib/110248542561825864382",
+      "uploadedAt": "2023-08-31T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipOU9iTDGuhGU3ePg427znbLSvfDaUJDnNrUp_Rq=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 2,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@18.146930749896114,79.50715500678655,15z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "Hotel Swagath Grand - Yerragattugutta, Warangal",
+  "subTitle": "హోటల్ స్వాగత్ గ్రాండ్ - ఎర్రగాట్టుగుట్ట, వరంగల్",
+  "description": null,
+  "price": null,
+  "categoryName": "Hotel",
+  "address": "H.No. 55-4-837/1, Opposite KLN Convention, Srinivasa Colony Road Number 3 Yerragattugutta, Bheemaram, Hasanparthy, Hanamkonda, Telangana 506015, India",
+  "neighborhood": "Bheemaram",
+  "street": "H.No. 55-4-837/1, Opposite KLN Convention, Srinivasa Colony Road Number 3 Yerragattugutta",
+  "city": "Hasanparthy, Hanamkonda",
+  "postalCode": "506015",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": "https://www.hotelswagathgrand.com/",
+  "phone": "+91 98663 43512",
+  "phoneUnformatted": "+919866343512",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 18.0489153,
+    "lng": 79.5331979
+  },
+  "locatedIn": null,
+  "plusCode": "2GXM+H7 Hanamkonda, Telangana, India",
+  "menu": null,
+  "totalScore": 4.6,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJmxusMq5JMzoRYdf9jz1NyfU",
+  "categories": [
+    "Hotel"
+  ],
+  "fid": "0x3a3349ae32ac1b9b:0xf5c94d3d8ffdd761",
+  "cid": "17710771936415307617",
+  "reviewsCount": 48,
+  "reviewsDistribution": {
+    "oneStar": 1,
+    "twoStar": 1,
+    "threeStar": 4,
+    "fourStar": 2,
+    "fiveStar": 40
+  },
+  "imagesCount": 2,
+  "imageCategories": [
+    "All",
+    "From visitors",
+    "Videos"
+  ],
+  "scrapedAt": "2024-11-02T08:36:53.370Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "similarHotelsNearby": [
+    {
+      "name": "Reddy Guest House",
+      "rating": 4.3,
+      "reviews": 7,
+      "description": "Free Wi-Fi",
+      "price": "$50"
+    },
+    {
+      "name": "Landmark residency",
+      "rating": 3.4,
+      "reviews": 29,
+      "description": null,
+      "price": "$28"
+    },
+    {
+      "name": "Hotel Landmark",
+      "rating": 3.7,
+      "reviews": 2702,
+      "description": "Free breakfast, Wi-Fi, and parking",
+      "price": "$33"
+    },
+    {
+      "name": "Hotel Ashoka",
+      "rating": 3.8,
+      "reviews": 8124,
+      "description": "Free breakfast",
+      "price": "$38"
+    },
+    {
+      "name": "OYO Flagship 812935 Hotel As Residency",
+      "rating": 4.3,
+      "reviews": 28,
+      "description": null,
+      "price": null
+    },
+    {
+      "name": "HOTEL ML GRAND",
+      "rating": 4.3,
+      "reviews": 125,
+      "description": "Free Wi-Fi",
+      "price": null
+    },
+    {
+      "name": "KK Homestay",
+      "rating": 5,
+      "reviews": 6,
+      "description": null,
+      "price": null
+    },
+    {
+      "name": "Collection O Sri Narmada Grand",
+      "rating": 3.4,
+      "reviews": 5,
+      "description": "Free Wi-Fi and parking",
+      "price": null
+    },
+    {
+      "name": "Papadams Blue Warangal",
+      "rating": 4,
+      "reviews": 5640,
+      "description": "Free breakfast and Wi-Fi",
+      "price": null
+    }
+  ],
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [
+    {
+      "title": "healthy",
+      "count": 2
+    }
+  ],
+  "additionalInfo": {},
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=Hotel%20Swagath%20Grand%20-%20Yerragattugutta%2C%20Warangal&query_place_id=ChIJmxusMq5JMzoRYdf9jz1NyfU",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMw9M594rgdoLENtzmBlet_HTTDdAlyz5Nn3kYp=w408-h544-k-no",
+  "kgmid": "/g/11y3n26ksq",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMw9M594rgdoLENtzmBlet_HTTDdAlyz5Nn3kYp=w1920-h1080-k-no",
+      "authorName": "Deepak Akkapaka",
+      "authorUrl": "https://maps.google.com/maps/contrib/105637421274902114503",
+      "uploadedAt": "2024-02-10T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipMw9M594rgdoLENtzmBlet_HTTDdAlyz5Nn3kYp=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 1,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@18.146930749896114,79.50715500678655,15z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "HOTEL ML GRAND",
+  "subTitle": "హోటల్ ML గ్రాండ్",
+  "description": null,
+  "price": null,
+  "categoryName": "Hotel",
+  "address": "3rd floor PNR Prime, Kishanpura, Naim Nagar, Hanamkonda, Telangana 506001, India",
+  "neighborhood": "Jagruti Colony, Naim Nagar",
+  "street": "3rd floor PNR Prime, Kishanpura",
+  "city": "Hanamkonda",
+  "postalCode": "506001",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": "+91 72985 12345",
+  "phoneUnformatted": "+917298512345",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 18.0152644,
+    "lng": 79.5554523
+  },
+  "locatedIn": null,
+  "plusCode": "2H84+45 Hanamkonda, Telangana, India",
+  "menu": null,
+  "totalScore": 4.3,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJI_xnC1RPMzoR-30WSk_pvHM",
+  "categories": [
+    "Hotel"
+  ],
+  "fid": "0x3a334f540b67fc23:0x73bce94f4a167dfb",
+  "cid": "8339797136737992187",
+  "reviewsCount": 125,
+  "reviewsDistribution": {
+    "oneStar": 6,
+    "twoStar": 5,
+    "threeStar": 10,
+    "fourStar": 33,
+    "fiveStar": 71
+  },
+  "imagesCount": 142,
+  "imageCategories": [
+    "All",
+    "Latest",
+    "Videos",
+    "Rooms",
+    "Exterior",
+    "Amenities",
+    "Food & drink",
+    "From visitors",
+    "By owner",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T08:37:00.893Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": "2024-11-03",
+  "checkOutDate": "2024-11-04",
+  "similarHotelsNearby": [
+    {
+      "name": "Hotel Landmark",
+      "rating": 3.7,
+      "reviews": 2702,
+      "description": "Free breakfast and parking",
+      "price": "$31"
+    },
+    {
+      "name": "Hotel Ashoka",
+      "rating": 3.8,
+      "reviews": 8124,
+      "description": "Free breakfast",
+      "price": "$38"
+    },
+    {
+      "name": "Landmark residency",
+      "rating": 3.4,
+      "reviews": 29,
+      "description": null,
+      "price": "$28"
+    },
+    {
+      "name": "Hotel Shreya Warangal - Restaurants & Banquet Halls",
+      "rating": 3.9,
+      "reviews": 3220,
+      "description": "Free breakfast",
+      "price": "$26"
+    },
+    {
+      "name": "Suprabha Hotel,",
+      "rating": 3.8,
+      "reviews": 5243,
+      "description": "Casual hotel with dining & a coffee shop",
+      "price": "$45"
+    },
+    {
+      "name": "Hotel mango tree",
+      "rating": 4.6,
+      "reviews": 28,
+      "description": null,
+      "price": "$44"
+    },
+    {
+      "name": "Papadams Blue Warangal",
+      "rating": 4,
+      "reviews": 5640,
+      "description": "Free breakfast",
+      "price": null
+    },
+    {
+      "name": "OYO Mitra Residency",
+      "rating": 4,
+      "reviews": 356,
+      "description": "Informal hotel with understated rooms",
+      "price": null
+    },
+    {
+      "name": "HOTEL THOUSAND PILLARS (3 Star)",
+      "rating": 4.8,
+      "reviews": 33395,
+      "description": "Free breakfast and parking",
+      "price": null
+    }
+  ],
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [
+    {
+      "title": "service",
+      "count": 11
+    },
+    {
+      "title": "parking",
+      "count": 4
+    },
+    {
+      "title": "dosa",
+      "count": 3
+    },
+    {
+      "title": "basement",
+      "count": 3
+    },
+    {
+      "title": "taste",
+      "count": 3
+    },
+    {
+      "title": "decor",
+      "count": 2
+    },
+    {
+      "title": "thousand pillar temple",
+      "count": 2
+    },
+    {
+      "title": "repellent",
+      "count": 2
+    },
+    {
+      "title": "lemon",
+      "count": 2
+    },
+    {
+      "title": "mosquitoes",
+      "count": 2
+    }
+  ],
+  "additionalInfo": {
+    "Amenities": [
+      {
+        "Free Wi-Fi": true
+      },
+      {
+        "Parking": true
+      },
+      {
+        "Accessible": true
+      },
+      {
+        "Pool": false
+      },
+      {
+        "Air-conditioned": true
+      },
+      {
+        "Laundry service": true
+      },
+      {
+        "Room service": true
+      },
+      {
+        "Kitchens in some rooms": true
+      },
+      {
+        "Fitness center": false
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=HOTEL%20ML%20GRAND&query_place_id=ChIJI_xnC1RPMzoR-30WSk_pvHM",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipO3MH1VKO5V3T7iMETWkeDNb1866TRUeuX-AikG=w408-h611-k-no",
+  "kgmid": "/g/11t47ly7_z",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipO3MH1VKO5V3T7iMETWkeDNb1866TRUeuX-AikG=w1920-h1080-k-no",
+      "authorName": "HOTEL ML GRAND",
+      "authorUrl": "https://maps.google.com/maps/contrib/108526610574014987703",
+      "uploadedAt": "2022-06-08T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipO3MH1VKO5V3T7iMETWkeDNb1866TRUeuX-AikG=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 5,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@18.04902180712801,79.43860592035969,15z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "Hotel mango tree",
+  "subTitle": "హోటల్ మాంగో ట్రీ",
+  "description": null,
+  "price": "$44",
+  "categoryName": "Hotel",
+  "address": "3-3-175, near Amrutha Theatre, Ennugulagada, Raganna Darwaja, Gandhi Nagar, Eanugulagadda, Hanamkonda, Telangana 506011, India",
+  "neighborhood": "Ennugulagada, Raganna Darwaja, Gandhi Nagar, Eanugulagadda",
+  "street": "3-3-175, near Amrutha Theatre",
+  "city": "Hanamkonda",
+  "postalCode": "506011",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": null,
+  "phoneUnformatted": null,
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 18.005913,
+    "lng": 79.5723535
+  },
+  "locatedIn": null,
+  "plusCode": "2H4C+9W Hanamkonda, Telangana, India",
+  "menu": null,
+  "totalScore": 4.6,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJiyw0niVPMzoR08NjCybnKJk",
+  "categories": [
+    "Hotel"
+  ],
+  "fid": "0x3a334f259e342c8b:0x9928e7260b63c3d3",
+  "cid": "11036325037457261523",
+  "reviewsCount": 28,
+  "reviewsDistribution": {
+    "oneStar": 2,
+    "twoStar": 0,
+    "threeStar": 1,
+    "fourStar": 1,
+    "fiveStar": 24
+  },
+  "imagesCount": 4,
+  "imageCategories": [
+    "All",
+    "Rooms",
+    "Videos",
+    "Exterior",
+    "From visitors",
+    "By owner",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T08:37:19.102Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "similarHotelsNearby": [
+    {
+      "name": "Hotel Shreya Warangal - Restaurants & Banquet Halls",
+      "rating": 3.9,
+      "reviews": 3220,
+      "description": "Free breakfast",
+      "price": "$26"
+    },
+    {
+      "name": "Hotel Ashoka",
+      "rating": 3.8,
+      "reviews": 8124,
+      "description": "Free breakfast",
+      "price": "$38"
+    },
+    {
+      "name": "SAI SRI INN",
+      "rating": 3.9,
+      "reviews": 370,
+      "description": "Free Wi-Fi",
+      "price": "$23"
+    },
+    {
+      "name": "Landmark residency",
+      "rating": 3.4,
+      "reviews": 29,
+      "description": null,
+      "price": "$28"
+    },
+    {
+      "name": "Hotel Landmark",
+      "rating": 3.7,
+      "reviews": 2702,
+      "description": "Free breakfast, Wi-Fi, and parking",
+      "price": "$33"
+    },
+    {
+      "name": "City Grand Hotel",
+      "rating": 3.5,
+      "reviews": 2284,
+      "description": "Free breakfast, Wi-Fi, and parking",
+      "price": "$31"
+    },
+    {
+      "name": "Collection O Sri Narmada Grand",
+      "rating": 3.4,
+      "reviews": 5,
+      "description": "Free Wi-Fi and parking",
+      "price": null
+    },
+    {
+      "name": "Papadams Blue Warangal",
+      "rating": 4,
+      "reviews": 5640,
+      "description": "Free breakfast and Wi-Fi",
+      "price": null
+    },
+    {
+      "name": "HOTEL THOUSAND PILLARS (3 Star)",
+      "rating": 4.8,
+      "reviews": 33395,
+      "description": "Free breakfast, Wi-Fi, and parking",
+      "price": null
+    }
+  ],
+  "hotelReviewSummary": null,
+  "hotelAds": [
+    {
+      "title": "Vio.com",
+      "googleUrl": "http://www.google.com/travel/clk?pc=AA80OszWviyYhVs01S05rOrzVhQPtIk-jcwtfGcyMtUZZglbrDMn4rjxZJMT6IVNmoOB9o_xXHt-kTbCW4uETb5yk1fCWO7dTH0oTD9b_l_yYymQMTZR9aD7WaVoxyAPHYBY&pcurl=https://deals.vio.com/?sig%3D73aca13c7f952d2641c156f3e69125e1eb497c325f122828ee5aa8797168b9a12d32303331333438363233%26turl%3Dhttps%253A%252F%252Fwww.vio.com%252FHotel%252FSearch%253FcheckIn%253D2024-11-02%2526checkOut%253D2024-11-03%2526curr%253DUSD%2526forceCurrencyChange%253D1%2526lang%253Den%2526forceLanguageChange%253D1%2526rooms%253D2%253A%2526utm_source%253Dgha%2526utm_medium%253Dcpc%2526hotelId%253D84445411%2526userCountry%253DUS%2526profile%253Dr2d2m73kn8%2526preferredRate%253D49.28%2526label%253Dsrc%25253Dgha%252526cltype%25253Dhotel%252526datype%25253Ddefault%252526gsite%25253Dmapresults%252526ucountry%25253DUS%252526udevice%25253Ddesktop%252526hotel%25253D84445411%252526day%25253D02%252526month%25253D11%252526year%25253D2024%252526los%25253D1%252526price%25253D49.28%252526currency%25253DUSD%252526cid%25253D%252526listid%25253D%252526rateid%25253DUS%252526closerateid%25253D%252526promo%25253D0%252526isPrivateRate%25253D0%252526isAudienceUser%25253D0%252526isPaidClick%25253D0%252526_th%25253D3f835b7dc248852bbcac70b107b7c1bb83d89a6f3166b085%252526dts%25253D1730534380%252526query%25253D2%2526epv%253DMS4y%2526esd%253DApStoJ6hpWoXCoKP2xCR-dzU018prJeKmoXLasVZ3OEE9bLosRINNr9XLddDg4q_BoVjTOlgawlfy96ysN_Y17SCyIHoeE_xgAWMVob96DiEIQ%25253D%25253D%2526oti%253DCHBs8e6iVs0",
+      "isOfficialSite": false,
+      "price": "$49",
+      "url": "https://deals.vio.com/?sig=73aca13c7f952d2641c156f3e69125e1eb497c325f122828ee5aa8797168b9a12d32303331333438363233&turl=https://www.vio.com/Hotel/Search?checkIn=2024-11-02&checkOut=2024-11-03&curr=USD&forceCurrencyChange=1&lang=en&forceLanguageChange=1&rooms=2:&utm_source=gha&utm_medium=cpc&hotelId=84445411&userCountry=US&profile=r2d2m73kn8&preferredRate=49.28&label=src%3Dgha%26cltype%3Dhotel%26datype%3Ddefault%26gsite%3Dmapresults%26ucountry%3DUS%26udevice%3Ddesktop%26hotel%3D84445411%26day%3D02%26month%3D11%26year%3D2024%26los%3D1%26price%3D49.28%26currency%3DUSD%26cid%3D%26listid%3D%26rateid%3DUS%26closerateid%3D%26promo%3D0%26isPrivateRate%3D0%26isAudienceUser%3D0%26isPaidClick%3D0%26_th%3D3f835b7dc248852bbcac70b107b7c1bb83d89a6f3166b085%26dts%3D1730534380%26query%3D2&epv=MS4y&esd=ApStoJ6hpWoXCoKP2xCR-dzU018prJeKmoXLasVZ3OEE9bLosRINNr9XLddDg4q_BoVjTOlgawlfy96ysN_Y17SCyIHoeE_xgAWMVob96DiEIQ%3D%3D&oti=CHBs8e6iVs0"
+    },
+    {
+      "title": "Priceline",
+      "googleUrl": "http://www.google.com/travel/clk?pc=AA80Osy2ogfg03vzQ-_5U9B3gMWQDVoXJn2NTT2U6K3O1FmWZetuv9q98Hfds1jM3ePb0YE68Toyn6YLLyBCNQkh46jfXJ5XIAbZJoAXzXYDjgcdv7o9Lk1KI18CiigozX2KBowDDeJzZw0&pcurl=https://www.priceline.com/r/?channel%3Dmeta%26product%3Dhotel%26theme%3Dghalistings%26refid%3DPLGOOGLEMSS%26refclickid%3DUS_HP%257C253220004_mapresults_1%257C20241102%257Cdesktop%257Cdefaultdate%7Cpublic%7C%7C%7C0%257C2%257C0%7C0%7CEN%26hotelid%3D253220004%26checkin%3D20241102%26checkout%3D20241103%26rooms%3D1%26currency%3DINR%26displayedCurr%3DUSD%26POSCountryCode%3DUS%26taxDisplayMode%3DBP%26cityID%3D5000142204%26adults%3D2%26land%3DL%26metaid%3DwR3SI3MUYfIYR5A7fxZhd6Q42oVXrfDdpjSW9kjLj49XVtLL27gJiHN06EyFOSGDFxPzhjsIxB1W1V8AXg9BwVGzdnaUhnAeh73aQmtCTn_mytbK_FMTKyI7zkGT9YjOpWH7q15ErytrDToPJRMZLVmDTETZGTKUStQOezfcEhX-HBEmx235nihXUqHMYiV--Vv4ywgU7YmBzVmalUNitTgYcxKPKzwlmnXP3sdIUY0bFKbQjKia8CMYj9vCfrYDK8Y5uqn8Gnv9WKHadnH4sA%26dblcnt%3Dtrue%26user_num_adults%3D2%26pdtax%3D5.28%26pdt%3D49.25%26locale%3Den-us%26ad-src%3D",
+      "isOfficialSite": false,
+      "price": "$49",
+      "url": "https://www.priceline.com/r/?channel=meta&product=hotel&theme=ghalistings&refid=PLGOOGLEMSS&refclickid=US_HP|253220004_mapresults_1|20241102|desktop|defaultdate|public|||0|2|0|0|EN&hotelid=253220004&checkin=20241102&checkout=20241103&rooms=1&currency=INR&displayedCurr=USD&POSCountryCode=US&taxDisplayMode=BP&cityID=5000142204&adults=2&land=L&metaid=wR3SI3MUYfIYR5A7fxZhd6Q42oVXrfDdpjSW9kjLj49XVtLL27gJiHN06EyFOSGDFxPzhjsIxB1W1V8AXg9BwVGzdnaUhnAeh73aQmtCTn_mytbK_FMTKyI7zkGT9YjOpWH7q15ErytrDToPJRMZLVmDTETZGTKUStQOezfcEhX-HBEmx235nihXUqHMYiV--Vv4ywgU7YmBzVmalUNitTgYcxKPKzwlmnXP3sdIUY0bFKbQjKia8CMYj9vCfrYDK8Y5uqn8Gnv9WKHadnH4sA&dblcnt=true&user_num_adults=2&pdtax=5.28&pdt=49.25&locale=en-us&ad-src="
+    },
+    {
+      "title": "Tripadvisor.com",
+      "googleUrl": "http://www.google.com/travel/clk?pc=AA80OswfpsUHg5FJi2pynAg6cABi-ibYexBcISvCriYfEiri6qi7tUipYsT6CKbKVI_HVAJKmKOWY1aIT_jpXzT8Pm_Ux5DR_6BssuaAHsHRpZSM3Ev6fne91_8inYTE309BueQ&pcurl=https://www.tripadvisor.com/Hotel_Review-s1-?geo%3D1%26detail%3D26609502%26m%3D66081%26staydates%3D2024_11_02_2024_11_03%26uguests%3D1_2%26supdv%3Ddesktop%26supbl%3Dmapresults%26supkl%3Ddefault%26supuc%3DUS%26supul%3Den%26supia%3D0%26supip%3D0%26supmb%3DqMRusQRsaDOx0DcgpmY0v4N4EDKTWK96IApJJp4kVXSRvmWepuF-JrVOSCjzNJb7R-CppTGn_lU5NuJDzLo7_SHiuy3LGtuQPjCJO7BZmU_2T66wGxBmLc28QTSNftaUGuWaD5LYnScHLPmjDfz0ZZur7d9SMTSKii3A748XYGB1-PfVoHzxn5VnCnL9x-%26supmc%3Dog2My4qIJsQiICOrj5aEwbffaX6JH5lANKO6lFv4cgQ1keFc5E4%26supts%3D%26supey%3Dm%7C115991%7CPL_GPC_query%26supcd%3D%26suptp%3Dy5VvANBPiceX-OhWABQCOl77AwHVQSKLMV9-2j4WpjGPpeBRwAbXfnmlS3PYycwO4FAz21H11s7phVrsUNpc2bCq2hVkFpdXn-qmulEr0K3co1YblXGXvqOKgj90TWz5gyx_PXinO0yazBNKHv9k-FpNeSgOgKpWgG24S6KBBJqaUd0IWzCG_bjadm0CxG",
+      "isOfficialSite": false,
+      "price": "$49",
+      "url": "https://www.tripadvisor.com/Hotel_Review-s1-?geo=1&detail=26609502&m=66081&staydates=2024_11_02_2024_11_03&uguests=1_2&supdv=desktop&supbl=mapresults&supkl=default&supuc=US&supul=en&supia=0&supip=0&supmb=qMRusQRsaDOx0DcgpmY0v4N4EDKTWK96IApJJp4kVXSRvmWepuF-JrVOSCjzNJb7R-CppTGn_lU5NuJDzLo7_SHiuy3LGtuQPjCJO7BZmU_2T66wGxBmLc28QTSNftaUGuWaD5LYnScHLPmjDfz0ZZur7d9SMTSKii3A748XYGB1-PfVoHzxn5VnCnL9x-&supmc=og2My4qIJsQiICOrj5aEwbffaX6JH5lANKO6lFv4cgQ1keFc5E4&supts=&supey=m|115991|PL_GPC_query&supcd=&suptp=y5VvANBPiceX-OhWABQCOl77AwHVQSKLMV9-2j4WpjGPpeBRwAbXfnmlS3PYycwO4FAz21H11s7phVrsUNpc2bCq2hVkFpdXn-qmulEr0K3co1YblXGXvqOKgj90TWz5gyx_PXinO0yazBNKHv9k-FpNeSgOgKpWgG24S6KBBJqaUd0IWzCG_bjadm0CxG"
+    }
+  ],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [
+    {
+      "title": "service",
+      "count": 3
+    },
+    {
+      "title": "management",
+      "count": 2
+    },
+    {
+      "title": "price",
+      "count": 2
+    }
+  ],
+  "additionalInfo": {},
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=Hotel%20mango%20tree&query_place_id=ChIJiyw0niVPMzoR08NjCybnKJk",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNUQ3SayhN99rBYxPvvJesF5_OHyJAg7ruK7Vgc=w408-h273-k-no",
+  "kgmid": "/g/11kb86n0fy",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNUQ3SayhN99rBYxPvvJesF5_OHyJAg7ruK7Vgc=w1920-h1080-k-no",
+      "authorName": "Hotel mango tree",
+      "authorUrl": "https://maps.google.com/maps/contrib/106412387396112770220",
+      "uploadedAt": "2023-02-15T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipNUQ3SayhN99rBYxPvvJesF5_OHyJAg7ruK7Vgc=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 22,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@18.11429443564008,79.33578229071941,15z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "..",
+  "subTitle": null,
+  "description": null,
+  "price": null,
+  "categoryName": "Farm Stay",
+  "address": "Vangara, Telangana 505480, India",
+  "neighborhood": null,
+  "street": null,
+  "city": "Vangara",
+  "postalCode": "505480",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": null,
+  "phoneUnformatted": null,
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 18.1098516,
+    "lng": 79.3313897
+  },
+  "locatedIn": null,
+  "plusCode": "485J+WH Vangara, Telangana, India",
+  "menu": null,
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJQRwRDGC1zDsRvu0qZBcZGQc",
+  "categories": [
+    "Farm Stay"
+  ],
+  "fid": "0x3bccb5600c111c41:0x7191917642aedbe",
+  "cid": "511467620938739134",
+  "reviewsCount": 1,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 1
+  },
+  "imagesCount": 2,
+  "imageCategories": [
+    "All",
+    "Exterior",
+    "Cottage",
+    "From visitors"
+  ],
+  "scrapedAt": "2024-11-02T08:37:20.483Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Mudraveni Ravinder farm land",
+      "reviewsCount": 0,
+      "totalScore": 0
+    },
+    {
+      "category": "People also search for",
+      "title": "Village Stay Hotels & Resorts",
+      "reviewsCount": 413,
+      "totalScore": 4.8
+    },
+    {
+      "category": "People also search for",
+      "title": "Nallavenkapalle",
+      "reviewsCount": 1,
+      "totalScore": 3
+    },
+    {
+      "category": "People also search for",
+      "title": "Vanamali Farms",
+      "reviewsCount": 3,
+      "totalScore": 5
+    },
+    {
+      "category": "People also search for",
+      "title": "VKR FARMS",
+      "reviewsCount": 0,
+      "totalScore": 0
+    }
+  ],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {},
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=..&query_place_id=ChIJQRwRDGC1zDsRvu0qZBcZGQc",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPvWACmZ0Mn_186huOUJgv0LXvp0QckTwNMGImj=w408-h725-k-no",
+  "kgmid": "/g/11fswbzcrj",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPvWACmZ0Mn_186huOUJgv0LXvp0QckTwNMGImj=w1920-h1080-k-no",
+      "authorName": "Stylish Thiru Editz",
+      "authorUrl": "https://maps.google.com/maps/contrib/112770062613327860612",
+      "uploadedAt": "2021-01-08T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipPvWACmZ0Mn_186huOUJgv0LXvp0QckTwNMGImj=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 4,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@18.04902180712801,79.43860592035969,15z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "Townhouse 1348 Casa Grand",
+  "subTitle": null,
+  "description": null,
+  "price": "£13",
+  "categoryName": "Hotel",
+  "address": "pragathi nagar, Bharat Gas, 24-7-236/4/1, Revenue Colony, Subedari, Warangal, Hanamkonda, Telangana 506004, India",
+  "neighborhood": "Revenue Colony, Subedari",
+  "street": "pragathi nagar, Bharat Gas, 24-7-236/4/1",
+  "city": "Warangal, Hanamkonda",
+  "postalCode": "506004",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": "https://www.oyorooms.com/234773/",
+  "phone": "+91 124 620 1464",
+  "phoneUnformatted": "+911246201464",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 17.9906361,
+    "lng": 79.5350877
+  },
+  "locatedIn": null,
+  "plusCode": "XGRP+72 Hanamkonda, Telangana, India",
+  "menu": null,
+  "totalScore": 4.5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJB9nS7f5PMzoRk8ZG5GaP64g",
+  "categories": [
+    "Hotel"
+  ],
+  "fid": "0x3a334ffeedd2d907:0x88eb8f66e446c693",
+  "cid": "9866137080764483219",
+  "reviewsCount": 103,
+  "reviewsDistribution": {
+    "oneStar": 12,
+    "twoStar": 0,
+    "threeStar": 1,
+    "fourStar": 2,
+    "fiveStar": 88
+  },
+  "imagesCount": 65,
+  "imageCategories": [
+    "All",
+    "Latest",
+    "Rooms",
+    "Exterior",
+    "From visitors",
+    "By owner",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T08:37:25.273Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "similarHotelsNearby": [
+    {
+      "name": "OYO Flagship 813360 Hotel Ragas",
+      "rating": 3,
+      "reviews": 20,
+      "description": "Free Wi-Fi",
+      "price": "£8"
+    },
+    {
+      "name": "hotel silver cloud",
+      "rating": 4.7,
+      "reviews": 156,
+      "description": "Free breakfast, Wi-Fi and parking",
+      "price": "£14"
+    },
+    {
+      "name": "OYO Flagship Hotel Abhi's Elite",
+      "rating": 4.3,
+      "reviews": 23,
+      "description": null,
+      "price": "£12"
+    },
+    {
+      "name": "Super OYO Collection O Ben Inn Luxury Rooms",
+      "rating": 3.2,
+      "reviews": 35,
+      "description": null,
+      "price": null
+    },
+    {
+      "name": "V Grand",
+      "rating": 4.5,
+      "reviews": 183,
+      "description": null,
+      "price": null
+    },
+    {
+      "name": "Hotel Vaishnavi Grand",
+      "rating": 3.8,
+      "reviews": 1814,
+      "description": "Free Wi-Fi",
+      "price": null
+    },
+    {
+      "name": "KK Homestay",
+      "rating": 5,
+      "reviews": 6,
+      "description": "Higher guest rating",
+      "price": null
+    },
+    {
+      "name": "Super OYO Flagship Hotel Hills Land",
+      "rating": 4.3,
+      "reviews": 29,
+      "description": "Free Wi-Fi",
+      "price": null
+    }
+  ],
+  "hotelReviewSummary": null,
+  "hotelAds": [
+    {
+      "title": "OYO",
+      "googleUrl": "http://www.google.com/travel/clk?pc=AA80OswSKnLhgjqfHs8lv-JCDW7QfSZ2JC8rkswSloq0Rx7aNQ172i-nZp6u6fvd8DZjeQJc6QgoPM7ahIdJIf-mC8bTWjr3ym0xMzNzkIHHALtQzmZDQXI0el4up7t5Mq84&pcurl=https://meta.oyorooms.com/meta_platform/redirection/hac/hotels/listing?hotel_id%3D234773%26checkin%3D02%252F11%252F2024%26checkout%3D03%252F11%252F2024%26rooms%3D1%26utm_source%3Dgoogle%26utm_medium%3DHAC%26utm_campaign%3DWAR100%26utm_content%3Dhpa_02_11_2024_1_mapresults_WAR100_GB_desktop_default___2_organic%26selected_rcid%3D1%26breakfast_selected%3Dfalse%26guests%3D2%26filters%5Bcity_id%5D%3D58%26landingpage%3Dmetalanding",
+      "isOfficialSite": true,
+      "price": "£13",
+      "url": "https://meta.oyorooms.com/meta_platform/redirection/hac/hotels/listing?hotel_id=234773&checkin=02/11/2024&checkout=03/11/2024&rooms=1&utm_source=google&utm_medium=HAC&utm_campaign=WAR100&utm_content=hpa_02_11_2024_1_mapresults_WAR100_GB_desktop_default___2_organic&selected_rcid=1&breakfast_selected=false&guests=2&filters[city_id]=58&landingpage=metalanding"
+    },
+    {
+      "title": "Booking.com",
+      "googleUrl": "http://www.google.com/travel/clk?pc=AA80OswGgTyEdmAAGqtVgen7OK-PeG4pRXBQahg30bTEyAQDVrm0FH3ul2kdae2lAv67xzYwxmQ85mG8G1O714vSceFB3k0BZ8kSF2G_XDxsofQabYSEF8y07fXs_GgiqdCFJMBCO_IKU9vFJQ&pcurl=https://www.booking.com/hotel/in/palette-casa-grand-warangal.html?checkin%3D2024-11-02%26checkout%3D2024-11-03%26group_adults%3D2%26req_adults%3D2%26show_room%3D1191845402_391480792_2_0_0%26lang%3Den%26selected_currency%3DGBP%26exrt%3D0.00919457%26ext_price_total%3D15.75%26ext_price_tax%3D1.97%26xfc%3DINR%26hca%3Dm%26group_children%3D0%26req_children%3D0%26%26ts%3D1730533658%26no_rooms%3D1%26edgtid%3Dhq7Ya_LkRyi8ZK1W0z5nrA%26efpc%3DFJmxGhcTsAoT%26utm_source%3Dmetagha%26utm_medium%3Dmapresults%26utm_campaign%3DGB%26utm_term%3Dhotel-11918454%26utm_content%3Ddev-desktop_los-1_bw-0_dow-Saturday_defdate-1_room-0_gstadt-2_rateid-public_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-0_checkin-20241102_ppt-Co%26aid%3D2127496%26label%3Dmetagha-link-MRGB-hotel-11918454_dev-desktop_los-1_bw-0_dow-Saturday_defdate-1_room-0_gstadt-2_rateid-public_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-0_checkin-20241102_ppt-Co",
+      "isOfficialSite": false,
+      "price": "£16",
+      "url": "https://www.booking.com/hotel/in/palette-casa-grand-warangal.html?checkin=2024-11-02&checkout=2024-11-03&group_adults=2&req_adults=2&show_room=1191845402_391480792_2_0_0&lang=en&selected_currency=GBP&exrt=0.00919457&ext_price_total=15.75&ext_price_tax=1.97&xfc=INR&hca=m&group_children=0&req_children=0&&ts=1730533658&no_rooms=1&edgtid=hq7Ya_LkRyi8ZK1W0z5nrA&efpc=FJmxGhcTsAoT&utm_source=metagha&utm_medium=mapresults&utm_campaign=GB&utm_term=hotel-11918454&utm_content=dev-desktop_los-1_bw-0_dow-Saturday_defdate-1_room-0_gstadt-2_rateid-public_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-0_checkin-20241102_ppt-Co&aid=2127496&label=metagha-link-MRGB-hotel-11918454_dev-desktop_los-1_bw-0_dow-Saturday_defdate-1_room-0_gstadt-2_rateid-public_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-0_checkin-20241102_ppt-Co"
+    },
+    {
+      "title": "Agoda",
+      "googleUrl": "http://www.google.com/travel/clk?pc=AA80OswyoL1PPvnRmn18jWCMXFko2zPbOzEcLDp_yUcgYh2OSjV4-dZmDLMqavlZ893QpYYhiBQrLiIFH2qaVtRonRgLlVJCiz-c3cR1W69Je7YZBT6CepYJCGSJduZtciKA5D12Kw&pcurl=https://www.agoda.com/partners/partnersearch.aspx?site_id%3D1917614%26CkInDay%3D02%26CkInMonth%3D11%26CkInYear%3D2024%26CkOutDay%3D03%26campaignid%3D%26CkOutMonth%3D11%26CkOutYear%3D2024%26SearchDateType%3Ddefault%26NumberOfAdults%3D2%26LT%3D0%26NumberOfChildren%3D0%26childages%3D%26NumberOfRooms%3D1%26gsite%3Dmapresults%26los%3D1%26PartnerCurrency%3DINR%26hid%3D55310677%26RoomID%3D847895879%26masterRoomId%3D848783757%26PriceTax%3D2.02%26PriceTotal%3D16.23%26RatePlan%3D43e41acf-2715-cfb1-9f6f-c04762db3579%26UserCountry%3DGB%26Currency%3DGBP%26UserDevice%3Ddesktop%26Verif%3Dfalse%26rr%3Drow_desktop%26audience_list%3D%26mcid%3D3038%26booking_source%3Dcpc%26adType%3D0%26mpt%3DWkpwd0luVEdkRkFYRGIxYXRCTHhJQi9oT3NyMmEwYmg4U0doRytXa1RoSC9pdz09%26original_rr%3D",
+      "isOfficialSite": false,
+      "price": "£16",
+      "url": "https://www.agoda.com/partners/partnersearch.aspx?site_id=1917614&CkInDay=02&CkInMonth=11&CkInYear=2024&CkOutDay=03&campaignid=&CkOutMonth=11&CkOutYear=2024&SearchDateType=default&NumberOfAdults=2&LT=0&NumberOfChildren=0&childages=&NumberOfRooms=1&gsite=mapresults&los=1&PartnerCurrency=INR&hid=55310677&RoomID=847895879&masterRoomId=848783757&PriceTax=2.02&PriceTotal=16.23&RatePlan=43e41acf-2715-cfb1-9f6f-c04762db3579&UserCountry=GB&Currency=GBP&UserDevice=desktop&Verif=false&rr=row_desktop&audience_list=&mcid=3038&booking_source=cpc&adType=0&mpt=Wkpwd0luVEdkRkFYRGIxYXRCTHhJQi9oT3NyMmEwYmg4U0doRytXa1RoSC9pdz09&original_rr="
+    },
+    {
+      "title": "priceline.com",
+      "googleUrl": "http://www.google.com/travel/clk?pc=AA80OsxP3HPVmPE9l7goO1gR3u066IMwt467qjCYIlPWdGIT3_3Pjf7UwTSKCXejEMy0tOp1uhCYhXXERkrT5GYLFxNmbdUVzOE4NjbRy0uD28g9tmOTglrPsmG5qHvaWrO43cLzLsnj&pcurl=http://h.priceline.com/hotel/in/palette-casa-grand-warangal.html?aid%3D946468%26label%3Dotapcln-link-mapresultsGB-hotel-11918454_dev-desktop_los-1_room-0_lang-en_curr-GBP_checkin-20241102_ddf-Y_camp-%26checkin%3D2024-11-02%26checkout%3D2024-11-03%26group_adults%3D2%26show_room%3D1191845402%26lang%3Den%26selected_currency%3DGBP%26exrt%3D0.00919457%26xfc%3DINR%26utm_source%3Dotapcln%26utm_medium%3Dmapresults%26utm_campaign%3DGB%26utm_term%3Dhotel-11918454%26utm_content%3Dlos-1_lang-en_curr-GBP",
+      "isOfficialSite": false,
+      "price": "£16",
+      "url": "http://h.priceline.com/hotel/in/palette-casa-grand-warangal.html?aid=946468&label=otapcln-link-mapresultsGB-hotel-11918454_dev-desktop_los-1_room-0_lang-en_curr-GBP_checkin-20241102_ddf-Y_camp-&checkin=2024-11-02&checkout=2024-11-03&group_adults=2&show_room=1191845402&lang=en&selected_currency=GBP&exrt=0.00919457&xfc=INR&utm_source=otapcln&utm_medium=mapresults&utm_campaign=GB&utm_term=hotel-11918454&utm_content=los-1_lang-en_curr-GBP"
+    }
+  ],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [
+    {
+      "title": "hospitality",
+      "count": 5
+    },
+    {
+      "title": "check-in",
+      "count": 4
+    },
+    {
+      "title": "management",
+      "count": 3
+    },
+    {
+      "title": "overbook",
+      "count": 3
+    },
+    {
+      "title": "receptionist",
+      "count": 3
+    },
+    {
+      "title": "customer",
+      "count": 3
+    },
+    {
+      "title": "service",
+      "count": 2
+    },
+    {
+      "title": "atmosphere",
+      "count": 2
+    },
+    {
+      "title": "scam",
+      "count": 2
+    },
+    {
+      "title": "walk",
+      "count": 2
+    }
+  ],
+  "additionalInfo": {
+    "Amenities": [
+      {
+        "Pool": false
+      },
+      {
+        "Laundry service": true
+      },
+      {
+        "Business centre": false
+      },
+      {
+        "Kitchens in some rooms": true
+      },
+      {
+        "Fitness centre": false
+      },
+      {
+        "Smoke-free": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=Townhouse%201348%20Casa%20Grand&query_place_id=ChIJB9nS7f5PMzoRk8ZG5GaP64g",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPZ2xfTlJUnDORuf_dKHfhtq84wjdTNHv2x2QK1=w408-h272-k-no",
+  "kgmid": "/g/11ldv_5sm5",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPZ2xfTlJUnDORuf_dKHfhtq84wjdTNHv2x2QK1=w1920-h1080-k-no",
+      "authorName": "Super Townhouse 1348 Casa Grand",
+      "authorUrl": "https://maps.google.com/maps/contrib/115664027277545472634",
+      "uploadedAt": "2024-04-09T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipPZ2xfTlJUnDORuf_dKHfhtq84wjdTNHv2x2QK1=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 3,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@18.04902180712801,79.43860592035969,15z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "Hotel Ashoka",
+  "subTitle": "హోటల్ అశోక",
+  "description": "Streamlined rooms in an unfussy property offering a bar & gym, plus free vegetarian breakfast.",
+  "price": "$38",
+  "categoryName": "Hotel",
+  "address": "Plot No 6, 1-242, Main Rd, Balasamudram, Hanamkonda, Telangana 506001, India",
+  "neighborhood": "Balasamudram",
+  "street": "Plot No 6, 1-242, Main Rd",
+  "city": "Hanamkonda",
+  "postalCode": "506001",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": "http://hotelashoka.in/",
+  "phone": null,
+  "phoneUnformatted": null,
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 18.0079341,
+    "lng": 79.567133
+  },
+  "locatedIn": null,
+  "plusCode": "2H58+5V Hanamkonda, Telangana, India",
+  "menu": null,
+  "totalScore": 3.8,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJz_UVg4NFMzoRWwKeCb777-U",
+  "categories": [
+    "Hotel"
+  ],
+  "fid": "0x3a3345838315f5cf:0xe5effbbe099e025b",
+  "cid": "16568738347743052379",
+  "reviewsCount": 8125,
+  "reviewsDistribution": {
+    "oneStar": 779,
+    "twoStar": 483,
+    "threeStar": 1415,
+    "fourStar": 2416,
+    "fiveStar": 3032
+  },
+  "imagesCount": 1809,
+  "imageCategories": [
+    "All",
+    "Rooms",
+    "Videos",
+    "Exterior",
+    "Amenities",
+    "Food & drink",
+    "From visitors",
+    "By owner",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T08:37:28.197Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": "3-star hotel",
+  "hotelDescription": null,
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "similarHotelsNearby": [
+    {
+      "name": "Hotel Shreya Warangal - Restaurants & Banquet Halls",
+      "rating": 3.9,
+      "reviews": 3220,
+      "description": "Also a 3-star hotel, for $12 less",
+      "price": "$26"
+    },
+    {
+      "name": "Hotel mango tree",
+      "rating": 4.6,
+      "reviews": 28,
+      "description": "Higher guest rating",
+      "price": "$44"
+    },
+    {
+      "name": "Landmark residency",
+      "rating": 3.4,
+      "reviews": 29,
+      "description": null,
+      "price": "$28"
+    },
+    {
+      "name": "Hotel Landmark",
+      "rating": 3.7,
+      "reviews": 2702,
+      "description": "Also a 3-star hotel, for $6 less",
+      "price": "$33"
+    },
+    {
+      "name": "Venkateshwara Mitra Residency",
+      "rating": 3.9,
+      "reviews": 815,
+      "description": "Also a 3-star hotel, for $20 less",
+      "price": "$19"
+    },
+    {
+      "name": "Suprabha Hotel,",
+      "rating": 3.8,
+      "reviews": 5243,
+      "description": "Casual hotel with dining & a coffee shop",
+      "price": "$45"
+    },
+    {
+      "name": "Papadams Blue Warangal",
+      "rating": 4,
+      "reviews": 5640,
+      "description": "Free Wi-Fi",
+      "price": null
+    },
+    {
+      "name": "OYO Mitra Residency",
+      "rating": 4,
+      "reviews": 356,
+      "description": "Free Wi-Fi",
+      "price": null
+    },
+    {
+      "name": "HOTEL THOUSAND PILLARS (3 Star)",
+      "rating": 4.8,
+      "reviews": 33395,
+      "description": "Free Wi-Fi and parking",
+      "price": null
+    }
+  ],
+  "hotelReviewSummary": null,
+  "hotelAds": [
+    {
+      "title": "Yatra.com",
+      "googleUrl": "http://www.google.com/travel/clk?pc=AA80OswcfjzUd3IgbBUbbDJQjmDJ0ZFJ6k7v7Iw41NEEwhBls0lgaIjhRIfxbMMMfTxip2XZNrHYrWKtsCnHUE-DxfHp0a_7tVPThgBi1bNNNJTClh9829rQWIacOG_cjqYbqM8DZwE3CDWDA0a2_G6yxtyIQRe3&pcurl=https://hotel.yatra.com/hotel-search/dom/details?tenant%3DGoogle_HPA%26ci%3DGHPA%26htlId%3DTGR-00049915%26city.name%3D%26checkinDate%3D02/11/2024%26checkoutDate%3D03/11/2024%26appType%3DHOTEL%26searchId%3D885bcbae-9e3f-4c89-9bd2-3161541b3088%26roomRequests%5B0%5D.id%3D1%26roomRequests%5B0%5D.noOfAdults%3D2%26hotelId%3D00049915%26htlSrchRank%3D1%26htlFindMthd%3Dchoose%2520room%26viewType%3Dlist%26chpFare%3D500%26excludeHotelTax%3Dfalse%26utm_content%3DX7UxYwokDmQAAyPQaPUAAAAw",
+      "isOfficialSite": false,
+      "price": "$38",
+      "url": "https://hotel.yatra.com/hotel-search/dom/details?tenant=Google_HPA&ci=GHPA&htlId=TGR-00049915&city.name=&checkinDate=02/11/2024&checkoutDate=03/11/2024&appType=HOTEL&searchId=885bcbae-9e3f-4c89-9bd2-3161541b3088&roomRequests[0].id=1&roomRequests[0].noOfAdults=2&hotelId=00049915&htlSrchRank=1&htlFindMthd=choose room&viewType=list&chpFare=500&excludeHotelTax=false&utm_content=X7UxYwokDmQAAyPQaPUAAAAw"
+    }
+  ],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [
+    {
+      "title": "taste",
+      "count": 145
+    },
+    {
+      "title": "veg",
+      "count": 66
+    },
+    {
+      "title": "biryani",
+      "count": 55
+    },
+    {
+      "title": "tiffins",
+      "count": 27
+    },
+    {
+      "title": "food quality",
+      "count": 26
+    },
+    {
+      "title": "spicy",
+      "count": 12
+    },
+    {
+      "title": "south indian food",
+      "count": 9
+    },
+    {
+      "title": "thousand pillar temple",
+      "count": 7
+    },
+    {
+      "title": "sambar",
+      "count": 5
+    },
+    {
+      "title": "masala",
+      "count": 5
+    }
+  ],
+  "additionalInfo": {
+    "Amenities": [
+      {
+        "Wi-Fi": true
+      },
+      {
+        "Free breakfast": true
+      },
+      {
+        "Parking": true
+      },
+      {
+        "Pool": true
+      },
+      {
+        "Air-conditioned": true
+      },
+      {
+        "Laundry service": true
+      },
+      {
+        "Pet-friendly": false
+      },
+      {
+        "Room service": true
+      },
+      {
+        "Restaurant": true
+      },
+      {
+        "Airport shuttle": false
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=Hotel%20Ashoka&query_place_id=ChIJz_UVg4NFMzoRWwKeCb777-U",
+  "imageUrl": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhG-M-rP9O-xvrU0ZkIaUudiJlYTILdF0cTN2bXaJxK5VJQ7H9raEuIEIoRGl5oS2kdsIf8Xo_wdgY6zS7AUpCIRG6LP1hPauUH6EacCVTNl6mdZzNWNOpUwpRzLHYTJfb2qMTqfQD3YJpKUlKu4bZr74A7xN8v6LcXDUq12Lz6PXGmsbg0GRkXXXkoUop1KowBl6w4=w426-h240-k-no",
+  "kgmid": "/g/1tctk62p",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhG-M-rP9O-xvrU0ZkIaUudiJlYTILdF0cTN2bXaJxK5VJQ7H9raEuIEIoRGl5oS2kdsIf8Xo_wdgY6zS7AUpCIRG6LP1hPauUH6EacCVTNl6mdZzNWNOpUwpRzLHYTJfb2qMTqfQD3YJpKUlKu4bZr74A7xN8v6LcXDUq12Lz6PXGmsbg0GRkXXXkoUop1KowBl6w4=w1920-h1080-k-no"
+    }
+  ],
+  "imageUrls": [
+    "https://lh3.googleusercontent.com/gps-proxy/ALd4DhG-M-rP9O-xvrU0ZkIaUudiJlYTILdF0cTN2bXaJxK5VJQ7H9raEuIEIoRGl5oS2kdsIf8Xo_wdgY6zS7AUpCIRG6LP1hPauUH6EacCVTNl6mdZzNWNOpUwpRzLHYTJfb2qMTqfQD3YJpKUlKu4bZr74A7xN8v6LcXDUq12Lz6PXGmsbg0GRkXXXkoUop1KowBl6w4=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 2,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@18.04902180712801,79.43860592035969,15z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "City Grand Hotel",
+  "subTitle": "సిటీ గ్రాండ్ హోటల్",
+  "description": "Unpretentious rooms & suites in a down-to-earth hotel offering a restaurant & Wi-Fi.",
+  "price": "$28",
+  "categoryName": "Hotel",
+  "address": "SVP Road, Rangampet Rd, Warangal, Telangana 506001, India",
+  "neighborhood": "Tadkamalla Village",
+  "street": "SVP Road, Rangampet Rd",
+  "city": "Warangal",
+  "postalCode": "506001",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": "+91 98493 07744",
+  "phoneUnformatted": "+919849307744",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 17.9978431,
+    "lng": 79.5870082
+  },
+  "locatedIn": null,
+  "plusCode": "XHXP+4R Warangal, Telangana, India",
+  "menu": null,
+  "totalScore": 3.5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJPzIW9QtFMzoRVKrp1TrhXS8",
+  "categories": [
+    "Hotel",
+    "Banquet hall",
+    "Restaurant"
+  ],
+  "fid": "0x3a33450bf516323f:0x2f5de13ad5e9aa54",
+  "cid": "3413131735429917268",
+  "reviewsCount": 2284,
+  "reviewsDistribution": {
+    "oneStar": 331,
+    "twoStar": 179,
+    "threeStar": 487,
+    "fourStar": 590,
+    "fiveStar": 697
+  },
+  "imagesCount": 656,
+  "imageCategories": [
+    "All",
+    "Rooms",
+    "Videos",
+    "Exterior",
+    "Food & drink",
+    "From visitors",
+    "By owner",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T08:37:32.667Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": "3-star hotel",
+  "hotelDescription": "On the NH3 road, this casual hotel is a 16-minute walk from the lakefront Bhadrakali Temple, 5 km from Warangal train station and 6 km from Warangal Fort.\n The unpretentious rooms have Wi-Fi, TVs and minibars; suites add sitting areas. Family rooms sleep up to 5 guests. Room service is available 24/7.\n There's a colourful international restaurant. A breakfast buffet and parking are available.",
+  "checkInDate": "2024-12-02",
+  "checkOutDate": "2024-12-03",
+  "similarHotelsNearby": [
+    {
+      "name": "Hotel Ratna",
+      "rating": 3.8,
+      "reviews": 4520,
+      "description": "Also a 3-star hotel, for $9 less",
+      "price": "$18"
+    },
+    {
+      "name": "SAI SRI INN",
+      "rating": 3.9,
+      "reviews": 370,
+      "description": null,
+      "price": "$23"
+    },
+    {
+      "name": "Hotel Shreya Warangal - Restaurants & Banquet Halls",
+      "rating": 3.9,
+      "reviews": 3220,
+      "description": "Also a 3-star hotel, for $2 less",
+      "price": "$26"
+    },
+    {
+      "name": "Sahasra DLA AC Convention Hall | AC Banquet Hall | AC Rooms",
+      "rating": 4.2,
+      "reviews": 222,
+      "description": "2-star hotel for $10 less",
+      "price": "$18"
+    },
+    {
+      "name": "Super Collection O Hotel Lakeview Castle",
+      "rating": 3.7,
+      "reviews": 149,
+      "description": null,
+      "price": "$14"
+    },
+    {
+      "name": "Star Lodge",
+      "rating": 3.4,
+      "reviews": 7,
+      "description": null,
+      "price": null
+    },
+    {
+      "name": "SPOT ON Vyshnavi Inn",
+      "rating": 3.5,
+      "reviews": 8,
+      "description": null,
+      "price": null
+    }
+  ],
+  "hotelReviewSummary": null,
+  "hotelAds": [
+    {
+      "title": "Agoda",
+      "googleUrl": "http://www.google.com/travel/clk?pc=AA80Osz7LOwx9WolpCkxy-WT3q3HLP-NBnj-JtlA_b77iot2ZjulW8Y4eq_z40Zc7dtfaLkKx3xgOcl5mwzAfB6WWNahj5QF8wcjRMbXZ19U5P-88DP3WAu5c2KTpTbj2eZGSCnSpg&pcurl=https://www.agoda.com/partners/partnersearch.aspx?site_id%3D1917614%26CkInDay%3D02%26CkInMonth%3D12%26CkInYear%3D2024%26CkOutDay%3D03%26campaignid%3D%26CkOutMonth%3D12%26CkOutYear%3D2024%26SearchDateType%3Ddefault%26NumberOfAdults%3D2%26LT%3D30%26NumberOfChildren%3D0%26childages%3D%26NumberOfRooms%3D1%26gsite%3Dmapresults%26los%3D1%26PartnerCurrency%3DINR%26hid%3D23796174%26RoomID%3D898862238%26masterRoomId%3D898862238%26PriceTax%3D3.33%26PriceTotal%3D31.08%26RatePlan%3D%26UserCountry%3DUS%26Currency%3DUSD%26UserDevice%3Ddesktop%26Verif%3Dfalse%26rr%3Drow_desktop%26audience_list%3D%26mcid%3D332%26booking_source%3Dcpc%26adType%3D0%26mpt%3DRE5HeHorU1R2ZHcwaXlvUzk2R3NPTkNXL08wQVRxQktWSzZXY0lqV2xqeWZIQT09%26original_rr%3DnonIN",
+      "isOfficialSite": false,
+      "price": "$31",
+      "url": "https://www.agoda.com/partners/partnersearch.aspx?site_id=1917614&CkInDay=02&CkInMonth=12&CkInYear=2024&CkOutDay=03&campaignid=&CkOutMonth=12&CkOutYear=2024&SearchDateType=default&NumberOfAdults=2&LT=30&NumberOfChildren=0&childages=&NumberOfRooms=1&gsite=mapresults&los=1&PartnerCurrency=INR&hid=23796174&RoomID=898862238&masterRoomId=898862238&PriceTax=3.33&PriceTotal=31.08&RatePlan=&UserCountry=US&Currency=USD&UserDevice=desktop&Verif=false&rr=row_desktop&audience_list=&mcid=332&booking_source=cpc&adType=0&mpt=RE5HeHorU1R2ZHcwaXlvUzk2R3NPTkNXL08wQVRxQktWSzZXY0lqV2xqeWZIQT09&original_rr=nonIN"
+    },
+    {
+      "title": "Bluepillow.com",
+      "googleUrl": "http://www.google.com/travel/clk?pc=AA80OsyhqrvGFj71Nc0dDp39dbboRyyze_hCAhGvEjRhdIN2_PQqajNbEfjEZsv6GGTh75b8UgxrcZsXy7NqqueozBInfrjrjBhnjesC45Q5X-BgzPV5cRNokNrW_0nj36Fj-w&pcurl=https://www.bluepillow.com/checkout/61828a229e3163a56a2713ea?begin%3D2024-12-02%26end%3D2024-12-03%26block_id%3D-b,o-NfrKQZXlbqL1DZazh9H9W4K6T_HYnvgDIOWbbDrB4,-bpag-Vacation%2520rental%2520(other)%26adults%3D2%26childs%3D0%26infants%3D0%26childrens%3D0%26country%3DUS%26currency%3DUSD%26language%3Den%26source%3Dmapresults%26utm_campaign%3Dhotel%26prid%3Dforeign",
+      "isOfficialSite": false,
+      "price": "$32",
+      "url": "https://www.bluepillow.com/checkout/61828a229e3163a56a2713ea?begin=2024-12-02&end=2024-12-03&block_id=-b,o-NfrKQZXlbqL1DZazh9H9W4K6T_HYnvgDIOWbbDrB4,-bpag-Vacation rental (other)&adults=2&childs=0&infants=0&childrens=0&country=US&currency=USD&language=en&source=mapresults&utm_campaign=hotel&prid=foreign"
+    },
+    {
+      "title": "Trip.com",
+      "googleUrl": "http://www.google.com/travel/clk?pc=AA80OsxKXjV0EOO4rSpU3PAdIhqZ04Zq0Hnmbw02rcmvts3LCUqsHnrvQEWPekwooUHr4CgvkkPgMY9VU5sLGrS58zCwhH_pbmSJmxIBqjLk4iL8LWY_SBxrl4R7CvU&pcurl=https://us.trip.com/hotels/redirect?hotelid%3D28773627%26city%3D87647%26shoppingid%3DMUDgbvIaOU3y%26adult%3D2%26children%3D0%26ages%3D%26checkin%3D2024-12-02%26checkout%3D2024-12-03%26curr%3DUSD%26Allianceid%3D15214%26Sid%3D1209572%26prid%3DLANG_US%26trip_sub1%3D02_12_2024_1_mapresults_28773627_US_desktop_default___0_0-LANG_US-landing%26hpaopts%3Dstand%5BH4sIAAAAAAAA_-Ny5WKSYBJi4mCUsua4e2vWG1YhRiODHfwWfdkBHDMYf8-8w7uCkXEHI9NFxmqRde4Pd9k7PGRsfR24Q-6oo8MLxm_NH94wLmBhlOLxDXVJTyrzTPQPNa5UYNRY0jV9J5sHYxCbs5Oho6F5lAwXc2iwi6D4zXPfg5tlHKRAPEUYL4k1NU83NDjjk0AXI5MH4ypGdi5mAyNDAaZPjPzI5sYbmwMA4_vMlrAAAAA%5Dfgt%5B1%5D%26br%3D35.54%26tf%3D3.81%26display%3Dexavg%26locale%3Den_us%26crn%3D1%26roomid%3D1569107293",
+      "isOfficialSite": false,
+      "price": "$36",
+      "url": "https://us.trip.com/hotels/redirect?hotelid=28773627&city=87647&shoppingid=MUDgbvIaOU3y&adult=2&children=0&ages=&checkin=2024-12-02&checkout=2024-12-03&curr=USD&Allianceid=15214&Sid=1209572&prid=LANG_US&trip_sub1=02_12_2024_1_mapresults_28773627_US_desktop_default___0_0-LANG_US-landing&hpaopts=stand[H4sIAAAAAAAA_-Ny5WKSYBJi4mCUsua4e2vWG1YhRiODHfwWfdkBHDMYf8-8w7uCkXEHI9NFxmqRde4Pd9k7PGRsfR24Q-6oo8MLxm_NH94wLmBhlOLxDXVJTyrzTPQPNa5UYNRY0jV9J5sHYxCbs5Oho6F5lAwXc2iwi6D4zXPfg5tlHKRAPEUYL4k1NU83NDjjk0AXI5MH4ypGdi5mAyNDAaZPjPzI5sYbmwMA4_vMlrAAAAA]fgt[1]&br=35.54&tf=3.81&display=exavg&locale=en_us&crn=1&roomid=1569107293"
+    },
+    {
+      "title": "Vio.com",
+      "googleUrl": "http://www.google.com/travel/clk?pc=AA80OsymANzv0gHV2zz6W92eoZtnopCElMqv7bmEd7g57uDZBk6-RF4kIl_ub02Xpix1ZOuQTfeSW1pbD2DTIu3iC7wAWpyupb5DtGSKaO1TnN9PdM_9HxdwgVr3cL1cuR36&pcurl=https://deals.vio.com/?sig%3D73aca13c7f952d2641c156f3e69125e1eb497c325f122828ee5aa8797168b9a12d32303331333438363233%26turl%3Dhttps%253A%252F%252Fwww.vio.com%252FHotel%252FSearch%253FcheckIn%253D2024-12-02%2526checkOut%253D2024-12-03%2526curr%253DUSD%2526forceCurrencyChange%253D1%2526lang%253Den%2526forceLanguageChange%253D1%2526rooms%253D2%253A%2526utm_source%253Dgha%2526utm_medium%253Dcpc%2526hotelId%253D9701689%2526userCountry%253DUS%2526profile%253Dr2d2m73kn8%2526preferredRate%253D35.54%2526label%253Dsrc%25253Dgha%252526cltype%25253Dhotel%252526datype%25253Ddefault%252526gsite%25253Dmapresults%252526ucountry%25253DUS%252526udevice%25253Ddesktop%252526hotel%25253D9701689%252526day%25253D02%252526month%25253D12%252526year%25253D2024%252526los%25253D1%252526price%25253D35.54%252526currency%25253DUSD%252526cid%25253D%252526listid%25253D%252526rateid%25253DUS%252526closerateid%25253D%252526promo%25253D0%252526isPrivateRate%25253D0%252526isAudienceUser%25253D0%252526isPaidClick%25253D0%252526_th%25253Ddf7c8bb0e90de48235543d61dacd2155d3f3c04e0b633b76%252526dts%25253D1730533428%252526query%25253D3%2526epv%253DMS4y%2526esd%253DtgIYZZIH2BJXCB0bzErsqpRAIZ1ofzeRYkliOAGg7LP3WIMRQoKKdC0oiLblkJfZtykuagNUyYilJcMW9HqqktCgB7KXj1x7W7oZ7B89Ad8sVlMNL3RisoIEWA%25253D%25253D%2526oti%253DmaxRoVgnUkM",
+      "isOfficialSite": false,
+      "price": "$36",
+      "url": "https://deals.vio.com/?sig=73aca13c7f952d2641c156f3e69125e1eb497c325f122828ee5aa8797168b9a12d32303331333438363233&turl=https://www.vio.com/Hotel/Search?checkIn=2024-12-02&checkOut=2024-12-03&curr=USD&forceCurrencyChange=1&lang=en&forceLanguageChange=1&rooms=2:&utm_source=gha&utm_medium=cpc&hotelId=9701689&userCountry=US&profile=r2d2m73kn8&preferredRate=35.54&label=src%3Dgha%26cltype%3Dhotel%26datype%3Ddefault%26gsite%3Dmapresults%26ucountry%3DUS%26udevice%3Ddesktop%26hotel%3D9701689%26day%3D02%26month%3D12%26year%3D2024%26los%3D1%26price%3D35.54%26currency%3DUSD%26cid%3D%26listid%3D%26rateid%3DUS%26closerateid%3D%26promo%3D0%26isPrivateRate%3D0%26isAudienceUser%3D0%26isPaidClick%3D0%26_th%3Ddf7c8bb0e90de48235543d61dacd2155d3f3c04e0b633b76%26dts%3D1730533428%26query%3D3&epv=MS4y&esd=tgIYZZIH2BJXCB0bzErsqpRAIZ1ofzeRYkliOAGg7LP3WIMRQoKKdC0oiLblkJfZtykuagNUyYilJcMW9HqqktCgB7KXj1x7W7oZ7B89Ad8sVlMNL3RisoIEWA%3D%3D&oti=maxRoVgnUkM"
+    },
+    {
+      "title": "Priceline",
+      "googleUrl": "http://www.google.com/travel/clk?pc=AA80OsyyvcAsmYjSffzJv4N29ofp3Dx2TsIKm1UfdY7d4G_0tzt3joY4XKFux8QRWvP6iFJvqkX50yfrOypFRW_Mp_VeU_Z4QfGa9DevMyBjkbT97iCgHmE6LZ6c-Qsv1yYRgzpkfZnU2vg&pcurl=https://www.priceline.com/r/?channel%3Dmeta%26product%3Dhotel%26theme%3Dghalistings%26refid%3DPLGOOGLEMSS%26refclickid%3DUS_HP%257C146475804_mapresults_1%257C20241202%257Cdesktop%257Cdefaultdate%7C17317038%7C%7C%7C30%257C2%257C0%7C0%7CEN%26hotelid%3D146475804%26checkin%3D20241202%26checkout%3D20241203%26rooms%3D1%26currency%3DINR%26displayedCurr%3DUSD%26POSCountryCode%3DUS%26taxDisplayMode%3DBP%26cityID%3D5000142204%26adults%3D2%26land%3DL%26metaid%3DF214BFCiQ4umfOOi24NbuMFmMWijSAuFKL1XFcuOWceMaQVa6W4P_AuaUA3cnoKgaQa1dAahpbCFpPNCVZFHIfnrpsVXonoxcUos9nrY7t5k63Dw_CekmWzyUO1vE9DUw9o8UNe3boSI-G_dagLPdhsnlQ8-c0PqOLeo7Bjo8DqgundOWPQpZ2XPM-w0MqoQ_-XPwY2U5Qe6rSW6jy9d2zdU2QnjJzPph5G3SdHjxPcpUMmugqFX-lGS4OQD_I94UqMKtiyTrzamW7TpIRa_vwaStLKV3QTZtifmTkdEagAfanFK4eX2GTXZFmRC3EZ-JJy2YMW4QA3qqBOeBxltcdNVQKxz12FjuqqBP45J-4g%26dblcnt%3Dtrue%26user_num_adults%3D2%26pdtax%3D4.92%26pdt%3D34.41%26locale%3Den-us%26ad-src%3D",
+      "isOfficialSite": false,
+      "price": "$34",
+      "url": "https://www.priceline.com/r/?channel=meta&product=hotel&theme=ghalistings&refid=PLGOOGLEMSS&refclickid=US_HP|146475804_mapresults_1|20241202|desktop|defaultdate|17317038|||30|2|0|0|EN&hotelid=146475804&checkin=20241202&checkout=20241203&rooms=1&currency=INR&displayedCurr=USD&POSCountryCode=US&taxDisplayMode=BP&cityID=5000142204&adults=2&land=L&metaid=F214BFCiQ4umfOOi24NbuMFmMWijSAuFKL1XFcuOWceMaQVa6W4P_AuaUA3cnoKgaQa1dAahpbCFpPNCVZFHIfnrpsVXonoxcUos9nrY7t5k63Dw_CekmWzyUO1vE9DUw9o8UNe3boSI-G_dagLPdhsnlQ8-c0PqOLeo7Bjo8DqgundOWPQpZ2XPM-w0MqoQ_-XPwY2U5Qe6rSW6jy9d2zdU2QnjJzPph5G3SdHjxPcpUMmugqFX-lGS4OQD_I94UqMKtiyTrzamW7TpIRa_vwaStLKV3QTZtifmTkdEagAfanFK4eX2GTXZFmRC3EZ-JJy2YMW4QA3qqBOeBxltcdNVQKxz12FjuqqBP45J-4g&dblcnt=true&user_num_adults=2&pdtax=4.92&pdt=34.41&locale=en-us&ad-src="
+    },
+    {
+      "title": "goseek.com",
+      "googleUrl": "http://www.google.com/travel/clk?pc=AA80OsyA8E38BgxhPBIH5KNAHH6zSA9xxbJ6ZouKEN1NehLLaEaC2gUL1XXgU_MACDiuWCZVHd1K-viDahQwnZy2aQw-HQ9UWJWm7T3dWs2LqQNGVP_wAVg19wLGXbDKpcNEc46d3yEBFw&pcurl=https://deals.goseek.com/?sig%3D34c47a49c3e8320dca5a5dda0da2a460c1bc23afde972e2894a4ff0b6052fb53383131303836353931%26turl%3Dhttps%253A%252F%252Fwww.goseek.com%252FHotel%252FSearch%253FcheckIn%253D2024-12-02%2526checkOut%253D2024-12-03%2526curr%253DUSD%2526forceCurrencyChange%253D1%2526lang%253Den%2526forceLanguageChange%253D1%2526rooms%253D2%253A%2526utm_source%253Dgha%2526utm_medium%253Dcpc%2526hotelId%253D9701689%2526userCountry%253DUS%2526profile%253Dr2d2m73kn8%2526preferredRate%253D35.54%2526label%253Dsrc%25253Dgha%252526cltype%25253Dhotel%252526datype%25253Ddefault%252526gsite%25253Dmapresults%252526ucountry%25253DUS%252526udevice%25253Ddesktop%252526hotel%25253D9701689%252526day%25253D02%252526month%25253D12%252526year%25253D2024%252526los%25253D1%252526price%25253D35.54%252526currency%25253DUSD%252526cid%25253D%252526listid%25253D%252526rateid%25253DUS%252526closerateid%25253D%252526promo%25253D0%252526isPrivateRate%25253D0%252526isAudienceUser%25253D0%252526isPaidClick%25253D0%252526_th%25253Ddf7c8bb0e90de48235543d61dacd2155d3f3c04e0b633b76%252526dts%25253D1730533428%252526query%25253D3%2526epv%253DMS4y%2526esd%253DtgIYZZIH2BJXCB0bzErsqpRAIZ1ofzeRYkliOAGg7LP3WIMRQoKKdC0oiLblkJfZtykuagNUyYilJcMW9HqqktCgB7KXj1x7W7oZ7B89Ad8sVlMNL3RisoIEWA%25253D%25253D%2526oti%253DmaxRoVgnUkM",
+      "isOfficialSite": false,
+      "price": "$36",
+      "url": "https://deals.goseek.com/?sig=34c47a49c3e8320dca5a5dda0da2a460c1bc23afde972e2894a4ff0b6052fb53383131303836353931&turl=https://www.goseek.com/Hotel/Search?checkIn=2024-12-02&checkOut=2024-12-03&curr=USD&forceCurrencyChange=1&lang=en&forceLanguageChange=1&rooms=2:&utm_source=gha&utm_medium=cpc&hotelId=9701689&userCountry=US&profile=r2d2m73kn8&preferredRate=35.54&label=src%3Dgha%26cltype%3Dhotel%26datype%3Ddefault%26gsite%3Dmapresults%26ucountry%3DUS%26udevice%3Ddesktop%26hotel%3D9701689%26day%3D02%26month%3D12%26year%3D2024%26los%3D1%26price%3D35.54%26currency%3DUSD%26cid%3D%26listid%3D%26rateid%3DUS%26closerateid%3D%26promo%3D0%26isPrivateRate%3D0%26isAudienceUser%3D0%26isPaidClick%3D0%26_th%3Ddf7c8bb0e90de48235543d61dacd2155d3f3c04e0b633b76%26dts%3D1730533428%26query%3D3&epv=MS4y&esd=tgIYZZIH2BJXCB0bzErsqpRAIZ1ofzeRYkliOAGg7LP3WIMRQoKKdC0oiLblkJfZtykuagNUyYilJcMW9HqqktCgB7KXj1x7W7oZ7B89Ad8sVlMNL3RisoIEWA%3D%3D&oti=maxRoVgnUkM"
+    },
+    {
+      "title": "MakeMyTrip.com",
+      "googleUrl": "http://www.google.com/travel/clk?pc=AA80OszP-ZlhZAX1gyoBXBLmgkXrpPlHWquXHr6YQFupOYYye4l9g6RBHOowKNZIDO9qZg5zX3gCmY1qp8ZoqB0ClPdBTOC_hhMAQksfuPw6oEM0Qjpt5Z1tBDyC_hIS7tJWCA&pcurl=https://www.makemytrip.com/hotels/hotel-listing/?topHtlId%3D202103251206307879%26city%3DCTWAR%26country%3DIN%26checkin%3D12022024%26checkout%3D12032024%26rsc%3D1e2e%26roomStayQualifier%3D2e0e%26totalGuestCount%3D2%26roomCount%3D1%26cmp%3Dgooglehoteldfinder_DH_META_Free_default_US_mapresults_202103251206307879%26_uCurrency%3DUSD%26Campaign%3D%26locusId%3DCTWAR%26locusType%3Dcity%26priceby%3DPNS%26mtkeys%3D4b20e431-d521-432e-8d6e-0b0375f81607%26au%3D",
+      "isOfficialSite": false,
+      "price": "$40",
+      "url": "https://www.makemytrip.com/hotels/hotel-listing/?topHtlId=202103251206307879&city=CTWAR&country=IN&checkin=12022024&checkout=12032024&rsc=1e2e&roomStayQualifier=2e0e&totalGuestCount=2&roomCount=1&cmp=googlehoteldfinder_DH_META_Free_default_US_mapresults_202103251206307879&_uCurrency=USD&Campaign=&locusId=CTWAR&locusType=city&priceby=PNS&mtkeys=4b20e431-d521-432e-8d6e-0b0375f81607&au="
+    }
+  ],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [
+    {
+      "title": "taste",
+      "count": 41
+    },
+    {
+      "title": "biryani",
+      "count": 20
+    },
+    {
+      "title": "management",
+      "count": 18
+    },
+    {
+      "title": "veg",
+      "count": 14
+    },
+    {
+      "title": "room service",
+      "count": 14
+    },
+    {
+      "title": "dinner",
+      "count": 11
+    },
+    {
+      "title": "food quality",
+      "count": 10
+    },
+    {
+      "title": "hygiene",
+      "count": 10
+    },
+    {
+      "title": "mosquitoes",
+      "count": 6
+    },
+    {
+      "title": "moksha",
+      "count": 6
+    }
+  ],
+  "additionalInfo": {
+    "Amenities": [
+      {
+        "Free Wi-Fi": true
+      },
+      {
+        "Free breakfast": true
+      },
+      {
+        "Free parking": true
+      },
+      {
+        "Accessible": true
+      },
+      {
+        "Pool": false
+      },
+      {
+        "Air-conditioned": true
+      },
+      {
+        "Laundry service": true
+      },
+      {
+        "Business center": true
+      },
+      {
+        "Pet-friendly": false
+      },
+      {
+        "Room service": true
+      },
+      {
+        "Kid-friendly": true
+      },
+      {
+        "Restaurant": true
+      },
+      {
+        "Airport shuttle": false
+      },
+      {
+        "Fitness center": false
+      },
+      {
+        "Smoke-free": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=City%20Grand%20Hotel&query_place_id=ChIJPzIW9QtFMzoRVKrp1TrhXS8",
+  "imageUrl": "https://cdn.worldota.net/t/1024x768/content/80/ea/80ea54643c4cb6a9527abc422bd679b9385ee69c.jpeg",
+  "kgmid": "/g/1w0qzbbb",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://cdn.worldota.net/t/1024x768/content/80/ea/80ea54643c4cb6a9527abc422bd679b9385ee69c.jpeg"
+    }
+  ],
+  "imageUrls": [
+    "https://cdn.worldota.net/t/1024x768/content/80/ea/80ea54643c4cb6a9527abc422bd679b9385ee69c.jpeg"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 1,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@18.04902180712801,79.43860592035969,15z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "Suprabha Hotel,",
+  "subTitle": "సుప్రభ హోటల్,",
+  "description": "Simple rooms in a down-to-earth hotel offering an informal restaurant & a coffee shop.",
+  "price": "$45",
+  "categoryName": "Hotel",
+  "address": "1-8-540 1, Nakkala Gutta, Hanamkonda, Telangana 506001, India",
+  "neighborhood": "Nakkala Gutta",
+  "street": "1-8-540 1",
+  "city": "Hanamkonda",
+  "postalCode": "506001",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": "https://www.suprabhahotel.com/",
+  "phone": "+91 77027 83333",
+  "phoneUnformatted": "+917702783333",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 18.0001864,
+    "lng": 79.5557792
+  },
+  "locatedIn": null,
+  "plusCode": "2H24+38 Hanamkonda, Telangana, India",
+  "menu": null,
+  "totalScore": 3.8,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJByqtBn9PMzoRA5sSGn560o0",
+  "categories": [
+    "Hotel"
+  ],
+  "fid": "0x3a334f7f06ad2a07:0x8dd27a7e1a129b03",
+  "cid": "10219365186478971651",
+  "reviewsCount": 5244,
+  "reviewsDistribution": {
+    "oneStar": 532,
+    "twoStar": 300,
+    "threeStar": 874,
+    "fourStar": 1540,
+    "fiveStar": 1998
+  },
+  "imagesCount": 1974,
+  "imageCategories": [
+    "All",
+    "Latest",
+    "Videos",
+    "Rooms",
+    "Exterior",
+    "Amenities",
+    "Food & drink",
+    "From visitors",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T08:37:34.250Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": "3-star hotel",
+  "hotelDescription": "Amid shops and restaurants lining National Highway 163, this down-to-earth hotel is 18 minutes' walk from the Kakatiya Zoological Park and 3 km from the 12th-century Thousand Pillar Temple.\n The casual, simply furnished rooms come with Wi-Fi access and TVs. Some add sitting areas. Room service is offered.\n Amenities include an informal restaurant, as well as a coffee shop. Event space is available.",
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "similarHotelsNearby": [
+    {
+      "name": "Landmark residency",
+      "rating": 3.4,
+      "reviews": 29,
+      "description": null,
+      "price": "$28"
+    },
+    {
+      "name": "Hotel Landmark",
+      "rating": 3.7,
+      "reviews": 2702,
+      "description": "Also a 3-star hotel, for $13 less",
+      "price": "$33"
+    },
+    {
+      "name": "Hotel Shreya Warangal - Restaurants & Banquet Halls",
+      "rating": 3.9,
+      "reviews": 3220,
+      "description": "Also a 3-star hotel, for $19 less",
+      "price": "$26"
+    },
+    {
+      "name": "Hotel Ashoka",
+      "rating": 3.8,
+      "reviews": 8124,
+      "description": "Also a 3-star hotel, for $7 less",
+      "price": "$38"
+    },
+    {
+      "name": "HOTEL THOUSAND PILLARS (3 Star)",
+      "rating": 4.8,
+      "reviews": 33395,
+      "description": "Free breakfast, Wi-Fi, and parking",
+      "price": null
+    },
+    {
+      "name": "Papadams Blue Warangal",
+      "rating": 4,
+      "reviews": 5640,
+      "description": "Free breakfast and Wi-Fi",
+      "price": null
+    },
+    {
+      "name": "HOTEL ML GRAND",
+      "rating": 4.3,
+      "reviews": 125,
+      "description": "Free Wi-Fi",
+      "price": null
+    }
+  ],
+  "hotelReviewSummary": null,
+  "hotelAds": [
+    {
+      "title": "Yatra.com",
+      "googleUrl": "http://www.google.com/travel/clk?pc=AA80OszsylvDgntFpSBfz5mjZtPsmbFyhXc7E6_WpDkxHmaoOCtbgml3Cayx49U0IwkjvOGaECV_lj4IFVr_fKz5mZn6m13FGrVddNN96WSLLDoC69ocdXYpSgbecp5yMFdVRQzuFtVUU5dUEdsWXGLvkFvA2ThH&pcurl=https://hotel.yatra.com/hotel-search/dom/details?tenant%3DGoogle_HPA%26ci%3DGHPA%26htlId%3DTGR-00028817%26city.name%3D%26checkinDate%3D02/11/2024%26checkoutDate%3D03/11/2024%26appType%3DHOTEL%26searchId%3D885bcbae-9e3f-4c89-9bd2-3161541b3088%26roomRequests%5B0%5D.id%3D1%26roomRequests%5B0%5D.noOfAdults%3D2%26hotelId%3D00028817%26htlSrchRank%3D1%26htlFindMthd%3Dchoose%2520room%26viewType%3Dlist%26chpFare%3D500%26excludeHotelTax%3Dfalse%26utm_content%3DX7UxYwokDmQAAyPQaPUAAAAw",
+      "isOfficialSite": false,
+      "price": "$55",
+      "url": "https://hotel.yatra.com/hotel-search/dom/details?tenant=Google_HPA&ci=GHPA&htlId=TGR-00028817&city.name=&checkinDate=02/11/2024&checkoutDate=03/11/2024&appType=HOTEL&searchId=885bcbae-9e3f-4c89-9bd2-3161541b3088&roomRequests[0].id=1&roomRequests[0].noOfAdults=2&hotelId=00028817&htlSrchRank=1&htlFindMthd=choose room&viewType=list&chpFare=500&excludeHotelTax=false&utm_content=X7UxYwokDmQAAyPQaPUAAAAw"
+    },
+    {
+      "title": "Cleartrip.com",
+      "googleUrl": "http://www.google.com/travel/clk?pc=AA80OszEEKw_DkdbihtMNVtCFOWQMIgIMmZpj7RVLc0xZ4ndrOeU5SStsz__Nvf4UhIT_4P1M7NPUhGg69D-l4T-znajY0-0Up7TBegiY9w1mpWseNBVJXpq5dMkf4qOJdUh-UGCG2G-KYQ&pcurl=https://www.cleartrip.com/hotels/results?hotelId%3D3958148%26chk_in%3D02/11/2024%26chk_out%3D03/11/2024%26utm_source%3DGoogleHPA%26utm_campaign%3D3958148%26utm_medium%3D%26adults%3D2%26childs%3D0%26num_rooms%3D1%26adults1%3D2%26children1%3D0%26xtm_source%3Dgoogle%26xtm_content%3D%26xtm_medium%3D%26xs%3DGoogleHPA%26xm%3Dhc-v2-1562831241",
+      "isOfficialSite": false,
+      "price": "$54",
+      "url": "https://www.cleartrip.com/hotels/results?hotelId=3958148&chk_in=02/11/2024&chk_out=03/11/2024&utm_source=GoogleHPA&utm_campaign=3958148&utm_medium=&adults=2&childs=0&num_rooms=1&adults1=2&children1=0&xtm_source=google&xtm_content=&xtm_medium=&xs=GoogleHPA&xm=hc-v2-1562831241"
+    },
+    {
+      "title": "MakeMyTrip.com",
+      "googleUrl": "http://www.google.com/travel/clk?pc=AA80OsxX4uL5a6HGt6XUL0TcyfS72K6_TiWSAzktGR_8gI1Qu6wRKY3XfKwG5_vfvRSPsEmzoNs6cDRKlCSFqUkZXyYrrR01AJ6UHPz8fiC1m4pVVutph2PAgbybClS3Q4qW8A&pcurl=https://www.makemytrip.com/hotels/hotel-listing/?topHtlId%3D202106162301421020%26city%3DCTWAR%26country%3DIN%26checkin%3D11022024%26checkout%3D11032024%26rsc%3D1e2e%26roomStayQualifier%3D2e0e%26totalGuestCount%3D2%26roomCount%3D1%26cmp%3Dgooglehoteldfinder_DH_META_Free_default_US_mapresults_202106162301421020%26_uCurrency%3DUSD%26Campaign%3D%26locusId%3DCTWAR%26locusType%3Dcity%26priceby%3DPNS%26mtkeys%3D18872528-2897-4db1-96ab-4f3cb87f494b%26au%3D",
+      "isOfficialSite": false,
+      "price": "$59",
+      "url": "https://www.makemytrip.com/hotels/hotel-listing/?topHtlId=202106162301421020&city=CTWAR&country=IN&checkin=11022024&checkout=11032024&rsc=1e2e&roomStayQualifier=2e0e&totalGuestCount=2&roomCount=1&cmp=googlehoteldfinder_DH_META_Free_default_US_mapresults_202106162301421020&_uCurrency=USD&Campaign=&locusId=CTWAR&locusType=city&priceby=PNS&mtkeys=18872528-2897-4db1-96ab-4f3cb87f494b&au="
+    }
+  ],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [
+    {
+      "title": "Food & Drink",
+      "count": 1
+    }
+  ],
+  "reviewsTags": [
+    {
+      "title": "quality",
+      "count": 51
+    },
+    {
+      "title": "biryani",
+      "count": 36
+    },
+    {
+      "title": "behaviour",
+      "count": 27
+    },
+    {
+      "title": "food and service",
+      "count": 21
+    },
+    {
+      "title": "average",
+      "count": 17
+    },
+    {
+      "title": "hygienic",
+      "count": 16
+    },
+    {
+      "title": "bill",
+      "count": 10
+    },
+    {
+      "title": "banquet",
+      "count": 7
+    },
+    {
+      "title": "onion",
+      "count": 6
+    },
+    {
+      "title": "good service",
+      "count": 6
+    }
+  ],
+  "additionalInfo": {},
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": {
+    "postDate": "2 years ago",
+    "postedBy": {
+      "totalReviews": null
+    },
+    "media": []
+  },
+  "url": "https://www.google.com/maps/search/?api=1&query=Suprabha%20Hotel%2C&query_place_id=ChIJByqtBn9PMzoRA5sSGn560o0",
+  "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/b2/51/7f/petrol-station-and-the.jpg?w=1900&h=1400&s=1",
+  "kgmid": "/g/11sd9pgcwk",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/b2/51/7f/petrol-station-and-the.jpg?w=1900&h=1400&s=1"
+    }
+  ],
+  "imageUrls": [
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/b2/51/7f/petrol-station-and-the.jpg?w=1900&h=1400&s=1"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+}]

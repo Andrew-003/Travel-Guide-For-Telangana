@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+     xmlns:android="http://schemas.android.com/apk/res/android"
+     android:layout_height="wrap_content"
+     android:layout_width="match_parent"
+    android:id="@+id/bottom_sheet"
+     android:background="?android:attr/windowBackground"
+     android:padding="16dp"
+     android:orientation="vertical"
+     android:layout_gravity="bottom">
+
+    <LinearLayout
+         android:layout_height="wrap_content"
+         android:layout_width="match_parent"
+         android:weightSum="2"
+         android:orientation="horizontal">
+
+        <TextView
+             android:layout_height="wrap_content"
+             android:layout_width="wrap_content"
+             android:paddingEnd="8dp"
+             android:layout_weight="1"
+             android:text="Time" />
+
+        <EditText
+             android:layout_height="wrap_content"
+             android:layout_width="0dp"
+             android:hint="Enter time"
+             android:layout_weight="1"
+             android:inputType="text"
+            android:textColor="@color/black"
+            android:background="@drawable/box_bg"
+             android:id="@+id/editTextTime" />
+
+    </LinearLayout>
+
+    <LinearLayout
+         android:layout_height="wrap_content"
+         android:layout_width="match_parent"
+         android:weightSum="2"
+         android:orientation="horizontal"
+         android:paddingTop="8dp">
+
+        <TextView
+             android:layout_height="wrap_content"
+             android:layout_width="wrap_content"
+             android:paddingEnd="8dp"
+             android:layout_weight="1"
+             android:text="Price" />
+
+        <EditText
+             android:layout_height="wrap_content"
+             android:layout_width="0dp"
+             android:hint="Enter price"
+             android:layout_weight="1"
+             android:inputType="numberDecimal"
+            android:background="@drawable/box_bg"
+            android:textColor="@color/black"
+             android:id="@+id/editTextPrice" />
+
+    </LinearLayout>
+
+    <Button
+         android:layout_height="wrap_content"
+         android:layout_width="match_parent"
+         android:layout_marginTop="16dp"
+         android:id="@+id/buttonGetLocation"
+        android:textColor="@color/white"
+        android:backgroundTint="@color/button_blue"
+         android:text="Get Location" />
+
+    <TextView
+         android:layout_height="wrap_content"
+         android:layout_width="match_parent"
+         android:gravity="center"
+         android:id="@+id/textCoordinates"
+         android:text="Coordinates: Not available"
+         android:paddingTop="8dp" />
+
+    <Button
+         android:layout_height="wrap_content"
+         android:layout_width="match_parent"
+         android:layout_marginTop="16dp"
+         android:id="@+id/buttonFilter"
+        android:textColor="@color/white"
+        android:backgroundTint="@color/button_blue"
+         android:text="Filter" />
+
+</LinearLayout>

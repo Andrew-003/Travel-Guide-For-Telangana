@@ -1,0 +1,2223 @@
+[{
+  "reviewTags": [],
+  "id": "10089902",
+  "type": "ATTRACTION",
+  "category": "attraction",
+  "subcategories": [
+    "Sights & Landmarks"
+  ],
+  "name": "Inavolu Mallanna Temple",
+  "locationString": "Warangal, Warangal (Urban) District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0c/88/57/33/at-jathara-time.jpg",
+  "photoCount": 2,
+  "rankingPosition": 18,
+  "rating": 4.5,
+  "rawRanking": 2.788813591003418,
+  "phone": null,
+  "address": "Inavolu Village, Warangal India",
+  "addressObj": {
+    "street1": null,
+    "street2": "Inavolu Village",
+    "city": "Warangal",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": null
+  },
+  "localName": "Inavolu Mallanna Temple",
+  "localAddress": "Inavolu Village",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": null,
+  "longitude": null,
+  "webUrl": "https://www.tripadvisor.com/Attraction_Review-g735768-d10089902-Reviews-Inavolu_Mallanna_Temple-Warangal_Warangal_Urban_District_Telangana.html",
+  "website": null,
+  "rankingString": "#18 of 29 things to do in Warangal",
+  "rankingDenominator": "29",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "735768",
+      "name": "Warangal",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389621",
+      "name": "Warangal (Urban) District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 1,
+    "count4": 3,
+    "count5": 3
+  },
+  "numberOfReviews": 7,
+  "booking": null,
+  "offerGroup": null,
+  "subtype": [
+    "Sacred & Religious Sites"
+  ],
+  "isNearbyResult": false,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/0c/88/57/33/at-jathara-time.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0c/88/57/21/inavolu-mallikarjuna.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Warangal,attractions"
+},
+{
+  "id": "2357962",
+  "type": "ATTRACTION",
+  "category": "attraction",
+  "subcategories": [
+    "Sights & Landmarks"
+  ],
+  "name": "Sri Vidya Saraswathi Shani Temple",
+  "locationString": "Warangal, Warangal (Urban) District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/05/d1/9e/ba/sri-vidya-saraswathi.jpg",
+  "photoCount": 50,
+  "rankingPosition": 6,
+  "rating": 4.5,
+  "rawRanking": 3.012829065322876,
+  "phone": "+91 92481 51122",
+  "address": "1-6-15, Gaddi Annaram, Warangal 502279 India",
+  "addressObj": {
+    "street1": "1-6-15, Gaddi Annaram",
+    "street2": null,
+    "city": "Warangal",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "502279"
+  },
+  "localName": "Sri Vidya Saraswathi Shani Temple",
+  "localAddress": "1-6-15, Gaddi Annaram, 502279",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.76979,
+  "longitude": 78.621155,
+  "webUrl": "https://www.tripadvisor.com/Attraction_Review-g735768-d2357962-Reviews-Sri_Vidya_Saraswathi_Shani_Temple-Warangal_Warangal_Urban_District_Telangana.html",
+  "website": "https://srivargalvidyasaraswathi.org/contact-us/",
+  "rankingString": "#6 of 29 things to do in Warangal",
+  "rankingDenominator": "29",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "735768",
+      "name": "Warangal",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389621",
+      "name": "Warangal (Urban) District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 3,
+    "count4": 16,
+    "count5": 15
+  },
+  "numberOfReviews": 34,
+  "booking": null,
+  "offerGroup": null,
+  "subtype": [
+    "Sacred & Religious Sites"
+  ],
+  "isNearbyResult": false,
+  "reviewTags": [
+    {
+      "text": "temple",
+      "reviews": 29
+    }
+  ],
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/12/a7/9e/fa/wargal-saraswti-devi.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/02/32/a6/e5/sri-vidya-saraswathi.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/19/6b/9d/56/screenshot-2019-09-28.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/18/d7/8a/2a/saraswati-temple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/18/d7/8a/23/simply-beautifulpanoramic.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/12/a7/9e/fb/wargal-saraswati-devi.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/12/3f/9a/5e/this-not-the-actual-deity.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/12/3f/9a/42/the-place-were-the-akshara.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/12/3f/9a/38/one-of-the-parking-area.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/10/16/85/ca/bus-to-secunderabad.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0a/56/18/2c/saraswathi-devi-statue.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/05/d1/9f/4f/sri-vidya-saraswathi.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/05/d1/9f/45/sri-vidya-saraswathi.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/05/d1/9f/2f/sri-vidya-saraswathi.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/05/d1/9f/1f/sri-vidya-saraswathi.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/05/d1/9e/ea/sri-vidya-saraswathi.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/05/d1/9e/cc/sri-vidya-saraswathi.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/05/d1/9e/ba/sri-vidya-saraswathi.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/05/d1/9e/ac/sri-vidya-saraswathi.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/29/f3/fa/c8/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/29/f3/fa/c7/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/29/f3/fa/c6/caption.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Warangal,attractions"
+},
+{
+  "id": "2668325",
+  "type": "ATTRACTION",
+  "category": "attraction",
+  "subcategories": [
+    "Sights & Landmarks"
+  ],
+  "name": "Warangal Fort",
+  "locationString": "Warangal, Warangal (Urban) District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0d/d1/c7/9e/other-side-of-the-fort.jpg",
+  "photoCount": 262,
+  "rankingPosition": 4,
+  "rating": 4,
+  "rawRanking": 3.2154951095581055,
+  "phone": "+91 73822 32303",
+  "address": "12 km from Hanamkonda, Warangal India",
+  "addressObj": {
+    "street1": "12 km from Hanamkonda",
+    "street2": "",
+    "city": "Warangal",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": ""
+  },
+  "localName": "Warangal Fort",
+  "localAddress": "12 km from Hanamkonda",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.956247,
+  "longitude": 79.61508,
+  "webUrl": "https://www.tripadvisor.com/Attraction_Review-g735768-d2668325-Reviews-Warangal_Fort-Warangal_Warangal_Urban_District_Telangana.html",
+  "website": null,
+  "rankingString": "#4 of 29 things to do in Warangal",
+  "rankingDenominator": "29",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "735768",
+      "name": "Warangal",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389621",
+      "name": "Warangal (Urban) District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 7,
+    "count2": 3,
+    "count3": 35,
+    "count4": 74,
+    "count5": 54
+  },
+  "numberOfReviews": 173,
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FHyderabad%2FKohinoor-Diamond-Trail-from-Hyderabad-to-Warangal%2Fd22442-176561P1%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=0cb757447ae44195a&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=2668325&clt=TD&from=api&nt=true"
+  },
+  "offerGroup": {
+    "lowestPrice": "$1.07",
+    "offerList": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FHyderabad%2FKohinoor-Diamond-Trail-from-Hyderabad-to-Warangal%2Fd22442-176561P1%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=0cb757447ae44195a&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=2668325&clt=TD&from=api&nt=true",
+        "price": "$149.34",
+        "roundedUpPrice": "$150",
+        "offerType": null,
+        "title": "Kohinoor Diamond Trail from Hyderabad to Warangal",
+        "productCode": "176561P1",
+        "partner": "Viator",
+        "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-360x240/07/b3/04/e1.jpg",
+        "description": null,
+        "primaryCategory": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FHyderabad%2FExcursion-to-Thousand-Pillar-Temple-Warangal-Fort-and-Kakatiya-Kala-Thoranam%2Fd22442-135633P247%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=942750625507a80ee&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=2668325&clt=TD&from=api&nt=true",
+        "price": "$107.00",
+        "roundedUpPrice": "$107",
+        "offerType": null,
+        "title": "Warangal Historical Sites Day Tour From Hyderabad",
+        "productCode": "135633P247",
+        "partner": "Viator",
+        "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0e/fe/9d/09.jpg",
+        "description": null,
+        "primaryCategory": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FHyderabad%2FExcursion-to-visit-Temples-Fort-and-Thoranam%2Fd22442-135633P248%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=f9183d3ec494bc06e&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=2668325&clt=TD&from=api&nt=true",
+        "price": "$130.00",
+        "roundedUpPrice": "$130",
+        "offerType": null,
+        "title": "Thousand Pillar Temple, Warangal Fort & Ramappa Temple Tour",
+        "productCode": "135633P248",
+        "partner": "Viator",
+        "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0e/fe/9d/86.jpg",
+        "description": null,
+        "primaryCategory": "Cultural Tours"
+      }
+    ]
+  },
+  "subtype": [
+    "Historic Sites",
+    "Ancient Ruins"
+  ],
+  "isNearbyResult": false,
+  "reviewTags": [
+    {
+      "text": "worth a visit",
+      "reviews": 8
+    },
+    {
+      "text": "open area",
+      "reviews": 3
+    },
+    {
+      "text": "intricate carvings",
+      "reviews": 2
+    },
+    {
+      "text": "railway station",
+      "reviews": 2
+    },
+    {
+      "text": "ruins",
+      "reviews": 47
+    },
+    {
+      "text": "paths",
+      "reviews": 16
+    },
+    {
+      "text": "remains",
+      "reviews": 15
+    },
+    {
+      "text": "telugu",
+      "reviews": 10
+    },
+    {
+      "text": "government",
+      "reviews": 7
+    },
+    {
+      "text": "india",
+      "reviews": 10
+    },
+    {
+      "text": "lawns",
+      "reviews": 2
+    }
+  ],
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/0e/38/2e/02/photo4jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/10/46/52/73/warangal-fort-was-the.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/03/cc/c9/10/warangal-fort.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/03/cc/c9/06/warangal-fort.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/03/cc/c8/fd/warangal-fort.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/03/cc/c8/c5/warangal-fort.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/02/76/ea/91/filename-img-1123-jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/03/cc/c8/d1/warangal-fort.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/03/4b/d6/3a/warangal-fort.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/24/e0/5d/43/warangal-fort.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/24/e0/5d/41/warangal-fort.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/24/e0/34/dc/warangal-fort.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/24/e0/34/d9/warangal-fort.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/24/e0/34/80/warangal-fort.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/24/e0/32/ce/warangal-fort.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/24/7b/47/60/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/24/7b/47/5f/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/24/7b/47/5e/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/24/7b/47/5d/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/24/7b/47/5c/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/fa/80/e5/inside.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/fa/80/e2/near-by-fort.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/fa/80/de/near-by-fort.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1a/df/9e/77/img-20200110-212437-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1a/df/9e/76/img-20200110-212607-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1a/df/9e/75/img-20200110-211955-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1a/df/9e/74/img-20200110-211601-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1a/df/9e/73/img-20200110-211342-1578674697.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1a/df/9e/72/img-20200110-211043-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1a/df/9e/71/img-20200110-210039-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1a/df/9e/70/img-20200111-215820-493.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1a/df/9e/6f/img-20200111-155421-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/19/c0/4f/ad/warangal-fort.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/19/c0/4f/a1/warangal-fort.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/19/c0/4f/27/img-20191019-124349-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/19/c0/4f/26/img-20191019-124730-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/19/c0/4f/25/img-20191019-124429-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/19/c0/4f/24/img-20191019-124814-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/19/c0/4f/23/img-20191019-130455-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/19/c0/4f/22/img-20191019-131800-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/19/c0/4f/21/img-20191019-132116-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/19/c0/4f/20/img-20191019-132130-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/19/c0/4f/1f/img-20191019-132148-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/19/c0/4f/1e/img-20191019-132151-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/19/a6/79/37/photo8jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/19/a6/79/36/photo7jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/19/a6/79/35/photo6jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/19/a6/79/34/photo5jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/19/a6/79/33/photo4jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/19/a6/79/32/photo3jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/19/a6/79/31/photo2jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/19/a6/79/30/photo1jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/19/a6/79/2f/photo0jpg.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Warangal,attractions"
+},
+{
+  "id": "3152259",
+  "type": "ATTRACTION",
+  "category": "attraction",
+  "subcategories": [
+    "Sights & Landmarks"
+  ],
+  "name": "Bhadrakali Temple",
+  "locationString": "Warangal, Warangal (Urban) District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/11/fa/ab/99/pic-11.jpg",
+  "photoCount": 195,
+  "rankingPosition": 2,
+  "rating": 4.5,
+  "rawRanking": 3.6775145530700684,
+  "phone": null,
+  "address": "Tadkamalla Village, Warangal 506007 India",
+  "addressObj": {
+    "street1": "Tadkamalla Village",
+    "street2": null,
+    "city": "Warangal",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "506007"
+  },
+  "localName": "Bhadrakali Temple",
+  "localAddress": "Tadkamalla Village, 506007",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.95499,
+  "longitude": 79.61996,
+  "webUrl": "https://www.tripadvisor.com/Attraction_Review-g735768-d3152259-Reviews-Bhadrakali_Temple-Warangal_Warangal_Urban_District_Telangana.html",
+  "website": null,
+  "rankingString": "#2 of 29 things to do in Warangal",
+  "rankingDenominator": "29",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "735768",
+      "name": "Warangal",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389621",
+      "name": "Warangal (Urban) District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 3,
+    "count3": 18,
+    "count4": 75,
+    "count5": 109
+  },
+  "numberOfReviews": 205,
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FHyderabad%2FKohinoor-Diamond-Trail-from-Hyderabad-to-Warangal%2Fd22442-176561P1%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=0cb757447ae44195a&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=3152259&clt=TD&from=api&nt=true"
+  },
+  "offerGroup": {
+    "lowestPrice": "$1.49",
+    "offerList": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FHyderabad%2FKohinoor-Diamond-Trail-from-Hyderabad-to-Warangal%2Fd22442-176561P1%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=0cb757447ae44195a&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=3152259&clt=TD&from=api&nt=true",
+        "price": "$149.34",
+        "roundedUpPrice": "$150",
+        "offerType": null,
+        "title": "Kohinoor Diamond Trail from Hyderabad to Warangal",
+        "productCode": "176561P1",
+        "partner": "Viator",
+        "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-360x240/07/b3/04/e1.jpg",
+        "description": null,
+        "primaryCategory": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FHyderabad%2FKohinoor-Diamond-Trail-Tour-of-Warangal-from-Hyderabad%2Fd22442-18983P109%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=87bc4df56290f00e6&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=3152259&clt=TD&from=api&nt=true",
+        "price": "$165.00",
+        "roundedUpPrice": "$165",
+        "offerType": null,
+        "title": "World heritage Ramappa temple & Kohinoor diamond tour from Hyderabad by car",
+        "productCode": "18983P109",
+        "partner": "Viator",
+        "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0b/f6/dd/aa.jpg",
+        "description": null,
+        "primaryCategory": "Cultural Tours"
+      }
+    ]
+  },
+  "subtype": [
+    "Sacred & Religious Sites"
+  ],
+  "isNearbyResult": false,
+  "reviewTags": [
+    {
+      "text": "visit lord",
+      "reviews": 2
+    },
+    {
+      "text": "lake",
+      "reviews": 73
+    },
+    {
+      "text": "temple",
+      "reviews": 148
+    },
+    {
+      "text": "sri",
+      "reviews": 7
+    },
+    {
+      "text": "century",
+      "reviews": 6
+    }
+  ],
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/fa/ab/99/pic-11.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/16/e8/cc/b4/bhadrakali-amma-temple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/13/06/a3/09/my-friends.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0c/9b/e5/1e/fb-img-1464063348595.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0a/e2/10/a9/images-3-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0a/e2/10/a8/images-1-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0a/e2/10/a7/bhadrakali-temple-2-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/c9/9c/14/bhadrakali-temple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/c9/9c/00/bhadrakali-temple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/03/75/06/fc/the-corridor.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/03/3f/3b/e8/bhadrakali-temple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/03/3f/3b/dc/bhadrakali-temple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/03/3f/3b/d2/bhadrakali-temple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/03/3f/3b/c8/bhadrakali-temple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/02/c4/b5/a2/bhadrakali-temple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/6b/5b/12/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/6b/5b/11/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/6b/5b/0d/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/68/ce/72/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/21/4d/89/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/21/4d/88/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/21/4d/87/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/21/4d/86/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/21/4d/85/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/21/4d/84/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/21/4d/83/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/21/4d/82/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/24/7b/49/a6/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/24/7b/49/a5/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/24/7b/49/a4/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/24/7b/49/a3/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/fa/77/71/sri-gokulam-at-entrance.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/fa/77/63/addala-meda.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/fa/77/52/main-entry-gate.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/fa/77/3f/main-entrance.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/fa/77/33/front-side-of-the-temple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/fa/77/28/at-main-entrance.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/fa/77/18/at-entrance.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/fa/77/0f/starting-point-of-darshan.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1a/df/99/de/img-20191223-193945-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1a/df/99/dd/img-20200119-192019-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1a/df/99/dc/img-20200119-192001-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1a/df/99/db/img-20200119-191621-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1a/df/99/da/img-20200119-191649-largejpg.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Warangal,attractions"
+},
+{
+  "reviewTags": [],
+  "id": "10411608",
+  "type": "ATTRACTION",
+  "category": "attraction",
+  "subcategories": [
+    "Nature & Parks"
+  ],
+  "name": "Ramappa Lake",
+  "locationString": "Warangal, Warangal (Urban) District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0e/25/d0/57/lakhyavaram-lake-hanging.jpg",
+  "photoCount": 11,
+  "rankingPosition": 7,
+  "rating": 4.5,
+  "rawRanking": 2.959524393081665,
+  "phone": null,
+  "address": "1 Km Away from Ramappa Temple Near Palampet in Venkatapur Mandal, Warangal India",
+  "addressObj": {
+    "street1": "1 Km Away from Ramappa Temple",
+    "street2": "Near Palampet in Venkatapur Mandal",
+    "city": "Warangal",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": null
+  },
+  "localName": "Ramappa Lake",
+  "localAddress": "1 Km Away from Ramappa Temple, Near Palampet in Venkatapur Mandal",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.97589,
+  "longitude": 79.60983,
+  "webUrl": "https://www.tripadvisor.com/Attraction_Review-g735768-d10411608-Reviews-Ramappa_Lake-Warangal_Warangal_Urban_District_Telangana.html",
+  "website": null,
+  "rankingString": "#7 of 29 things to do in Warangal",
+  "rankingDenominator": "29",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "735768",
+      "name": "Warangal",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389621",
+      "name": "Warangal (Urban) District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 1,
+    "count4": 11,
+    "count5": 11
+  },
+  "numberOfReviews": 23,
+  "booking": null,
+  "offerGroup": null,
+  "subtype": [
+    "Bodies of Water"
+  ],
+  "isNearbyResult": false,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/0e/25/d0/57/lakhyavaram-lake-hanging.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/12/52/cd/db/ramappa-lake.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/10/d7/ab/9b/a-ruined-kakatiya-templer.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0e/25/cf/8c/ramappa-tempale.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/12/52/cd/e3/ramappa-lake.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/12/52/cd/df/ramappa-lake.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/12/52/cd/d7/ramappa-lake.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/12/52/cd/d3/ramappa-lake.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/10/d7/ab/85/the-lake-during-monsoon.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/10/d7/ab/73/the-ramappa-lake.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0e/25/cf/ee/ramappa-lakeview-resort.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Warangal,attractions"
+},
+{
+  "reviewTags": [],
+  "id": "10091381",
+  "type": "ATTRACTION",
+  "category": "attraction",
+  "subcategories": [
+    "Sights & Landmarks"
+  ],
+  "name": "Mallikarjuna Swamy Temple",
+  "locationString": "Warangal, Warangal (Urban) District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": 22,
+  "rating": 4,
+  "rawRanking": 2.7592713832855225,
+  "phone": null,
+  "address": "Inavolu, Warangal 506143 India",
+  "addressObj": {
+    "street1": null,
+    "street2": "Inavolu",
+    "city": "Warangal",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "506143"
+  },
+  "localName": "Mallikarjuna Swamy Temple",
+  "localAddress": "Inavolu, 506143",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": null,
+  "longitude": null,
+  "webUrl": "https://www.tripadvisor.com/Attraction_Review-g735768-d10091381-Reviews-Mallikarjuna_Swamy_Temple-Warangal_Warangal_Urban_District_Telangana.html",
+  "website": null,
+  "rankingString": "#22 of 29 things to do in Warangal",
+  "rankingDenominator": "29",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "735768",
+      "name": "Warangal",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389621",
+      "name": "Warangal (Urban) District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 1,
+    "count4": 2,
+    "count5": 1
+  },
+  "numberOfReviews": 4,
+  "booking": null,
+  "offerGroup": null,
+  "subtype": [
+    "Sacred & Religious Sites"
+  ],
+  "isNearbyResult": false,
+  "photos": [],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Warangal,attractions"
+},
+{
+  "reviewTags": [],
+  "id": "3705300",
+  "type": "ATTRACTION",
+  "category": "attraction",
+  "subcategories": [
+    "Nature & Parks"
+  ],
+  "name": "Pakhal Lake",
+  "locationString": "Warangal, Warangal (Urban) District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/15/c0/b6/17/the-panaroma-ciew.jpg",
+  "photoCount": 47,
+  "rankingPosition": 8,
+  "rating": 4,
+  "rawRanking": 2.93060040473938,
+  "phone": "+91 79972 53377",
+  "address": "12 Km from Narsampet, Warangal 506132 India",
+  "addressObj": {
+    "street1": "12 Km from Narsampet",
+    "street2": null,
+    "city": "Warangal",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "506132"
+  },
+  "localName": "Pakhal Lake",
+  "localAddress": "12 Km from Narsampet, 506132",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.9838,
+  "longitude": 79.60393,
+  "webUrl": "https://www.tripadvisor.com/Attraction_Review-g735768-d3705300-Reviews-Pakhal_Lake-Warangal_Warangal_Urban_District_Telangana.html",
+  "website": "http://www.telanganatourism.gov.in/partials/destinations/nature-discovery/mahabubabad/pakhal-lake.html",
+  "rankingString": "#8 of 29 things to do in Warangal",
+  "rankingDenominator": "29",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "735768",
+      "name": "Warangal",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389621",
+      "name": "Warangal (Urban) District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 1,
+    "count2": 0,
+    "count3": 6,
+    "count4": 15,
+    "count5": 12
+  },
+  "numberOfReviews": 34,
+  "booking": null,
+  "offerGroup": null,
+  "subtype": [
+    "Bodies of Water"
+  ],
+  "isNearbyResult": false,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/08/b8/15/7e/pakhal-lake.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/15/c0/b6/25/pakhal-lake-is-amongst.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/15/c0/b6/17/the-panaroma-ciew.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/15/c0/b5/d8/another-day-another-sunrise.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0e/61/f8/bf/p-20161012-133619-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0e/61/f8/be/p-20161012-133621-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/03/64/5b/0f/pakhal-lake.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/03/64/5b/39/pakhal-lake.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/15/c0/b5/a1/the-view-from-the-biodiversity.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/12/64/45/73/near-to-nature-make-life.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/12/64/45/67/best-for-photo.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/12/64/45/5b/from-next-side-of-the.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/12/64/45/48/near-to-lake.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/12/64/45/3a/place-for-the-best-photos.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/12/64/45/2d/place-for-the-best-photos.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/86/bd/40/trying-to-be-micheal.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/86/bd/3a/man-made-lake-about-900.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0f/93/59/48/pakhal-lake.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0e/7f/ae/70/pakhal-lake.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0a/0e/4c/ed/pakhal-lake.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Warangal,attractions"
+},
+{
+  "id": "9811257",
+  "type": "ATTRACTION",
+  "category": "attraction",
+  "subcategories": [
+    "Nature & Parks"
+  ],
+  "name": "Laknavaram Cheruvu",
+  "locationString": "Warangal, Warangal (Urban) District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0a/5f/02/33/beautiful-views-of-the.jpg",
+  "photoCount": 50,
+  "rankingPosition": 5,
+  "rating": 4.5,
+  "rawRanking": 3.1033730506896973,
+  "phone": null,
+  "address": "Warangal 506347 India",
+  "addressObj": {
+    "street1": null,
+    "street2": null,
+    "city": "Warangal",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "506347"
+  },
+  "localName": "Laknavaram Cheruvu",
+  "localAddress": "506347",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 18.157839,
+  "longitude": 80.08086,
+  "webUrl": "https://www.tripadvisor.com/Attraction_Review-g735768-d9811257-Reviews-Laknavaram_Cheruvu-Warangal_Warangal_Urban_District_Telangana.html",
+  "website": null,
+  "rankingString": "#5 of 29 things to do in Warangal",
+  "rankingDenominator": "29",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "735768",
+      "name": "Warangal",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389621",
+      "name": "Warangal (Urban) District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 1,
+    "count2": 2,
+    "count3": 8,
+    "count4": 23,
+    "count5": 34
+  },
+  "numberOfReviews": 68,
+  "booking": null,
+  "offerGroup": null,
+  "subtype": [
+    "Bodies of Water"
+  ],
+  "isNearbyResult": false,
+  "reviewTags": [],
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/0a/5f/02/33/beautiful-views-of-the.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2d/c8/2e/9f/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0a/5f/02/03/beautiful-views-of-the.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/e7/6b/03/cottages.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/e7/6a/96/the-lake.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/96/fb/ac/img-20171224-131110-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/10/d7/a0/d1/submerged-trees-on-the.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/10/d7/a0/a9/view-of-the-lake.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/10/d7/a0/9a/a-close-up-of-the-bridge.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/10/44/9b/a7/lake-view-from-the-boat.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0e/8a/66/96/photo9jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0a/5f/02/77/laknavaram-bridge.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0a/5f/02/12/canteen-inside-the-lake.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0a/49/6b/90/suspension-bridge.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/24/ac/cd/laknavaram-hanging-bridge.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/0e/0d/c6/img-20200326-064224-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/0e/0d/c5/img-20200326-064005-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1a/c8/1d/5f/laknavaram-cheruvu.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1a/c8/1d/5e/laknavaram-cheruvu.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2d/c8/2e/a0/caption.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Warangal,attractions"
+},
+{
+  "reviewTags": [],
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/0e/09/53/36/img-20161226-110844-01.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "id": "3269781",
+  "type": "ATTRACTION",
+  "category": "attraction",
+  "subcategories": [
+    "Nature & Parks"
+  ],
+  "name": "Kakatiya Musical Garden",
+  "locationString": "Warangal, Warangal (Urban) District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 1,
+  "rankingPosition": 10,
+  "rating": 4,
+  "rawRanking": 2.864509344100952,
+  "phone": null,
+  "address": "Near Bhadrakali Temple, Warangal India",
+  "addressObj": {
+    "street1": "Near Bhadrakali Temple",
+    "street2": null,
+    "city": "Warangal",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": null
+  },
+  "localName": "Kakatiya Musical Garden",
+  "localAddress": "Near Bhadrakali Temple",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.99352,
+  "longitude": 79.58766,
+  "webUrl": "https://www.tripadvisor.com/Attraction_Review-g735768-d3269781-Reviews-Kakatiya_Musical_Garden-Warangal_Warangal_Urban_District_Telangana.html",
+  "website": "http://listing.starteonix.com",
+  "rankingString": "#10 of 29 things to do in Warangal",
+  "rankingDenominator": "29",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "735768",
+      "name": "Warangal",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389621",
+      "name": "Warangal (Urban) District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 1,
+    "count2": 4,
+    "count3": 4,
+    "count4": 8,
+    "count5": 12
+  },
+  "numberOfReviews": 29,
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FHyderabad%2FExcursion-to-Thousand-Pillar-Temple-Warangal-Fort-and-Kakatiya-Kala-Thoranam%2Fd22442-135633P247%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=942750625507a80ee&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=3269781&clt=TD&from=api&nt=true"
+  },
+  "offerGroup": {
+    "lowestPrice": "$1.07",
+    "offerList": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FHyderabad%2FExcursion-to-Thousand-Pillar-Temple-Warangal-Fort-and-Kakatiya-Kala-Thoranam%2Fd22442-135633P247%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=942750625507a80ee&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=3269781&clt=TD&from=api&nt=true",
+        "price": "$107.00",
+        "roundedUpPrice": "$107",
+        "offerType": null,
+        "title": "Warangal Historical Sites Day Tour From Hyderabad",
+        "productCode": "135633P247",
+        "partner": "Viator",
+        "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0e/fe/9d/09.jpg",
+        "description": null,
+        "primaryCategory": "Cultural Tours"
+      }
+    ]
+  },
+  "subtype": [
+    "Gardens"
+  ],
+  "isNearbyResult": false,
+  "input": "Telangana,Warangal,attractions"
+},
+{
+  "reviewTags": [
+    {
+      "text": "under renovation",
+      "reviews": 17
+    },
+    {
+      "text": "pillar temple",
+      "reviews": 13
+    },
+    {
+      "text": "great architecture",
+      "reviews": 7
+    },
+    {
+      "text": "hyderabad",
+      "reviews": 18
+    },
+    {
+      "text": "premises",
+      "reviews": 5
+    },
+    {
+      "text": "beauty",
+      "reviews": 6
+    },
+    {
+      "text": "form",
+      "reviews": 3
+    },
+    {
+      "text": "km",
+      "reviews": 3
+    }
+  ],
+  "id": "3161445",
+  "type": "ATTRACTION",
+  "category": "attraction",
+  "subcategories": [
+    "Sights & Landmarks"
+  ],
+  "name": "Thousand Pillar Temple",
+  "locationString": "Warangal, Warangal (Urban) District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/06/07/df/f8/thousand-pillar-temple.jpg",
+  "photoCount": 258,
+  "rankingPosition": 3,
+  "rating": 4,
+  "rawRanking": 3.437427520751953,
+  "phone": null,
+  "address": "Hyderabad - Warangal Hwy, Warangal 506001 India",
+  "addressObj": {
+    "street1": "Hyderabad - Warangal Hwy",
+    "street2": "",
+    "city": "Warangal",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "506001"
+  },
+  "localName": "Thousand Pillar Temple",
+  "localAddress": "Hyderabad - Warangal Hwy, 506001",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 18.003712,
+  "longitude": 79.574844,
+  "webUrl": "https://www.tripadvisor.com/Attraction_Review-g735768-d3161445-Reviews-Thousand_Pillar_Temple-Warangal_Warangal_Urban_District_Telangana.html",
+  "website": null,
+  "rankingString": "#3 of 29 things to do in Warangal",
+  "rankingDenominator": "29",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "735768",
+      "name": "Warangal",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389621",
+      "name": "Warangal (Urban) District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 2,
+    "count2": 7,
+    "count3": 49,
+    "count4": 85,
+    "count5": 90
+  },
+  "numberOfReviews": 233,
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FHyderabad%2FKohinoor-Diamond-Trail-Tour-of-Warangal-from-Hyderabad%2Fd22442-18983P109%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=87bc4df56290f00e6&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=3161445&clt=TD&from=api&nt=true"
+  },
+  "offerGroup": {
+    "lowestPrice": "$1.07",
+    "offerList": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FHyderabad%2FKohinoor-Diamond-Trail-Tour-of-Warangal-from-Hyderabad%2Fd22442-18983P109%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=87bc4df56290f00e6&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=3161445&clt=TD&from=api&nt=true",
+        "price": "$165.00",
+        "roundedUpPrice": "$165",
+        "offerType": null,
+        "title": "World heritage Ramappa temple & Kohinoor diamond tour from Hyderabad by car",
+        "productCode": "18983P109",
+        "partner": "Viator",
+        "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0b/f6/dd/aa.jpg",
+        "description": null,
+        "primaryCategory": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FHyderabad%2FKohinoor-Diamond-Trail-from-Hyderabad-to-Warangal%2Fd22442-176561P1%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=0cb757447ae44195a&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=3161445&clt=TD&from=api&nt=true",
+        "price": "$149.34",
+        "roundedUpPrice": "$150",
+        "offerType": null,
+        "title": "Kohinoor Diamond Trail from Hyderabad to Warangal",
+        "productCode": "176561P1",
+        "partner": "Viator",
+        "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-360x240/07/b3/04/e1.jpg",
+        "description": null,
+        "primaryCategory": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FHyderabad%2FExcursion-to-Thousand-Pillar-Temple-Warangal-Fort-and-Kakatiya-Kala-Thoranam%2Fd22442-135633P247%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=942750625507a80ee&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=3161445&clt=TD&from=api&nt=true",
+        "price": "$107.00",
+        "roundedUpPrice": "$107",
+        "offerType": null,
+        "title": "Warangal Historical Sites Day Tour From Hyderabad",
+        "productCode": "135633P247",
+        "partner": "Viator",
+        "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0e/fe/9d/09.jpg",
+        "description": null,
+        "primaryCategory": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FHyderabad%2FExcursion-to-visit-Temples-Fort-and-Thoranam%2Fd22442-135633P248%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=f9183d3ec494bc06e&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=3161445&clt=TD&from=api&nt=true",
+        "price": "$130.00",
+        "roundedUpPrice": "$130",
+        "offerType": null,
+        "title": "Thousand Pillar Temple, Warangal Fort & Ramappa Temple Tour",
+        "productCode": "135633P248",
+        "partner": "Viator",
+        "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0e/fe/9d/86.jpg",
+        "description": null,
+        "primaryCategory": "Cultural Tours"
+      }
+    ]
+  },
+  "subtype": [
+    "Sacred & Religious Sites"
+  ],
+  "isNearbyResult": false,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/10/bd/4a/f9/most-viewable-place.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/02/78/bb/28/filename-img-1093-jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1a/df/97/b2/photo-20191223-153017.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1a/df/97/b1/img-20191223-151200-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/fa/89/5a/pic-9.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/fa/89/27/pic-7.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/fa/89/08/pic-8.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/1b/39/f6/download-8-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0d/b3/6f/76/thousand-pillars-temple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0a/85/78/a7/this-is-the-side-side.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/08/ee/5a/ff/thousand-pillar-temple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/06/07/df/f8/thousand-pillar-temple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/a2/a9/eb/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/a2/a9/ea/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/a2/a9/e9/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/a2/a9/e8/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/21/4c/42/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/21/4c/41/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/21/4c/40/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/21/4c/3f/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/24/7b/4b/07/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/24/7b/4b/06/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/24/7b/4b/05/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/24/7b/4b/04/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1a/df/97/b0/img-20191223-151005-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1a/df/97/af/img-20191223-151106-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1a/df/97/ae/img-20191223-150811-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1a/a3/55/9b/img-20200115-120824-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1a/a3/55/9a/img-20200115-120544-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1a/a3/55/99/img-20200115-120146-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1a/a3/55/98/img-20200115-120325-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1a/a3/55/97/img-20200115-120333-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1a/a3/55/96/img-20200115-120621-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1a/a3/55/94/img-20200115-120604-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1a/a3/55/93/img-20200115-120811-01.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1a/a3/55/92/img-20200115-120345-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1a/a3/55/91/img-20200115-121842-largejpg.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Warangal,attractions"
+},
+{
+  "id": "3705184",
+  "type": "ATTRACTION",
+  "category": "attraction",
+  "subcategories": [
+    "Sights & Landmarks"
+  ],
+  "name": "Ramappa Temple",
+  "locationString": "Warangal, Warangal (Urban) District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/07/bd/d1/e0/ramappa-temple.jpg",
+  "photoCount": 187,
+  "rankingPosition": 1,
+  "rating": 4.5,
+  "rawRanking": 3.736750602722168,
+  "phone": "+91 95156 30538",
+  "address": "Palampet Village, Venkatapur Mandal, Warangal 506345 India",
+  "addressObj": {
+    "street1": "Palampet Village, Venkatapur Mandal",
+    "street2": null,
+    "city": "Warangal",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "506345"
+  },
+  "localName": "Ramappa Temple",
+  "localAddress": "Palampet Village, Venkatapur Mandal, 506345",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 18.259409,
+  "longitude": 79.9432,
+  "webUrl": "https://www.tripadvisor.com/Attraction_Review-g735768-d3705184-Reviews-Ramappa_Temple-Warangal_Warangal_Urban_District_Telangana.html",
+  "website": "http://www.telanganatourism.gov.in",
+  "rankingString": "#1 of 29 things to do in Warangal",
+  "rankingDenominator": "29",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "735768",
+      "name": "Warangal",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389621",
+      "name": "Warangal (Urban) District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 1,
+    "count3": 3,
+    "count4": 57,
+    "count5": 84
+  },
+  "numberOfReviews": 145,
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FHyderabad%2FExcursion-to-visit-Temples-Fort-and-Thoranam%2Fd22442-135633P248%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=f9183d3ec494bc06e&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=3705184&clt=TD&from=api&nt=true"
+  },
+  "offerGroup": {
+    "lowestPrice": "$1.30",
+    "offerList": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FHyderabad%2FExcursion-to-visit-Temples-Fort-and-Thoranam%2Fd22442-135633P248%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=f9183d3ec494bc06e&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=3705184&clt=TD&from=api&nt=true",
+        "price": "$130.00",
+        "roundedUpPrice": "$130",
+        "offerType": null,
+        "title": "Thousand Pillar Temple, Warangal Fort & Ramappa Temple Tour",
+        "productCode": "135633P248",
+        "partner": "Viator",
+        "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0e/fe/9d/86.jpg",
+        "description": null,
+        "primaryCategory": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FHyderabad%2FKohinoor-Diamond-Trail-Tour-of-Warangal-from-Hyderabad%2Fd22442-18983P109%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=87bc4df56290f00e6&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=3705184&clt=TD&from=api&nt=true",
+        "price": "$165.00",
+        "roundedUpPrice": "$165",
+        "offerType": null,
+        "title": "World heritage Ramappa temple & Kohinoor diamond tour from Hyderabad by car",
+        "productCode": "18983P109",
+        "partner": "Viator",
+        "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0b/f6/dd/aa.jpg",
+        "description": null,
+        "primaryCategory": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FHyderabad%2FDay-Excursion-To-The-Unique-Ramappa-Temple-From-Hyderabad%2Fd22442-50182P354%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=fa9189a2eac306966&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=3705184&clt=TD&from=api&nt=true",
+        "price": "$241.00",
+        "roundedUpPrice": "$241",
+        "offerType": null,
+        "title": "Day Excursion To The Unique Ramappa Temple From Hyderabad",
+        "productCode": "50182P354",
+        "partner": "Viator",
+        "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/e4/c8/ed.jpg",
+        "description": null,
+        "primaryCategory": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FHyderabad%2FDay-Excursion-to-the-unique-Ramappa-Temple-from-Hyderabad-with-Lunch%2Fd22442-50182P353%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=cc2e9bbdd4b8e2d46&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=3705184&clt=TD&from=api&nt=true",
+        "price": "$285.00",
+        "roundedUpPrice": "$285",
+        "offerType": null,
+        "title": "Day Excursion to the unique Ramappa Temple from Hyderabad with Lunch",
+        "productCode": "50182P353",
+        "partner": "Viator",
+        "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/e4/c8/ed.jpg",
+        "description": null,
+        "primaryCategory": "Cultural Tours"
+      }
+    ]
+  },
+  "subtype": [
+    "Sacred & Religious Sites"
+  ],
+  "isNearbyResult": false,
+  "reviewTags": [
+    {
+      "text": "light weight",
+      "reviews": 4
+    },
+    {
+      "text": "lake facing",
+      "reviews": 2
+    },
+    {
+      "text": "haritha resort",
+      "reviews": 3
+    },
+    {
+      "text": "km",
+      "reviews": 18
+    },
+    {
+      "text": "sculptures",
+      "reviews": 28
+    },
+    {
+      "text": "architecture",
+      "reviews": 32
+    },
+    {
+      "text": "india",
+      "reviews": 13
+    },
+    {
+      "text": "temple",
+      "reviews": 110
+    },
+    {
+      "text": "road",
+      "reviews": 10
+    },
+    {
+      "text": "technology",
+      "reviews": 5
+    },
+    {
+      "text": "sanctum",
+      "reviews": 5
+    },
+    {
+      "text": "dec",
+      "reviews": 2
+    },
+    {
+      "text": "boating",
+      "reviews": 5
+    },
+    {
+      "text": "telugu",
+      "reviews": 2
+    }
+  ],
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/0e/05/76/69/img-20161225-114644-01.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2d/c8/30/7f/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2d/c8/30/7e/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2d/c8/30/7d/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2d/c8/30/7c/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2d/c8/30/7b/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2d/c8/30/7a/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2d/c8/30/79/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2d/c8/30/78/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2d/c8/30/77/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/03/9b/e4/7c/ramappa-temple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1a/df/a0/2e/img-20200204-160236-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1a/11/03/a0/ramappa-temple-aerial.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/16/20/ec/80/img-20190115-140515-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/98/6f/14/img-20171224-162758-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/1b/40/34/download-10-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/1b/40/32/images-4-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/10/d7/ab/fe/ramappa-lake.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0e/69/cc/da/ramappa-temple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2d/c8/30/80/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/a2/b3/5b/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/a2/b3/5a/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/a2/b3/59/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/a2/b3/58/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/a2/b2/f2/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/a2/b2/f1/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/a2/b2/f0/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/27/a9/03/27/ramappa-temple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/25/83/98/dd/highest-level-of-detail.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1d/82/64/f2/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1d/82/64/f1/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1d/82/64/ee/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1d/82/64/ec/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/f4/48/98/park-outside-temple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/f4/48/88/nandi-mandapam.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/f4/48/7f/nandi.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/f4/48/7c/main-temple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/f4/48/76/nandi.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/f4/48/73/marvella-s-top-sculpture.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/f4/48/72/outside-entrance-gate.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/f4/48/6e/right-side-shiva-shrine.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/f4/48/64/right-side-shiva-shrine.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/f4/48/5e/right-side-entrance-of.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/f4/48/5c/temple-history-signboard.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/a1/f5/48/img-20210116-141749-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/a1/f5/47/img-20210116-141414-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/a1/f5/46/img-20210116-141351-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/a1/f5/45/img-20210116-142547-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/a1/f5/44/img-20210116-141917-largejpg.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Warangal,attractions"
+},
+{
+  "id": "8733915",
+  "type": "ATTRACTION",
+  "category": "attraction",
+  "subcategories": [
+    "Nature & Parks"
+  ],
+  "name": "Bogatha Waterfall",
+  "locationString": "Bhadrachalam, Bhadradri Kothagudem District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/10/25/f8/ce/photo1jpg.jpg",
+  "photoCount": 80,
+  "rankingPosition": 2,
+  "rating": 4,
+  "rawRanking": 2.949570417404175,
+  "phone": "+91 1800 4254 6464",
+  "address": "Chekupalli Road, Bhadrachalam 507136 India",
+  "addressObj": {
+    "street1": "Chekupalli Road",
+    "street2": null,
+    "city": "Bhadrachalam",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "507136"
+  },
+  "localName": "Bogatha Waterfall",
+  "localAddress": "Chekupalli Road, 507136",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 18.475979,
+  "longitude": 80.49917,
+  "webUrl": "https://www.tripadvisor.com/Attraction_Review-g2288622-d8733915-Reviews-Bogatha_Waterfall-Bhadrachalam_Bhadradri_Kothagudem_District_Telangana.html",
+  "website": "http://www.telanganastateofficial.com/bogatha-waterfalls-jalapatham-warangal-khammam-photos-videos/",
+  "rankingString": "#2 of 4 things to do in Bhadrachalam",
+  "rankingDenominator": "4",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2288622",
+      "name": "Bhadrachalam",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389085",
+      "name": "Bhadradri Kothagudem District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 3,
+    "count2": 0,
+    "count3": 5,
+    "count4": 15,
+    "count5": 21
+  },
+  "numberOfReviews": 44,
+  "booking": null,
+  "offerGroup": null,
+  "subtype": [
+    "Waterfalls"
+  ],
+  "isNearbyResult": false,
+  "reviewTags": [],
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/10/25/f8/ce/photo1jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/19/43/70/04/waterfall-view.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/18/b8/e3/89/flow-is-very-high.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/18/a5/9e/fd/falls.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/14/94/51/ee/google-stylised-pic-of.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/13/09/a5/f5/bogatha-waterfall.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/13/09/a5/f4/bogatha-waterfall.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/12/19/fb/9a/full-view-of-waterfalls.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/12/19/fb/83/water-falls.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/12/19/fb/17/fish-pedicure.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/7e/12/e9/bhogata-falls.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/7e/12/e1/bhogata-falls.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/10/f2/6f/81/beautiful-views-of-bogatha.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/10/f2/6f/6e/beautiful-views-of-bogatha.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/10/f2/6f/52/beautiful-views-of-bogatha.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/10/d7/aa/a7/the-beautiful-road-to.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/10/d7/aa/9e/the-beautiful-road-to.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/10/d7/aa/93/the-deposition-of-pebbles.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/10/d7/aa/77/entrance-to-bogatha-falls.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/10/d7/aa/6e/parking-space-bogatha.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1f/32/a1/b9/full-of-fencing-and-no.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/19/43/70/22/waterfall-view.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/19/43/70/13/waterfall-view.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/19/43/6f/db/waterfall-view.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/19/43/6f/8e/waterfall-view.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/19/43/6f/3f/waterfall-view.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/19/43/6e/89/waterfall-view.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/18/b8/e2/cf/full-frame.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/18/b8/e2/23/front-view.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/18/b8/e1/58/front-view.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/18/b8/e0/92/you-can-feel-fog.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/18/b8/e0/40/from-down.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/18/b8/df/c9/pic-from-temple.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Warangal,attractions"
+},
+{
+  "reviewTags": [],
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/0d/b3/6a/c0/hanging-bridge.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/14/4d/66/1c/huge-water-body.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/10/f6/a3/6a/boat-station.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/08/91/53/90/laknavaram-lake.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/93/bd/61/laknavaram-lake.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/93/bd/5b/laknavaram-lake.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/8d/16/71/laknavaram-lake.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/8d/16/4a/laknavaram-lake.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/8d/16/3f/laknavaram-lake.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/24/ac/c7/kids-on-the-hanging-bridge.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1b/e9/f3/79/amazing.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/e3/bd/60/2017-09-07-1-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/e3/bd/5f/2017-09-07-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/e3/bd/5e/2017-09-07-2-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/e3/bd/5d/2017-09-07-3-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/19/73/4f/img-20171019-110534-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/19/73/4e/img-20171019-095245-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/19/73/4d/img-20171019-083156-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/10/f6/a3/87/laknawaram-bridge.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/10/f6/a3/79/hand-painting.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "id": "7158406",
+  "type": "ATTRACTION",
+  "category": "attraction",
+  "subcategories": [
+    "Nature & Parks"
+  ],
+  "name": "Laknavaram Lake",
+  "locationString": "Jayashankar Bhoopalpally District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/08/91/53/90/laknavaram-lake.jpg",
+  "photoCount": 77,
+  "rankingPosition": 1,
+  "rating": 4,
+  "rawRanking": 2.957634449005127,
+  "phone": null,
+  "address": "500081 India",
+  "addressObj": {
+    "street1": null,
+    "street2": null,
+    "city": null,
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "500081"
+  },
+  "localName": "Laknavaram Lake",
+  "localAddress": "500081",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 18.158295,
+  "longitude": 80.08054,
+  "webUrl": "https://www.tripadvisor.com/Attraction_Review-g12389534-d7158406-Reviews-Laknavaram_Lake-Jayashankar_Bhoopalpally_District_Telangana.html",
+  "website": null,
+  "rankingString": "#1 of 5 things to do in Jayashankar Bhoopalpally District",
+  "rankingDenominator": "5",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "12389534",
+      "name": "Jayashankar Bhoopalpally District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 2,
+    "count2": 2,
+    "count3": 3,
+    "count4": 20,
+    "count5": 21
+  },
+  "numberOfReviews": 48,
+  "booking": null,
+  "offerGroup": null,
+  "subtype": [
+    "Bodies of Water"
+  ],
+  "isNearbyResult": false,
+  "input": "Telangana,Warangal,attractions"
+},
+{
+  "id": "3250641",
+  "type": "ATTRACTION",
+  "category": "attraction",
+  "subcategories": [
+    "Sights & Landmarks"
+  ],
+  "name": "Yadagirigutta Temple",
+  "locationString": "Yadagirigutta, Yadadri Bhuvanagiri District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-s/03/27/e9/10/yadagiri-gutta-temple.jpg",
+  "photoCount": 80,
+  "rankingPosition": 1,
+  "rating": 4,
+  "rawRanking": 3.0295464992523193,
+  "phone": "+91 86852 36645",
+  "address": "Yadadri Temple Ghat Rd Gandhi Nagar, Yadagirigutta 508115 India",
+  "addressObj": {
+    "street1": "Yadadri Temple Ghat Rd",
+    "street2": "Gandhi Nagar",
+    "city": "Yadagirigutta",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "508115"
+  },
+  "localName": "Yadagirigutta Temple",
+  "localAddress": "Yadadri Temple Ghat Rd, Gandhi Nagar, 508115",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.588863,
+  "longitude": 78.944336,
+  "webUrl": "https://www.tripadvisor.com/Attraction_Review-g12432350-d3250641-Reviews-Yadagirigutta_Temple-Yadagirigutta_Yadadri_Bhuvanagiri_District_Telangana.html",
+  "website": "https://www.facebook.com/YadagiriGuttaTempleTS/?locale=zh_TW",
+  "rankingString": "#1 of 1 things to do in Yadagirigutta",
+  "rankingDenominator": "1",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "12432350",
+      "name": "Yadagirigutta",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389644",
+      "name": "Yadadri Bhuvanagiri District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 6,
+    "count2": 1,
+    "count3": 9,
+    "count4": 38,
+    "count5": 38
+  },
+  "numberOfReviews": 92,
+  "booking": null,
+  "offerGroup": null,
+  "subtype": [
+    "Sacred & Religious Sites"
+  ],
+  "isNearbyResult": false,
+  "reviewTags": [
+    {
+      "text": "early in the morning",
+      "reviews": 2
+    },
+    {
+      "text": "parking space",
+      "reviews": 2
+    },
+    {
+      "text": "darshan ticket",
+      "reviews": 5
+    },
+    {
+      "text": "for sale",
+      "reviews": 2
+    },
+    {
+      "text": "located close",
+      "reviews": 2
+    },
+    {
+      "text": "narasimha",
+      "reviews": 28
+    },
+    {
+      "text": "government",
+      "reviews": 11
+    },
+    {
+      "text": "lord",
+      "reviews": 19
+    },
+    {
+      "text": "buses",
+      "reviews": 8
+    },
+    {
+      "text": "hill",
+      "reviews": 30
+    },
+    {
+      "text": "gutta",
+      "reviews": 16
+    },
+    {
+      "text": "temple",
+      "reviews": 70
+    },
+    {
+      "text": "hyderabad",
+      "reviews": 42
+    },
+    {
+      "text": "highway",
+      "reviews": 7
+    },
+    {
+      "text": "telugu",
+      "reviews": 4
+    },
+    {
+      "text": "premises",
+      "reviews": 4
+    },
+    {
+      "text": "complex",
+      "reviews": 4
+    },
+    {
+      "text": "management",
+      "reviews": 2
+    },
+    {
+      "text": "queue",
+      "reviews": 9
+    },
+    {
+      "text": "sunday",
+      "reviews": 10
+    },
+    {
+      "text": "gods",
+      "reviews": 2
+    },
+    {
+      "text": "stand",
+      "reviews": 4
+    },
+    {
+      "text": "frequency",
+      "reviews": 3
+    },
+    {
+      "text": "divinity",
+      "reviews": 2
+    },
+    {
+      "text": "gap",
+      "reviews": 2
+    }
+  ],
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/03/27/e9/10/yadagiri-gutta-temple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/12/75/19/7e/temple-main-entrance.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/40/f8/1c/pic-16.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0f/a5/d5/29/photo7jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0f/a5/d5/28/photo6jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0f/a5/d5/27/photo5jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0a/41/5e/33/yadagirigutta.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/06/d4/bc/fe/yadagiri-gutta-temple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/06/d4/bc/ce/yadagiri-gutta-temple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/06/d4/bc/bd/yadagiri-gutta-temple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/06/d4/bc/a8/yadagiri-gutta-temple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/03/27/e9/16/yadagiri-gutta-temple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/03/27/e9/0f/yadagiri-gutta-temple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/03/27/e9/0e/yadagiri-gutta-temple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/03/27/e9/13/yadagiri-gutta-temple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/13/16/67/chilpur-bugulu-venkateswara.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/27/be/64/5b/yadagirigutta-temple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/27/be/64/4d/yadagirigutta-temple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/27/be/64/4a/yadagirigutta-temple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/24/f2/86/84/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/24/f2/86/83/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/24/f2/86/82/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/24/f2/86/81/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/24/f2/86/80/caption.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Warangal,attractions"
+},
+{
+  "reviewTags": [
+    {
+      "text": "rock climbing",
+      "reviews": 6
+    },
+    {
+      "text": "steps",
+      "reviews": 12
+    },
+    {
+      "text": "entrance",
+      "reviews": 8
+    }
+  ],
+  "id": "3912955",
+  "type": "ATTRACTION",
+  "category": "attraction",
+  "subcategories": [
+    "Sights & Landmarks"
+  ],
+  "name": "Bhongir Fort",
+  "locationString": "Bhuvanagiri, Yadadri Bhuvanagiri District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0e/3b/71/34/photo2jpg.jpg",
+  "photoCount": 139,
+  "rankingPosition": 1,
+  "rating": 4,
+  "rawRanking": 3.019878625869751,
+  "phone": null,
+  "address": "Bhuvanagiri 508116 India",
+  "addressObj": {
+    "street1": null,
+    "street2": null,
+    "city": "Bhuvanagiri",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "508116"
+  },
+  "localName": "Bhongir Fort",
+  "localAddress": "508116",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.515661,
+  "longitude": 78.89273,
+  "webUrl": "https://www.tripadvisor.com/Attraction_Review-g2288613-d3912955-Reviews-Bhongir_Fort-Bhuvanagiri_Yadadri_Bhuvanagiri_District_Telangana.html",
+  "website": null,
+  "rankingString": "#1 of 3 things to do in Bhuvanagiri",
+  "rankingDenominator": "3",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2288613",
+      "name": "Bhuvanagiri",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389644",
+      "name": "Yadadri Bhuvanagiri District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 2,
+    "count2": 1,
+    "count3": 7,
+    "count4": 23,
+    "count5": 23
+  },
+  "numberOfReviews": 56,
+  "booking": null,
+  "offerGroup": null,
+  "subtype": [
+    "Architectural Buildings"
+  ],
+  "isNearbyResult": false,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/0e/3b/71/34/photo2jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/13/54/07/fa/bhongir-fort.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/af/1c/08/fort-way.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/af/1b/ff/fort-way.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/af/1b/ee/from-the-fort.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/90/80/aa/the-view-as-u-reach-upward.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/90/80/a2/the-entry.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/90/80/90/the-climb.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/90/80/8a/lovely-views.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/90/80/76/medieval-feel.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0e/3b/71/37/photo5jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0e/3b/71/36/photo4jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0e/3b/71/35/photo3jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0e/2e/52/12/from-the-base.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0b/dd/0e/84/panoramica-a-mezzavia.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0a/5f/05/b8/view-from-top-of-the.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/09/d5/fa/87/bhongir-fort.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/06/c3/0c/93/magnificent-chalukya.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/03/aa/2c/4f/bhongir-fort.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/03/aa/2c/49/bhongir-fort.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/22/76/90/a8/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/22/76/90/a7/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/22/76/90/a6/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/22/76/90/a5/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/22/76/90/a4/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/21/b4/da/f7/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/21/b4/da/f6/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/21/b4/da/f5/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/21/b4/da/f4/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/21/b4/da/f3/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1d/8c/f6/a0/the-top-section-of-the.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/82/f3/cf/img-20210109-122718-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/82/f3/ce/img-20210109-122740-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/82/f3/cd/img-20210109-123649-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/82/f3/cc/img-20210109-123839-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/82/f3/cb/img-20210109-125348-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/82/f3/ca/img-20210109-130135-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/82/f3/c9/img-20210109-130953-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/82/f3/c8/img-20210109-131258-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/82/f3/c7/img-20210109-132503-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/82/f3/c6/img-20210109-132921-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/65/2b/a3/bhongir-fort.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/65/2b/a2/bhongir-fort-steps-to.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/65/2b/a0/bhongir-fort.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/65/2b/9f/bhongir-fort.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/65/2b/9e/bhongir-fort-rock.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/65/2b/9c/bhongir-fort.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/65/2b/9b/bhongir-fort-rock-climbing.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/65/2b/9a/bhongir-fort-steps-to.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/65/2b/99/bhongir-fort.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/65/28/82/bhongir-fort.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/65/28/81/bhongir-fort.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/65/28/7f/bhongir-fort.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/65/28/7e/bhongir-fort.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/65/28/7c/bhongir-fort.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/65/28/7a/bhongir-fort-rock.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/65/28/79/bhongir-fort-steps-to.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/65/28/78/bhongir-fort-top.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/65/28/77/bhongir-fort-little-relax.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/65/28/76/bhongir-fort.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/65/1d/86/bhongir-fort.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/65/1d/85/bhongir-fort-click-from.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/65/1d/84/bhongir-fort.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/65/1d/83/bhongir-fort.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/65/1d/82/bhongir-fort-steps.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/65/1d/80/bhongir-fort-wonderful.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/65/1d/7f/bhongir-fort.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Warangal,attractions"
+},
+{
+  "reviewTags": [],
+  "id": "3187660",
+  "type": "ATTRACTION",
+  "category": "attraction",
+  "subcategories": [
+    "Nature & Parks"
+  ],
+  "name": "Eturnagaram Wildlife Sanctuary",
+  "locationString": "Warangal, Warangal (Urban) District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-c/2560x500/0c/ae/83/fa/bogatha-waterfalls.jpg",
+  "photoCount": 21,
+  "rankingPosition": 15,
+  "rating": 4,
+  "rawRanking": 2.835566759109497,
+  "phone": null,
+  "address": "Warangal India",
+  "addressObj": {
+    "street1": null,
+    "street2": "",
+    "city": "Warangal",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": ""
+  },
+  "localName": "Eturnagaram Wildlife Sanctuary",
+  "localAddress": null,
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 18.157333,
+  "longitude": 80.081,
+  "webUrl": "https://www.tripadvisor.com/Attraction_Review-g735768-d3187660-Reviews-Eturnagaram_Wildlife_Sanctuary-Warangal_Warangal_Urban_District_Telangana.html",
+  "website": "https://tourism.telangana.gov.in/wild-life/EturnagaramWildlifeSanctuary",
+  "rankingString": "#15 of 29 things to do in Warangal",
+  "rankingDenominator": "29",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "735768",
+      "name": "Warangal",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389621",
+      "name": "Warangal (Urban) District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 1,
+    "count3": 3,
+    "count4": 6,
+    "count5": 6
+  },
+  "numberOfReviews": 16,
+  "booking": null,
+  "offerGroup": null,
+  "subtype": [
+    "Nature & Wildlife Areas"
+  ],
+  "isNearbyResult": false,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/0c/ae/83/fa/bogatha-waterfalls.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/19/70/7c/f1/screenshot-2019-09-30.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/18/a5/9b/21/island.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/18/a5/9a/fc/huts.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0c/ae/84/25/tadvai-forest-guest-house.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0c/ae/83/ce/bridge-on-river-godavari.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/09/14/7f/36/birds-in-the-area.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/04/39/25/ba/captain-jack-sparrow.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/04/39/25/b8/eturnagaram-wildlife.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/04/39/25/b6/jay-kumar-shiva-in-forest.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/04/39/25/b5/in-actress-vijayshanti.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/04/39/25/b2/core-area-eturnagaram.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/04/39/25/b0/on-the-way-to-warangal.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/29/88/33/4d/pitu.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/18/a5/9b/3d/guha.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/18/a5/9b/38/view-point.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/14/79/59/47/the-river-godavari-flowing.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0c/ae/83/9e/eturunagaram-forest.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0c/ae/83/8b/eturunagaram-forest.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/14/79/59/fc/the-bogatha-waterfalls.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Warangal,attractions"
+}]

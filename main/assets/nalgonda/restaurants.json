@@ -1,0 +1,1714 @@
+[{
+  "id": "12874347",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [],
+  "name": "N Grill Resto",
+  "locationString": "Nalgonda, Nalgonda District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-w/1c/a3/98/f0/n-grill-resto.jpg",
+  "photoCount": 1,
+  "rankingPosition": 4,
+  "rating": 3,
+  "rawRanking": 2.9633657932281494,
+  "phone": null,
+  "address": "Nh 65, Nalgonda 508001 India",
+  "addressObj": {
+    "street1": "Nh 65",
+    "street2": null,
+    "city": "Nalgonda",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "508001"
+  },
+  "localName": "N Grill Resto",
+  "localAddress": "Nh 65, 508001",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 16.9862,
+  "longitude": 79.95741,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g1544623-d12874347-Reviews-N_Grill_Resto-Nalgonda_Nalgonda_District_Telangana.html",
+  "website": null,
+  "rankingString": "#4 of 11 Restaurants in Nalgonda",
+  "rankingDenominator": "11",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "1544623",
+      "name": "Nalgonda",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389581",
+      "name": "Nalgonda District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 1,
+    "count2": 1,
+    "count3": 0,
+    "count4": 3,
+    "count5": 0
+  },
+  "numberOfReviews": 5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": null,
+  "priceLevel": "$$ - $$$",
+  "dishes": [],
+  "hours": null,
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": true,
+  "reviewTags": [],
+  "priceRange": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/a3/98/f0/n-grill-resto.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/a3/98/f0/n-grill-resto.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "cuisines": [
+    "Indian"
+  ],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Nalgonda,restaurants"
+},
+{
+  "reviewTags": [],
+  "id": "8856173",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [],
+  "name": "Dine Inn",
+  "locationString": "Nalgonda, Nalgonda District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": 3,
+  "rating": 4,
+  "rawRanking": 3.007589817047119,
+  "phone": "+91 86822 22299",
+  "address": "Clocktower, Nalgonda 508252 India",
+  "addressObj": {
+    "street1": "Clocktower",
+    "street2": null,
+    "city": "Nalgonda",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "508252"
+  },
+  "localName": "Dine Inn",
+  "localAddress": "Clocktower, 508252",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.05821,
+  "longitude": 79.26847,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g1544623-d8856173-Reviews-Dine_Inn-Nalgonda_Nalgonda_District_Telangana.html",
+  "website": "https://www.facebook.com/dineinnrestaurant",
+  "rankingString": "#3 of 15 places to eat in Nalgonda",
+  "rankingDenominator": "5",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "1544623",
+      "name": "Nalgonda",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389581",
+      "name": "Nalgonda District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 1,
+    "count5": 0
+  },
+  "numberOfReviews": 1,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": null,
+  "priceLevel": null,
+  "dishes": [],
+  "hours": null,
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": true,
+  "priceRange": null,
+  "photos": [],
+  "travelerChoiceAward": null,
+  "cuisines": [
+    "Indian"
+  ],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Nalgonda,restaurants"
+},
+{
+  "reviewTags": [],
+  "id": "27635318",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [],
+  "name": "Reddy Restaurant.",
+  "locationString": "Nalgonda, Nalgonda District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 97008 02033",
+  "address": "Ramgiri Road, Nalgonda 508001 India",
+  "addressObj": {
+    "street1": "Ramgiri Road",
+    "street2": null,
+    "city": "Nalgonda",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "508001"
+  },
+  "localName": "Reddy Restaurant.",
+  "localAddress": "Ramgiri Road, 508001",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.05712,
+  "longitude": 79.26855,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g1544623-d27635318-Reviews-Reddy_Restaurant-Nalgonda_Nalgonda_District_Telangana.html",
+  "website": null,
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "1544623",
+      "name": "Nalgonda",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389581",
+      "name": "Nalgonda District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": null,
+  "priceLevel": null,
+  "dishes": [],
+  "hours": null,
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": true,
+  "priceRange": null,
+  "photos": [],
+  "travelerChoiceAward": null,
+  "cuisines": [],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Nalgonda,restaurants"
+},
+{
+  "id": "13831494",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [],
+  "name": "Hotel Sankalp",
+  "locationString": "Nalgonda District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": 3,
+  "rating": 4,
+  "rawRanking": 3.0314526557922363,
+  "phone": "+91 88856 37777",
+  "address": "Warangal-Hyderabad Road,, 508116 India",
+  "addressObj": {
+    "street1": "Warangal-Hyderabad Road,",
+    "street2": null,
+    "city": null,
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "508116"
+  },
+  "localName": "Hotel Sankalp",
+  "localAddress": "Warangal-Hyderabad Road,, 508116",
+  "localLangCode": "en-IN",
+  "email": "info@hotelsakalp.in",
+  "latitude": 17.5298,
+  "longitude": 78.9281,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g12389581-d13831494-Reviews-Hotel_Sankalp-Nalgonda_District_Telangana.html",
+  "website": "http://www.hotelsankalp.in/index.html",
+  "rankingString": "#3 of 18 Restaurants in Nalgonda District",
+  "rankingDenominator": "18",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "12389581",
+      "name": "Nalgonda District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 1,
+    "count2": 0,
+    "count3": 0,
+    "count4": 1,
+    "count5": 2
+  },
+  "numberOfReviews": 4,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": null,
+  "priceLevel": null,
+  "dishes": [],
+  "hours": null,
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": false,
+  "reviewTags": [],
+  "priceRange": null,
+  "photos": [],
+  "travelerChoiceAward": null,
+  "cuisines": [
+    "Chinese",
+    "Indian"
+  ],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Nalgonda,restaurants"
+},
+{
+  "reviewTags": [],
+  "id": "11768275",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [],
+  "name": "Maa Palle Ruchulu",
+  "locationString": "Nalgonda, Nalgonda District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0d/7f/13/0a/img5.jpg",
+  "photoCount": 51,
+  "rankingPosition": 5,
+  "rating": 3,
+  "rawRanking": 2.9138712882995605,
+  "phone": "+91 97016 07111",
+  "address": "Vijayawada Highway Near Inipamula Toll Gate, Inipamula Village, Kethepalli Mandal, Hyderabad, Nalgonda 508211 India",
+  "addressObj": {
+    "street1": "Vijayawada Highway",
+    "street2": "Near Inipamula Toll Gate, Inipamula Village, Kethepalli Mandal, Hyderabad",
+    "city": "Nalgonda",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "508211"
+  },
+  "localName": "Maa Palle Ruchulu",
+  "localAddress": "Vijayawada Highway, Near Inipamula Toll Gate, Inipamula Village, Kethepalli Mandal, Hyderabad, 508211",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": null,
+  "longitude": null,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g1544623-d11768275-Reviews-Maa_Palle_Ruchulu-Nalgonda_Nalgonda_District_Telangana.html",
+  "website": null,
+  "rankingString": "#5 of 11 Restaurants in Nalgonda",
+  "rankingDenominator": "11",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "1544623",
+      "name": "Nalgonda",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389581",
+      "name": "Nalgonda District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 4,
+    "count2": 1,
+    "count3": 1,
+    "count4": 1,
+    "count5": 4
+  },
+  "numberOfReviews": 11,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": null,
+  "priceLevel": null,
+  "dishes": [],
+  "hours": null,
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": true,
+  "priceRange": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/0d/7f/13/0a/img5.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0d/7f/12/75/img2.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0d/7f/13/5c/img6.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/15/bd/fe/d0/photo5jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/15/bd/fe/cf/photo4jpg.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/bd/fe/d0/photo5jpg.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/bd/fe/cf/photo4jpg.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/bd/fe/ce/photo3jpg.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/bd/fe/cd/photo2jpg.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/bd/fe/cc/photo1jpg.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/bd/fe/cb/photo0jpg.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/eb/2a/d4/maa-palle-ruchulu.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/eb/2a/d5/maa-palle-ruchulu.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/eb/2a/d6/maa-palle-ruchulu.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/eb/2a/d7/maa-palle-ruchulu.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/eb/2b/61/maa-palle-ruchulu.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/eb/2a/d3/maa-palle-ruchulu.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/eb/2a/d8/maa-palle-ruchulu.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/eb/2a/d9/maa-palle-ruchulu.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/eb/2a/ca/maa-palle-ruchulu.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/eb/2a/da/maa-palle-ruchulu.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/08/ef/83/img20170712142603-largejpg.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/08/ef/85/img20170712142557-largejpg.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/08/ef/86/fb-img-1499849679466.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/08/ef/87/img20170712142616-largejpg.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/08/ef/88/fb-img-1499849605909.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/08/f2/15/good-food.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/08/f2/1e/good-food.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/08/f2/1f/good-food.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/08/f2/23/good-food.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/08/f2/26/good-food.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/08/f2/2b/good-food.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/08/f2/2d/good-food.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/08/f2/30/good-food.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/08/f2/32/good-food.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/08/f2/34/good-food.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/7f/12/33/img1.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/7f/12/75/img2.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/7f/12/af/img3.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/7f/13/0a/img5.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/7f/13/5c/img6.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/7f/13/a1/img7.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/7f/13/e6/img8.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/7f/14/15/img9.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/7f/14/54/img10.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/7f/14/84/img11.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/7f/14/b7/img12.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/7f/15/03/img13.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/7f/15/39/img14.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/7f/15/5b/img15.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/7f/15/8a/img16.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/7f/15/b7/img17.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/7f/15/fd/img18.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/7f/16/4c/img19.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/7f/16/8f/img20.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/7f/16/aa/img21.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "cuisines": [
+    "Indian"
+  ],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [
+    "Seating",
+    "Table Service"
+  ],
+  "mealTypes": [
+    "Dinner"
+  ],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Nalgonda,restaurants"
+},
+{
+  "reviewTags": [],
+  "id": "8327887",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [
+    "Sit down"
+  ],
+  "name": "7 Highway Food n fun stop",
+  "locationString": "Nalgonda, Nalgonda District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/08/ab/41/2e/ghee-karam-idly-toooo.jpg",
+  "photoCount": 17,
+  "rankingPosition": 1,
+  "rating": 4,
+  "rawRanking": 3.134716510772705,
+  "phone": "+91 97056 00007",
+  "address": "NH 9 Highway, Nalgonda 508213 India",
+  "addressObj": {
+    "street1": "NH 9 Highway",
+    "street2": null,
+    "city": "Nalgonda",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "508213"
+  },
+  "localName": "7 Highway Food n fun stop",
+  "localAddress": "NH 9 Highway, 508213",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.150702,
+  "longitude": 79.576866,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g1544623-d8327887-Reviews-7_Highway_Food_n_fun_stop-Nalgonda_Nalgonda_District_Telangana.html",
+  "website": "https://www.facebook.com/foodseven/",
+  "rankingString": "#1 of 11 Restaurants in Nalgonda",
+  "rankingDenominator": "11",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "1544623",
+      "name": "Nalgonda",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389581",
+      "name": "Nalgonda District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 3,
+    "count2": 1,
+    "count3": 6,
+    "count4": 17,
+    "count5": 14
+  },
+  "numberOfReviews": 41,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": "Open Now",
+  "priceLevel": "$$ - $$$",
+  "dishes": [],
+  "hours": {
+    "weekRanges": [
+      [
+        {
+          "open": 360,
+          "openHours": "06:00",
+          "close": 1410,
+          "closeHours": "23:30"
+        }
+      ],
+      [
+        {
+          "open": 360,
+          "openHours": "06:00",
+          "close": 1410,
+          "closeHours": "23:30"
+        }
+      ],
+      [
+        {
+          "open": 360,
+          "openHours": "06:00",
+          "close": 1410,
+          "closeHours": "23:30"
+        }
+      ],
+      [
+        {
+          "open": 360,
+          "openHours": "06:00",
+          "close": 1410,
+          "closeHours": "23:30"
+        }
+      ],
+      [
+        {
+          "open": 360,
+          "openHours": "06:00",
+          "close": 1410,
+          "closeHours": "23:30"
+        }
+      ],
+      [
+        {
+          "open": 360,
+          "openHours": "06:00",
+          "close": 1410,
+          "closeHours": "23:30"
+        }
+      ],
+      [
+        {
+          "open": 360,
+          "openHours": "06:00",
+          "close": 1410,
+          "closeHours": "23:30"
+        }
+      ]
+    ],
+    "timezone": "Asia/Kolkata"
+  },
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": true,
+  "priceRange": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/12/19/f1/7d/chicken-pulao.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/09/ca/87/80/7-highway-food-n-fun.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/09/ca/87/72/7-highway-food-n-fun.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/08/ab/41/2e/ghee-karam-idly-toooo.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2a/78/b3/80/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1a/19/7c/00/filter-coffee.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1a/19/7b/d9/ghee-karam-idlis.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/12/19/f1/f9/mutton-curry.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/12/19/f1/d9/chicken-curry.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/12/19/f1/a4/roti.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/6d/fa/8c/img-20171203-140924-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0e/b4/67/72/img-20170314-170905-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/09/00/da/e3/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/e8/20/89/7-food-court.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/e8/20/67/7-food-court.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/e8/20/3b/7-food-court.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/e8/20/19/7-food-court.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/19/7b/d9/ghee-karam-idlis.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/19/7c/00/filter-coffee.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/78/b3/80/caption.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "cuisines": [
+    "Indian",
+    "International"
+  ],
+  "dietaryRestrictions": [
+    "Vegetarian friendly",
+    "Vegan options"
+  ],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [
+    "Takeout",
+    "Seating",
+    "Wheelchair Accessible",
+    "Table Service"
+  ],
+  "mealTypes": [
+    "Breakfast",
+    "Lunch",
+    "Dinner"
+  ],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Nalgonda,restaurants"
+},
+{
+  "reviewTags": [],
+  "id": "21493831",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [
+    "Sit down"
+  ],
+  "name": "Celebrations Multicusine Restaurant",
+  "locationString": "Gudur, Nalgonda District, Telangana",
+  "description": "Dive into an unforgettable gastronomical adventure. We maintain high standards of hygiene and sanitation.",
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 98481 84333",
+  "address": "Nh-16, varagali cross roads, near chillakur, Nellore district, andhra pradesh, Gudur 524412 India",
+  "addressObj": {
+    "street1": "Nh-16, varagali cross roads, near chillakur,",
+    "street2": "Nellore district, andhra pradesh",
+    "city": "Gudur",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "524412"
+  },
+  "localName": "Celebrations Multicusine Restaurant",
+  "localAddress": "Nh-16, varagali cross roads, near chillakur,, Nellore district, andhra pradesh, 524412",
+  "localLangCode": "en-IN",
+  "email": "abhiram.tvis172@gmail.com",
+  "latitude": 14.120394,
+  "longitude": 79.872856,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g9855873-d21493831-Reviews-Celebrations_Multicusine_Restaurant-Gudur_Nalgonda_District_Telangana.html",
+  "website": null,
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "9855873",
+      "name": "Gudur",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389581",
+      "name": "Nalgonda District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": null,
+  "priceLevel": "$",
+  "dishes": [],
+  "hours": null,
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": true,
+  "priceRange": null,
+  "photos": [],
+  "travelerChoiceAward": null,
+  "cuisines": [
+    "Chinese",
+    "Indian",
+    "Pizza"
+  ],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Nalgonda,restaurants"
+},
+{
+  "reviewTags": [
+    {
+      "text": "chennai",
+      "reviews": 2
+    },
+    {
+      "text": "taste",
+      "reviews": 3
+    },
+    {
+      "text": "highway",
+      "reviews": 4
+    },
+    {
+      "text": "food",
+      "reviews": 7
+    }
+  ],
+  "id": "15151311",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [
+    "Sit down"
+  ],
+  "name": "Hotel Vididhi Restaurant & Lodge",
+  "locationString": "Nalgonda, Nalgonda District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/16/03/9b/bb/hotel-main-entrance.jpg",
+  "photoCount": 13,
+  "rankingPosition": 2,
+  "rating": 4,
+  "rawRanking": 3.0790226459503174,
+  "phone": "+91 77290 78872",
+  "address": "Survey No. 173/2, 174/6, State Highway 2 Miryalaguda Highway Near Madugulapally Toll Plaza Kothagudam Village, Madgulapally,, Nalgonda 508247 India",
+  "addressObj": {
+    "street1": null,
+    "street2": "Survey No. 173/2, 174/6, State Highway 2 Miryalaguda Highway Near Madugulapally Toll Plaza Kothagudam Village, Madgulapally,",
+    "city": "Nalgonda",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "508247"
+  },
+  "localName": "Hotel Vididhi Restaurant & Lodge",
+  "localAddress": "Survey No. 173/2, 174/6, State Highway 2 Miryalaguda Highway Near Madugulapally Toll Plaza Kothagudam Village, Madgulapally,, 508247",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 16.98939,
+  "longitude": 79.44262,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g1544623-d15151311-Reviews-Hotel_Vididhi_Restaurant_Lodge-Nalgonda_Nalgonda_District_Telangana.html",
+  "website": null,
+  "rankingString": "#2 of 11 Restaurants in Nalgonda",
+  "rankingDenominator": "11",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "1544623",
+      "name": "Nalgonda",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389581",
+      "name": "Nalgonda District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 1,
+    "count2": 0,
+    "count3": 1,
+    "count4": 1,
+    "count5": 5
+  },
+  "numberOfReviews": 8,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": null,
+  "priceLevel": "$$$$",
+  "dishes": [],
+  "hours": null,
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": true,
+  "priceRange": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/14/ce/86/e9/getlstd-property-photo.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/16/03/9b/bb/hotel-main-entrance.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1d/b2/36/89/hotel-vididhi-restaurant.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1d/b2/36/88/hotel-vididhi-restaurant.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/7b/25/6b/hotel-vididhi-restaurant.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/7b/25/6b/hotel-vididhi-restaurant.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/b2/36/89/hotel-vididhi-restaurant.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/b2/36/88/hotel-vididhi-restaurant.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "cuisines": [
+    "Chinese",
+    "Indian"
+  ],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Nalgonda,restaurants"
+},
+{
+  "reviewTags": [],
+  "id": "27591575",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [],
+  "name": "Pizza Hut",
+  "locationString": "Nalgonda, Nalgonda District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 1800 202 2022",
+  "address": "Sri Lakshmi Narasimha Swamy Colony, Main Road, Sai Sree Colony, Nalgonda 508001 India",
+  "addressObj": {
+    "street1": "Sri Lakshmi Narasimha Swamy Colony, Main Road, Sai Sree Colony",
+    "street2": null,
+    "city": "Nalgonda",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "508001"
+  },
+  "localName": "Pizza Hut",
+  "localAddress": "Sri Lakshmi Narasimha Swamy Colony, Main Road, Sai Sree Colony, 508001",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 12.850254,
+  "longitude": 77.64676,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g1544623-d27591575-Reviews-Pizza_Hut-Nalgonda_Nalgonda_District_Telangana.html",
+  "website": "https://restaurants.pizzahut.co.in/pizza-hut-ph-clock-tower-road-nalgonda-pizzerias-sai-sree-colony-nalgonda-185499/home?utm_source=locator&utm_medium=bing",
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "1544623",
+      "name": "Nalgonda",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389581",
+      "name": "Nalgonda District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": null,
+  "priceLevel": null,
+  "dishes": [],
+  "hours": null,
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": true,
+  "priceRange": null,
+  "photos": [],
+  "travelerChoiceAward": null,
+  "cuisines": [],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Nalgonda,restaurants"
+},
+{
+  "id": "27635312",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [],
+  "name": "Arabian Mandi House",
+  "locationString": "Miryalaguda, Nalgonda District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 72071 55856",
+  "address": "Near Flyover, Miryalaguda 508207 India",
+  "addressObj": {
+    "street1": "Near Flyover",
+    "street2": null,
+    "city": "Miryalaguda",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "508207"
+  },
+  "localName": "Arabian Mandi House",
+  "localAddress": "Near Flyover, 508207",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 16.862131,
+  "longitude": 79.553246,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g17608181-d27635312-Reviews-Arabian_Mandi_House-Miryalaguda_Nalgonda_District_Telangana.html",
+  "website": null,
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "17608181",
+      "name": "Miryalaguda",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389581",
+      "name": "Nalgonda District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": null,
+  "priceLevel": null,
+  "dishes": [],
+  "hours": null,
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": true,
+  "reviewTags": [],
+  "priceRange": null,
+  "photos": [],
+  "travelerChoiceAward": null,
+  "cuisines": [
+    "Indian"
+  ],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Nalgonda,restaurants"
+},
+{
+  "reviewTags": [],
+  "id": "17811209",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [
+    "Sit down"
+  ],
+  "name": "London street multi cuisine restaurant",
+  "locationString": "Gudur, Nalgonda District, Telangana",
+  "description": "Your Host On The Coast A5 Hotel (stay, Dine, Celebrate) About The Hotel A5 Believes In Indian Traditional Values Of “athiti Devo Bhava” Blended With Modern Comfort & Convenience. Luxury Rooms 19 Rooms State Of Art Hotel Has A Desired Blend Of Comfort And Class Keeping The Discerning Traveler In Mind Whether It Be On Business Or Leisure Located Amidst Lush Green Landscape, Enroot Gudur To Chennai On Nh5. Just 5 Kms From Gudur. The Bouquet Of Facilities Include Aqua-board Room, Saradha Convention- Banquet/convention Hall, Food Express-restaurant,iceburg Icecreams , London Street -multi Cuisine Restaurant Serving Exotic Cuisines From Across The World , Nirvi - Beautifully Landscaped Lawn's, Bluebay Swimming Pool & Spa , Maguva Shopping, Karachi Bakery, Café Coffee Day , It Is A Unique Combination Of A Hotel, Motel And Resort.",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/22/ff/54/94/a5-hotel.jpg",
+  "photoCount": 84,
+  "rankingPosition": 1,
+  "rating": 1,
+  "rawRanking": 2.817741870880127,
+  "phone": "916309859915",
+  "address": "Near Tirumala Dairy, AH16 Gudur, SPSR Nellore, AP-524410, Gudur 524410 India",
+  "addressObj": {
+    "street1": "Near Tirumala Dairy, AH16 Gudur, SPSR Nellore, AP-524410",
+    "street2": null,
+    "city": "Gudur",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "524410"
+  },
+  "localName": "London street multi cuisine restaurant",
+  "localAddress": "Near Tirumala Dairy, AH16 Gudur, SPSR Nellore, AP-524410, 524410",
+  "localLangCode": "en-IN",
+  "email": "gm@a5hotel.com",
+  "latitude": 14.085581,
+  "longitude": 79.88963,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g9855873-d17811209-Reviews-London_street_multi_cuisine_restaurant-Gudur_Nalgonda_District_Telangana.html",
+  "website": "http://london-street.business.site",
+  "rankingString": "#1 of 2 Restaurants in Gudur",
+  "rankingDenominator": "2",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "9855873",
+      "name": "Gudur",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389581",
+      "name": "Nalgonda District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 1,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 1,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": "Open Now",
+  "priceLevel": "$",
+  "dishes": [],
+  "hours": {
+    "weekRanges": [
+      [
+        {
+          "open": 420,
+          "openHours": "07:00",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ],
+      [
+        {
+          "open": 420,
+          "openHours": "07:00",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ],
+      [
+        {
+          "open": 420,
+          "openHours": "07:00",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ],
+      [
+        {
+          "open": 420,
+          "openHours": "07:00",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ],
+      [
+        {
+          "open": 420,
+          "openHours": "07:00",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ],
+      [
+        {
+          "open": 420,
+          "openHours": "07:00",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ],
+      [
+        {
+          "open": 420,
+          "openHours": "07:00",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ]
+    ],
+    "timezone": "Asia/Kolkata"
+  },
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": true,
+  "priceRange": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/22/ff/54/94/a5-hotel.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/22/ff/56/c4/menu.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/22/ff/56/be/menu.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/22/ff/56/b5/menu.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/22/ff/56/af/menu.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "cuisines": [
+    "Chinese",
+    "Indian",
+    "Pizza",
+    "Cafe",
+    "Soups"
+  ],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [
+    "Delivery",
+    "Reservations",
+    "Buffet",
+    "Private Dining",
+    "Seating",
+    "Parking Available",
+    "Television",
+    "Digital Payments",
+    "Accepts Credit Cards",
+    "Table Service",
+    "Playgrounds",
+    "Family style",
+    "Non-smoking restaurants"
+  ],
+  "mealTypes": [
+    "Breakfast",
+    "Lunch",
+    "Dinner",
+    "Brunch",
+    "Late Night",
+    "Drinks"
+  ],
+  "isClaimedIcon": true,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Nalgonda,restaurants"
+},
+{
+  "reviewTags": [],
+  "id": "27635314",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [],
+  "name": "Tea Time Nalgonda",
+  "locationString": "Nalgonda, Nalgonda District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 79895 92010",
+  "address": "Rahamath Nagar, Nalgonda 508001 India",
+  "addressObj": {
+    "street1": "Rahamath Nagar",
+    "street2": null,
+    "city": "Nalgonda",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "508001"
+  },
+  "localName": "Tea Time Nalgonda",
+  "localAddress": "Rahamath Nagar, 508001",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.055113,
+  "longitude": 79.27463,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g1544623-d27635314-Reviews-Tea_Time_Nalgonda-Nalgonda_Nalgonda_District_Telangana.html",
+  "website": "http://teatimegroup.com/",
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "1544623",
+      "name": "Nalgonda",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389581",
+      "name": "Nalgonda District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": null,
+  "priceLevel": null,
+  "dishes": [],
+  "hours": null,
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": true,
+  "priceRange": null,
+  "photos": [],
+  "travelerChoiceAward": null,
+  "cuisines": [],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Nalgonda,restaurants"
+},
+{
+  "reviewTags": [],
+  "id": "27635316",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [],
+  "name": "Ifc Nalgonda",
+  "locationString": "Nalgonda, Nalgonda District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 91001 00451",
+  "address": "Meerbagh Colony, Near Andhra Bank, Hyd Road, Nalgonda 5008001 India",
+  "addressObj": {
+    "street1": "Meerbagh Colony, Near Andhra Bank, Hyd Road",
+    "street2": null,
+    "city": "Nalgonda",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "5008001"
+  },
+  "localName": "Ifc Nalgonda",
+  "localAddress": "Meerbagh Colony, Near Andhra Bank, Hyd Road, 5008001",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.05712,
+  "longitude": 79.26855,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g1544623-d27635316-Reviews-Ifc_Nalgonda-Nalgonda_Nalgonda_District_Telangana.html",
+  "website": null,
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "1544623",
+      "name": "Nalgonda",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389581",
+      "name": "Nalgonda District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": null,
+  "priceLevel": null,
+  "dishes": [],
+  "hours": null,
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": true,
+  "priceRange": null,
+  "photos": [],
+  "travelerChoiceAward": null,
+  "cuisines": [
+    "Pizza"
+  ],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Nalgonda,restaurants"
+},
+{
+  "id": "27635320",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [],
+  "name": "Amul Icecream Parlour & Pizza Corner At Nalgonda",
+  "locationString": "Nalgonda, Nalgonda District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 86822 22181",
+  "address": "V.t Road, Opp Pollice Auditorium, Nalgonda 508001 India",
+  "addressObj": {
+    "street1": "V.t Road, Opp Pollice Auditorium",
+    "street2": null,
+    "city": "Nalgonda",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "508001"
+  },
+  "localName": "Amul Icecream Parlour & Pizza Corner At Nalgonda",
+  "localAddress": "V.t Road, Opp Pollice Auditorium, 508001",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.06164,
+  "longitude": 79.2693,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g1544623-d27635320-Reviews-Amul_Icecream_Parlour_Pizza_Corner_At_Nalgonda-Nalgonda_Nalgonda_District_Telan.html",
+  "website": null,
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "1544623",
+      "name": "Nalgonda",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389581",
+      "name": "Nalgonda District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": null,
+  "priceLevel": null,
+  "dishes": [],
+  "hours": null,
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": true,
+  "reviewTags": [],
+  "priceRange": null,
+  "photos": [],
+  "travelerChoiceAward": null,
+  "cuisines": [
+    "Pizza"
+  ],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Nalgonda,restaurants"
+},
+{
+  "reviewTags": [],
+  "id": "27635323",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [],
+  "name": "Kfc",
+  "locationString": "Nalgonda, Nalgonda District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 91829 60757",
+  "address": "Ground Floor, Sri Laxmi Nagar Colony, Nalgonda 508001 India",
+  "addressObj": {
+    "street1": "Ground Floor, Sri Laxmi Nagar Colony",
+    "street2": null,
+    "city": "Nalgonda",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "508001"
+  },
+  "localName": "Kfc",
+  "localAddress": "Ground Floor, Sri Laxmi Nagar Colony, 508001",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.064384,
+  "longitude": 79.26541,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g1544623-d27635323-Reviews-Kfc-Nalgonda_Nalgonda_District_Telangana.html",
+  "website": "https://restaurants.kfc.co.in/kfc-kfc-nalgonda-restaurants-sri-laxmi-nagar-colony-nalgonda-182740/home?utm_source=locator&utm_medium=bing",
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "1544623",
+      "name": "Nalgonda",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389581",
+      "name": "Nalgonda District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": null,
+  "priceLevel": null,
+  "dishes": [],
+  "hours": null,
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": true,
+  "priceRange": null,
+  "photos": [],
+  "travelerChoiceAward": null,
+  "cuisines": [],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Nalgonda,restaurants"
+}]

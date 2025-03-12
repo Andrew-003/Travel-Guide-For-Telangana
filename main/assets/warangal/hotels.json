@@ -1,0 +1,2652 @@
+[{
+  "id": "1179244",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Hotel"
+  ],
+  "name": "Lahospin hotel",
+  "locationString": "Warangal, Warangal (Urban) District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": 6,
+  "rating": 3.5,
+  "rawRanking": 3.0119004249572754,
+  "phone": null,
+  "address": "M G Road, Warangal 506007 India",
+  "addressObj": {
+    "street1": "M G Road",
+    "street2": "",
+    "city": "Warangal",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "506007"
+  },
+  "localName": "Lahospin hotel",
+  "localAddress": "M G Road, 506007",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.98904,
+  "longitude": 79.59946,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g735768-d1179244-Reviews-Lahospin_hotel-Warangal_Warangal_Urban_District_Telangana.html",
+  "website": null,
+  "rankingString": "#6 of 7 hotels in Warangal",
+  "rankingDenominator": "7",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "735768",
+      "name": "Warangal",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389621",
+      "name": "Warangal (Urban) District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 4,
+    "count4": 3,
+    "count5": 0
+  },
+  "numberOfReviews": 7,
+  "hotelClass": "0.0",
+  "amenities": [
+    "Restaurant"
+  ],
+  "priceLevel": null,
+  "priceRange": null,
+  "roomTips": [],
+  "isNearbyResult": false,
+  "reviewTags": [],
+  "checkInDate": "2024-11-03",
+  "checkOutDate": "2024-11-04",
+  "numberOfRooms": null,
+  "categoryReviewScores": [
+    {
+      "categoryName": "Location",
+      "score": 3.3
+    },
+    {
+      "categoryName": "Rooms",
+      "score": 3
+    },
+    {
+      "categoryName": "Value",
+      "score": 3.3
+    },
+    {
+      "categoryName": "Cleanliness",
+      "score": 3.4
+    },
+    {
+      "categoryName": "Service",
+      "score": 3.5
+    },
+    {
+      "categoryName": "Sleep Quality",
+      "score": 2.8
+    }
+  ],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/0c/ae/83/fa/bogatha-waterfalls.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Warangal,hotels"
+},
+{
+  "reviewTags": [],
+  "id": "4025561",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Specialty Lodging"
+  ],
+  "name": "Hotel Vivera",
+  "locationString": "Nalgonda, Nalgonda District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0f/8f/93/2d/a-punjabi-restaurant.jpg",
+  "photoCount": 13,
+  "rankingPosition": 1,
+  "rating": 3.5,
+  "rawRanking": 3.0551137924194336,
+  "phone": "+91 92470 23909",
+  "address": "Gopalapally National Highway No 9, Nalgonda India",
+  "addressObj": {
+    "street1": "Gopalapally",
+    "street2": "National Highway No 9",
+    "city": "Nalgonda",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": null
+  },
+  "localName": "Hotel Vivera",
+  "localAddress": "Gopalapally, National Highway No 9",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": null,
+  "longitude": null,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g1544623-d4025561-Reviews-Hotel_Vivera-Nalgonda_Nalgonda_District_Telangana.html",
+  "website": null,
+  "rankingString": "#1 of 4 lodges in Nalgonda",
+  "rankingDenominator": "4",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "1544623",
+      "name": "Nalgonda",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389581",
+      "name": "Nalgonda District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 3,
+    "count3": 2,
+    "count4": 9,
+    "count5": 0
+  },
+  "numberOfReviews": 14,
+  "hotelClass": "0.0",
+  "amenities": [
+    "Room service",
+    "Restaurant",
+    "Air conditioning",
+    "Kids Activities",
+    "Laundry Service"
+  ],
+  "priceLevel": null,
+  "priceRange": null,
+  "roomTips": [
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Stay for short period for relaxing.",
+      "rating": "3",
+      "reviewId": "266963643",
+      "id": "266963643",
+      "createdTime": "2015-04-21T00:59:35-04:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "better not stay in this hotel, if possible choose other hotels in nearby locations.",
+      "rating": "2",
+      "reviewId": "188029768",
+      "id": "188029768",
+      "createdTime": "2013-12-19T00:28:39-05:00"
+    }
+  ],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-03",
+  "checkOutDate": "2024-11-04",
+  "numberOfRooms": null,
+  "categoryReviewScores": [
+    {
+      "categoryName": "Location",
+      "score": 3.4
+    },
+    {
+      "categoryName": "Rooms",
+      "score": 1.5
+    },
+    {
+      "categoryName": "Value",
+      "score": 3
+    },
+    {
+      "categoryName": "Cleanliness",
+      "score": 3.7
+    },
+    {
+      "categoryName": "Service",
+      "score": 3.4
+    },
+    {
+      "categoryName": "Sleep Quality",
+      "score": 3
+    }
+  ],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/af/1d/82/hotel-vivera.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0f/8f/93/2d/a-punjabi-restaurant.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/af/1d/91/hotel-vivera.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/af/1d/87/hotel-vivera.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0f/8f/93/42/an-overview-of-the-items.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0f/8f/93/3a/tandoori-roti-with-palak.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0f/8f/93/34/a-ground-floor-ac-restaurant.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0f/8f/93/31/a-ground-floor-ac-restaurant.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0f/8f/93/24/the-exterior-of-the-hotel.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0a/19/59/aa/hotel-vivera.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0a/19/59/72/hotel-vivera.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0a/19/59/1e/parking-area.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0a/19/58/ea/hotel-vivera.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Warangal,hotels"
+},
+{
+  "reviewTags": [
+    {
+      "text": "clean rooms",
+      "reviews": 2
+    },
+    {
+      "text": "transport",
+      "reviews": 2
+    },
+    {
+      "text": "city",
+      "reviews": 3
+    }
+  ],
+  "id": "23531644",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Hotel"
+  ],
+  "name": "Hotel Thousand Pillars",
+  "locationString": "Hanamkonda, Warangal (Urban) District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-s/2b/a2/a5/1c/caption.jpg",
+  "photoCount": 9,
+  "rankingPosition": 1,
+  "rating": 3.5,
+  "rawRanking": 3.097968101501465,
+  "phone": "+91 91820 56622",
+  "address": "Kaloji Marg Advocates Colony, Nakkala Gutta, Hanamkonda 506001 India",
+  "addressObj": {
+    "street1": "Kaloji Marg",
+    "street2": "Advocates Colony, Nakkala Gutta",
+    "city": "Hanamkonda",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "506001"
+  },
+  "localName": "Hotel Thousand Pillars",
+  "localAddress": "Kaloji Marg, Advocates Colony, Nakkala Gutta, 506001",
+  "localLangCode": "en-IN",
+  "email": "hotelthousandpillars@gmail.com",
+  "latitude": 17.99854,
+  "longitude": 79.55701,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g20404693-d23531644-Reviews-Hotel_Thousand_Pillars-Hanamkonda_Warangal_Urban_District_Telangana.html",
+  "website": "https://hotelthousandpillars.com/",
+  "rankingString": "#1 of 5 hotels in Hanamkonda",
+  "rankingDenominator": "5",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "20404693",
+      "name": "Hanamkonda",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389621",
+      "name": "Warangal (Urban) District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 4,
+    "count2": 1,
+    "count3": 1,
+    "count4": 4,
+    "count5": 9
+  },
+  "numberOfReviews": 19,
+  "hotelClass": "0.0",
+  "amenities": [
+    "Room service",
+    "Restaurant",
+    "Air conditioning",
+    "Bath / Shower",
+    "Free Wifi"
+  ],
+  "priceLevel": "$",
+  "priceRange": "$32 - $36",
+  "roomTips": [
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "The restaurant in ground floor offers good tasty food, don't miss it !",
+      "rating": "5",
+      "reviewId": "942419538",
+      "id": "942419538",
+      "createdTime": "2024-03-15T09:55:20-04:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Don't book this",
+      "rating": "1",
+      "reviewId": "941454219",
+      "id": "941454219",
+      "createdTime": "2024-03-08T12:11:43-05:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Don't book it",
+      "rating": "1",
+      "reviewId": "887904000",
+      "id": "887904000",
+      "createdTime": "2023-04-26T20:12:35-04:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "They only entertain bookings through sites like makemytrip goibibo etc.Look for offers and opt for bigger rooms",
+      "rating": "4",
+      "reviewId": "879928416",
+      "id": "879928416",
+      "createdTime": "2023-02-24T01:37:41-05:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Avoid coming to this place.",
+      "rating": "1",
+      "reviewId": "811757561",
+      "id": "811757561",
+      "createdTime": "2021-09-25T18:01:54-04:00"
+    }
+  ],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-03",
+  "checkOutDate": "2024-11-04",
+  "numberOfRooms": null,
+  "categoryReviewScores": [
+    {
+      "categoryName": "Location",
+      "score": 3.5
+    },
+    {
+      "categoryName": "Value",
+      "score": 3.7
+    },
+    {
+      "categoryName": "Cleanliness",
+      "score": 5
+    },
+    {
+      "categoryName": "Service",
+      "score": 3.8
+    }
+  ],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/1d/d1/c4/f2/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/a2/a5/1c/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/a2/a5/14/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/a2/a4/cf/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/ee/c3/ed/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/ee/c3/ec/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/ee/c3/eb/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/ee/c3/ea/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1d/d1/c4/f1/caption.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Warangal,hotels"
+},
+{
+  "reviewTags": [
+    {
+      "text": "value for money",
+      "reviews": 3
+    },
+    {
+      "text": "cooperative",
+      "reviews": 2
+    }
+  ],
+  "id": "7746034",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Bed and Breakfast"
+  ],
+  "name": "Haritha Kakatiya Hotel",
+  "locationString": "Warangal, Warangal (Urban) District, Telangana",
+  "description": "Everyone needs a place to lay their weary head. For travelers visiting Warangal, Haritha Kakatiya Hotel is an excellent choice for rest and rejuvenation. Well-known for its family-friendly environment and proximity to great restaurants and attractions, Haritha Kakatiya Hotel makes it easy to enjoy the best of Warangal.\nYou’ll enjoy relaxing rooms that offer air conditioning, bringing comfort and convenience to your visit.\nThe small hotel features room service. Plus, Haritha Kakatiya Hotel offers an on-site restaurant, providing a pleasant respite from your busy day. For guests with a vehicle, free parking is available.\nNearby landmarks such as Thousand Pillar Temple (1.3 mi) and ISKCON Warangal Temple (2.3 mi) make Haritha Kakatiya Hotel a great place to stay when visiting Warangal.\nWhile staying in Warangal, you can check out a popular diner like Laxmi Lagoons Kitchen, which is serving up some great dishes.\nBest of all, Haritha Kakatiya Hotel makes it easy to experience some great Warangal attractions like Warangal Fort, which is a popular historic site.\nHaritha Kakatiya Hotel is sure to make your visit to Warangal one worth remembering.\n",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0d/53/e3/89/haritha-kakatiya-hotel.jpg",
+  "photoCount": 34,
+  "rankingPosition": 7,
+  "rating": 3,
+  "rawRanking": 3.0185487270355225,
+  "phone": "+91 870 256 2236",
+  "address": "National Highway 202, Warangal 506001 India",
+  "addressObj": {
+    "street1": "National Highway 202",
+    "street2": null,
+    "city": "Warangal",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "506001"
+  },
+  "localName": "Haritha Kakatiya Hotel",
+  "localAddress": "National Highway 202, 506001",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.998577,
+  "longitude": 79.55515,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g735768-d7746034-Reviews-Haritha_Kakatiya_Hotel-Warangal_Warangal_Urban_District_Telangana.html",
+  "website": "http://www.aptdc.gov.in/haritha_warangal.html",
+  "rankingString": "#7 of 8 small hotels in Warangal",
+  "rankingDenominator": "8",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "735768",
+      "name": "Warangal",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389621",
+      "name": "Warangal (Urban) District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 8,
+    "count2": 6,
+    "count3": 7,
+    "count4": 17,
+    "count5": 5
+  },
+  "numberOfReviews": 43,
+  "hotelClass": "0.0",
+  "amenities": [
+    "Kids Activities",
+    "Room service",
+    "Free parking",
+    "Restaurant",
+    "Airport transportation",
+    "Fitness center",
+    "Air conditioning",
+    "Family Rooms",
+    "Car Hire"
+  ],
+  "priceLevel": null,
+  "priceRange": null,
+  "roomTips": [
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "I don't think there are good rooms for public, try your luck if you are part of govt",
+      "rating": "1",
+      "reviewId": "535094063",
+      "id": "535094063",
+      "createdTime": "2017-10-22T06:34:50-04:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Value for your Budget Trip",
+      "rating": "5",
+      "reviewId": "442580305",
+      "id": "442580305",
+      "createdTime": "2016-12-07T04:48:01-05:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Ask for a room facing away from the road",
+      "rating": "4",
+      "reviewId": "434169037",
+      "id": "434169037",
+      "createdTime": "2016-11-02T19:10:36-04:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "need hifi maintanance",
+      "rating": "4",
+      "reviewId": "381090196",
+      "id": "381090196",
+      "createdTime": "2016-06-09T04:39:23-04:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "make a big curve about this \"hotel\"!!!",
+      "rating": "1",
+      "reviewId": "314362381",
+      "id": "314362381",
+      "createdTime": "2015-09-28T07:37:00-04:00"
+    }
+  ],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-03",
+  "checkOutDate": "2024-11-04",
+  "numberOfRooms": null,
+  "categoryReviewScores": [
+    {
+      "categoryName": "Location",
+      "score": 4.4
+    },
+    {
+      "categoryName": "Rooms",
+      "score": 3.2
+    },
+    {
+      "categoryName": "Value",
+      "score": 3.6
+    },
+    {
+      "categoryName": "Cleanliness",
+      "score": 2.9
+    },
+    {
+      "categoryName": "Service",
+      "score": 3.3
+    },
+    {
+      "categoryName": "Sleep Quality",
+      "score": 3.9
+    }
+  ],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/09/31/26/38/haritha-kakatiya-hotel.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0d/53/e3/89/haritha-kakatiya-hotel.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/08/49/0d/a3/haritha-kakatiya-hotel.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/19/c0/53/eb/img-20191019-143053-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/15/d7/f7/55/filthy-clumps-around.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/0c/45/db/haritha-kakatiya-hotel.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/0c/45/d5/haritha-kakatiya-hotel.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/0c/45/cf/haritha-kakatiya-hotel.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/0c/45/c8/haritha-kakatiya-hotel.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/0c/45/c7/haritha-kakatiya-hotel.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/0c/45/c2/haritha-kakatiya-hotel.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0d/d1/ad/7f/restaurant.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0d/d1/ad/61/stone-sculptures.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0d/d1/ad/24/just-at-the-entrance.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0d/d1/ac/a7/the-portico-and-the-complete.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0d/d1/ac/52/satisfying-bathroom.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0d/d1/ac/42/clean-and-maintained.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0d/d1/ac/14/double-bed-room.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0d/d1/ab/c4/double-bed-room.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0d/53/e3/75/haritha-kakatiya-hotel.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0b/d0/16/9f/the-artists-depiction.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Warangal,hotels"
+},
+{
+  "reviewTags": [
+    {
+      "text": "bridge",
+      "reviews": 4
+    },
+    {
+      "text": "nature",
+      "reviews": 6
+    }
+  ],
+  "id": "6468891",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Bed and Breakfast"
+  ],
+  "name": "Haritha Hotel Laknavaram",
+  "locationString": "Warangal, Warangal (Urban) District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/09/6a/45/36/haritha-hotel-laknavaram.jpg",
+  "photoCount": 97,
+  "rankingPosition": 2,
+  "rating": 3.5,
+  "rawRanking": 3.068615436553955,
+  "phone": "+91 870 256 2236",
+  "address": "Warangal 506347 India",
+  "addressObj": {
+    "street1": null,
+    "street2": null,
+    "city": "Warangal",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "506347"
+  },
+  "localName": "Haritha Hotel Laknavaram",
+  "localAddress": "506347",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 18.151451,
+  "longitude": 80.09206,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g735768-d6468891-Reviews-Haritha_Hotel_Laknavaram-Warangal_Warangal_Urban_District_Telangana.html",
+  "website": null,
+  "rankingString": "#2 of 8 small hotels in Warangal",
+  "rankingDenominator": "8",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "735768",
+      "name": "Warangal",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389621",
+      "name": "Warangal (Urban) District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 7,
+    "count2": 2,
+    "count3": 5,
+    "count4": 16,
+    "count5": 8
+  },
+  "numberOfReviews": 38,
+  "hotelClass": "0.0",
+  "amenities": [
+    "Free parking",
+    "Restaurant",
+    "Air conditioning"
+  ],
+  "priceLevel": null,
+  "priceRange": null,
+  "roomTips": [
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Dont travel without confirming if there is water in the lake",
+      "rating": "1",
+      "reviewId": "891696943",
+      "id": "891696943",
+      "createdTime": "2023-05-23T23:10:05-04:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "choose the wooden cottages over the water",
+      "rating": "1",
+      "reviewId": "629014266",
+      "id": "629014266",
+      "createdTime": "2018-10-27T19:42:34-04:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Best experience",
+      "rating": "4",
+      "reviewId": "604898868",
+      "id": "604898868",
+      "createdTime": "2018-08-10T02:06:55-04:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Wooden cottages are the best",
+      "rating": "5",
+      "reviewId": "512578743",
+      "id": "512578743",
+      "createdTime": "2017-08-14T03:05:10-04:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Wooden cottage 2 is the best.",
+      "rating": "5",
+      "reviewId": "462832579",
+      "id": "462832579",
+      "createdTime": "2017-02-25T20:07:45-05:00"
+    }
+  ],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-03",
+  "checkOutDate": "2024-11-04",
+  "numberOfRooms": 7,
+  "categoryReviewScores": [
+    {
+      "categoryName": "Location",
+      "score": 4.3
+    },
+    {
+      "categoryName": "Rooms",
+      "score": 2.5
+    },
+    {
+      "categoryName": "Value",
+      "score": 2.7
+    },
+    {
+      "categoryName": "Cleanliness",
+      "score": 3.2
+    },
+    {
+      "categoryName": "Service",
+      "score": 3
+    },
+    {
+      "categoryName": "Sleep Quality",
+      "score": 3.6
+    }
+  ],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/09/6a/45/36/haritha-hotel-laknavaram.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/05/a5/cb/cb/haritha-hotel-laknavaram.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0e/88/27/87/haritha-hotel-laknavaram.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0d/f2/64/95/photo2jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0b/99/bd/64/rats-have-bitten-our.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/09/6a/45/31/haritha-hotel-laknavaram.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/09/31/16/5e/haritha-hotel-laknavaram.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/09/31/15/d5/haritha-hotel-laknavaram.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/09/31/15/5b/haritha-hotel-laknavaram.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/05/ab/74/20/haritha-hotel-laknavaram.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/05/ab/74/12/haritha-hotel-laknavaram.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/05/ab/73/f7/haritha-hotel-laknavaram.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/05/a5/cb/fc/haritha-hotel-laknavaram.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/29/44/4b/2e/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/27/a9/01/d2/haritha-hotel-laknavaram.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/27/a9/01/d0/haritha-hotel-laknavaram.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/27/a9/01/cd/haritha-hotel-laknavaram.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/b8/03/da/haritha-hotel-laknavaram.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1a/08/e1/29/haritha-hotel-laknavaram.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/12/5e/ea/55/haritha-hotel-laknavaram.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Warangal,hotels"
+},
+{
+  "id": "12507885",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Bed and Breakfast"
+  ],
+  "name": "Hotel Shreya",
+  "locationString": "Warangal, Warangal (Urban) District, Telangana",
+  "description": "See why so many travelers make Hotel Shreya their small hotel of choice when visiting Warangal. Providing an ideal mix of value, comfort and convenience, it offers an array of amenities designed for travelers like you.\nISKCON Warangal Temple (1.5 mi), located nearby, makes Hotel Shreya a great place to stay for those interested in visiting this popular Warangal landmark.\nGuest rooms offer amenities such as a flat screen TV, air conditioning, and a minibar.\nWhile in Warangal be sure to experience nearby Asian restaurants such as Manu Restaurant or Laxmi Lagoons Kitchen.\nWarangal is also home to Warangal Fort, a popular historic site that is not too far from Hotel Shreya.\nAt Hotel Shreya, your comfort and satisfaction come first, and they look forward to welcoming you to Warangal.\n",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/10/b7/b3/5b/lobby.jpg",
+  "photoCount": 1,
+  "rankingPosition": 8,
+  "rating": 3.5,
+  "rawRanking": 3.013742446899414,
+  "phone": null,
+  "address": "#6-2-6/1/2/3, Near Kalyan Laxmi Shopping Mall and Kalyan Jewellers,New Bus stand Road, Warangal 506001 India",
+  "addressObj": {
+    "street1": "#6-2-6/1/2/3, Near Kalyan Laxmi Shopping Mall and Kalyan Jewellers,New Bus stand Road",
+    "street2": null,
+    "city": "Warangal",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "506001"
+  },
+  "localName": "Hotel Shreya",
+  "localAddress": "#6-2-6/1/2/3, Near Kalyan Laxmi Shopping Mall and Kalyan Jewellers,New Bus stand Road, 506001",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 18.00225,
+  "longitude": 79.56774,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g735768-d12507885-Reviews-Hotel_Shreya-Warangal_Warangal_Urban_District_Telangana.html",
+  "website": "http://www.hotelshreyawarangal.com/",
+  "rankingString": "#8 of 8 small hotels in Warangal",
+  "rankingDenominator": "8",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "735768",
+      "name": "Warangal",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389621",
+      "name": "Warangal (Urban) District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 1,
+    "count3": 1,
+    "count4": 2,
+    "count5": 0
+  },
+  "numberOfReviews": 4,
+  "hotelClass": "3.0",
+  "hotelClassAttribution": "This property is classified according to Giata.",
+  "amenities": [
+    "Kids Activities",
+    "Room service",
+    "Free parking",
+    "Restaurant",
+    "Bar/Lounge",
+    "Kitchenette",
+    "Spa",
+    "Airport transportation",
+    "Free Wifi",
+    "Breakfast included",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Air conditioning",
+    "Family Rooms",
+    "Minibar",
+    "Babysitting",
+    "Non-smoking hotel",
+    "Flatscreen TV",
+    "Sauna",
+    "Baggage Storage",
+    "Bicycle Rental",
+    "Car Hire",
+    "Currency Exchange"
+  ],
+  "priceLevel": "$",
+  "priceRange": "$31 - $32",
+  "roomTips": [],
+  "isNearbyResult": false,
+  "reviewTags": [],
+  "checkInDate": "2024-11-03",
+  "checkOutDate": "2024-11-04",
+  "numberOfRooms": null,
+  "categoryReviewScores": [],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/10/b7/b3/5b/lobby.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Warangal,hotels"
+},
+{
+  "reviewTags": [],
+  "id": "2073432",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Hotel"
+  ],
+  "name": "OYO 1252 Hotel Landmark",
+  "locationString": "Warangal, Warangal (Urban) District, Telangana",
+  "description": "See why so many travelers make Hotel Landmark their hotel of choice when visiting Warangal. Providing an ideal mix of value, comfort and convenience, it offers an array of amenities designed for travelers like you.\nRooms at Hotel Landmark offer air conditioning providing exceptional comfort and convenience, and guests can go online with internet access.\nRoom service is one of the conveniences offered at this hotel. A lounge will also help to make your stay even more special. If you are driving to Hotel Landmark, free parking is available.\nNearby landmarks such as Thousand Pillar Temple (1.3 mi) and ISKCON Warangal Temple (2.3 mi) make Hotel Landmark a great place to stay when visiting Warangal.\nDuring your visit, be sure to check out a popular Warangal pubs such as Hotel SHREYA, which is a short distance from Hotel Landmark.\nIf you’re looking for things to do, you can check out Siddeshwara Temple (0.9 mi), which is a popular attraction amongst tourists, and it is within walking distance.\nWe’re sure you’ll enjoy your stay at Hotel Landmark as you experience all of the things Warangal has to offer.\n",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/14/de/b2/fe/caption.jpg",
+  "photoCount": 11,
+  "rankingPosition": 4,
+  "rating": 3,
+  "rawRanking": 3.02490234375,
+  "phone": "+91 124 620 1464",
+  "address": "Plot No.183-94-22, Nakkalagutta, Hanamkonda, Warangal 506001 India",
+  "addressObj": {
+    "street1": "Plot No.183-94-22, Nakkalagutta, Hanamkonda",
+    "street2": null,
+    "city": "Warangal",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "506001"
+  },
+  "localName": "OYO 1252 Hotel Landmark",
+  "localAddress": "Plot No.183-94-22, Nakkalagutta, Hanamkonda, 506001",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 18.00069,
+  "longitude": 79.55573,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g735768-d2073432-Reviews-OYO_1252_Hotel_Landmark-Warangal_Warangal_Urban_District_Telangana.html",
+  "website": "https://www.oyorooms.com/1501/",
+  "rankingString": "#4 of 7 hotels in Warangal",
+  "rankingDenominator": "7",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "735768",
+      "name": "Warangal",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389621",
+      "name": "Warangal (Urban) District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 8,
+    "count2": 7,
+    "count3": 15,
+    "count4": 23,
+    "count5": 4
+  },
+  "numberOfReviews": 57,
+  "hotelClass": "0.0",
+  "amenities": [
+    "Internet",
+    "Restaurant",
+    "Bar/Lounge",
+    "Laundry Service",
+    "Kids Activities",
+    "Room service",
+    "Free parking",
+    "Airport transportation",
+    "Air conditioning",
+    "Non-smoking hotel"
+  ],
+  "priceLevel": "$",
+  "priceRange": "$35 - $38",
+  "roomTips": [
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "all are ok",
+      "rating": "4",
+      "reviewId": "506420926",
+      "id": "506420926",
+      "createdTime": "2017-07-28T03:43:22-04:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Oyo rooms are best in the hotel.",
+      "rating": "3",
+      "reviewId": "452943252",
+      "id": "452943252",
+      "createdTime": "2017-01-17T22:32:01-05:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Plus is for them who love to booze, a nice bar is inside :)",
+      "rating": "4",
+      "reviewId": "445996002",
+      "id": "445996002",
+      "createdTime": "2016-12-21T20:48:35-05:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Never book at this hotel.",
+      "rating": "1",
+      "reviewId": "377604889",
+      "id": "377604889",
+      "createdTime": "2016-05-29T07:06:23-04:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Take the room facing the front side, At least it you will see main road. The other side just faces wall",
+      "rating": "3",
+      "reviewId": "342995065",
+      "id": "342995065",
+      "createdTime": "2016-01-26T23:23:34-05:00"
+    }
+  ],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-03",
+  "checkOutDate": "2024-11-04",
+  "numberOfRooms": null,
+  "categoryReviewScores": [
+    {
+      "categoryName": "Location",
+      "score": 3.8
+    },
+    {
+      "categoryName": "Rooms",
+      "score": 3.3
+    },
+    {
+      "categoryName": "Value",
+      "score": 3.4
+    },
+    {
+      "categoryName": "Cleanliness",
+      "score": 3.2
+    },
+    {
+      "categoryName": "Service",
+      "score": 3
+    },
+    {
+      "categoryName": "Sleep Quality",
+      "score": 3.6
+    }
+  ],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/14/de/b2/fe/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/01/cf/b3/aa/hotel-landmark-room.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/01/cf/b3/ab/hotel-landmark-room-ii.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/01/cf/b3/ad/bathroom.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/08/9d/85/cf/hotel-landmark.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/08/9d/85/a0/hotel-landmark.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/08/9d/85/7c/hotel-landmark.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/08/9d/85/77/hotel-landmark.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/08/9d/85/6c/hotel-landmark.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/03/a9/af/8c/bathroom.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/03/a9/af/8b/tv.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Warangal,hotels"
+},
+{
+  "reviewTags": [],
+  "id": "4035465",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Bed and Breakfast"
+  ],
+  "name": "City Grand Hotel",
+  "locationString": "Warangal, Warangal (Urban) District, Telangana",
+  "description": "So many travelers make City Grand Hotel their small hotel of choice when visiting Warangal. Providing an ideal mix of value, comfort, and convenience, it offers a family-friendly setting with an array of amenities designed for travelers like you. Given the close proximity to Siddeshwara Temple (2.1 mi), guests of City Grand Hotel can easily experience one of Warangal's most popular landmarks. Rooms at City Grand Hotel offer air conditioning providing exceptional comfort and convenience, and guests can go online with internet access. Room service is one of the conveniences offered at this small hotel. A lounge will also help to make your stay even more special. If you are driving to City Grand Hotel, free parking is available. Plus, during your trip, don't forget to check out a historic site, such as Warangal Fort. At City Grand Hotel, your comfort and satisfaction come first, and they look forward to welcoming you to Warangal.",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/04/22/d6/18/city-grand-hotel.jpg",
+  "photoCount": 47,
+  "rankingPosition": 5,
+  "rating": 3.5,
+  "rawRanking": 3.026930093765259,
+  "phone": "+91 98493 07744",
+  "address": "S.V.P Road Rangampet Rd, Opp. Malik Kia, Warangal 506001 India",
+  "addressObj": {
+    "street1": "S.V.P Road",
+    "street2": "Rangampet Rd, Opp. Malik Kia",
+    "city": "Warangal",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "506001"
+  },
+  "localName": "City Grand Hotel",
+  "localAddress": "S.V.P Road, Rangampet Rd, Opp. Malik Kia, 506001",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.997847,
+  "longitude": 79.586975,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g735768-d4035465-Reviews-City_Grand_Hotel-Warangal_Warangal_Urban_District_Telangana.html",
+  "website": null,
+  "rankingString": "#5 of 8 small hotels in Warangal",
+  "rankingDenominator": "8",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "735768",
+      "name": "Warangal",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389621",
+      "name": "Warangal (Urban) District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 6,
+    "count2": 0,
+    "count3": 10,
+    "count4": 12,
+    "count5": 7
+  },
+  "numberOfReviews": 35,
+  "hotelClass": "0.0",
+  "amenities": [
+    "Room service",
+    "Restaurant",
+    "Air conditioning",
+    "Internet",
+    "Suites",
+    "Free parking",
+    "Airport transportation",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Business center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Family Rooms",
+    "Refrigerator in room",
+    "Minibar",
+    "Conference Facilities",
+    "Non-smoking hotel",
+    "Safe",
+    "Flatscreen TV",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Club",
+    "Kids Stay Free",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Blackout Curtains",
+    "Cable / Satellite TV",
+    "Car Hire",
+    "24-Hour Check-in",
+    "Express Check-in / Check-out",
+    "Desk",
+    "English",
+    "Complimentary Toiletries",
+    "Free Wifi in the Business Center",
+    "24-Hour Front Desk",
+    "Hindi",
+    "Iron",
+    "Ironing Service",
+    "Parking Garage",
+    "Private Bathrooms",
+    "24-Hour Security",
+    "Sofa",
+    "Telephone",
+    "Tile / Marble Floor",
+    "Wake Up Service / Alarm Clock",
+    "Wardrobe / Closet",
+    "Photo Copier / Fax In Business Center"
+  ],
+  "priceLevel": "$",
+  "priceRange": "$36 - $40",
+  "roomTips": [
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Dont Book in City Grand Hotel Warangal.",
+      "rating": "1",
+      "reviewId": "966766507",
+      "id": "966766507",
+      "createdTime": "2024-08-25T19:29:27-04:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Avoid at all costs",
+      "rating": "1",
+      "reviewId": "854577826",
+      "id": "854577826",
+      "createdTime": "2022-08-16T20:04:06-04:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Go for Premium Double rooms - they are very spacious and comfy.",
+      "rating": "4",
+      "reviewId": "330468163",
+      "id": "330468163",
+      "createdTime": "2015-12-03T01:22:50-05:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Strongly advise property owners to do the renovation or else staying here would be unpleasant.",
+      "rating": "3",
+      "reviewId": "266961584",
+      "id": "266961584",
+      "createdTime": "2015-04-21T00:41:34-04:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "all in one centrally located",
+      "rating": "5",
+      "reviewId": "205559925",
+      "id": "205559925",
+      "createdTime": "2014-05-14T10:30:24-04:00"
+    }
+  ],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-03",
+  "checkOutDate": "2024-11-04",
+  "numberOfRooms": 26,
+  "categoryReviewScores": [
+    {
+      "categoryName": "Location",
+      "score": 4
+    },
+    {
+      "categoryName": "Rooms",
+      "score": 3.5
+    },
+    {
+      "categoryName": "Value",
+      "score": 3.3
+    },
+    {
+      "categoryName": "Cleanliness",
+      "score": 3.2
+    },
+    {
+      "categoryName": "Service",
+      "score": 3.3
+    },
+    {
+      "categoryName": "Sleep Quality",
+      "score": 3
+    }
+  ],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/c9/b3/31/city-grand-hotel.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/04/22/d5/9e/city-grand-hotel.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/c9/b3/3c/city-grand-hotel.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/c9/b3/39/city-grand-hotel.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/c9/b3/38/city-grand-hotel.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/c9/b3/35/city-grand-hotel.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/c9/b3/34/city-grand-hotel.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/c9/b3/33/city-grand-hotel.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/c9/b3/32/city-grand-hotel.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/c9/b3/2f/city-grand-hotel.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/c9/b3/2e/city-grand-hotel.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/c9/b3/2d/city-grand-hotel.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/c9/b3/2b/city-grand-hotel.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/c9/b2/65/city-grand-hotel.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/c9/b2/64/city-grand-hotel.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/c9/b2/63/city-grand-hotel.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/c9/b2/62/city-grand-hotel.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/c9/b2/5f/city-grand-hotel.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/c9/b2/5e/city-grand-hotel.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/c9/b2/5b/city-grand-hotel.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/fa/80/3a/city-grand-hotel.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/fa/80/31/city-grand-hotel.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/04/22/d6/18/city-grand-hotel.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Warangal,hotels"
+},
+{
+  "id": "11881678",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Bed and Breakfast"
+  ],
+  "name": "Hotel Shreya",
+  "locationString": "Warangal, Warangal (Urban) District, Telangana",
+  "description": "If you’re looking for a budget friendly small hotel in Warangal, look no further than Hotel Shreya.\nWhile staying at Hotel Shreya, visitors can check out ISKCON Warangal Temple (1.5 mi), which is a popular Warangal attraction.\nHotel Shreya is a budget friendly small hotel offering a flat screen TV in the rooms.\nTravelers looking for Chinese restaurants can head to Hotel Vaishnavi Grand, Hotel SHREYA, or Hungry Birds.\nShould time allow, Thousand Pillar Temple and Siddeshwara Temple are some popular attractions that are within walking distance.\nThe staff at Hotel Shreya looks forward to serving you during your upcoming visit.\n",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/11/7f/8c/82/hotel-shreya.jpg",
+  "photoCount": 1,
+  "rankingPosition": 3,
+  "rating": 4.5,
+  "rawRanking": 3.0623602867126465,
+  "phone": null,
+  "address": "Near Bus Stand, Beside Akshaya Lakshmi Shopping mall, Warangal 506002 India",
+  "addressObj": {
+    "street1": "Near Bus Stand, Beside Akshaya Lakshmi Shopping mall",
+    "street2": null,
+    "city": "Warangal",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "506002"
+  },
+  "localName": "Hotel Shreya",
+  "localAddress": "Near Bus Stand, Beside Akshaya Lakshmi Shopping mall, 506002",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 18.005096,
+  "longitude": 79.567,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g735768-d11881678-Reviews-Hotel_Shreya-Warangal_Warangal_Urban_District_Telangana.html",
+  "website": null,
+  "rankingString": "#3 of 8 small hotels in Warangal",
+  "rankingDenominator": "8",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "735768",
+      "name": "Warangal",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389621",
+      "name": "Warangal (Urban) District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 3,
+    "count5": 2
+  },
+  "numberOfReviews": 5,
+  "hotelClass": "0.0",
+  "amenities": [
+    "Flatscreen TV",
+    "Bath / Shower",
+    "Iron"
+  ],
+  "priceLevel": "$",
+  "priceRange": "$37",
+  "roomTips": [],
+  "isNearbyResult": false,
+  "reviewTags": [],
+  "checkInDate": "2024-11-03",
+  "checkOutDate": "2024-11-04",
+  "numberOfRooms": null,
+  "categoryReviewScores": [
+    {
+      "categoryName": "Location",
+      "score": 4.5
+    },
+    {
+      "categoryName": "Rooms",
+      "score": 4.5
+    },
+    {
+      "categoryName": "Value",
+      "score": 3
+    },
+    {
+      "categoryName": "Cleanliness",
+      "score": 3
+    },
+    {
+      "categoryName": "Service",
+      "score": 4.3
+    }
+  ],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/7f/8c/82/hotel-shreya.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Warangal,hotels"
+},
+{
+  "reviewTags": [],
+  "id": "1179293",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Hotel"
+  ],
+  "name": "Capital O 3420 Hotel Ashoka",
+  "locationString": "Warangal, Warangal (Urban) District, Telangana",
+  "description": "Finding an ideal family-friendly hotel in Warangal does not have to be difficult. Welcome to OYO 3420 Hotel Ashoka, a nice option for travelers like you.\nRooms at OYO 3420 Hotel Ashoka provide air conditioning and a refrigerator.\nIn addition, while staying at OYO 3420 Hotel Ashoka guests have access to room service. You can also enjoy a lounge. Need a place to park? Free parking is available at OYO 3420 Hotel Ashoka.\nFor those interested in checking out Siddeshwara Temple (2.8 mi) while visiting Warangal, OYO 3420 Hotel Ashoka is a short distance away.\nIf you’re looking for things to do, you can check out Warangal Fort, which is a popular historic site amongst tourists.\nOYO 3420 Hotel Ashoka puts the best of Warangal at your fingertips, making your stay both relaxing and enjoyable.\n",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/14/eb/88/08/oyo-3420-hotel-ashoka.jpg",
+  "photoCount": 30,
+  "rankingPosition": 2,
+  "rating": 3,
+  "rawRanking": 3.041379928588867,
+  "phone": null,
+  "address": "6-1-242, Main Road, Hanumakonda, Warangal 506015 India",
+  "addressObj": {
+    "street1": "6-1-242, Main Road, Hanumakonda",
+    "street2": null,
+    "city": "Warangal",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "506015"
+  },
+  "localName": "Capital O 3420 Hotel Ashoka",
+  "localAddress": "6-1-242, Main Road, Hanumakonda, 506015",
+  "localLangCode": "en-IN",
+  "email": "hotelashoka_wgl@yahoo.co.in",
+  "latitude": 17.98016,
+  "longitude": 79.50953,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g735768-d1179293-Reviews-Capital_O_3420_Hotel_Ashoka-Warangal_Warangal_Urban_District_Telangana.html",
+  "website": "http://www.oyorooms.com/5078",
+  "rankingString": "#2 of 7 hotels in Warangal",
+  "rankingDenominator": "7",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "735768",
+      "name": "Warangal",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389621",
+      "name": "Warangal (Urban) District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 8,
+    "count2": 9,
+    "count3": 17,
+    "count4": 20,
+    "count5": 7
+  },
+  "numberOfReviews": 61,
+  "hotelClass": "3.0",
+  "hotelClassAttribution": "This property is classified according to Giata.",
+  "amenities": [
+    "Restaurant",
+    "Bar/Lounge",
+    "Laundry Service",
+    "Kids Activities",
+    "Room service",
+    "Free parking",
+    "Airport transportation",
+    "Hot Tub",
+    "Air conditioning",
+    "Refrigerator in room",
+    "Non-smoking hotel",
+    "Outdoor pool"
+  ],
+  "priceLevel": "$",
+  "priceRange": "$40 - $43",
+  "roomTips": [
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Corner suites are large and sunny",
+      "rating": "5",
+      "reviewId": "581914684",
+      "id": "581914684",
+      "createdTime": "2018-05-22T02:40:03-04:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "1st floor east entrance room fine",
+      "rating": "5",
+      "reviewId": "560818590",
+      "id": "560818590",
+      "createdTime": "2018-02-16T03:44:21-05:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Take the rooms which sound costlier as they have better facilities compared to the other ones. All the room sizes are same.",
+      "rating": "3",
+      "reviewId": "441838541",
+      "id": "441838541",
+      "createdTime": "2016-12-03T18:30:27-05:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "first flower ac room",
+      "rating": "5",
+      "reviewId": "391650298",
+      "id": "391650298",
+      "createdTime": "2016-07-12T02:51:06-04:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "All Rooms Are Good and neat.",
+      "rating": "5",
+      "reviewId": "349312289",
+      "id": "349312289",
+      "createdTime": "2016-02-19T20:35:31-05:00"
+    }
+  ],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-03",
+  "checkOutDate": "2024-11-04",
+  "numberOfRooms": 55,
+  "categoryReviewScores": [
+    {
+      "categoryName": "Location",
+      "score": 3.7
+    },
+    {
+      "categoryName": "Rooms",
+      "score": 2.9
+    },
+    {
+      "categoryName": "Value",
+      "score": 3
+    },
+    {
+      "categoryName": "Cleanliness",
+      "score": 3.4
+    },
+    {
+      "categoryName": "Service",
+      "score": 3.1
+    },
+    {
+      "categoryName": "Sleep Quality",
+      "score": 3
+    }
+  ],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/14/eb/88/08/oyo-3420-hotel-ashoka.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/14/eb/88/9b/oyo-3420-hotel-ashoka.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/14/eb/88/8d/oyo-3420-hotel-ashoka.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/14/eb/88/87/oyo-3420-hotel-ashoka.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/14/eb/88/80/oyo-3420-hotel-ashoka.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/14/eb/88/78/oyo-3420-hotel-ashoka.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/14/eb/88/76/oyo-3420-hotel-ashoka.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/14/eb/88/70/oyo-3420-hotel-ashoka.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/14/eb/88/6b/oyo-3420-hotel-ashoka.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/14/eb/88/64/oyo-3420-hotel-ashoka.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/14/eb/88/61/oyo-3420-hotel-ashoka.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/14/eb/88/57/oyo-3420-hotel-ashoka.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/14/eb/88/53/oyo-3420-hotel-ashoka.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/14/eb/88/45/oyo-3420-hotel-ashoka.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/14/eb/88/3a/oyo-3420-hotel-ashoka.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/14/eb/88/36/oyo-3420-hotel-ashoka.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/14/eb/88/2d/oyo-3420-hotel-ashoka.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/14/eb/88/23/oyo-3420-hotel-ashoka.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/14/eb/88/1e/oyo-3420-hotel-ashoka.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/14/eb/88/1c/oyo-3420-hotel-ashoka.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/09/14/cc/1f/the-room-way.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Warangal,hotels"
+},
+{
+  "reviewTags": [],
+  "id": "3665615",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Hotel"
+  ],
+  "name": "Capital O 1251 Hotel Suprabha",
+  "locationString": "Warangal, Warangal (Urban) District, Telangana",
+  "description": "Offering comfort and great services at budget rates, OYO 1251 Hotel Suprabha in Warangal is an ideal lodging for travelers touring the city. The property is well maintained by a trained and skillful OYO staff who ensure all your needs are catered to.FacilitiesThe rooms are equipped with modern amenities like AC, Geyser and much more.First aid, round the clock security and fire safety are provided to our guests for their safety. Our 24 hour helpdesk ensures your needs and requirements are catered to.What's NearbyTake a tour of the Warangal and explore key attractions like Kakatiya Samsthana - Padmakshamma Temple, Siddeshwara Temple and Thousand Pillar Temple.",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0e/07/34/26/img-20161225-184154-01.jpg",
+  "photoCount": 41,
+  "rankingPosition": 1,
+  "rating": 3,
+  "rawRanking": 3.053049325942993,
+  "phone": "+91 77027 83333",
+  "address": "32/8 Nakkalagutta Road NH-202, Hanamkonda, Warangal 506001 India",
+  "addressObj": {
+    "street1": "32/8 Nakkalagutta Road",
+    "street2": "NH-202, Hanamkonda",
+    "city": "Warangal",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "506001"
+  },
+  "localName": "Capital O 1251 Hotel Suprabha",
+  "localAddress": "32/8 Nakkalagutta Road, NH-202, Hanamkonda, 506001",
+  "localLangCode": "en-IN",
+  "email": "talistings@oyorooms.com",
+  "latitude": 18.00008,
+  "longitude": 79.55591,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g735768-d3665615-Reviews-Capital_O_1251_Hotel_Suprabha-Warangal_Warangal_Urban_District_Telangana.html",
+  "website": "http://www.oyorooms.com/1500",
+  "rankingString": "#1 of 7 hotels in Warangal",
+  "rankingDenominator": "7",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "735768",
+      "name": "Warangal",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389621",
+      "name": "Warangal (Urban) District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 11,
+    "count2": 8,
+    "count3": 25,
+    "count4": 24,
+    "count5": 11
+  },
+  "numberOfReviews": 79,
+  "hotelClass": "0.0",
+  "amenities": [
+    "Internet",
+    "Room service",
+    "Free parking",
+    "Restaurant",
+    "Public Wifi",
+    "Breakfast included",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Breakfast Buffet",
+    "Free Internet",
+    "Wheelchair access",
+    "Bar/Lounge",
+    "Wifi",
+    "Free Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Hot Tub",
+    "Non-smoking rooms",
+    "Family Rooms",
+    "Smoking rooms available",
+    "Refrigerator in room",
+    "Minibar",
+    "Conference Facilities",
+    "Flatscreen TV",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Complimentary Toiletries",
+    "French"
+  ],
+  "priceLevel": null,
+  "priceRange": null,
+  "roomTips": [
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Price is good but please ensure the house keeping of the room before entering. make sure u don't get a smelling bad room.",
+      "rating": "3",
+      "reviewId": "736667789",
+      "id": "736667789",
+      "createdTime": "2020-01-03T16:28:40-05:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Not sure if they have any so called good room in this hotel.",
+      "rating": "2",
+      "reviewId": "702180356",
+      "id": "702180356",
+      "createdTime": "2019-08-23T07:04:18-04:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "As we stayed for a night only I am not able to offer any comments",
+      "rating": "3",
+      "reviewId": "641004379",
+      "id": "641004379",
+      "createdTime": "2018-12-22T06:28:02-05:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "west side room with ac",
+      "rating": "5",
+      "reviewId": "434506671",
+      "id": "434506671",
+      "createdTime": "2016-11-04T03:09:13-04:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Elevator takes awhile, so lower floors may be better",
+      "rating": "3",
+      "reviewId": "371864288",
+      "id": "371864288",
+      "createdTime": "2016-05-10T11:37:59-04:00"
+    }
+  ],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-03",
+  "checkOutDate": "2024-11-04",
+  "numberOfRooms": 44,
+  "categoryReviewScores": [
+    {
+      "categoryName": "Location",
+      "score": 4
+    },
+    {
+      "categoryName": "Rooms",
+      "score": 3.4
+    },
+    {
+      "categoryName": "Value",
+      "score": 3
+    },
+    {
+      "categoryName": "Cleanliness",
+      "score": 3.1
+    },
+    {
+      "categoryName": "Service",
+      "score": 3
+    },
+    {
+      "categoryName": "Sleep Quality",
+      "score": 3.3
+    }
+  ],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/0e/07/34/26/img-20161225-184154-01.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/03/4b/d5/b6/hotel-suprabha.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/05/9e/dd/c0/hotel-suprabha.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/25/32/ab/e9/capital-o-1251-hotel.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1a/df/93/d2/img-20191223-120936-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/96/ad/30/img-20171223-110705-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/96/ad/2f/img-20171223-110710-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/96/ad/2e/img-20171223-104220-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/96/ad/2d/img-20171223-104150-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/10/b2/53/0e/private-bath-tub-area.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/10/b2/52/da/basin-and-the-closet.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/10/b2/52/8c/wash-basin-and-the-necessities.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/10/b2/52/33/luggage-area-and-the.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/10/b2/52/0e/a-tiny-t-table-and-the.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/10/b2/51/b0/bed-and-the-luggage-area.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/10/b2/51/7f/petrol-station-and-the.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/10/b2/51/0c/august-15th-flag-was.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/10/b2/50/d4/entry-from-the-lounge.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/10/b2/50/50/main-entrance-and-reception.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0f/9a/eb/2a/hotel-suprabha.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Warangal,hotels"
+},
+{
+  "reviewTags": [
+    {
+      "text": "bed room",
+      "reviews": 2
+    },
+    {
+      "text": "resort",
+      "reviews": 4
+    },
+    {
+      "text": "geyser",
+      "reviews": 3
+    },
+    {
+      "text": "boating",
+      "reviews": 2
+    },
+    {
+      "text": "temple",
+      "reviews": 4
+    },
+    {
+      "text": "facilities",
+      "reviews": 2
+    }
+  ],
+  "id": "11547869",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Specialty Lodging"
+  ],
+  "name": "Haritha Hotel Ramappa",
+  "locationString": "Warangal, Warangal (Urban) District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0d/54/46/46/restaurant-on-the-lake.jpg",
+  "photoCount": 22,
+  "rankingPosition": 2,
+  "rating": 3.5,
+  "rawRanking": 3.0773580074310303,
+  "phone": null,
+  "address": "Palampet Village, Warangal 506002 India",
+  "addressObj": {
+    "street1": null,
+    "street2": "Palampet Village",
+    "city": "Warangal",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "506002"
+  },
+  "localName": "Haritha Hotel Ramappa",
+  "localAddress": "Palampet Village, 506002",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 18.252499,
+  "longitude": 79.938446,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g735768-d11547869-Reviews-Haritha_Hotel_Ramappa-Warangal_Warangal_Urban_District_Telangana.html",
+  "website": null,
+  "rankingString": "#2 of 8 lodges in Warangal",
+  "rankingDenominator": "8",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "735768",
+      "name": "Warangal",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389621",
+      "name": "Warangal (Urban) District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 1,
+    "count2": 2,
+    "count3": 0,
+    "count4": 8,
+    "count5": 2
+  },
+  "numberOfReviews": 13,
+  "hotelClass": "0.0",
+  "amenities": [
+    "Restaurant",
+    "Air conditioning",
+    "Room service"
+  ],
+  "priceLevel": null,
+  "priceRange": null,
+  "roomTips": [
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Car parking available. Monkeys move freely. Visit during non weekends. Summer cap essential if you wish to move about in summer.  Don't miss the sunset over the lake.",
+      "rating": "5",
+      "reviewId": "882132691",
+      "id": "882132691",
+      "createdTime": "2023-03-14T01:56:59-04:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "The AC deluxe rooms offer the best view, but are poorly maintained. Go for the regular AC rooms.",
+      "rating": "4",
+      "reviewId": "800466817",
+      "id": "800466817",
+      "createdTime": "2021-07-29T04:16:45-04:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Book the suites, they are worth the price",
+      "rating": "4",
+      "reviewId": "739095511",
+      "id": "739095511",
+      "createdTime": "2020-01-14T05:37:20-05:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "all rooms have the beautiful lake view but only 4 are reportedly with AC.",
+      "rating": "4",
+      "reviewId": "441280052",
+      "id": "441280052",
+      "createdTime": "2016-11-30T23:39:12-05:00"
+    }
+  ],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-03",
+  "checkOutDate": "2024-11-04",
+  "numberOfRooms": null,
+  "categoryReviewScores": [
+    {
+      "categoryName": "Location",
+      "score": 4.4
+    },
+    {
+      "categoryName": "Rooms",
+      "score": 2
+    },
+    {
+      "categoryName": "Value",
+      "score": 3.8
+    },
+    {
+      "categoryName": "Cleanliness",
+      "score": 4
+    },
+    {
+      "categoryName": "Service",
+      "score": 3.8
+    },
+    {
+      "categoryName": "Sleep Quality",
+      "score": 3
+    }
+  ],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/0e/46/05/78/beautiful-location-breath.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0d/54/46/46/restaurant-on-the-lake.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0e/68/c3/27/photo3jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1d/77/3f/4d/haritha-hotel-ramappa.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1d/77/3f/41/haritha-hotel-ramappa.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1d/77/3f/3b/haritha-hotel-ramappa.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1d/77/3f/33/haritha-hotel-ramappa.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/15/d0/fb/bb/haritha-hotel-ramappa.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/15/d0/fb/34/haritha-hotel-ramappa.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/10/4e/92/3d/photo0jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0e/68/c3/29/photo5jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0e/68/c3/28/photo4jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0e/68/c3/26/photo2jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0e/68/c3/25/photo1jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0e/68/c3/24/photo0jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0e/49/04/e1/haritha-hotel-ramappa.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0e/49/04/de/haritha-hotel-ramappa.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0e/49/04/dd/haritha-hotel-ramappa.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0e/46/05/7b/beautiful-location-breath.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0e/46/05/7a/beautiful-location-breath.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0e/46/05/79/beautiful-location-breath.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Warangal,hotels"
+},
+{
+  "reviewTags": [
+    {
+      "text": "city",
+      "reviews": 5
+    }
+  ],
+  "id": "8436238",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Bed and Breakfast"
+  ],
+  "name": "Hotel Grand Gayathri",
+  "locationString": "Warangal, Warangal (Urban) District, Telangana",
+  "description": "If you’re looking for a family-friendly small hotel in Warangal, look no further than Hotel Grand Gayathri.\nNearby landmarks such as Warangal Fort (1.5 mi) and Bhadrakali Temple (1.8 mi) make Hotel Grand Gayathri a great place to stay when visiting Warangal.\nRooms at Hotel Grand Gayathri provide air conditioning, and guests can stay connected with free wifi.\nIn addition, while staying at Hotel Grand Gayathri guests have access to room service. You can also enjoy an on-site restaurant. Need a place to park? Free parking is available at Hotel Grand Gayathri.\nWhile staying in Warangal, you can check out a popular cafe like Hotel SHREYA, which is serving up some great dishes.\nPlus, during your trip, don't forget to check out a garden, such as Kakatiya Musical Garden.\nThe staff at Hotel Grand Gayathri looks forward to serving you during your upcoming visit.\n",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/08/a1/12/1e/reception.jpg",
+  "photoCount": 50,
+  "rankingPosition": 1,
+  "rating": 4,
+  "rawRanking": 3.2021589279174805,
+  "phone": null,
+  "address": "Railway Station Road, Warangal 506002 India",
+  "addressObj": {
+    "street1": "Railway Station Road",
+    "street2": null,
+    "city": "Warangal",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "506002"
+  },
+  "localName": "Hotel Grand Gayathri",
+  "localAddress": "Railway Station Road, 506002",
+  "localLangCode": "en-IN",
+  "email": "reservation@hotelgrandgayathri.com",
+  "latitude": 17.975021,
+  "longitude": 79.602615,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g735768-d8436238-Reviews-Hotel_Grand_Gayathri-Warangal_Warangal_Urban_District_Telangana.html",
+  "website": "http://www.hotelgrandgayathri.com",
+  "rankingString": "#1 of 8 small hotels in Warangal",
+  "rankingDenominator": "8",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "735768",
+      "name": "Warangal",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389621",
+      "name": "Warangal (Urban) District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 2,
+    "count2": 1,
+    "count3": 7,
+    "count4": 25,
+    "count5": 12
+  },
+  "numberOfReviews": 47,
+  "hotelClass": "3.0",
+  "hotelClassAttribution": "This property is classified according to Giata.",
+  "amenities": [
+    "Room service",
+    "Free Internet",
+    "Restaurant",
+    "Free Wifi",
+    "Laundry Service",
+    "Air conditioning",
+    "Kids Activities",
+    "Free parking",
+    "Dry Cleaning"
+  ],
+  "priceLevel": null,
+  "priceRange": null,
+  "roomTips": [
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Good North Indian Food",
+      "rating": "3",
+      "reviewId": "588785437",
+      "id": "588785437",
+      "createdTime": "2018-06-19T01:57:09-04:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "WiFi doesn't work well and there is no WiFi for guests in the lobby or restaurant.",
+      "rating": "4",
+      "reviewId": "515367453",
+      "id": "515367453",
+      "createdTime": "2017-08-19T21:36:53-04:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Stay on an upper floor.",
+      "rating": "5",
+      "reviewId": "485938247",
+      "id": "485938247",
+      "createdTime": "2017-05-20T10:34:40-04:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "They say they have only 3 budget rooms but I am sure all the rooms are budget category.",
+      "rating": "1",
+      "reviewId": "443484758",
+      "id": "443484758",
+      "createdTime": "2016-12-11T03:53:37-05:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Opt for the room facing the roadside.",
+      "rating": "4",
+      "reviewId": "386425641",
+      "id": "386425641",
+      "createdTime": "2016-06-27T06:29:01-04:00"
+    }
+  ],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-03",
+  "checkOutDate": "2024-11-04",
+  "numberOfRooms": null,
+  "categoryReviewScores": [
+    {
+      "categoryName": "Location",
+      "score": 3.6
+    },
+    {
+      "categoryName": "Rooms",
+      "score": 4.2
+    },
+    {
+      "categoryName": "Value",
+      "score": 3.8
+    },
+    {
+      "categoryName": "Cleanliness",
+      "score": 4.2
+    },
+    {
+      "categoryName": "Service",
+      "score": 4.1
+    },
+    {
+      "categoryName": "Sleep Quality",
+      "score": 4.3
+    }
+  ],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/1b/4c/b7/02-300x200-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/08/a1/12/1e/reception.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0f/54/99/6c/lobby.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0a/b2/76/8a/photo0jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/27/39/f5/9b/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/27/39/f5/9a/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/27/39/f5/99/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/27/39/f5/98/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/23/3e/d2/13/hotel-grand-gayathri.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/c5/7d/08/img-20180112-214330506.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/c5/7d/07/img-20180112-214326433.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/c5/7d/06/img-20180112-214315268.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/c5/7d/05/img-20180112-214303004.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/c5/7d/04/img-20180112-214248444.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/4f/0d/8f/ta-img-20171119-073218.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/1b/4c/b6/appy3121-300x200-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0f/54/99/8e/bedroom.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0f/54/99/84/nice-touch.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0f/54/99/81/well-appointed.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0f/54/99/6e/suite-hallway.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0d/a3/aa/54/restaurant.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Warangal,hotels"
+},
+{
+  "id": "10091009",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Specialty Lodging"
+  ],
+  "name": "Hotel Surya",
+  "locationString": "Warangal, Warangal (Urban) District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": 8,
+  "rating": 2,
+  "rawRanking": 2.8230037689208984,
+  "phone": null,
+  "address": "8 - 6 - 16 Railway Station Road Near Warangal Railway Station, Warangal 506002 India",
+  "addressObj": {
+    "street1": "8 - 6 - 16 Railway Station Road",
+    "street2": "Near Warangal Railway Station",
+    "city": "Warangal",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "506002"
+  },
+  "localName": "Hotel Surya",
+  "localAddress": "8 - 6 - 16 Railway Station Road, Near Warangal Railway Station, 506002",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.97064,
+  "longitude": 79.6063,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g735768-d10091009-Reviews-Hotel_Surya-Warangal_Warangal_Urban_District_Telangana.html",
+  "website": null,
+  "rankingString": "#8 of 8 lodges in Warangal",
+  "rankingDenominator": "8",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "735768",
+      "name": "Warangal",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389621",
+      "name": "Warangal (Urban) District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 2,
+    "count2": 0,
+    "count3": 0,
+    "count4": 1,
+    "count5": 0
+  },
+  "numberOfReviews": 3,
+  "hotelClass": "0.0",
+  "amenities": [],
+  "priceLevel": null,
+  "priceRange": null,
+  "roomTips": [
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Don't stay in this hotel. This is for people with wrong activities absolutely not for families",
+      "rating": "1",
+      "reviewId": "484884755",
+      "id": "484884755",
+      "createdTime": "2017-05-17T03:27:21-04:00"
+    }
+  ],
+  "isNearbyResult": false,
+  "reviewTags": [],
+  "checkInDate": "2024-11-03",
+  "checkOutDate": "2024-11-04",
+  "numberOfRooms": null,
+  "categoryReviewScores": [
+    {
+      "categoryName": "Location",
+      "score": 1
+    },
+    {
+      "categoryName": "Value",
+      "score": 2.5
+    },
+    {
+      "categoryName": "Service",
+      "score": 2.5
+    }
+  ],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/0c/ae/83/fa/bogatha-waterfalls.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Warangal,hotels"
+},
+{
+  "reviewTags": [],
+  "id": "10382649",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Bed and Breakfast"
+  ],
+  "name": "Hotel Raj",
+  "locationString": "Warangal, Warangal (Urban) District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0f/cd/da/a3/grajen.jpg",
+  "photoCount": 8,
+  "rankingPosition": 4,
+  "rating": 3.5,
+  "rawRanking": 3.0272216796875,
+  "phone": null,
+  "address": "Hunter Road Hanamakonda, Warangal 506001 India",
+  "addressObj": {
+    "street1": "Hunter Road",
+    "street2": "Hanamakonda",
+    "city": "Warangal",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "506001"
+  },
+  "localName": "Hotel Raj",
+  "localAddress": "Hunter Road, Hanamakonda, 506001",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.99047,
+  "longitude": 79.56192,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g735768-d10382649-Reviews-Hotel_Raj-Warangal_Warangal_Urban_District_Telangana.html",
+  "website": null,
+  "rankingString": "#4 of 8 small hotels in Warangal",
+  "rankingDenominator": "8",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "735768",
+      "name": "Warangal",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389621",
+      "name": "Warangal (Urban) District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 1,
+    "count2": 0,
+    "count3": 1,
+    "count4": 3,
+    "count5": 1
+  },
+  "numberOfReviews": 6,
+  "hotelClass": "3.0",
+  "hotelClassAttribution": "This property is classified according to Giata.",
+  "amenities": [],
+  "priceLevel": "$",
+  "priceRange": "$12 - $14",
+  "roomTips": [
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Stay away from this crap hotel !!!",
+      "rating": "1",
+      "reviewId": "479058599",
+      "id": "479058599",
+      "createdTime": "2017-04-26T00:14:01-04:00"
+    }
+  ],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-03",
+  "checkOutDate": "2024-11-04",
+  "numberOfRooms": null,
+  "categoryReviewScores": [
+    {
+      "categoryName": "Location",
+      "score": 4
+    },
+    {
+      "categoryName": "Value",
+      "score": 1
+    },
+    {
+      "categoryName": "Cleanliness",
+      "score": 2
+    },
+    {
+      "categoryName": "Service",
+      "score": 3
+    },
+    {
+      "categoryName": "Sleep Quality",
+      "score": 4
+    }
+  ],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/0f/cd/db/d1/grajen.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0f/cd/da/a3/grajen.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0f/cd/db/7a/grajen.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0f/cd/db/66/grajen.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0f/cd/db/21/grajen.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0f/cd/da/73/grajen.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0f/cd/da/4c/grajen.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0f/cd/d9/d3/grajen.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Warangal,hotels"
+},
+{
+  "reviewTags": [],
+  "id": "1172414",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Specialty Lodging"
+  ],
+  "name": "Shankar Hotel",
+  "locationString": "Warangal, Warangal (Urban) District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": 1,
+  "rating": 4.5,
+  "rawRanking": 3.0281596183776855,
+  "phone": null,
+  "address": "Chowrasta Hnk Veena Bazar Lane, Warangal India",
+  "addressObj": {
+    "street1": "Chowrasta Hnk",
+    "street2": "Veena Bazar Lane",
+    "city": "Warangal",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": ""
+  },
+  "localName": "Shankar Hotel",
+  "localAddress": "Chowrasta Hnk, Veena Bazar Lane",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 18.005547,
+  "longitude": 79.56959,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g735768-d1172414-Reviews-Shankar_Hotel-Warangal_Warangal_Urban_District_Telangana.html",
+  "website": null,
+  "rankingString": "#1 of 2 special hotels in Warangal",
+  "rankingDenominator": "2",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "735768",
+      "name": "Warangal",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389621",
+      "name": "Warangal (Urban) District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 1,
+    "count4": 0,
+    "count5": 2
+  },
+  "numberOfReviews": 3,
+  "hotelClass": "0.0",
+  "amenities": [],
+  "priceLevel": null,
+  "priceRange": null,
+  "roomTips": [
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Rooms in ist floor",
+      "rating": "3",
+      "reviewId": "378200768",
+      "id": "378200768",
+      "createdTime": "2016-05-31T02:49:36-04:00"
+    }
+  ],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-03",
+  "checkOutDate": "2024-11-04",
+  "numberOfRooms": null,
+  "categoryReviewScores": [
+    {
+      "categoryName": "Location",
+      "score": 4
+    },
+    {
+      "categoryName": "Rooms",
+      "score": 5
+    },
+    {
+      "categoryName": "Service",
+      "score": 4
+    },
+    {
+      "categoryName": "Sleep Quality",
+      "score": 3
+    }
+  ],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/0c/ae/83/fa/bogatha-waterfalls.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Warangal,hotels"
+}]

@@ -1,0 +1,2416 @@
+[{
+  "reviewTags": [],
+  "id": "27434949",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Bed and Breakfast"
+  ],
+  "name": "Jasmine Farm Stay",
+  "locationString": "Shamirpet, Medchal District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 70939 40307",
+  "address": "House Number 4-66/1 Shamirpet Mandal, Shamirpet 500078 India",
+  "addressObj": {
+    "street1": "House Number 4-66/1 Shamirpet Mandal",
+    "street2": null,
+    "city": "Shamirpet",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "500078"
+  },
+  "localName": "Jasmine Farm Stay",
+  "localAddress": "House Number 4-66/1 Shamirpet Mandal, 500078",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": null,
+  "longitude": null,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g27112946-d27434949-Reviews-Jasmine_Farm_Stay-Shamirpet_Medchal_District_Telangana.html",
+  "website": null,
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "27112946",
+      "name": "Shamirpet",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389571",
+      "name": "Medchal District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "hotelClass": "0.0",
+  "amenities": [],
+  "priceLevel": "₹",
+  "priceRange": "₹2,439 - ₹3,280",
+  "roomTips": [],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "numberOfRooms": null,
+  "categoryReviewScores": [],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/5a/c3/d8/photo0jpg.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Medchal District,hotels"
+},
+{
+  "id": "26496039",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Hotel"
+  ],
+  "name": "Royal Galaxy Lodge",
+  "locationString": "Thumukunta, Medchal District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 98855 41144",
+  "address": "Main Road Opposite To Ambdkar Statue, Thumukunta 500078 India",
+  "addressObj": {
+    "street1": "Main Road",
+    "street2": "Opposite To Ambdkar Statue",
+    "city": "Thumukunta",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "500078"
+  },
+  "localName": "Royal Galaxy Lodge",
+  "localAddress": "Main Road, Opposite To Ambdkar Statue, 500078",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.56302,
+  "longitude": 78.55582,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g20223798-d26496039-Reviews-Royal_Galaxy_Lodge-Thumukunta_Medchal_District_Telangana.html",
+  "website": "https://royalgalaxylodge.business.site/?utm_source=gmb&utm_medium=referral",
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "20223798",
+      "name": "Thumukunta",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389571",
+      "name": "Medchal District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "hotelClass": "0.0",
+  "amenities": [],
+  "priceLevel": null,
+  "priceRange": null,
+  "roomTips": [],
+  "isNearbyResult": false,
+  "reviewTags": [],
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "numberOfRooms": 10,
+  "categoryReviewScores": [],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/5a/c3/d8/photo0jpg.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Medchal District,hotels"
+},
+{
+  "id": "15237492",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Bed and Breakfast"
+  ],
+  "name": "Somaiah Towers",
+  "locationString": "Medchal, Medchal District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": null,
+  "address": "AS Rao Nagar Ecil Beside Tmc AS Rao Nagar beside TMC Ecil Post, Medchal 500062 India",
+  "addressObj": {
+    "street1": "AS Rao Nagar Ecil Beside Tmc",
+    "street2": "AS Rao Nagar beside TMC Ecil Post",
+    "city": "Medchal",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "500062"
+  },
+  "localName": "Somaiah Towers",
+  "localAddress": "AS Rao Nagar Ecil Beside Tmc, AS Rao Nagar beside TMC Ecil Post, 500062",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.47514,
+  "longitude": 78.56316,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g2531476-d15237492-Reviews-Somaiah_Towers-Medchal_Medchal_District_Telangana.html",
+  "website": null,
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2531476",
+      "name": "Medchal",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389571",
+      "name": "Medchal District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "hotelClass": "0.0",
+  "amenities": [],
+  "priceLevel": null,
+  "priceRange": null,
+  "roomTips": [],
+  "isNearbyResult": false,
+  "reviewTags": [],
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "numberOfRooms": null,
+  "categoryReviewScores": [],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/0e/1f/59/1b/medchal.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Medchal District,hotels"
+},
+{
+  "id": "28223498",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Bed and Breakfast"
+  ],
+  "name": "Hotel Brindavan INN",
+  "locationString": "Shamirpet, Medchal District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": null,
+  "address": "H. No.5-112/1022B, Shamirpet 500101 India",
+  "addressObj": {
+    "street1": "H. No.5-112/1022B",
+    "street2": null,
+    "city": "Shamirpet",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "500101"
+  },
+  "localName": "Hotel Brindavan INN",
+  "localAddress": "H. No.5-112/1022B, 500101",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.599684,
+  "longitude": 78.56854,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g27112946-d28223498-Reviews-Hotel_Brindavan_INN-Shamirpet_Medchal_District_Telangana.html",
+  "website": null,
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "27112946",
+      "name": "Shamirpet",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389571",
+      "name": "Medchal District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "hotelClass": "0.0",
+  "amenities": [],
+  "priceLevel": "₹",
+  "priceRange": "₹2,102 - ₹2,691",
+  "roomTips": [],
+  "isNearbyResult": false,
+  "reviewTags": [],
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "numberOfRooms": null,
+  "categoryReviewScores": [],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/5a/c3/d8/photo0jpg.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Medchal District,hotels"
+},
+{
+  "id": "21305762",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Hotel"
+  ],
+  "name": "OH Biz Premier at Leonia",
+  "locationString": "Shamirpet, Medchal District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 40 6640 0000",
+  "address": "Plot No. 4 59, Shamirpet 500078 India",
+  "addressObj": {
+    "street1": "Plot No. 4 59",
+    "street2": null,
+    "city": "Shamirpet",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "500078"
+  },
+  "localName": "OH Biz Premier at Leonia",
+  "localAddress": "Plot No. 4 59, 500078",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.579151,
+  "longitude": 78.60059,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g27112946-d21305762-Reviews-OH_Biz_Premier_at_Leonia-Shamirpet_Medchal_District_Telangana.html",
+  "website": null,
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "27112946",
+      "name": "Shamirpet",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389571",
+      "name": "Medchal District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "hotelClass": "3.0",
+  "hotelClassAttribution": "This property is classified according to Giata.",
+  "amenities": [],
+  "priceLevel": "₹",
+  "priceRange": "₹4,877 - ₹6,559",
+  "roomTips": [],
+  "isNearbyResult": false,
+  "reviewTags": [],
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "numberOfRooms": 261,
+  "categoryReviewScores": [],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/5a/c3/d8/photo0jpg.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Medchal District,hotels"
+},
+{
+  "reviewTags": [],
+  "id": "27101554",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Hotel"
+  ],
+  "name": "Rustic Vogue",
+  "locationString": "Cheeriyal, Medchal District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 83283 64141",
+  "address": "SY No. 81, Cheeriyal 501301 India",
+  "addressObj": {
+    "street1": "SY No. 81",
+    "street2": null,
+    "city": "Cheeriyal",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "501301"
+  },
+  "localName": "Rustic Vogue",
+  "localAddress": "SY No. 81, 501301",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.53745,
+  "longitude": 78.64896,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g27101819-d27101554-Reviews-Rustic_Vogue-Cheeriyal_Medchal_District_Telangana.html",
+  "website": null,
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "27101819",
+      "name": "Cheeriyal",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389571",
+      "name": "Medchal District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "hotelClass": "0.0",
+  "amenities": [],
+  "priceLevel": "₹",
+  "priceRange": "₹3,532 - ₹4,793",
+  "roomTips": [],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "numberOfRooms": null,
+  "categoryReviewScores": [],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/5a/c3/d8/photo0jpg.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Medchal District,hotels"
+},
+{
+  "id": "1131474",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Hotel"
+  ],
+  "name": "Aalankrita Resort & Convention",
+  "locationString": "Medchal District, Telangana",
+  "description": "When one thinks of relaxation and total comfort in the lap of Mother Nature, then one thinks of Aalankrita. An eco-friendly resort well spread, lush in greenery with an abundance of manicured lawns and stately trees, it blends the convenience of a 5-Star resort.",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/02/57/3f/fa/aalankrita-resort-and.jpg",
+  "photoCount": 568,
+  "rankingPosition": 2,
+  "rating": 4.5,
+  "rawRanking": 4.446628570556641,
+  "phone": "+91 84186 19999",
+  "address": "Thumkunta Village, Shameerpet, Mandal, 500078 India",
+  "addressObj": {
+    "street1": "Thumkunta Village, Shameerpet, Mandal",
+    "street2": null,
+    "city": null,
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "500078"
+  },
+  "localName": "Aalankrita Resort & Convention",
+  "localAddress": "Thumkunta Village, Shameerpet, Mandal, 500078",
+  "localLangCode": "en-IN",
+  "email": "promotions@aalankrita.com",
+  "latitude": 17.57196,
+  "longitude": 78.55783,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g12389571-d1131474-Reviews-Aalankrita_Resort_Convention-Medchal_District_Telangana.html",
+  "website": "http://www.aalankrita.com/",
+  "rankingString": "#2 of 2 hotels in Medchal District",
+  "rankingDenominator": "2",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "12389571",
+      "name": "Medchal District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 36,
+    "count2": 27,
+    "count3": 59,
+    "count4": 211,
+    "count5": 534
+  },
+  "numberOfReviews": 867,
+  "hotelClass": "4.0",
+  "hotelClassAttribution": "This property is classified according to Giata.",
+  "amenities": [
+    "Pool",
+    "Business center",
+    "Internet",
+    "Room service",
+    "Free Internet",
+    "Free parking",
+    "Restaurant",
+    "Wifi",
+    "Free Wifi",
+    "Wheelchair access",
+    "Fitness center",
+    "Kids Activities",
+    "Suites",
+    "Bar/Lounge",
+    "Spa",
+    "Airport transportation",
+    "Public Wifi",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Conference Facilities",
+    "Safe",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Private Balcony",
+    "Indoor pool",
+    "Butler Service",
+    "Outdoor pool",
+    "Kids Club",
+    "Baggage Storage",
+    "Entertainment Staff",
+    "24-Hour Front Desk",
+    "Game Room",
+    "Hindi",
+    "Indoor Play Area for Children",
+    "Ironing Service",
+    "Kids' Outdoor Play Equipment",
+    "Massage",
+    "24-Hour Security",
+    "Table Tennis",
+    "Taxi Service",
+    "VIP Room Facilities",
+    "Breakfast Available",
+    "Sauna",
+    "Car Hire"
+  ],
+  "priceLevel": "₹",
+  "priceRange": "₹5,045 - ₹5,970",
+  "roomTips": [
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Rooms in the back courtyard are mostly quiet and spacious",
+      "rating": "4",
+      "reviewId": "938359350",
+      "id": "938359350",
+      "createdTime": "2024-02-15T00:31:12-05:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Best place to visit n stay n enjoy the moments ",
+      "rating": "5",
+      "reviewId": "927540798",
+      "id": "927540798",
+      "createdTime": "2023-11-26T18:55:33-05:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Don't stay at this place. The staff has poorest possible attitude. ",
+      "rating": "1",
+      "reviewId": "909318981",
+      "id": "909318981",
+      "createdTime": "2023-08-10T07:59:15-04:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Be careful during rains and watch out for snails ,snakes etc while walking around.\nKeep some emergency snacks with you.",
+      "rating": "4",
+      "reviewId": "905177546",
+      "id": "905177546",
+      "createdTime": "2023-07-24T00:14:45-04:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Avoid the restaurant ",
+      "rating": "1",
+      "reviewId": "903466315",
+      "id": "903466315",
+      "createdTime": "2023-07-16T09:01:20-04:00"
+    }
+  ],
+  "isNearbyResult": false,
+  "reviewTags": [
+    {
+      "text": "swimming pool",
+      "reviews": 66
+    },
+    {
+      "text": "room service",
+      "reviews": 30
+    },
+    {
+      "text": "beautiful place",
+      "reviews": 16
+    },
+    {
+      "text": "family get together",
+      "reviews": 11
+    },
+    {
+      "text": "memorable experience",
+      "reviews": 11
+    },
+    {
+      "text": "aalankrita resort",
+      "reviews": 55
+    },
+    {
+      "text": "front office",
+      "reviews": 39
+    },
+    {
+      "text": "water park",
+      "reviews": 22
+    },
+    {
+      "text": "senior manager",
+      "reviews": 16
+    },
+    {
+      "text": "family outing",
+      "reviews": 16
+    },
+    {
+      "text": "excellent place",
+      "reviews": 11
+    },
+    {
+      "text": "pleasant stay",
+      "reviews": 12
+    },
+    {
+      "text": "family members",
+      "reviews": 12
+    },
+    {
+      "text": "water games",
+      "reviews": 10
+    },
+    {
+      "text": "courteous staff",
+      "reviews": 10
+    },
+    {
+      "text": "ambience",
+      "reviews": 125
+    },
+    {
+      "text": "greenery",
+      "reviews": 112
+    },
+    {
+      "text": "hospitality",
+      "reviews": 72
+    },
+    {
+      "text": "management",
+      "reviews": 56
+    },
+    {
+      "text": "hyderabad",
+      "reviews": 140
+    },
+    {
+      "text": "weekend",
+      "reviews": 74
+    },
+    {
+      "text": "package",
+      "reviews": 37
+    },
+    {
+      "text": "nature",
+      "reviews": 37
+    },
+    {
+      "text": "venue",
+      "reviews": 25
+    },
+    {
+      "text": "destination",
+      "reviews": 25
+    },
+    {
+      "text": "customers",
+      "reviews": 25
+    },
+    {
+      "text": "spread",
+      "reviews": 25
+    },
+    {
+      "text": "celebration",
+      "reviews": 18
+    },
+    {
+      "text": "mr",
+      "reviews": 179
+    },
+    {
+      "text": "jan",
+      "reviews": 9
+    }
+  ],
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "numberOfRooms": 119,
+  "categoryReviewScores": [
+    {
+      "categoryName": "Location",
+      "score": 4.2
+    },
+    {
+      "categoryName": "Rooms",
+      "score": 4.1
+    },
+    {
+      "categoryName": "Value",
+      "score": 4.1
+    },
+    {
+      "categoryName": "Cleanliness",
+      "score": 4.3
+    },
+    {
+      "categoryName": "Service",
+      "score": 4.2
+    },
+    {
+      "categoryName": "Sleep Quality",
+      "score": 4.2
+    }
+  ],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/08/3d/a9/16/aalankrita-resort.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/08/3d/a8/ff/aalankrita-resort.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/08/3d/3f/55/aalankrita-resort.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/08/3d/a9/23/aalankrita-resort.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/08/3d/a8/e1/aalankrita-resort.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/08/3d/a8/dc/aalankrita-resort.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/08/3d/8b/ba/aalankrita-resort.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/08/3d/8b/9e/aalankrita-resort.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/08/3d/8b/96/aalankrita-resort.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/08/3d/8b/75/aalankrita-resort.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/08/3d/8b/5b/aalankrita-resort.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/08/3d/8b/01/aalankrita-resort.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/08/3d/8a/d4/aalankrita-resort.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/08/3d/8a/c4/aalankrita-resort.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/08/3d/60/3b/aalankrita-resort.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/08/3d/4a/23/aalankrita-resort.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/08/3d/44/7c/aalankrita-resort.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/02/57/3f/fa/aalankrita-resort-and.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/08/3d/a9/41/aalankrita-resort.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/08/3d/a9/3c/aalankrita-resort.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/5f/9c/b2/aalankrita-resort.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/44/a1/62/crystal-room.jpg"
+  ],
+  "travelerChoiceAward": "REGULAR_AWARD",
+  "input": "Telangana,Medchal District,hotels"
+},
+{
+  "reviewTags": [],
+  "id": "23520001",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Specialty Lodging"
+  ],
+  "name": "SPOT ON HYD1665 Reddy's Accomodation Service",
+  "locationString": "Hyderabad, Hyderabad District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": null,
+  "address": "42 Dundigal Gandimaisamma Manda, Hyderabad 500032 India",
+  "addressObj": {
+    "street1": "42 Dundigal Gandimaisamma Manda",
+    "street2": null,
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "500032"
+  },
+  "localName": "SPOT ON HYD1665 Reddy's Accomodation Service",
+  "localAddress": "42 Dundigal Gandimaisamma Manda, 500032",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.57895,
+  "longitude": 78.4313,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g297586-d23520001-Reviews-SPOT_ON_HYD1665_Reddy_s_Accomodation_Service-Hyderabad_Hyderabad_District_Telangana.html",
+  "website": null,
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "297586",
+      "name": "Hyderabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389092",
+      "name": "Hyderabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "hotelClass": "0.0",
+  "amenities": [],
+  "priceLevel": "₹",
+  "priceRange": "₹1,177 - ₹1,430",
+  "roomTips": [],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "numberOfRooms": null,
+  "categoryReviewScores": [],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/2d/84/07/21/lobby-or-reception.jpg",
+    "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/2d/f5/3d/c6/lobby-or-reception.jpg",
+    "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/2d/de/62/d3/kitchen-or-kitchenett.jpg",
+    "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/2d/de/62/d4/lobby-or-reception.jpg",
+    "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/2d/de/62/d6/lobby-or-reception.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Medchal District,hotels"
+},
+{
+  "id": "9762268",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Hotel"
+  ],
+  "name": "Zibe Hyderabad by GRT Hotels",
+  "locationString": "Hyderabad, Hyderabad District, Telangana",
+  "description": " The Smart stay accommodation is extremely well planned for business & professional travellers.  It is among the finest in Kukatpally Hyderabad, with superior service quality.  Breakfast at the “Tiffin Room”, High speed WI- FI services, half a litre packaged drinking water for our room guests are complimentary.",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0a/6b/e7/a4/pink-superior-room.jpg",
+  "photoCount": 133,
+  "rankingPosition": 25,
+  "rating": 4.5,
+  "rawRanking": 4.73108434677124,
+  "phone": "+91 80 6925 0570",
+  "address": "2 - 22 - 300 Bhagya Nagar Colony Plot 3 KPHB, Kukatpally, Hyderabad 500072 India",
+  "addressObj": {
+    "street1": "2 - 22 - 300 Bhagya Nagar Colony Plot 3",
+    "street2": "KPHB, Kukatpally",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "500072"
+  },
+  "localName": "Zibe Hyderabad by GRT Hotels",
+  "localAddress": "2 - 22 - 300 Bhagya Nagar Colony Plot 3, KPHB, Kukatpally, 500072",
+  "localLangCode": "en-IN",
+  "email": "crs@grthotels.com",
+  "latitude": 17.495653,
+  "longitude": 78.39868,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g297586-d9762268-Reviews-Zibe_Hyderabad_by_GRT_Hotels-Hyderabad_Hyderabad_District_Telangana.html",
+  "website": "https://grthotels.com/grtzibe/hyderabad.html",
+  "rankingString": "#25 of 509 hotels in Hyderabad",
+  "rankingDenominator": "509",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "297586",
+      "name": "Hyderabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389092",
+      "name": "Hyderabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 2,
+    "count2": 5,
+    "count3": 18,
+    "count4": 67,
+    "count5": 236
+  },
+  "numberOfReviews": 328,
+  "hotelClass": "3.0",
+  "hotelClassAttribution": "This property is classified according to Giata.",
+  "amenities": [
+    "Internet",
+    "Suites",
+    "Room service",
+    "Restaurant",
+    "Wifi",
+    "Public Wifi",
+    "Free Wifi",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Fitness center",
+    "Laundry Service",
+    "Air conditioning",
+    "Accessible rooms",
+    "Non-smoking hotel",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Breakfast Available",
+    "Housekeeping",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Breakfast in the Room",
+    "Coffee / Tea Maker",
+    "Doorperson",
+    "English",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Ironing Service",
+    "24-Hour Security",
+    "Special Diet Menus",
+    "Taxi Service",
+    "Telephone",
+    "Free Internet",
+    "Wheelchair access",
+    "Airport transportation",
+    "Concierge",
+    "Family Rooms",
+    "Safe",
+    "Parking",
+    "Car Hire",
+    "Express Check-in / Check-out",
+    "Children's Television Networks",
+    "Clothes Rack",
+    "Desk",
+    "Hindi",
+    "Newspaper",
+    "Shared Lounge / TV Area",
+    "Shoeshine",
+    "Soundproof Rooms",
+    "Video Game Console",
+    "VIP Room Facilities",
+    "Wake Up Service / Alarm Clock"
+  ],
+  "priceLevel": "₹",
+  "priceRange": "₹4,205 - ₹6,307",
+  "roomTips": [
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Excellent location \nVery clean rooms \nExcellent service \nVery supportive staff ",
+      "rating": "5",
+      "reviewId": "970571681",
+      "id": "970571681",
+      "createdTime": "2024-09-20T07:21:17-04:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Yes,all travellers should lounge here for it a nice place to stay ",
+      "rating": "5",
+      "reviewId": "969802285",
+      "id": "969802285",
+      "createdTime": "2024-09-15T01:14:20-04:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Wi-Fi should be extended for other nationals staying over a short period.",
+      "rating": "5",
+      "reviewId": "944238532",
+      "id": "944238532",
+      "createdTime": "2024-03-28T03:10:44-04:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "I highly recommend this ZIBE HOTEL staff are friendly and help us always ",
+      "rating": "5",
+      "reviewId": "936910236",
+      "id": "936910236",
+      "createdTime": "2024-02-04T23:00:50-05:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Car parking is not available so please call the reception and ask for guidance on car parking.",
+      "rating": "5",
+      "reviewId": "936705587",
+      "id": "936705587",
+      "createdTime": "2024-02-03T03:53:11-05:00"
+    }
+  ],
+  "isNearbyResult": false,
+  "reviewTags": [
+    {
+      "text": "metro station",
+      "reviews": 12
+    },
+    {
+      "text": "located on main road",
+      "reviews": 3
+    },
+    {
+      "text": "large size rooms",
+      "reviews": 2
+    },
+    {
+      "text": "clean sheets",
+      "reviews": 2
+    },
+    {
+      "text": "place to stay",
+      "reviews": 11
+    },
+    {
+      "text": "gym facility",
+      "reviews": 2
+    },
+    {
+      "text": "multiple options",
+      "reviews": 2
+    },
+    {
+      "text": "in house restaurant",
+      "reviews": 3
+    },
+    {
+      "text": "fast service",
+      "reviews": 2
+    },
+    {
+      "text": "superior room",
+      "reviews": 2
+    },
+    {
+      "text": "breakfast spread was good",
+      "reviews": 2
+    },
+    {
+      "text": "live counter",
+      "reviews": 3
+    },
+    {
+      "text": "business trip",
+      "reviews": 8
+    },
+    {
+      "text": "dosa",
+      "reviews": 4
+    },
+    {
+      "text": "indian food",
+      "reviews": 3
+    },
+    {
+      "text": "hotel staff",
+      "reviews": 4
+    },
+    {
+      "text": "complimentary breakfast",
+      "reviews": 3
+    },
+    {
+      "text": "prime location",
+      "reviews": 2
+    },
+    {
+      "text": "nice food",
+      "reviews": 3
+    },
+    {
+      "text": "room cleaning",
+      "reviews": 3
+    },
+    {
+      "text": "courteous staff",
+      "reviews": 4
+    },
+    {
+      "text": "front office team",
+      "reviews": 2
+    },
+    {
+      "text": "pleasant stay",
+      "reviews": 4
+    },
+    {
+      "text": "other hotels",
+      "reviews": 2
+    },
+    {
+      "text": "excellent hotel",
+      "reviews": 3
+    },
+    {
+      "text": "home away from home",
+      "reviews": 2
+    },
+    {
+      "text": "recommend this hotel",
+      "reviews": 3
+    },
+    {
+      "text": "take care",
+      "reviews": 2
+    },
+    {
+      "text": "excellent hospitality",
+      "reviews": 2
+    },
+    {
+      "text": "wonderful experience",
+      "reviews": 2
+    }
+  ],
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "numberOfRooms": 33,
+  "categoryReviewScores": [
+    {
+      "categoryName": "Location",
+      "score": 4.6
+    },
+    {
+      "categoryName": "Rooms",
+      "score": 4.6
+    },
+    {
+      "categoryName": "Value",
+      "score": 4.6
+    },
+    {
+      "categoryName": "Cleanliness",
+      "score": 4.6
+    },
+    {
+      "categoryName": "Service",
+      "score": 4.7
+    },
+    {
+      "categoryName": "Sleep Quality",
+      "score": 4.6
+    }
+  ],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/0a/6b/e7/a6/yellow-room.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0b/b4/4c/f3/rooms.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0a/6b/e7/a4/pink-superior-room.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0a/3e/7c/23/superior-room.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0b/b4/41/18/grt-vibe-kukatpally.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0b/b4/41/17/grt-vibe-kukatpally.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0a/6b/e7/a9/green.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0a/6b/e7/a8/tiffin-room.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0a/6b/e7/a7/gym.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0a/6b/e7/a5/blue-room.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0a/3e/7c/2d/d-room.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0a/3e/7c/2c/corridor-rooms.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0a/3e/7c/2b/room.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0a/3e/7c/29/bath-room.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0a/3e/7c/27/reception.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0a/3e/7c/26/gym.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0a/3e/7c/25/bath-room.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0a/3e/7c/24/deluxe-room.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0a/3e/7c/21/superior-room.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0a/2f/65/94/grt-vibe-kukatpally.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/13/2b/34/9f/zibe-hyderabad-by-grt.jpg"
+  ],
+  "travelerChoiceAward": "REGULAR_AWARD",
+  "input": "Telangana,Medchal District,hotels"
+},
+{
+  "id": "27735242",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Hotel"
+  ],
+  "name": "OYO Nirmal Palace",
+  "locationString": "Noida, Gautam Buddha Nagar District, Uttar Pradesh",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/2d/f0/1a/fb/bedroom.jpg",
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 124 620 1516",
+  "address": "Plot No 2, Block C 202, Sector 58, Noida 201301 India",
+  "addressObj": {
+    "street1": "Plot No 2, Block C 202, Sector 58",
+    "street2": null,
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "country": "India",
+    "postalcode": "201301"
+  },
+  "localName": "OYO Nirmal Palace",
+  "localAddress": "Plot No 2, Block C 202, Sector 58, 201301",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.653608,
+  "longitude": 78.51442,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g644043-d27735242-Reviews-OYO_Nirmal_Palace-Noida_Gautam_Buddha_Nagar_District_Uttar_Pradesh.html",
+  "website": "https://www.oyorooms.com/234833/?checkin=11%2F05%2F2024&checkout=12%2F05%2F2024&rooms=1&guests=1&rooms_config=1-1_0",
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "644043",
+      "name": "Noida",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12396993",
+      "name": "Gautam Buddha Nagar District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "297682",
+      "name": "Uttar Pradesh",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "hotelClass": "0.0",
+  "amenities": [],
+  "priceLevel": "₹",
+  "priceRange": "₹1,093",
+  "roomTips": [],
+  "isNearbyResult": false,
+  "reviewTags": [],
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "numberOfRooms": null,
+  "categoryReviewScores": [],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/2d/f0/1a/fb/bedroom.jpg",
+    "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/2d/f0/1a/f8/bedroom.jpg",
+    "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/2d/f0/1a/f7/bedroom.jpg",
+    "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/2d/f0/1a/f9/bedroom.jpg",
+    "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/2d/f0/1a/fa/bedroom.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Medchal District,hotels"
+},
+{
+  "id": "23383990",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Hotel"
+  ],
+  "name": "SPOT ON 76370 Sri Residency",
+  "locationString": "Hyderabad, Hyderabad District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/2d/c9/75/48/bedroom.jpg",
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": null,
+  "address": "39, Gandimaisamma, Dundigal, Dundigal_Gandimaisamma mandal, Medchal, Hyderabad 500043 India",
+  "addressObj": {
+    "street1": "39, Gandimaisamma, Dundigal, Dundigal_Gandimaisamma mandal, Medchal",
+    "street2": null,
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "500043"
+  },
+  "localName": "SPOT ON 76370 Sri Residency",
+  "localAddress": "39, Gandimaisamma, Dundigal, Dundigal_Gandimaisamma mandal, Medchal, 500043",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.57865,
+  "longitude": 78.4175,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g297586-d23383990-Reviews-SPOT_ON_76370_Sri_Residency-Hyderabad_Hyderabad_District_Telangana.html",
+  "website": null,
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "297586",
+      "name": "Hyderabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389092",
+      "name": "Hyderabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "hotelClass": "0.0",
+  "amenities": [],
+  "priceLevel": "₹",
+  "priceRange": "₹925 - ₹1,177",
+  "roomTips": [],
+  "isNearbyResult": false,
+  "reviewTags": [],
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "numberOfRooms": null,
+  "categoryReviewScores": [],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/2d/8f/3d/47/lobby-or-reception.jpg",
+    "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/2d/e0/d4/d6/bedroom.jpg",
+    "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/2d/c9/75/48/bedroom.jpg",
+    "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/2d/8f/3d/46/entrance.jpg",
+    "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/2d/8f/3d/48/entrance.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Medchal District,hotels"
+},
+{
+  "id": "26681517",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Bed and Breakfast"
+  ],
+  "name": "Flagship Sri Residency",
+  "locationString": "Hyderabad, Hyderabad District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 124 620 1614",
+  "address": "Flat No 39, Sry No 248 Gandi Maisamma Road Sri Venkateshwara Colony, Bowrampet Village, Beside Krishna Reddy Indian Filling Station, Hyderabad 500043 India",
+  "addressObj": {
+    "street1": "Flat No 39, Sry No 248 Gandi Maisamma Road",
+    "street2": "Sri Venkateshwara Colony, Bowrampet Village, Beside Krishna Reddy Indian Filling Station",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "500043"
+  },
+  "localName": "Flagship Sri Residency",
+  "localAddress": "Flat No 39, Sry No 248 Gandi Maisamma Road, Sri Venkateshwara Colony, Bowrampet Village, Beside Krishna Reddy Indian Filling Station, 500043",
+  "localLangCode": "en-IN",
+  "email": "talistings@oyorooms.com",
+  "latitude": 17.573774,
+  "longitude": 78.42067,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g297586-d26681517-Reviews-Flagship_Sri_Residency-Hyderabad_Hyderabad_District_Telangana.html",
+  "website": "https://www.oyorooms.com/107194/",
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "297586",
+      "name": "Hyderabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389092",
+      "name": "Hyderabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "hotelClass": "0.0",
+  "amenities": [],
+  "priceLevel": "₹",
+  "priceRange": "₹841 - ₹1,177",
+  "roomTips": [],
+  "isNearbyResult": false,
+  "reviewTags": [],
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "numberOfRooms": 68,
+  "categoryReviewScores": [],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/0f/98/f7/df/charminar.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Medchal District,hotels"
+},
+{
+  "id": "23656477",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Hotel"
+  ],
+  "name": "Minerva Grand Kompally",
+  "locationString": "Hyderabad, Hyderabad District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 40 6719 8888",
+  "address": "Sy. No. 105/A, Near Cine Planet, Hyderabad 500014 India",
+  "addressObj": {
+    "street1": "Sy. No. 105/A, Near Cine Planet",
+    "street2": null,
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "500014"
+  },
+  "localName": "Minerva Grand Kompally",
+  "localAddress": "Sy. No. 105/A, Near Cine Planet, 500014",
+  "localLangCode": "en-IN",
+  "email": "feedback@minervahotels.in",
+  "latitude": 17.52795,
+  "longitude": 78.4852,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g297586-d23656477-Reviews-Minerva_Grand_Kompally-Hyderabad_Hyderabad_District_Telangana.html",
+  "website": "http://www.minervahotels.in/kompally/",
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "297586",
+      "name": "Hyderabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389092",
+      "name": "Hyderabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "hotelClass": "3.0",
+  "hotelClassAttribution": "This property is classified according to Giata.",
+  "amenities": [],
+  "priceLevel": "₹",
+  "priceRange": "₹3,868 - ₹5,045",
+  "roomTips": [],
+  "isNearbyResult": false,
+  "reviewTags": [],
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "numberOfRooms": 42,
+  "categoryReviewScores": [],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/0f/98/f7/df/charminar.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Medchal District,hotels"
+},
+{
+  "id": "28296284",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Hotel"
+  ],
+  "name": "Super Collection O De Alphabet Hotel",
+  "locationString": "Hyderabad, Hyderabad District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 124 620 1611",
+  "address": "Main Road Sy No.188 & 233, Beside Primark De Stature, Hyderabad 500043 India",
+  "addressObj": {
+    "street1": "Main Road",
+    "street2": "Sy No.188 & 233, Beside Primark De Stature",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "500043"
+  },
+  "localName": "Super Collection O De Alphabet Hotel",
+  "localAddress": "Main Road, Sy No.188 & 233, Beside Primark De Stature, 500043",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.56019,
+  "longitude": 78.43467,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g297586-d28296284-Reviews-Super_Collection_O_De_Alphabet_Hotel-Hyderabad_Hyderabad_District_Telangana.html",
+  "website": "https://www.oyorooms.com/244049/",
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "297586",
+      "name": "Hyderabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389092",
+      "name": "Hyderabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "hotelClass": "0.0",
+  "amenities": [],
+  "priceLevel": "₹",
+  "priceRange": "₹1,261 - ₹1,850",
+  "roomTips": [],
+  "isNearbyResult": false,
+  "reviewTags": [],
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "numberOfRooms": null,
+  "categoryReviewScores": [],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/0f/98/f7/df/charminar.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Medchal District,hotels"
+},
+{
+  "reviewTags": [],
+  "id": "27917679",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Hotel"
+  ],
+  "name": "Halcyon SS Grand",
+  "locationString": "Hyderabad, Hyderabad District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/2d/86/f3/1b/bedroom.jpg",
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": null,
+  "address": "Survey No 231, Bahadurpally X Road Plot No 2/a, 2/b, Hyderabad 500043 India",
+  "addressObj": {
+    "street1": "Survey No 231, Bahadurpally X Road",
+    "street2": "Plot No 2/a, 2/b",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "500043"
+  },
+  "localName": "Halcyon SS Grand",
+  "localAddress": "Survey No 231, Bahadurpally X Road, Plot No 2/a, 2/b, 500043",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.559402,
+  "longitude": 78.43252,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g297586-d27917679-Reviews-Halcyon_SS_Grand-Hyderabad_Hyderabad_District_Telangana.html",
+  "website": null,
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "297586",
+      "name": "Hyderabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389092",
+      "name": "Hyderabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "hotelClass": "0.0",
+  "amenities": [],
+  "priceLevel": "₹",
+  "priceRange": "₹1,514 - ₹2,102",
+  "roomTips": [],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "numberOfRooms": null,
+  "categoryReviewScores": [],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/2d/f5/eb/de/bedroom.jpg",
+    "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/2d/e0/cd/62/bedroom.jpg",
+    "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/2d/86/f3/1b/bedroom.jpg",
+    "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/2d/95/00/2d/bedroom.jpg",
+    "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/2d/86/f3/1a/bedroom.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Medchal District,hotels"
+},
+{
+  "reviewTags": [],
+  "id": "23912100",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Hotel"
+  ],
+  "name": "OYO Adhin Residency",
+  "locationString": "Hyderabad, Hyderabad District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/2d/c8/da/9e/bedroom.jpg",
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 124 620 1614",
+  "address": "Plot No.1&2, Sanna Mallesh Yadav Complex, Hyderabad 500014 India",
+  "addressObj": {
+    "street1": "Plot No.1&2, Sanna Mallesh Yadav Complex",
+    "street2": null,
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "500014"
+  },
+  "localName": "OYO Adhin Residency",
+  "localAddress": "Plot No.1&2, Sanna Mallesh Yadav Complex, 500014",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.543972,
+  "longitude": 78.49236,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g297586-d23912100-Reviews-OYO_Adhin_Residency-Hyderabad_Hyderabad_District_Telangana.html",
+  "website": "https://www.oyorooms.com/107446/?utm_source=google_gmb&utm_medium=organic&utm_campaign=hyd1567&latitude=17.54397&longitude=78.49236&locale=en",
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "297586",
+      "name": "Hyderabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389092",
+      "name": "Hyderabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "hotelClass": "3.0",
+  "hotelClassAttribution": "This property is classified according to Giata.",
+  "amenities": [],
+  "priceLevel": "₹",
+  "priceRange": "₹841 - ₹1,009",
+  "roomTips": [],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "numberOfRooms": 10,
+  "categoryReviewScores": [],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/2d/88/29/f7/bedroom.jpg",
+    "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/2d/f5/65/48/entrance.jpg",
+    "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/2d/c8/da/9e/bedroom.jpg",
+    "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/2d/88/29/fb/bedroom.jpg",
+    "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/2d/88/29/f8/bedroom.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Medchal District,hotels"
+},
+{
+  "id": "28136397",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Hotel"
+  ],
+  "name": "FabHotel VK’s",
+  "locationString": "Hyderabad, Hyderabad District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 70424 24242",
+  "address": "Survey No: 188, 233,Bahadurpally Village, Hyderabad 500043 India",
+  "addressObj": {
+    "street1": "Survey No: 188, 233,Bahadurpally Village",
+    "street2": null,
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "500043"
+  },
+  "localName": "FabHotel VK’s",
+  "localAddress": "Survey No: 188, 233,Bahadurpally Village, 500043",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.560272,
+  "longitude": 78.43385,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g297586-d28136397-Reviews-FabHotel_VK_s-Hyderabad_Hyderabad_District_Telangana.html",
+  "website": "https://www.fabhotels.com/hotels-in-hyderabad/fabhotel-vks-oraqjmaw.html?utm_source=GMB&utm_medium=organic&utm_campaign=GMB_Traffic",
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "297586",
+      "name": "Hyderabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389092",
+      "name": "Hyderabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "hotelClass": "0.0",
+  "amenities": [],
+  "priceLevel": "₹",
+  "priceRange": "₹1,514 - ₹1,850",
+  "roomTips": [],
+  "isNearbyResult": false,
+  "reviewTags": [],
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "numberOfRooms": null,
+  "categoryReviewScores": [],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/2d/f5/f0/c7/property-building.jpg",
+    "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/2d/e8/f0/79/bed.jpg",
+    "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/2d/e8/f0/77/lobby-or-reception.jpg",
+    "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/2d/e8/f0/78/lobby-or-reception.jpg",
+    "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/2d/95/14/e8/bed.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Medchal District,hotels"
+},
+{
+  "reviewTags": [],
+  "id": "1145834",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Hotel"
+  ],
+  "name": "Celebrity Resort",
+  "locationString": "Hyderabad, Hyderabad District, Telangana",
+  "description": "Everyone needs a place to lay their weary head. For travelers visiting Hyderabad, Celebrity Resort is an excellent choice for rest and rejuvenation. Well-known for its proximity to great restaurants, Celebrity Resort makes it easy to enjoy the best of Hyderabad.\nGuest rooms offer amenities such as air conditioning, a refrigerator, and a desk, and guests can go online with free wifi offered by the resort.\nCelebrity Club Hotel features a 24 hour front desk, room service, and express check-in and check-out, to help make your stay more enjoyable. The property also boasts a pool and an on-site restaurant. If you are driving to Celebrity Club Hotel, free parking is available.\nWhen you're feeling hungry, you can check out Shilpi Family Dhaba (0.9 mi) or Brundavan Family Dhaba (0.9 mi), which are all within walking distance of Celebrity Resort.\nCelebrity Resort is sure to make your visit to Hyderabad one worth remembering.\n",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-s/01/c9/a1/b4/celebrity-club.jpg",
+  "photoCount": 55,
+  "rankingPosition": 2,
+  "rating": 4.5,
+  "rawRanking": 4.257890224456787,
+  "phone": "+91 85300 43444",
+  "address": "Survey No.1222, Karimnagar Highway ORR Circle, Hyderabad 500101 India",
+  "addressObj": {
+    "street1": "Survey No.1222, Karimnagar Highway",
+    "street2": "ORR Circle",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "500101"
+  },
+  "localName": "Celebrity Resort",
+  "localAddress": "Survey No.1222, Karimnagar Highway, ORR Circle, 500101",
+  "localLangCode": "en-IN",
+  "email": "enquiry@celebrityhospitality.com",
+  "latitude": 17.579735,
+  "longitude": 78.57307,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g297586-d1145834-Reviews-Celebrity_Resort-Hyderabad_Hyderabad_District_Telangana.html",
+  "website": "https://www.celebrityhospitality.com/",
+  "rankingString": "#2 of 9 resorts in Hyderabad",
+  "rankingDenominator": "9",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "297586",
+      "name": "Hyderabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389092",
+      "name": "Hyderabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 14,
+    "count2": 6,
+    "count3": 14,
+    "count4": 27,
+    "count5": 223
+  },
+  "numberOfReviews": 284,
+  "hotelClass": "4.0",
+  "hotelClassAttribution": "This property is classified according to Giata.",
+  "amenities": [
+    "Pool",
+    "Kids Activities",
+    "Room service",
+    "Free parking",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Breakfast included",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Breakfast Buffet",
+    "Outdoor pool",
+    "Kids Club",
+    "Indoor Play Area for Children",
+    "Table Tennis",
+    "Internet",
+    "Suites",
+    "Free Internet",
+    "Spa",
+    "Airport transportation",
+    "Wifi",
+    "Paid Wifi",
+    "Paid Internet",
+    "Dry Cleaning",
+    "Tennis Court",
+    "Business center",
+    "Banquet Room",
+    "Family Rooms",
+    "Smoking rooms available",
+    "Refrigerator in room",
+    "Minibar",
+    "Conference Facilities",
+    "Non-smoking hotel",
+    "Safe",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Kids pool",
+    "Infinity Pool",
+    "Adult pool",
+    "Breakfast Available",
+    "Parking",
+    "Housekeeping",
+    "Kids Stay Free",
+    "Electric vehicle charging station",
+    "Badminton",
+    "Baggage Storage",
+    "Bath / Shower",
+    "BBQ Facilities",
+    "Bicycle Rental",
+    "Bicycle Tours",
+    "Bicycles Available",
+    "Billiards",
+    "Board Games / Puzzles",
+    "Body Wrap",
+    "Bottled Water",
+    "Bowling",
+    "Bowling Off-site",
+    "Breakfast in the Room",
+    "Bridal Suite",
+    "Cable / Satellite TV",
+    "Car Hire",
+    "Express Check-in / Check-out",
+    "Children's Television Networks",
+    "Children's Playground",
+    "Clothes Dryer",
+    "Coffee Shop",
+    "Coffee / Tea Maker",
+    "Complimentary Tea",
+    "Currency Exchange",
+    "Desk",
+    "Diving",
+    "Doorperson",
+    "Electric Kettle",
+    "English",
+    "Facial Treatments",
+    "Fireplace",
+    "First Aid Kit",
+    "Fitness / Spa Locker Rooms",
+    "Foot Bath",
+    "Foot Massage",
+    "Complimentary Instant Coffee",
+    "Complimentary Toiletries",
+    "Complimentary Welcome Drink",
+    "24-Hour Front Desk",
+    "Full Body Massage",
+    "Game Room",
+    "Hair Dryer",
+    "Hand Massage",
+    "Happy Hour",
+    "Head Massage",
+    "Highchairs Available",
+    "Hindi",
+    "Hot Spring Bath",
+    "Ironing Service",
+    "Karaoke",
+    "Kids' Meals",
+    "Kid-Friendly Buffet",
+    "Kids' Outdoor Play Equipment",
+    "Landmark View",
+    "Makeup Services",
+    "Manicure",
+    "Massage",
+    "Neck Massage",
+    "Newspaper",
+    "Nightclub / DJ",
+    "Outdoor Dining Area",
+    "Outdoor Fireplace",
+    "Outdoor Furniture",
+    "Parking Garage",
+    "Pedicure",
+    "Picnic Area",
+    "Pool / Beach Towels",
+    "Pool with View",
+    "Private Check-in / Check-out",
+    "Raquetball",
+    "Raquetball Off-site",
+    "Salon",
+    "Seating Area",
+    "24-Hour Security",
+    "Shoeshine",
+    "Shops",
+    "Snack Bar",
+    "Snorkeling",
+    "Sofa",
+    "Special Diet Menus",
+    "Sun Loungers / Beach Chairs",
+    "Sun Umbrellas",
+    "Swimming Pool Toys",
+    "Taxi Service",
+    "Telephone",
+    "Tennis Court Off-site",
+    "Tile / Marble Floor",
+    "Umbrella",
+    "Valet Parking",
+    "Vending Machine",
+    "VIP Room Facilities",
+    "Wake Up Service / Alarm Clock",
+    "Walking Tours",
+    "Wardrobe / Closet",
+    "Washing Machine",
+    "Wine / Champagne",
+    "Yoga Room"
+  ],
+  "priceLevel": "₹",
+  "priceRange": "₹3,448 - ₹5,129",
+  "roomTips": [
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Increase salary as they are really good at there service and they are giving there best",
+      "rating": "5",
+      "reviewId": "933882442",
+      "id": "933882442",
+      "createdTime": "2024-01-13T01:37:04-05:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Need Go Karting at earliest",
+      "rating": "5",
+      "reviewId": "926399429",
+      "id": "926399429",
+      "createdTime": "2023-11-18T01:23:40-05:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Yes.                                                                                                                                        ",
+      "rating": "5",
+      "reviewId": "926375155",
+      "id": "926375155",
+      "createdTime": "2023-11-17T19:33:15-05:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Friendly staff",
+      "rating": "5",
+      "reviewId": "924638352",
+      "id": "924638352",
+      "createdTime": "2023-11-05T02:19:23-05:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Nothing ",
+      "rating": "5",
+      "reviewId": "924606552",
+      "id": "924606552",
+      "createdTime": "2023-11-04T21:26:39-04:00"
+    }
+  ],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "numberOfRooms": 77,
+  "categoryReviewScores": [
+    {
+      "categoryName": "Location",
+      "score": 4.9
+    },
+    {
+      "categoryName": "Rooms",
+      "score": 4.6
+    },
+    {
+      "categoryName": "Value",
+      "score": 4.9
+    },
+    {
+      "categoryName": "Cleanliness",
+      "score": 4.6
+    },
+    {
+      "categoryName": "Service",
+      "score": 4.7
+    },
+    {
+      "categoryName": "Sleep Quality",
+      "score": 4.7
+    }
+  ],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/01/c9/a1/b4/celebrity-club.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/01/c9/a3/5c/celebrity-club.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/01/c9/a2/f6/celebrity-club.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/01/c9/a2/47/celebrity-club.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/01/c9/a0/df/celebrity-club.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/12/be/ad/06/img-20180424-105413-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0e/dc/27/77/photo0jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/01/c7/86/5e/celebrity-club.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/01/c7/84/64/celebrity-club.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/25/a7/6b/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/25/a7/6a/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2a/ee/6f/0d/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2a/ee/6f/0c/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2a/ee/6f/0b/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2a/b2/ab/c0/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2a/b2/ab/bf/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2a/b2/ab/be/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2a/b2/ab/bd/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2a/b2/ab/bc/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2a/b2/ab/bb/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1a/67/f6/8c/celebrity-resort.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1a/97/d0/9d/tina-wedding-diaries.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Medchal District,hotels"
+}]

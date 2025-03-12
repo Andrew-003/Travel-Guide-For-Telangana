@@ -1,0 +1,1082 @@
+[{
+  "id": "3501886",
+  "type": "ATTRACTION",
+  "category": "attraction",
+  "subcategories": [
+    "Sights & Landmarks"
+  ],
+  "name": "Sarangpur Hanuman Temple",
+  "locationString": "Nizamabad, Nizamabad District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0c/50/0c/37/sarangpur-hanuman-temple.jpg",
+  "photoCount": 30,
+  "rankingPosition": 1,
+  "rating": 4.5,
+  "rawRanking": 2.912262201309204,
+  "phone": null,
+  "address": "Nizamabad India",
+  "addressObj": {
+    "street1": null,
+    "street2": null,
+    "city": "Nizamabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": null
+  },
+  "localName": "Sarangpur Hanuman Temple",
+  "localAddress": null,
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": null,
+  "longitude": null,
+  "webUrl": "https://www.tripadvisor.com/Attraction_Review-g2295101-d3501886-Reviews-Sarangpur_Hanuman_Temple-Nizamabad_Nizamabad_District_Telangana.html",
+  "website": null,
+  "rankingString": "#1 of 11 things to do in Nizamabad",
+  "rankingDenominator": "11",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295101",
+      "name": "Nizamabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389592",
+      "name": "Nizamabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 7,
+    "count5": 12
+  },
+  "numberOfReviews": 19,
+  "booking": null,
+  "offerGroup": null,
+  "subtype": [
+    "Sacred & Religious Sites"
+  ],
+  "reviewTags": [],
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/0c/50/0c/37/sarangpur-hanuman-temple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/02/ea/08/07/sarangpur-hanuman-temple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0c/50/0c/49/sarangpur-hanuman-temple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0a/72/30/50/jai-bajrangbali.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0a/0a/e0/0b/pano-20160114-110143.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2a/f6/ae/18/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2a/f6/ae/17/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2a/f6/ae/16/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2a/f6/ae/15/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0c/50/0c/98/sarangpur-hanuman-temple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0c/50/0c/8f/sarangpur-hanuman-temple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0c/50/0c/89/sarangpur-hanuman-temple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0c/50/0c/82/sarangpur-hanuman-temple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0c/50/0c/7a/sarangpur-hanuman-temple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0c/50/0c/72/sarangpur-hanuman-temple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0c/50/0c/6b/sarangpur-hanuman-temple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0c/50/0c/60/sarangpur-hanuman-temple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0c/50/0c/54/sarangpur-hanuman-temple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0c/50/0c/4f/sarangpur-hanuman-temple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0c/50/0c/47/sarangpur-hanuman-temple.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Nizamabad,attractions"
+},
+{
+  "reviewTags": [
+    {
+      "text": "friends",
+      "reviews": 3
+    }
+  ],
+  "id": "2711779",
+  "type": "ATTRACTION",
+  "category": "attraction",
+  "subcategories": [
+    "Nature & Parks"
+  ],
+  "name": "Ali Sagar Reservoir",
+  "locationString": "Nizamabad, Nizamabad District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-s/02/77/bb/39/filename-ali-sagar-lake.jpg",
+  "photoCount": 12,
+  "rankingPosition": 2,
+  "rating": 4.5,
+  "rawRanking": 2.8592188358306885,
+  "phone": null,
+  "address": "Nizamabad 503001 India",
+  "addressObj": {
+    "street1": null,
+    "street2": "",
+    "city": "Nizamabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "503001"
+  },
+  "localName": "Ali Sagar Reservoir",
+  "localAddress": "503001",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 18.66863,
+  "longitude": 78.09335,
+  "webUrl": "https://www.tripadvisor.com/Attraction_Review-g2295101-d2711779-Reviews-Ali_Sagar_Reservoir-Nizamabad_Nizamabad_District_Telangana.html",
+  "website": null,
+  "rankingString": "#2 of 11 things to do in Nizamabad",
+  "rankingDenominator": "11",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295101",
+      "name": "Nizamabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389592",
+      "name": "Nizamabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 2,
+    "count4": 7,
+    "count5": 7
+  },
+  "numberOfReviews": 16,
+  "booking": null,
+  "offerGroup": null,
+  "subtype": [
+    "Bodies of Water"
+  ],
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/02/77/bb/39/filename-ali-sagar-lake.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0e/26/d0/6b/ali-sagar-reservoir.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/08/d3/d8/54/ali-sagar-reservoir.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/08/d3/d8/45/ali-sagar-reservoir.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/08/ce/e1/c2/dam-side.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/02/77/bb/48/filename-26062011803.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/02/77/bb/41/filename-26062011800.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/02/77/bb/3c/filename-26062011788.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0e/78/bc/36/ali-sagar-best-reservoir.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0e/78/bb/ff/ali-sagar-best-reservoir.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0e/78/bb/a2/ali-sagar-best-reservoir_rotated_270.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/08/d3/d8/5a/ali-sagar-reservoir.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Nizamabad,attractions"
+},
+{
+  "id": "27819936",
+  "type": "ATTRACTION",
+  "category": "attraction",
+  "subcategories": [
+    "Shopping"
+  ],
+  "name": "Track And Trail Cycles & Toys",
+  "locationString": "Nizamabad, Nizamabad District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 77386 24897",
+  "address": "Arya Nagar Colony, Borgaon Nizamabad, Pangra, Telangana, Nizamabad 503002 India",
+  "addressObj": {
+    "street1": "Arya Nagar Colony, Borgaon",
+    "street2": "Nizamabad, Pangra, Telangana",
+    "city": "Nizamabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "503002"
+  },
+  "localName": "Track And Trail Cycles & Toys",
+  "localAddress": "Arya Nagar Colony, Borgaon, Nizamabad, Pangra, Telangana, 503002",
+  "localLangCode": "en-IN",
+  "email": "trackntrailindia@gmail.com",
+  "latitude": 18.75,
+  "longitude": 78.25,
+  "webUrl": "https://www.tripadvisor.com/Attraction_Review-g2295101-d27819936-Reviews-Track_And_Trail_Cycles_Toys-Nizamabad_Nizamabad_District_Telangana.html",
+  "website": "https://www.trackandtrail.in/",
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295101",
+      "name": "Nizamabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389592",
+      "name": "Nizamabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "booking": null,
+  "offerGroup": null,
+  "subtype": [
+    "Gift & Specialty Shops"
+  ],
+  "reviewTags": [],
+  "photos": [],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Nizamabad,attractions"
+},
+{
+  "id": "28421552",
+  "type": "ATTRACTION",
+  "category": "attraction",
+  "subcategories": [
+    "Fun & Games"
+  ],
+  "name": "Asian Cinemas Usha Prasad Multiplex",
+  "locationString": "Nizamabad, Nizamabad District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 84622 34788",
+  "address": "Shivaji Nagar, Nizamabad 503001 India",
+  "addressObj": {
+    "street1": "Shivaji Nagar",
+    "street2": null,
+    "city": "Nizamabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "503001"
+  },
+  "localName": "Asian Cinemas Usha Prasad Multiplex",
+  "localAddress": "Shivaji Nagar, 503001",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 18.66406,
+  "longitude": 78.09417,
+  "webUrl": "https://www.tripadvisor.com/Attraction_Review-g2295101-d28421552-Reviews-Asian_Cinemas_Usha_Prasad_Multiplex-Nizamabad_Nizamabad_District_Telangana.html",
+  "website": "http://asiancinemas.in/",
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295101",
+      "name": "Nizamabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389592",
+      "name": "Nizamabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "booking": null,
+  "offerGroup": null,
+  "subtype": [
+    "Movie Theaters"
+  ],
+  "reviewTags": [],
+  "photos": [],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Nizamabad,attractions"
+},
+{
+  "id": "3913137",
+  "type": "ATTRACTION",
+  "category": "attraction",
+  "subcategories": [
+    "Nature & Parks"
+  ],
+  "name": "Pocharam Wildlife Sanctuary",
+  "locationString": "Nizamabad, Nizamabad District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/06/90/68/71/pocharam-wildlife-sanctuary.jpg",
+  "photoCount": 24,
+  "rankingPosition": 8,
+  "rating": 3.5,
+  "rawRanking": 2.737837791442871,
+  "phone": null,
+  "address": "Pocharam Lake, Nizamabad India",
+  "addressObj": {
+    "street1": "Pocharam Lake",
+    "street2": null,
+    "city": "Nizamabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": null
+  },
+  "localName": "Pocharam Wildlife Sanctuary",
+  "localAddress": "Pocharam Lake",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": null,
+  "longitude": null,
+  "webUrl": "https://www.tripadvisor.com/Attraction_Review-g2295101-d3913137-Reviews-Pocharam_Wildlife_Sanctuary-Nizamabad_Nizamabad_District_Telangana.html",
+  "website": null,
+  "rankingString": "#8 of 11 things to do in Nizamabad",
+  "rankingDenominator": "11",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295101",
+      "name": "Nizamabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389592",
+      "name": "Nizamabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 1,
+    "count2": 1,
+    "count3": 1,
+    "count4": 3,
+    "count5": 1
+  },
+  "numberOfReviews": 7,
+  "booking": null,
+  "offerGroup": null,
+  "subtype": [
+    "Nature & Wildlife Areas"
+  ],
+  "reviewTags": [
+    {
+      "text": "day trip",
+      "reviews": 3
+    },
+    {
+      "text": "animals",
+      "reviews": 2
+    },
+    {
+      "text": "safari",
+      "reviews": 2
+    },
+    {
+      "text": "spot",
+      "reviews": 2
+    },
+    {
+      "text": "hyderabad",
+      "reviews": 3
+    },
+    {
+      "text": "fort",
+      "reviews": 2
+    },
+    {
+      "text": "road",
+      "reviews": 2
+    }
+  ],
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/06/90/68/71/pocharam-wildlife-sanctuary.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/22/46/98/3a/birds.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/22/46/98/35/deers.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/22/46/98/2e/sambhar.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/22/46/98/24/deers.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/22/46/98/19/birds.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/22/46/98/0a/birds.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/22/46/97/ff/birds.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/22/12/a3/77/animals.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/22/12/a3/74/birds.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/22/12/a3/73/birds.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/22/12/a3/70/birds.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/22/12/a3/6e/birds.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/22/12/a3/6d/animals.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/22/12/a3/6b/animals.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/22/12/a3/69/birds.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/22/12/a3/66/birds.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/22/12/a3/64/birds.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/21/fd/51/d8/monkeys-everywhere.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/21/fd/51/d2/sambar.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/21/fd/51/c5/2-peacocks-strutting.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/21/fd/51/b2/deers-roaming-around.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/21/fd/51/a5/deers.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/21/fd/51/93/kids-enjoying-the-jungle.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Nizamabad,attractions"
+},
+{
+  "id": "3913311",
+  "type": "ATTRACTION",
+  "category": "attraction",
+  "subcategories": [
+    "Sights & Landmarks"
+  ],
+  "name": "Sri Neelakanteshwara Shrine",
+  "locationString": "Nizamabad, Nizamabad District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": 4,
+  "rating": 5,
+  "rawRanking": 2.783787727355957,
+  "phone": null,
+  "address": "Nizamabad Town, Nizamabad India",
+  "addressObj": {
+    "street1": "Nizamabad Town",
+    "street2": null,
+    "city": "Nizamabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": null
+  },
+  "localName": "Sri Neelakanteshwara Shrine",
+  "localAddress": "Nizamabad Town",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 18.66863,
+  "longitude": 78.09335,
+  "webUrl": "https://www.tripadvisor.com/Attraction_Review-g2295101-d3913311-Reviews-Sri_Neelakanteshwara_Shrine-Nizamabad_Nizamabad_District_Telangana.html",
+  "website": null,
+  "rankingString": "#4 of 11 things to do in Nizamabad",
+  "rankingDenominator": "11",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295101",
+      "name": "Nizamabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389592",
+      "name": "Nizamabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 3
+  },
+  "numberOfReviews": 3,
+  "booking": null,
+  "offerGroup": null,
+  "subtype": [
+    "Sacred & Religious Sites"
+  ],
+  "reviewTags": [],
+  "photos": [],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Nizamabad,attractions"
+},
+{
+  "reviewTags": [],
+  "id": "5788298",
+  "type": "ATTRACTION",
+  "category": "attraction",
+  "subcategories": [
+    "Sights & Landmarks"
+  ],
+  "name": "Dichpalli Temple",
+  "locationString": "Nizamabad, Nizamabad District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/07/25/06/5b/dichpalli-temple.jpg",
+  "photoCount": 36,
+  "rankingPosition": 3,
+  "rating": 4.5,
+  "rawRanking": 2.8368024826049805,
+  "phone": null,
+  "address": "Hyderabad-Nizambad Highway, Nizamabad India",
+  "addressObj": {
+    "street1": "Hyderabad-Nizambad Highway",
+    "street2": null,
+    "city": "Nizamabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": null
+  },
+  "localName": "Dichpalli Temple",
+  "localAddress": "Hyderabad-Nizambad Highway",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 18.66245,
+  "longitude": 78.11242,
+  "webUrl": "https://www.tripadvisor.com/Attraction_Review-g2295101-d5788298-Reviews-Dichpalli_Temple-Nizamabad_Nizamabad_District_Telangana.html",
+  "website": null,
+  "rankingString": "#3 of 11 things to do in Nizamabad",
+  "rankingDenominator": "11",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295101",
+      "name": "Nizamabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389592",
+      "name": "Nizamabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 1,
+    "count4": 2,
+    "count5": 5
+  },
+  "numberOfReviews": 8,
+  "booking": null,
+  "offerGroup": null,
+  "subtype": [
+    "Sacred & Religious Sites"
+  ],
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/25/06/5b/dichpalli-temple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/26/ff/ef/1a/this-is-a-very-ancient.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/26/ff/ef/19/this-is-a-very-ancient.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/26/ff/ef/18/this-is-a-very-ancient.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/26/f8/aa/9c/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/26/f8/aa/9b/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/26/f8/aa/9a/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/19/73/16/c3/temple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/19/73/16/a1/temple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/19/73/16/9f/temple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/19/73/16/9a/temple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/19/73/16/57/temple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/19/73/16/2c/temple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/19/73/15/e6/temple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/19/73/15/a4/temple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/19/73/15/8b/temple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/19/73/15/45/temple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/19/73/15/1b/temple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/19/73/14/ce/temple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/13/7a/a5/f0/side-veiw.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/13/7a/a5/ef/side-view.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/13/7a/a5/ec/side-view.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/13/7a/a5/ea/nice-piece-of-architecture.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/13/7a/a5/e8/said-to-be-900-years.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/25/06/51/dichpalli-temple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/25/06/4f/dichpalli-temple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/25/06/47/dichpalli-temple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/25/06/3f/dichpalli-temple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/25/06/3c/dichpalli-temple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/25/06/30/dichpalli-temple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/25/06/2a/dichpalli-temple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/25/06/22/dichpalli-temple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/25/06/1b/dichpalli-temple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/25/05/fe/dichpalli-temple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/25/05/d7/dichpalli-temple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/25/05/c2/dichpalli-temple.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Nizamabad,attractions"
+},
+{
+  "reviewTags": [],
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/22/5b/64/26/birds.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/22/5b/64/8f/birds.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/22/5b/64/7e/birds.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/22/5b/64/68/birds.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/22/5b/64/5b/birds.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/22/5b/64/45/birds.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/22/5b/64/39/birds.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/22/5b/64/32/birds.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/22/5b/64/1a/birds.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/22/5b/64/10/lake.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/22/5b/64/05/birds.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/22/5b/63/fb/birds.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/22/5b/63/f6/birds.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/22/5b/63/f1/birds.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/22/5b/63/e3/birds.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/22/5b/63/df/birds.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/22/5b/63/da/birds.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/22/5b/63/ca/birds.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/22/5b/58/51/lake.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/22/5b/64/9f/birds.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "id": "23922705",
+  "type": "ATTRACTION",
+  "category": "attraction",
+  "subcategories": [
+    "Nature & Parks"
+  ],
+  "name": "Rudrur Lake",
+  "locationString": "Nizamabad, Nizamabad District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/22/5b/64/9f/birds.jpg",
+  "photoCount": 20,
+  "rankingPosition": 7,
+  "rating": 4,
+  "rawRanking": 2.7461049556732178,
+  "phone": null,
+  "address": "Rudrur Bodhan, Nizamabad India",
+  "addressObj": {
+    "street1": "Rudrur",
+    "street2": "Bodhan",
+    "city": "Nizamabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": null
+  },
+  "localName": "Rudrur Lake",
+  "localAddress": "Rudrur, Bodhan",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 18.581734,
+  "longitude": 77.878174,
+  "webUrl": "https://www.tripadvisor.com/Attraction_Review-g2295101-d23922705-Reviews-Rudrur_Lake-Nizamabad_Nizamabad_District_Telangana.html",
+  "website": null,
+  "rankingString": "#7 of 11 things to do in Nizamabad",
+  "rankingDenominator": "11",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295101",
+      "name": "Nizamabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389592",
+      "name": "Nizamabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 1,
+    "count5": 0
+  },
+  "numberOfReviews": 1,
+  "booking": null,
+  "offerGroup": null,
+  "subtype": [
+    "Bodies of Water"
+  ],
+  "input": "Telangana,Nizamabad,attractions"
+},
+{
+  "id": "3477440",
+  "type": "ATTRACTION",
+  "category": "attraction",
+  "subcategories": [
+    "Sights & Landmarks"
+  ],
+  "name": "Quilla Temple",
+  "locationString": "Nizamabad, Nizamabad District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/02/de/e8/e1/quilla-temple.jpg",
+  "photoCount": 22,
+  "rankingPosition": 5,
+  "rating": 4,
+  "rawRanking": 2.7724921703338623,
+  "phone": null,
+  "address": "Nizamabad India",
+  "addressObj": {
+    "street1": null,
+    "street2": null,
+    "city": "Nizamabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": null
+  },
+  "localName": "Quilla Temple",
+  "localAddress": null,
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": null,
+  "longitude": null,
+  "webUrl": "https://www.tripadvisor.com/Attraction_Review-g2295101-d3477440-Reviews-Quilla_Temple-Nizamabad_Nizamabad_District_Telangana.html",
+  "website": null,
+  "rankingString": "#5 of 11 things to do in Nizamabad",
+  "rankingDenominator": "11",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295101",
+      "name": "Nizamabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389592",
+      "name": "Nizamabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 1,
+    "count4": 4,
+    "count5": 1
+  },
+  "numberOfReviews": 6,
+  "booking": null,
+  "offerGroup": null,
+  "subtype": [
+    "Sacred & Religious Sites"
+  ],
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/02/de/e8/e1/quilla-temple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/02/e2/18/99/quilla-temple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/21/66/f6/70/quilla.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/21/66/f6/6e/temple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/21/66/f6/6d/quilla.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/21/66/f6/69/temple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0e/27/72/05/photo6jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0e/27/72/04/photo5jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0e/27/72/03/photo4jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0e/27/72/02/photo3jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0e/27/72/01/photo2jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0e/27/72/00/photo1jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0e/27/71/ff/photo0jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/02/e2/19/0f/quilla-temple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/02/e2/18/fa/quilla-temple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/02/e2/18/de/quilla-temple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/02/e2/18/d7/quilla-temple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/02/e2/18/cb/quilla-temple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/02/e2/18/b7/quilla-temple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/02/e2/18/a4/quilla-temple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/02/de/e8/e3/quilla-temple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/02/de/e8/df/quilla-temple.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "reviewTags": [],
+  "input": "Telangana,Nizamabad,attractions"
+},
+{
+  "reviewTags": [],
+  "id": "7374840",
+  "type": "ATTRACTION",
+  "category": "attraction",
+  "subcategories": [
+    "Sights & Landmarks"
+  ],
+  "name": "Sri Dattashram",
+  "locationString": "Nizamabad, Nizamabad District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/07/32/ba/37/sri-dattashram.jpg",
+  "photoCount": 14,
+  "rankingPosition": 9,
+  "rating": 4,
+  "rawRanking": 2.736119270324707,
+  "phone": null,
+  "address": "Anksapoor, Nizamabad India",
+  "addressObj": {
+    "street1": "Anksapoor",
+    "street2": null,
+    "city": "Nizamabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": null
+  },
+  "localName": "Sri Dattashram",
+  "localAddress": "Anksapoor",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": null,
+  "longitude": null,
+  "webUrl": "https://www.tripadvisor.com/Attraction_Review-g2295101-d7374840-Reviews-Sri_Dattashram-Nizamabad_Nizamabad_District_Telangana.html",
+  "website": "http://www.gurukrupa.org/",
+  "rankingString": "#9 of 11 things to do in Nizamabad",
+  "rankingDenominator": "11",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295101",
+      "name": "Nizamabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389592",
+      "name": "Nizamabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 1,
+    "count5": 0
+  },
+  "numberOfReviews": 1,
+  "booking": null,
+  "offerGroup": null,
+  "subtype": [
+    "Points of Interest & Landmarks"
+  ],
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/32/ba/37/sri-dattashram.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/32/ba/7c/sri-dattashram.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/32/ba/08/sri-dattashram.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/32/b9/f5/sri-dattashram.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/32/b9/c8/sri-dattashram.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/22/ae/fa/b6/govinda-giri-swamy.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/22/ae/fa/1d/gangadarananda-giri-swamy.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/22/ae/f9/b7/gangadarananda-giri-swamy.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/22/ae/f7/71/spatika-lingam-anksapoor.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/32/ba/5a/sri-dattashram.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/32/ba/4e/sri-dattashram.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/32/b9/de/sri-dattashram.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/32/ba/6b/sri-dattashram.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/32/ba/20/sri-dattashram.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Nizamabad,attractions"
+},
+{
+  "id": "13372694",
+  "type": "ATTRACTION",
+  "category": "attraction",
+  "subcategories": [
+    "Sights & Landmarks"
+  ],
+  "name": "Kanteshwar Temple",
+  "locationString": "Nizamabad, Nizamabad District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": 6,
+  "rating": 3.5,
+  "rawRanking": 2.7640180587768555,
+  "phone": null,
+  "address": "Kanteshwar, Nizamabad 503002 India",
+  "addressObj": {
+    "street1": null,
+    "street2": "Kanteshwar",
+    "city": "Nizamabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "503002"
+  },
+  "localName": "Kanteshwar Temple",
+  "localAddress": "Kanteshwar, 503002",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": null,
+  "longitude": null,
+  "webUrl": "https://www.tripadvisor.com/Attraction_Review-g2295101-d13372694-Reviews-Kanteshwar_Temple-Nizamabad_Nizamabad_District_Telangana.html",
+  "website": null,
+  "rankingString": "#6 of 11 things to do in Nizamabad",
+  "rankingDenominator": "11",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295101",
+      "name": "Nizamabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389592",
+      "name": "Nizamabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 1,
+    "count2": 0,
+    "count3": 0,
+    "count4": 3,
+    "count5": 1
+  },
+  "numberOfReviews": 5,
+  "booking": null,
+  "offerGroup": null,
+  "subtype": [
+    "Sacred & Religious Sites",
+    "Points of Interest & Landmarks",
+    "Historic Sites"
+  ],
+  "reviewTags": [],
+  "photos": [],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Nizamabad,attractions"
+}]

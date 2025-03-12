@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Travel Guide</string>
+    <string name="link_seeall">See all</string>
+    	<string name="desc1">The land of the three “lingas” is the 29th and the newest state to be added to the Indian Union of States. Telangana is the 11th largest state of India, with Hyderabad as its capital</string>
+	<string name="desc2">The rich culture and history of the state attract thousands of tourists and travellers every year. Tourist places in Telangana are known for their rich historical importance and diverse culture.</string>
+	<string name="desc3">Home to famous attractions like the Char Minar, Golkonda Fort, Chowmahalla Palace and much more, Telangana is a state famous for its bronze castings, minarets and handicrafts</string>
+    <string name="culture_fest_desc">Telanganas culture blends South Indian and Persian traditions, evolving through the Mughal and Nizam eras and incorporating Telugu culture. The regions artistic talents shine in literature, food, poetry, cinema, festivals, and dances. Festivals like Bathukamma, Bonalu, Ramzan, and Moharram highlight its cultural richness and religious harmony, with Bathukamma celebrating womanhood and Bonalu venerating Goddess Maa Kali. Ramzan and Moharram see active Hindu participation.</string>
+    <string name="craft_desc1">One of Telanganas most exquisite art forms is banjara needlecraft. The inherent creative abilities of people are what give embroidery, needlework, and colour combinations used to create magnificent designs and produce something eye-catching and distinctive their appeal. The Banjara sect, a nomadic society in the states of Andhra Pradesh and Telangana, is the source of this needlecraft art.</string>
+    <string name="craft_desc2">Bidri is a well-known metal craft from India that is produced close to Hyderabad, which is currently in the state of Karnataka. The foundation of this Bidri metal craft is the art of inlaying or outlying designs on metal. Bidri metal craft has been around since the 7th century and was used in the palaces of royal sultans and the mansions of well-known merchants</string>
+    <string name="craft_desc3">One of the oldest still-practicing crafts in Telangana is the Dhokra Metal arts form, which is regarded as the pinnacle of the state handicrafts culture. The Ojha community, which is primarily situated in the Telangana region of Adilabad, has a long history of practising this art form, and hundreds of masterpieces have been created in its honour.</string>
+    <string name="art_desc1">The famous Nirmal oil paintings employ natural dyes to depict themes from epics like the Ramayana and Mahabharata. Additionally, the art of wood paintings and other wooden articles in Nirmal showcases remarkable aesthetic expression. This traditional craft has its roots dating back to the Kakatiya era. The motifs employed in Nirmal craft draw inspiration from floral patterns, frescoes found in the Ajanta and Ellora caves, and Mughal miniature art.</string>
+
+    <string-array name="slides_desc">
+        <item>Historic heart of Hyderabad, featuring rich heritage and vibrant bazaars.</item>
+        <item>One of the worlds largest masonry dams surrounded by serene landscapes.</item>
+        <item>A spiritual haven famed for its connection to Lord Rama.</item>
+        <item>Marvel of the Kakatiya dynasty with intricate carvings.</item>
+        <item>Untouched beauty of cascading waterfalls amidst lush greenery.</item>
+    </string-array>
+</resources>

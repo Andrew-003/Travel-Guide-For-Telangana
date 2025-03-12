@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+     xmlns:android="http://schemas.android.com/apk/res/android"
+     xmlns:app="http://schemas.android.com/apk/res-auto"
+     android:layout_height="wrap_content"
+     android:layout_width="match_parent"
+     android:orientation="vertical">
+
+    <TextView
+         android:layout_height="wrap_content"
+         android:layout_width="wrap_content"
+         android:layout_marginEnd="16dp"
+         android:layout_margin="16dp"
+         android:textSize="20sp"
+         android:textColor="@color/black"
+         android:layout_marginTop="16dp"
+         android:layout_marginStart="16dp"
+         android:id="@+id/topPlacesTitle"
+         android:text="Top 5 Places to visit"
+         android:textStyle="bold"
+         android:layout_gravity="center_horizontal" />
+
+    <RelativeLayout
+         android:layout_height="wrap_content"
+         android:layout_width="match_parent"
+         android:paddingEnd="16dp"
+         android:background="?attr/selectableItemBackground"
+         android:layout_margin="5dp"
+         android:paddingBottom="16dp"
+         android:paddingStart="16dp"
+         android:id="@+id/carditem1"
+         android:paddingTop="16dp">
+
+        <com.google.android.material.imageview.ShapeableImageView
+             android:layout_height="60dp"
+             android:layout_width="60dp"
+             android:scaleType="fitCenter"
+             android:layout_centerVertical="true"
+             app:shapeAppearanceOverlay="@style/ShapeableImageView_ALLRoundedCorners"
+             android:layout_alignParentStart="true"
+             android:id="@+id/place_image1" />
+
+        <TextView
+             android:layout_height="wrap_content"
+             android:layout_width="wrap_content"
+             android:layout_toEndOf="@id/place_image1"
+             android:textSize="18sp"
+             android:fontFamily="@font/nunito_sans_extrabold"
+             android:textColor="@color/black"
+             android:layout_marginStart="16dp"
+             android:layout_alignTop="@id/place_image1"
+             android:id="@+id/place_name1"
+             android:text="Agra" />
+
+        <TextView
+             android:layout_height="wrap_content"
+             android:layout_width="wrap_content"
+             android:layout_toEndOf="@id/place_image1"
+             android:layout_below="@id/place_name1"
+             android:textSize="16sp"
+             android:fontFamily="@font/nunito_sans_bold"
+             android:textColor="#CC000000"
+             android:layout_marginTop="4dp"
+             android:layout_marginStart="16dp"
+             android:id="@+id/place_rating1"
+             android:text="Rating: 4.5" />
+
+        <androidx.cardview.widget.CardView
+             android:layout_height="44dp"
+             android:layout_width="44dp"
+             android:layout_centerVertical="true"
+             android:layout_alignParentEnd="true"
+             app:cardBackgroundColor="#1A000000"
+             app:cardCornerRadius="16dp"
+             android:id="@+id/card_arrow1">
+
+            <ImageView
+                 android:layout_height="28dp"
+                 android:layout_width="28dp"
+                 android:layout_gravity="center" />
+
+        </androidx.cardview.widget.CardView>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+         android:layout_height="wrap_content"
+         android:layout_width="match_parent"
+         android:paddingEnd="16dp"
+         android:background="?attr/selectableItemBackground"
+         android:layout_margin="5dp"
+         android:paddingBottom="16dp"
+         android:paddingStart="16dp"
+         android:id="@+id/carditem2"
+         android:paddingTop="16dp">
+
+        <com.google.android.material.imageview.ShapeableImageView
+             android:layout_height="60dp"
+             android:layout_width="60dp"
+             android:scaleType="centerCrop"
+             android:layout_centerVertical="true"
+             app:shapeAppearanceOverlay="@style/ShapeableImageView_ALLRoundedCorners"
+             android:layout_alignParentStart="true"
+             android:id="@+id/place_image2" />
+
+        <TextView
+             android:layout_height="wrap_content"
+             android:layout_width="wrap_content"
+             android:layout_toEndOf="@id/place_image2"
+             android:textSize="18sp"
+             android:fontFamily="@font/nunito_sans_extrabold"
+             android:textColor="@color/black"
+             android:layout_marginStart="16dp"
+             android:layout_alignTop="@id/place_image2"
+             android:id="@+id/place_name2"
+             android:text="Delhi" />
+
+        <TextView
+             android:layout_height="wrap_content"
+             android:layout_width="wrap_content"
+             android:layout_toEndOf="@id/place_image2"
+             android:layout_below="@id/place_name2"
+             android:textSize="16sp"
+             android:fontFamily="@font/nunito_sans_bold"
+             android:textColor="#CC000000"
+             android:layout_marginTop="4dp"
+             android:layout_marginStart="16dp"
+             android:id="@+id/place_rating2"
+             android:text="Rating: 4.7" />
+
+        <androidx.cardview.widget.CardView
+             android:layout_height="44dp"
+             android:layout_width="44dp"
+             android:layout_centerVertical="true"
+             android:layout_alignParentEnd="true"
+             app:cardBackgroundColor="#1A000000"
+             app:cardCornerRadius="16dp"
+             android:id="@+id/card_arrow2">
+
+            <ImageView
+                 android:layout_height="28dp"
+                 android:layout_width="28dp"
+                 android:layout_gravity="center" />
+
+        </androidx.cardview.widget.CardView>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+         android:layout_height="wrap_content"
+         android:layout_width="match_parent"
+         android:paddingEnd="16dp"
+         android:background="?attr/selectableItemBackground"
+         android:layout_margin="5dp"
+         android:paddingBottom="16dp"
+         android:paddingStart="16dp"
+         android:id="@+id/carditem3"
+         android:paddingTop="16dp">
+
+        <com.google.android.material.imageview.ShapeableImageView
+             android:layout_height="60dp"
+             android:layout_width="60dp"
+             android:scaleType="centerCrop"
+             android:layout_centerVertical="true"
+             app:shapeAppearanceOverlay="@style/ShapeableImageView_ALLRoundedCorners"
+             android:layout_alignParentStart="true"
+             android:id="@+id/place_image3" />
+
+        <TextView
+             android:layout_height="wrap_content"
+             android:layout_width="wrap_content"
+             android:layout_toEndOf="@id/place_image3"
+             android:textSize="18sp"
+             android:fontFamily="@font/nunito_sans_extrabold"
+             android:textColor="@color/black"
+             android:layout_marginStart="16dp"
+             android:layout_alignTop="@id/place_image3"
+             android:id="@+id/place_name3"
+             android:text="Mumbai" />
+
+        <TextView
+             android:layout_height="wrap_content"
+             android:layout_width="wrap_content"
+             android:layout_toEndOf="@id/place_image3"
+             android:layout_below="@id/place_name3"
+             android:textSize="16sp"
+             android:fontFamily="@font/nunito_sans_bold"
+             android:textColor="#CC000000"
+             android:layout_marginTop="4dp"
+             android:layout_marginStart="16dp"
+             android:id="@+id/place_rating3"
+             android:text="Rating: 4.6" />
+
+        <androidx.cardview.widget.CardView
+             android:layout_height="44dp"
+             android:layout_width="44dp"
+             android:layout_centerVertical="true"
+             android:layout_alignParentEnd="true"
+             app:cardBackgroundColor="#1A000000"
+             app:cardCornerRadius="16dp"
+             android:id="@+id/card_arrow3">
+
+            <ImageView
+                 android:layout_height="28dp"
+                 android:layout_width="28dp"
+                 android:layout_gravity="center" />
+
+        </androidx.cardview.widget.CardView>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+         android:layout_height="wrap_content"
+         android:layout_width="match_parent"
+         android:paddingEnd="16dp"
+         android:background="?attr/selectableItemBackground"
+         android:layout_margin="5dp"
+         android:paddingBottom="16dp"
+         android:paddingStart="16dp"
+         android:id="@+id/carditem4"
+         android:paddingTop="16dp">
+
+        <com.google.android.material.imageview.ShapeableImageView
+             android:layout_height="60dp"
+             android:layout_width="60dp"
+             android:scaleType="centerCrop"
+             android:layout_centerVertical="true"
+             app:shapeAppearanceOverlay="@style/ShapeableImageView_ALLRoundedCorners"
+             android:layout_alignParentStart="true"
+             android:id="@+id/place_image4" />
+
+        <TextView
+             android:layout_height="wrap_content"
+             android:layout_width="wrap_content"
+             android:layout_toEndOf="@id/place_image4"
+             android:textSize="18sp"
+             android:fontFamily="@font/nunito_sans_extrabold"
+             android:textColor="@color/black"
+             android:layout_marginStart="16dp"
+             android:layout_alignTop="@id/place_image4"
+             android:id="@+id/place_name4"
+             android:text="Kolkata" />
+
+        <TextView
+             android:layout_height="wrap_content"
+             android:layout_width="wrap_content"
+             android:layout_toEndOf="@id/place_image4"
+             android:layout_below="@id/place_name4"
+             android:textSize="16sp"
+             android:fontFamily="@font/nunito_sans_bold"
+             android:textColor="#CC000000"
+             android:layout_marginTop="4dp"
+             android:layout_marginStart="16dp"
+             android:id="@+id/place_rating4"
+             android:text="Rating: 4.3" />
+
+        <androidx.cardview.widget.CardView
+             android:layout_height="44dp"
+             android:layout_width="44dp"
+             android:layout_centerVertical="true"
+             android:layout_alignParentEnd="true"
+             app:cardBackgroundColor="#1A000000"
+             app:cardCornerRadius="16dp"
+             android:id="@+id/card_arrow4">
+
+            <ImageView
+                 android:layout_height="28dp"
+                 android:layout_width="28dp"
+                 android:layout_gravity="center" />
+
+        </androidx.cardview.widget.CardView>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+         android:layout_height="wrap_content"
+         android:layout_width="match_parent"
+         android:paddingEnd="16dp"
+         android:background="?attr/selectableItemBackground"
+         android:layout_margin="5dp"
+         android:paddingBottom="16dp"
+         android:paddingStart="16dp"
+         android:id="@+id/carditem5"
+         android:paddingTop="16dp">
+
+        <com.google.android.material.imageview.ShapeableImageView
+             android:layout_height="60dp"
+             android:layout_width="60dp"
+             android:scaleType="centerCrop"
+             android:layout_centerVertical="true"
+             app:shapeAppearanceOverlay="@style/ShapeableImageView_ALLRoundedCorners"
+             android:layout_alignParentStart="true"
+             android:id="@+id/place_image5" />
+
+        <TextView
+             android:layout_height="wrap_content"
+             android:layout_width="wrap_content"
+             android:layout_toEndOf="@id/place_image5"
+             android:textSize="18sp"
+             android:fontFamily="@font/nunito_sans_extrabold"
+             android:textColor="@color/black"
+             android:layout_marginStart="16dp"
+             android:layout_alignTop="@id/place_image5"
+             android:id="@+id/place_name5"
+             android:text="Bengaluru" />
+
+        <TextView
+             android:layout_height="wrap_content"
+             android:layout_width="wrap_content"
+             android:layout_toEndOf="@id/place_image5"
+             android:layout_below="@id/place_name5"
+             android:textSize="16sp"
+             android:fontFamily="@font/nunito_sans_bold"
+             android:textColor="#CC000000"
+             android:layout_marginTop="4dp"
+             android:layout_marginStart="16dp"
+             android:id="@+id/place_rating5"
+             android:text="Rating: 4.8" />
+
+        <androidx.cardview.widget.CardView
+             android:layout_height="44dp"
+             android:layout_width="44dp"
+             android:layout_centerVertical="true"
+             android:layout_alignParentEnd="true"
+             app:cardBackgroundColor="#1A000000"
+             app:cardCornerRadius="16dp"
+             android:id="@+id/card_arrow5">
+
+            <ImageView
+                 android:layout_height="28dp"
+                 android:layout_width="28dp"
+                 android:layout_gravity="center" />
+
+        </androidx.cardview.widget.CardView>
+
+    </RelativeLayout>
+
+</LinearLayout>

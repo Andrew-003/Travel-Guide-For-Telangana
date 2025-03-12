@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Permissions for internet access and network state monitoring -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+<uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <application 
+        android:allowBackup="true" 
+        android:icon="@drawable/ic_app_logo"
+        android:roundIcon="@drawable/ic_app_logo"
+        android:label="@string/app_name" 
+        android:supportsRtl="true" 
+        android:theme="@style/AppTheme">
+
+        <!-- SplashActivity as the launcher activity -->
+        <activity 
+            android:name=".SplashActivity" 
+            android:theme="@style/SplashTheme"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+       
+        <activity 
+            android:name=".MainActivity"
+            android:exported="false">
+        </activity>
+
+        
+        <activity 
+            android:name=".DistrictListActivity"
+            android:label="District List"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:parentActivityName=".MainActivity"
+            android:exported="true">
+        </activity>
+
+        
+        <activity 
+            android:name=".DistrictDetailsActivity"
+            android:label="District Details">
+        </activity>
+        <activity 
+            android:name=".AttractionsList"
+            android:label="All Tourist Places">
+        </activity>
+       <activity 
+            android:name=".AttractionDetails"
+            android:label="Attraction Details">
+        </activity>
+         <activity 
+            android:name=".HotelsList"
+            android:label="All Hotels">
+        </activity>
+       <activity 
+            android:name=".HotelDetails"
+            android:label="Hotel Details">
+        </activity>
+         <activity 
+            android:name=".RestaurantsList"
+            android:label="All Restaurants">
+        </activity>
+      <activity 
+            android:name=".RestaurantDetails"
+            android:label="Restaurant Details">
+        </activity>
+       <activity 
+            android:name=".ImageActivity"
+            android:label="All Images">
+        </activity>
+    </application>
+</manifest>

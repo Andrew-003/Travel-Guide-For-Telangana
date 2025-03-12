@@ -1,0 +1,3982 @@
+[{
+  "searchString": "hotels",
+  "rank": 26,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@16.416848956621344,78.08742174622559,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "Ganesh Hotel",
+  "subTitle": "గణేష్ హోటల్",
+  "description": null,
+  "price": null,
+  "categoryName": "Vegetarian restaurant",
+  "address": "Shopno12 Mainroad Yemikunta, Wanaparthy, Telangana 509103, India",
+  "neighborhood": null,
+  "street": "Shopno12 Mainroad Yemikunta",
+  "city": "Wanaparthy",
+  "postalCode": "509103",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": "+91 91334 41673",
+  "phoneUnformatted": "+919133441673",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 16.413207,
+    "lng": 78.0921815
+  },
+  "locatedIn": null,
+  "plusCode": "C37R+7V Wanaparthy, Telangana, India",
+  "menu": null,
+  "totalScore": null,
+  "permanentlyClosed": false,
+  "temporarilyClosed": true,
+  "placeId": "ChIJ9xqv290byjsR--lpoToc4pg",
+  "categories": [
+    "Vegetarian restaurant"
+  ],
+  "fid": "0x3bca1bdddbaf1af7:0x98e21c3aa169e9fb",
+  "cid": "11016398676643408379",
+  "reviewsCount": 0,
+  "reviewsDistribution": null,
+  "imagesCount": 1,
+  "imageCategories": [
+    "All",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T08:27:19.676Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "విఘ్నేష్ చాట్ బండార్",
+      "reviewsCount": 0,
+      "totalScore": 0
+    },
+    {
+      "category": "People also search for",
+      "title": "nagamma hotel",
+      "reviewsCount": 56,
+      "totalScore": 3.7
+    },
+    {
+      "category": "People also search for",
+      "title": "Manju Hotel Wanaparthy",
+      "reviewsCount": 60,
+      "totalScore": 3.6
+    },
+    {
+      "category": "People also search for",
+      "title": "Swagath Restaurant",
+      "reviewsCount": 1610,
+      "totalScore": 3.8
+    }
+  ],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Service options": [
+      {
+        "Takeout": true
+      },
+      {
+        "Dine-in": true
+      }
+    ],
+    "Offerings": [
+      {
+        "Small plates": true
+      },
+      {
+        "Vegetarian options": true
+      },
+      {
+        "Vegetarian options only": true
+      }
+    ],
+    "Atmosphere": [
+      {
+        "Casual": true
+      }
+    ],
+    "Children": [
+      {
+        "Good for kids": true
+      }
+    ],
+    "Parking": [
+      {
+        "Free street parking": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=Ganesh%20Hotel&query_place_id=ChIJ9xqv290byjsR--lpoToc4pg",
+  "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=NV4vonE4Hv1fJ3IbBSL6Yg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=119.58323&pitch=0&thumbfov=100",
+  "kgmid": "/g/11rn7q0lwj",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=NV4vonE4Hv1fJ3IbBSL6Yg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=119.58323&pitch=0&thumbfov=100"
+    }
+  ],
+  "imageUrls": [
+    "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=NV4vonE4Hv1fJ3IbBSL6Yg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=119.58323&pitch=0&thumbfov=100"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 25,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@16.416848956621344,78.08742174622559,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "Naresh Welding Works",
+  "subTitle": null,
+  "description": null,
+  "price": null,
+  "categoryName": "Welder",
+  "address": "1-53/3, near Sai Hotel, Balijapalle, Telangana 509103, India",
+  "neighborhood": null,
+  "street": "1-53/3, near Sai Hotel",
+  "city": "Balijapalle",
+  "postalCode": "509103",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": null,
+  "phoneUnformatted": null,
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 16.4471686,
+    "lng": 78.0952496
+  },
+  "locatedIn": null,
+  "plusCode": "C3WW+V3 Balijapalle, Telangana, India",
+  "menu": null,
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJxUysZgAbyjsRdHJSFZkMxr4",
+  "categories": [
+    "Welder"
+  ],
+  "fid": "0x3bca1b0066ac4cc5:0xbec60c9915527274",
+  "cid": "13746688764222272116",
+  "reviewsCount": 1,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 1
+  },
+  "imagesCount": 1,
+  "imageCategories": [
+    "All",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T08:27:24.034Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {},
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=Naresh%20Welding%20Works&query_place_id=ChIJxUysZgAbyjsRdHJSFZkMxr4",
+  "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=pf65qQug8VsxkuHC5QrA6w&cb_client=search.gws-prod.gps&w=408&h=240&yaw=264.20972&pitch=0&thumbfov=100",
+  "kgmid": "/g/11wjpj3mfz",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=pf65qQug8VsxkuHC5QrA6w&cb_client=search.gws-prod.gps&w=408&h=240&yaw=264.20972&pitch=0&thumbfov=100"
+    }
+  ],
+  "imageUrls": [
+    "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=pf65qQug8VsxkuHC5QrA6w&cb_client=search.gws-prod.gps&w=408&h=240&yaw=264.20972&pitch=0&thumbfov=100"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 24,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@16.416848956621344,78.08742174622559,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "ప్రతాబ్ hotel",
+  "subTitle": null,
+  "description": null,
+  "price": null,
+  "categoryName": "Butcher shop",
+  "address": "93VF+8P, Chityala, Telangana 509103, India",
+  "neighborhood": null,
+  "street": "93VF+8P",
+  "city": "Chityala",
+  "postalCode": "509103",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": null,
+  "phoneUnformatted": null,
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 16.3932607,
+    "lng": 78.0744209
+  },
+  "locatedIn": null,
+  "plusCode": null,
+  "menu": null,
+  "totalScore": null,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJweTYSAAbyjsR0BY2CcCscyE",
+  "categories": [
+    "Butcher shop"
+  ],
+  "fid": "0x3bca1b0048d8e4c1:0x2173acc0093616d0",
+  "cid": "2410460166361585360",
+  "reviewsCount": 0,
+  "reviewsDistribution": null,
+  "imagesCount": 1,
+  "imageCategories": [
+    "All",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T08:27:24.633Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {},
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=%E0%B0%AA%E0%B1%8D%E0%B0%B0%E0%B0%A4%E0%B0%BE%E0%B0%AC%E0%B1%8D%20hotel&query_place_id=ChIJweTYSAAbyjsR0BY2CcCscyE",
+  "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=o1T6LTupaiMc14GrCVV3yQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=37.958694&pitch=0&thumbfov=100",
+  "kgmid": "/g/11lf2ktwcz",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=o1T6LTupaiMc14GrCVV3yQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=37.958694&pitch=0&thumbfov=100"
+    }
+  ],
+  "imageUrls": [
+    "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=o1T6LTupaiMc14GrCVV3yQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=37.958694&pitch=0&thumbfov=100"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 23,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@16.416848956621344,78.08742174622559,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "KOMMU RAMU HOTEL Emkunta",
+  "subTitle": "కొమ్ము RAMU హోటల్ ఏమ్కుంట",
+  "description": null,
+  "price": null,
+  "categoryName": "Restaurant",
+  "address": "C37R+HRJ, Chityala, Chimanguntapalle, Telangana 509103, India",
+  "neighborhood": null,
+  "street": "C37R+HRJ",
+  "city": "Chityala, Chimanguntapalle",
+  "postalCode": null,
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": null,
+  "phoneUnformatted": null,
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 16.4139611,
+    "lng": 78.0920257
+  },
+  "locatedIn": null,
+  "plusCode": null,
+  "menu": null,
+  "totalScore": 4.6,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJrQ4_434byjsRZgIG03njEYY",
+  "categories": [
+    "Restaurant"
+  ],
+  "fid": "0x3bca1b7ee33f0ead:0x8611e379d3060266",
+  "cid": "9660752788057358950",
+  "reviewsCount": 5,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 1,
+    "fourStar": 0,
+    "fiveStar": 4
+  },
+  "imagesCount": 4,
+  "imageCategories": [
+    "All",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T08:27:30.986Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Sri Ram Hotel",
+      "reviewsCount": 9,
+      "totalScore": 3.9
+    },
+    {
+      "category": "People also search for",
+      "title": "Lankal Hotel Ramu",
+      "reviewsCount": 19,
+      "totalScore": 4.3
+    },
+    {
+      "category": "People also search for",
+      "title": "Ramudu Hotel",
+      "reviewsCount": 35,
+      "totalScore": 4
+    },
+    {
+      "category": "People also search for",
+      "title": "Ramulu Hotel",
+      "reviewsCount": 1,
+      "totalScore": 5
+    },
+    {
+      "category": "People also search for",
+      "title": "Ramesh Hotel",
+      "reviewsCount": 3,
+      "totalScore": 4
+    }
+  ],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Service options": [
+      {
+        "Takeout": true
+      },
+      {
+        "Dine-in": true
+      }
+    ],
+    "Offerings": [
+      {
+        "Small plates": true
+      }
+    ],
+    "Dining options": [
+      {
+        "Lunch": true
+      },
+      {
+        "Dinner": true
+      }
+    ],
+    "Atmosphere": [
+      {
+        "Casual": true
+      }
+    ],
+    "Crowd": [
+      {
+        "Groups": true
+      }
+    ],
+    "Children": [
+      {
+        "Good for kids": true
+      }
+    ],
+    "Parking": [
+      {
+        "Free street parking": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=KOMMU%20RAMU%20HOTEL%20Emkunta&query_place_id=ChIJrQ4_434byjsRZgIG03njEYY",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOQwKiHLK4oOhAjS7Z9K2BQP1EPR9dgXjynY9bh=w408-h306-k-no",
+  "kgmid": "/g/11h6s1gyq3",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOQwKiHLK4oOhAjS7Z9K2BQP1EPR9dgXjynY9bh=w1920-h1080-k-no",
+      "authorName": "Rajesh Gorla Rajesh Gorla",
+      "authorUrl": "https://maps.google.com/maps/contrib/113740884019168098618",
+      "uploadedAt": "2019-04-18T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipOQwKiHLK4oOhAjS7Z9K2BQP1EPR9dgXjynY9bh=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 22,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@16.416848956621344,78.08742174622559,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "Shiva Sai hotel",
+  "subTitle": null,
+  "description": null,
+  "price": null,
+  "categoryName": "Soup kitchen",
+  "address": "Wanaparthy, Telangana 509103, India",
+  "neighborhood": null,
+  "street": null,
+  "city": "Wanaparthy",
+  "postalCode": "509103",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": null,
+  "phoneUnformatted": null,
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 16.4018234,
+    "lng": 78.0849231
+  },
+  "locatedIn": null,
+  "plusCode": "C32M+PX Wanaparthy, Telangana, India",
+  "menu": null,
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJwfJ2DQAbyjsRkeyKMX0bsSQ",
+  "categories": [
+    "Soup kitchen"
+  ],
+  "fid": "0x3bca1b000d76f2c1:0x24b11b7d318aec91",
+  "cid": "2643924680759241873",
+  "reviewsCount": 5,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 5
+  },
+  "imagesCount": 5,
+  "imageCategories": [
+    "All",
+    "Exterior",
+    "Videos",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T08:27:32.991Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "6 AM to 5 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "6 AM to 5 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "6 AM to 5 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "6 AM to 5 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "6 AM to 5 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "6 AM to 5 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Closed"
+    }
+  ],
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Shiva Sai Hotel",
+      "reviewsCount": 1,
+      "totalScore": 2
+    },
+    {
+      "category": "People also search for",
+      "title": "Shiva Hotel Tiffins",
+      "reviewsCount": 1,
+      "totalScore": 5
+    },
+    {
+      "category": "People also search for",
+      "title": "Sri Vare Hotel",
+      "reviewsCount": 19,
+      "totalScore": 4.7
+    },
+    {
+      "category": "People also search for",
+      "title": "SRI SAI RAGHAVENDRA HOTEL",
+      "reviewsCount": 0,
+      "totalScore": 0
+    }
+  ],
+  "placesTags": [],
+  "reviewsTags": [
+    {
+      "title": "biryani",
+      "count": 2
+    }
+  ],
+  "additionalInfo": {},
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=Shiva%20Sai%20hotel&query_place_id=ChIJwfJ2DQAbyjsRkeyKMX0bsSQ",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOBHUxd7VXZx8-Rq44MyvFVCjS201A50bM7t13N=w425-h240-k-no",
+  "kgmid": "/g/11lcgvyxp7",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOBHUxd7VXZx8-Rq44MyvFVCjS201A50bM7t13N=w1920-h1080-k-no",
+      "authorName": "vinod kumar",
+      "authorUrl": "https://maps.google.com/maps/contrib/115319253922570208936",
+      "uploadedAt": "2023-12-03T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipOBHUxd7VXZx8-Rq44MyvFVCjS201A50bM7t13N=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 21,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@16.416848956621344,78.08742174622559,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "Padmavathi Gardens",
+  "subTitle": "పద్మావతి గార్డెన్స్",
+  "description": null,
+  "price": null,
+  "categoryName": "Function room facility",
+  "address": "Gopalpet Rd, Gopalpet, Gopalapeta, Telangana 509206, India",
+  "neighborhood": null,
+  "street": "Gopalpet Rd",
+  "city": "Gopalpet, Gopalapeta",
+  "postalCode": "509206",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": "+91 94404 54416",
+  "phoneUnformatted": "+919440454416",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 16.3889483,
+    "lng": 78.1370342
+  },
+  "locatedIn": null,
+  "plusCode": "94QP+HR Gopalapeta, Telangana, India",
+  "menu": null,
+  "totalScore": 4.3,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJQYLX86ARyjsRcic6wtApnK8",
+  "categories": [
+    "Function room facility"
+  ],
+  "fid": "0x3bca11a0f3d78241:0xaf9c29d0c23a2772",
+  "cid": "12654035029592778610",
+  "reviewsCount": 111,
+  "reviewsDistribution": {
+    "oneStar": 6,
+    "twoStar": 3,
+    "threeStar": 9,
+    "fourStar": 29,
+    "fiveStar": 64
+  },
+  "imagesCount": 65,
+  "imageCategories": [
+    "All",
+    "By owner",
+    "Videos",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T08:27:37.199Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "9 AM to 5 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "9 AM to 5 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "9 AM to 5 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "9 AM to 5 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "9 AM to 5 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "9 AM to 5 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "9 AM to 5 PM"
+    }
+  ],
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Padmamma Narayana Gardens",
+      "reviewsCount": 0,
+      "totalScore": 0
+    },
+    {
+      "category": "People also search for",
+      "title": "Padmavathi Srinivasa Kalyana Mandapam",
+      "reviewsCount": 189,
+      "totalScore": 4.2
+    },
+    {
+      "category": "People also search for",
+      "title": "DANWADA PEDDA MANYAM GARDEN",
+      "reviewsCount": 1,
+      "totalScore": 5
+    },
+    {
+      "category": "People also search for",
+      "title": "పోతర్ల గుట్ట",
+      "reviewsCount": 0,
+      "totalScore": 0
+    },
+    {
+      "category": "People also search for",
+      "title": "Peddamamdaddi Fields",
+      "reviewsCount": 1,
+      "totalScore": 5
+    }
+  ],
+  "placesTags": [],
+  "reviewsTags": [
+    {
+      "title": "wedding",
+      "count": 2
+    },
+    {
+      "title": "share",
+      "count": 2
+    }
+  ],
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      }
+    ],
+    "Children": [
+      {
+        "Good for kids birthday": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=Padmavathi%20Gardens&query_place_id=ChIJQYLX86ARyjsRcic6wtApnK8",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPkqpZSPsJQngFSrSzvkOlE3Rl14cEwsIH0alyP=w436-h240-k-no",
+  "kgmid": "/g/11j4ykccc_",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPkqpZSPsJQngFSrSzvkOlE3Rl14cEwsIH0alyP=w1920-h1080-k-no",
+      "authorName": "Padmavathi Gardens",
+      "authorUrl": "https://maps.google.com/maps/contrib/109556050919797599853",
+      "uploadedAt": "2021-08-18T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipPkqpZSPsJQngFSrSzvkOlE3Rl14cEwsIH0alyP=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 3,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@16.416848956621344,78.08742174622559,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "Maheswari Lodge",
+  "subTitle": "మహేశ్వరి లాడ్జ్",
+  "description": null,
+  "price": null,
+  "categoryName": "Lodge",
+  "address": "Kothakota, Telangana 509381, India",
+  "neighborhood": null,
+  "street": null,
+  "city": "Kothakota",
+  "postalCode": "509381",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": null,
+  "phoneUnformatted": null,
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 16.3807419,
+    "lng": 77.9410746
+  },
+  "locatedIn": null,
+  "plusCode": "9WJR+7C Kothakota, Telangana, India",
+  "menu": null,
+  "totalScore": 3.4,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJcdLRbU4dyjsRDmDXmIs4mfA",
+  "categories": [
+    "Lodge"
+  ],
+  "fid": "0x3bca1d4e6dd1d271:0xf099388b98d7600e",
+  "cid": "17336950412755296270",
+  "reviewsCount": 56,
+  "reviewsDistribution": {
+    "oneStar": 8,
+    "twoStar": 6,
+    "threeStar": 13,
+    "fourStar": 12,
+    "fiveStar": 17
+  },
+  "imagesCount": 4,
+  "imageCategories": [
+    "All",
+    "Exterior",
+    "Videos",
+    "From visitors",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T08:27:41.935Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": "2024-11-04",
+  "checkOutDate": "2024-11-05",
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {},
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=Maheswari%20Lodge&query_place_id=ChIJcdLRbU4dyjsRDmDXmIs4mfA",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOTKkutD-do_rWrQHzIYJgvfqJsB-yCdOC5VCRw=w408-h907-k-no",
+  "kgmid": "/g/11b7qr3qf5",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOTKkutD-do_rWrQHzIYJgvfqJsB-yCdOC5VCRw=w1920-h1080-k-no",
+      "authorName": "Onkar Bidre",
+      "authorUrl": "https://maps.google.com/maps/contrib/113085985751337636957",
+      "uploadedAt": "2022-03-31T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipOTKkutD-do_rWrQHzIYJgvfqJsB-yCdOC5VCRw=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 2,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@16.416848956621344,78.08742174622559,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "RK RESIDENCY-Lodge/Hotel/Stays(AC & NON-AC ROOM'S)",
+  "subTitle": "RK రెసిడెన్సీ-లాడ్జ్ / హోటల్ / స్తయ్స్",
+  "description": null,
+  "price": "$21",
+  "categoryName": "Hotel",
+  "address": "Kothakota, Telangana 509381, India",
+  "neighborhood": null,
+  "street": null,
+  "city": "Kothakota",
+  "postalCode": "509381",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": "https://rk-residency.odoo.com/",
+  "phone": "+91 93460 71804",
+  "phoneUnformatted": "+919346071804",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 16.3779331,
+    "lng": 77.9415279
+  },
+  "locatedIn": null,
+  "plusCode": "9WHR+5J Kothakota, Telangana, India",
+  "menu": null,
+  "totalScore": 4.6,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJp3I4BAAdyjsR8c8vqSkGXtc",
+  "categories": [
+    "Hotel"
+  ],
+  "fid": "0x3bca1d00043872a7:0xd75e0629a92fcff1",
+  "cid": "15518848141967216625",
+  "reviewsCount": 32,
+  "reviewsDistribution": {
+    "oneStar": 1,
+    "twoStar": 0,
+    "threeStar": 2,
+    "fourStar": 4,
+    "fiveStar": 25
+  },
+  "imagesCount": 74,
+  "imageCategories": [
+    "All",
+    "Latest",
+    "Videos",
+    "Rooms",
+    "Exterior",
+    "From visitors",
+    "By owner",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T08:27:44.650Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": "2024-12-21",
+  "checkOutDate": "2024-12-22",
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [
+    {
+      "title": "Booking.com",
+      "googleUrl": "http://www.google.com/travel/clk?pc=AA80Osxqtkh9dVQUnRKduDyWnbRYiHU5w7P5ioU7Cf868cOH4ds-wTitv_jB0D6isImvCoa8yuHYiFwpAzfJ_tyvtNeOtC9g-KG2KTTzhBAZ5t-d90m3N6MgNxev93FkcWg3yPir3tG3VFTGog&pcurl=https://www.booking.com/hotel/in/rk-residency-kothakota.html?checkin%3D2024-12-21%26checkout%3D2024-12-22%26group_adults%3D2%26req_adults%3D2%26show_room%3D1160218103_397239690_0_0_0%26lang%3Den%26selected_currency%3DUSD%26exrt%3D0.01188582%26ext_price_total%3D23.96%26ext_price_tax%3D2.57%26xfc%3DINR%26hca%3Dm%26group_children%3D0%26req_children%3D0%26%26no_rooms%3D1%26ts%3D1729784413%26edgtid%3DVuQm1UWPR_6MFojzz_dcqQ%26efpc%3DGACwCiAWsAoT%26utm_source%3Dmetagha%26utm_medium%3Dmapresults%26utm_campaign%3DUS%26utm_term%3Dhotel-11602181%26utm_content%3Ddev-desktop_los-1_bw-49_dow-Saturday_defdate-1_room-0_gstadt-2_rateid-public_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-0_checkin-20241221_ppt-%26aid%3D2127489%26label%3Dmetagha-link-MRUS-hotel-11602181_dev-desktop_los-1_bw-49_dow-Saturday_defdate-1_room-0_gstadt-2_rateid-public_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-0_checkin-20241221_ppt-",
+      "isOfficialSite": false,
+      "price": "$24",
+      "url": "https://www.booking.com/hotel/in/rk-residency-kothakota.html?checkin=2024-12-21&checkout=2024-12-22&group_adults=2&req_adults=2&show_room=1160218103_397239690_0_0_0&lang=en&selected_currency=USD&exrt=0.01188582&ext_price_total=23.96&ext_price_tax=2.57&xfc=INR&hca=m&group_children=0&req_children=0&&no_rooms=1&ts=1729784413&edgtid=VuQm1UWPR_6MFojzz_dcqQ&efpc=GACwCiAWsAoT&utm_source=metagha&utm_medium=mapresults&utm_campaign=US&utm_term=hotel-11602181&utm_content=dev-desktop_los-1_bw-49_dow-Saturday_defdate-1_room-0_gstadt-2_rateid-public_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-0_checkin-20241221_ppt-&aid=2127489&label=metagha-link-MRUS-hotel-11602181_dev-desktop_los-1_bw-49_dow-Saturday_defdate-1_room-0_gstadt-2_rateid-public_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-0_checkin-20241221_ppt-"
+    },
+    {
+      "title": "Agoda",
+      "googleUrl": "http://www.google.com/travel/clk?pc=AA80OszfryxdpmLj9i5uJuZWYC1xdrcImO6hsicWiJV7QbJDn8O4XQ7cThFWm0ZcjtAkeONNZnlitZHQEVjUPYmhSN-3jE43LfoWlH-bqCyHreXYwc6IEEqDX15ihSya4MTxdcS-dw&pcurl=https://www.agoda.com/partners/partnersearch.aspx?site_id%3D1917614%26CkInDay%3D21%26CkInMonth%3D12%26CkInYear%3D2024%26CkOutDay%3D22%26campaignid%3D%26CkOutMonth%3D12%26CkOutYear%3D2024%26SearchDateType%3Ddefault%26NumberOfAdults%3D2%26LT%3D49%26NumberOfChildren%3D0%26childages%3D%26NumberOfRooms%3D1%26gsite%3Dmapresults%26los%3D1%26PartnerCurrency%3DINR%26hid%3D51812330%26RoomID%3D803546536%26masterRoomId%3D803546536%26PriceTax%3D2.57%26PriceTotal%3D23.96%26RatePlan%3D4f500a0b-6af9-9212-9084-cbde030737c1%26UserCountry%3DUS%26Currency%3DUSD%26UserDevice%3Ddesktop%26Verif%3Dfalse%26rr%3Drow_desktop%26audience_list%3D%26mcid%3D3038%26booking_source%3Dcpc%26adType%3D0%26mpt%3DcFZPY05xYmtHeDBveWJqV0hzeXZjdDk0QUoreEdkYUI5NW9IME5WTWd5VEVzZz09%26original_rr%3D",
+      "isOfficialSite": false,
+      "price": "$24",
+      "url": "https://www.agoda.com/partners/partnersearch.aspx?site_id=1917614&CkInDay=21&CkInMonth=12&CkInYear=2024&CkOutDay=22&campaignid=&CkOutMonth=12&CkOutYear=2024&SearchDateType=default&NumberOfAdults=2&LT=49&NumberOfChildren=0&childages=&NumberOfRooms=1&gsite=mapresults&los=1&PartnerCurrency=INR&hid=51812330&RoomID=803546536&masterRoomId=803546536&PriceTax=2.57&PriceTotal=23.96&RatePlan=4f500a0b-6af9-9212-9084-cbde030737c1&UserCountry=US&Currency=USD&UserDevice=desktop&Verif=false&rr=row_desktop&audience_list=&mcid=3038&booking_source=cpc&adType=0&mpt=cFZPY05xYmtHeDBveWJqV0hzeXZjdDk0QUoreEdkYUI5NW9IME5WTWd5VEVzZz09&original_rr="
+    },
+    {
+      "title": "Priceline",
+      "googleUrl": "http://www.google.com/travel/clk?pc=AA80OsyRZ6axnsC1GHm_55O95FvhLW3Nh_C_ye0WhkZ1zLwf5enqvLC37iqRi131N669IvuO7tGKeQXMo-y9jLMXH4KSMPLMIRv-FxFRXihRhtskO4a3_GRZ-g8IMIu2s8zyKqeca5wS1G4&pcurl=https://www.priceline.com/r/?channel%3Dmeta%26product%3Dhotel%26theme%3Dghalistings%26refid%3DPLGOOGLEMSS%26refclickid%3DUS_HP%257C256447804_mapresults_1%257C20241221%257Cdesktop%257Cdefaultdate%7Cpublic%7C%7C%7C49%257C2%257C0%7C0%7CEN%26hotelid%3D256447804%26checkin%3D20241221%26checkout%3D20241222%26rooms%3D1%26currency%3DINR%26displayedCurr%3DUSD%26POSCountryCode%3DUS%26taxDisplayMode%3DBP%26cityID%3D5000028383%26adults%3D2%26land%3DL%26metaid%3D6A-HB4pfM36crP_GI1h_q5prnGFNzr-pHcI0a19FVR1JBpvPY7aBre56HkfjfoKn-vyo2NFQ1c_5In3Q5X3VpALb6KQ5oXF3m81mBGcOmu2EApN-e_TUQDqeIj75PH4NLOjgBrS71R2ZjBqdGGJPMtsJ2kNoICHJ8VcomBzoEOvGiYpBxjB5Lj4YKepy2pO6wP2FZmNis0zC5H7t-Y-P9F8Kn3VuZmVjkKZe7ewxysQUCwK3tHyEAnoVBHsrcIyCLjg6qNsPfBZMvQcbOkej_w%26dblcnt%3Dtrue%26user_num_adults%3D2%26pdtax%3D2.57%26pdt%3D23.97%26locale%3Den-us%26ad-src%3D",
+      "isOfficialSite": false,
+      "price": "$24",
+      "url": "https://www.priceline.com/r/?channel=meta&product=hotel&theme=ghalistings&refid=PLGOOGLEMSS&refclickid=US_HP|256447804_mapresults_1|20241221|desktop|defaultdate|public|||49|2|0|0|EN&hotelid=256447804&checkin=20241221&checkout=20241222&rooms=1&currency=INR&displayedCurr=USD&POSCountryCode=US&taxDisplayMode=BP&cityID=5000028383&adults=2&land=L&metaid=6A-HB4pfM36crP_GI1h_q5prnGFNzr-pHcI0a19FVR1JBpvPY7aBre56HkfjfoKn-vyo2NFQ1c_5In3Q5X3VpALb6KQ5oXF3m81mBGcOmu2EApN-e_TUQDqeIj75PH4NLOjgBrS71R2ZjBqdGGJPMtsJ2kNoICHJ8VcomBzoEOvGiYpBxjB5Lj4YKepy2pO6wP2FZmNis0zC5H7t-Y-P9F8Kn3VuZmVjkKZe7ewxysQUCwK3tHyEAnoVBHsrcIyCLjg6qNsPfBZMvQcbOkej_w&dblcnt=true&user_num_adults=2&pdtax=2.57&pdt=23.97&locale=en-us&ad-src="
+    }
+  ],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [
+    {
+      "title": "hospitality",
+      "count": 2
+    },
+    {
+      "title": "money",
+      "count": 2
+    }
+  ],
+  "additionalInfo": {
+    "Amenities": [
+      {
+        "Free Wi-Fi": true
+      },
+      {
+        "Breakfast": false
+      },
+      {
+        "Free parking": true
+      },
+      {
+        "Accessible": false
+      },
+      {
+        "Pool": false
+      },
+      {
+        "Air-conditioned": true
+      },
+      {
+        "Pet-friendly": false
+      },
+      {
+        "Room service": true
+      },
+      {
+        "Airport shuttle": false
+      },
+      {
+        "Fitness center": false
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=RK%20RESIDENCY-Lodge%2FHotel%2FStays(AC%20%26%20NON-AC%20ROOM'S)&query_place_id=ChIJp3I4BAAdyjsR8c8vqSkGXtc",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMHw1VnEYvs25kuzgY7kJELG4kgiWC01hwzg2MK=w408-h544-k-no",
+  "kgmid": "/g/11vsyp8k3r",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMHw1VnEYvs25kuzgY7kJELG4kgiWC01hwzg2MK=w1920-h1080-k-no",
+      "authorName": "RK RESIDENCY-Lodge/Hotel/Stays(AC & NON-AC ROOM'S)",
+      "authorUrl": "https://maps.google.com/maps/contrib/114437815821307416673",
+      "uploadedAt": "2024-03-08T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipMHw1VnEYvs25kuzgY7kJELG4kgiWC01hwzg2MK=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 1,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@16.416848956621344,78.08742174622559,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "srinivasa Residency (Lodge) A/C & Non-A/C",
+  "subTitle": null,
+  "description": null,
+  "price": "$26",
+  "categoryName": "Bed & breakfast",
+  "address": "Old, National Highway 44, Dist, beside HP Petrol Pump, Kothakota, Telangana 509381, India",
+  "neighborhood": null,
+  "street": "Old, National Highway 44, Dist, beside HP Petrol Pump",
+  "city": "Kothakota",
+  "postalCode": "509381",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": "http://booking.com/",
+  "phone": "+91 94403 48373",
+  "phoneUnformatted": "+919440348373",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 16.3841073,
+    "lng": 77.9410884
+  },
+  "locatedIn": null,
+  "plusCode": "9WMR+JC Kothakota, Telangana, India",
+  "menu": null,
+  "totalScore": 4.7,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJP-IdWvUdyjsRzKrW-5e8UOw",
+  "categories": [
+    "Bed & breakfast"
+  ],
+  "fid": "0x3bca1df55a1de23f:0xec50bc97fbd6aacc",
+  "cid": "17028317552039078604",
+  "reviewsCount": 27,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 1,
+    "threeStar": 1,
+    "fourStar": 2,
+    "fiveStar": 23
+  },
+  "imagesCount": 4,
+  "imageCategories": [
+    "All",
+    "Rooms",
+    "Exterior",
+    "Food & drink",
+    "From visitors",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T08:27:46.156Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "similarHotelsNearby": [
+    {
+      "name": "RK RESIDENCY-Lodge/Hotel/Stays(AC & NON-AC ROOM'S)",
+      "rating": 4.6,
+      "reviews": 32,
+      "description": "Free Wi-Fi and parking",
+      "price": "$14"
+    },
+    {
+      "name": "Maheswari Lodge",
+      "rating": 3.4,
+      "reviews": 56,
+      "description": null,
+      "price": null
+    }
+  ],
+  "hotelReviewSummary": null,
+  "hotelAds": [
+    {
+      "title": "Booking.com",
+      "googleUrl": "http://www.google.com/travel/clk?pc=AA80OsxhOpOp_MQMIuAPZe_dEvTto-Wuu64JOiufZS3sDgiUClOKvS1Bw6LGcAGNPS6AB9KWz63Wt0ia7V2oR3fD-cf74J_3r5sUJdaKEEJJpzFlDpoYm1zaMfxtGalGX2X6G4WVacEcV5TVJA&pcurl=https://www.booking.com/hotel/in/srinivasa-residency-lodge.html?checkin%3D2024-11-02%26checkout%3D2024-11-03%26group_adults%3D2%26req_adults%3D2%26show_room%3D1197978201_392091959_2_0_0%26lang%3Den%26selected_currency%3DUSD%26exrt%3D0.01188582%26ext_price_total%3D29.29%26ext_price_tax%3D3.14%26xfc%3DINR%26hca%3Dm%26group_children%3D0%26req_children%3D0%26%26ts%3D1730529525%26no_rooms%3D1%26%26utm_source%3Dmetagha%26utm_medium%3Dmapresults%26utm_campaign%3DUS%26utm_term%3Dhotel-11979782%26utm_content%3Ddev-desktop_los-1_bw-0_dow-Saturday_defdate-1_room-0_gstadt-2_rateid-0_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-0_checkin-20241102_ppt-%26aid%3D2127489%26label%3Dmetagha-link-MRUS-hotel-11979782_dev-desktop_los-1_bw-0_dow-Saturday_defdate-1_room-0_gstadt-2_rateid-0_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-0_checkin-20241102_ppt-",
+      "isOfficialSite": false,
+      "price": "$29",
+      "url": "https://www.booking.com/hotel/in/srinivasa-residency-lodge.html?checkin=2024-11-02&checkout=2024-11-03&group_adults=2&req_adults=2&show_room=1197978201_392091959_2_0_0&lang=en&selected_currency=USD&exrt=0.01188582&ext_price_total=29.29&ext_price_tax=3.14&xfc=INR&hca=m&group_children=0&req_children=0&&ts=1730529525&no_rooms=1&&utm_source=metagha&utm_medium=mapresults&utm_campaign=US&utm_term=hotel-11979782&utm_content=dev-desktop_los-1_bw-0_dow-Saturday_defdate-1_room-0_gstadt-2_rateid-0_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-0_checkin-20241102_ppt-&aid=2127489&label=metagha-link-MRUS-hotel-11979782_dev-desktop_los-1_bw-0_dow-Saturday_defdate-1_room-0_gstadt-2_rateid-0_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-0_checkin-20241102_ppt-"
+    },
+    {
+      "title": "Priceline",
+      "googleUrl": "http://www.google.com/travel/clk?pc=AA80OsztV0nZSdL_8pEkoOHimNrzmQ5bJCdxLJ_AnYEih0vYhUsdf9P9so8RGSOB_O2EN91W2CT-862aKGFNk1ULp_JT5pw83IiNhFmAvS3p-av4SwPjjvfWZwmLrIaphQ4j13qFcXOdSf0&pcurl=https://www.priceline.com/r/?channel%3Dmeta%26product%3Dhotel%26theme%3Dghalistings%26refid%3DPLGOOGLEMSS%26refclickid%3DUS_HP%257C259364604_mapresults_1%257C20241102%257Cdesktop%257Cdefaultdate%7Cpublic%7C%7C%7C0%257C2%257C0%7C0%7CEN%26hotelid%3D259364604%26checkin%3D20241102%26checkout%3D20241103%26rooms%3D1%26currency%3DINR%26displayedCurr%3DUSD%26POSCountryCode%3DUS%26taxDisplayMode%3DBP%26cityID%3D5000028383%26adults%3D2%26land%3DL%26metaid%3DPaBWGJtYZVCzn1ZP36NdmjuQiXJVf_F_PCM5tdYMqNI-SsA52gdgaO0Y_uQ8O5jzfL9Mvq8l7mtWodPvv5SqsofsZKZ_xblmkilQW6L3ex9iYPiW5Y9XSKF7CWkEQdHZiVde4gI9jKBOYeN2dtqF5w1Zxe51bcuJE_S4rGVXDkiFn1KLfoQLKK0eFar4Bd-gvn1Re2-cZpbaxAZx5yBy22xazv3e2bmwckHSnbiNaA3G0G7picLqCTVZ4RjQeaZEDqjIYQ-mQzTO4Bk1nR49Cg%26dblcnt%3Dtrue%26user_num_adults%3D2%26pdtax%3D3.14%26pdt%3D29.28%26locale%3Den-us%26ad-src%3D",
+      "isOfficialSite": false,
+      "price": "$29",
+      "url": "https://www.priceline.com/r/?channel=meta&product=hotel&theme=ghalistings&refid=PLGOOGLEMSS&refclickid=US_HP|259364604_mapresults_1|20241102|desktop|defaultdate|public|||0|2|0|0|EN&hotelid=259364604&checkin=20241102&checkout=20241103&rooms=1&currency=INR&displayedCurr=USD&POSCountryCode=US&taxDisplayMode=BP&cityID=5000028383&adults=2&land=L&metaid=PaBWGJtYZVCzn1ZP36NdmjuQiXJVf_F_PCM5tdYMqNI-SsA52gdgaO0Y_uQ8O5jzfL9Mvq8l7mtWodPvv5SqsofsZKZ_xblmkilQW6L3ex9iYPiW5Y9XSKF7CWkEQdHZiVde4gI9jKBOYeN2dtqF5w1Zxe51bcuJE_S4rGVXDkiFn1KLfoQLKK0eFar4Bd-gvn1Re2-cZpbaxAZx5yBy22xazv3e2bmwckHSnbiNaA3G0G7picLqCTVZ4RjQeaZEDqjIYQ-mQzTO4Bk1nR49Cg&dblcnt=true&user_num_adults=2&pdtax=3.14&pdt=29.28&locale=en-us&ad-src="
+    }
+  ],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [
+    {
+      "title": "surveillance",
+      "count": 2
+    }
+  ],
+  "additionalInfo": {},
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": {
+    "postDate": "9 months ago",
+    "postedBy": {
+      "totalReviews": null
+    },
+    "media": []
+  },
+  "url": "https://www.google.com/maps/search/?api=1&query=srinivasa%20Residency%20(Lodge)%20A%2FC%20%26%20Non-A%2FC&query_place_id=ChIJP-IdWvUdyjsRzKrW-5e8UOw",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOLEpGmCDakGJqOQtRy-mo7pVZ0I3kWBU3n7rgs=w534-h240-k-no",
+  "kgmid": "/g/11vkq9gvt9",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOLEpGmCDakGJqOQtRy-mo7pVZ0I3kWBU3n7rgs=w1920-h1080-k-no",
+      "authorName": "Bal Reddy Langati",
+      "authorUrl": "https://maps.google.com/maps/contrib/117573718721690758020",
+      "uploadedAt": "2023-11-28T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipOLEpGmCDakGJqOQtRy-mo7pVZ0I3kWBU3n7rgs=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 30,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@16.350981803310674,77.7449109254735,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "Friends selection",
+  "subTitle": null,
+  "description": null,
+  "price": null,
+  "categoryName": "Men's clothing store",
+  "address": "vikas degree college, Shivaji nagar road, opp. urvashi hotel, Buillding, Atmakur, Telangana 509131, India",
+  "neighborhood": "Buillding",
+  "street": "vikas degree college, Shivaji nagar road, opp. urvashi hotel",
+  "city": "Atmakur",
+  "postalCode": "509131",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": null,
+  "phoneUnformatted": null,
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 16.3401462,
+    "lng": 77.7995573
+  },
+  "locatedIn": null,
+  "plusCode": "8QRX+3R Atmakur, Telangana, India",
+  "menu": null,
+  "totalScore": null,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJqQiKtC_7yTsR9wxUq5Wzq1w",
+  "categories": [
+    "Men's clothing store"
+  ],
+  "fid": "0x3bc9fb2fb48a08a9:0x5cabb395ab540cf7",
+  "cid": "6677628327912803575",
+  "reviewsCount": 0,
+  "reviewsDistribution": null,
+  "imagesCount": 2,
+  "imageCategories": [
+    "All",
+    "Top",
+    "By owner"
+  ],
+  "scrapedAt": "2024-11-02T08:28:10.940Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "popularTimesLiveText": "Now: Usually not too busy",
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {
+    "Su": [
+      {
+        "hour": 4,
+        "occupancyPercent": 72
+      },
+      {
+        "hour": 5,
+        "occupancyPercent": 27
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 9
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 9
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 27
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 9
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 9
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 18
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 45
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 36
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 18
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 9
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 27
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 36
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 18
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 9
+      },
+      {
+        "hour": 0,
+        "occupancyPercent": 18
+      },
+      {
+        "hour": 1,
+        "occupancyPercent": 54
+      },
+      {
+        "hour": 2,
+        "occupancyPercent": 100
+      },
+      {
+        "hour": 3,
+        "occupancyPercent": 81
+      }
+    ],
+    "Mo": [
+      {
+        "hour": 4,
+        "occupancyPercent": 36
+      },
+      {
+        "hour": 5,
+        "occupancyPercent": 18
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 9
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 18
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 18
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 45
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 18
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 9
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 9
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 9
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 18
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 54
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 45
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 45
+      },
+      {
+        "hour": 0,
+        "occupancyPercent": 27
+      },
+      {
+        "hour": 1,
+        "occupancyPercent": 36
+      },
+      {
+        "hour": 2,
+        "occupancyPercent": 45
+      },
+      {
+        "hour": 3,
+        "occupancyPercent": 27
+      }
+    ],
+    "Tu": [
+      {
+        "hour": 4,
+        "occupancyPercent": 63
+      },
+      {
+        "hour": 5,
+        "occupancyPercent": 100
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 90
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 72
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 54
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 27
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 9
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 9
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 18
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 45
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 72
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 27
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 18
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 9
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 9
+      },
+      {
+        "hour": 0,
+        "occupancyPercent": 18
+      },
+      {
+        "hour": 1,
+        "occupancyPercent": 45
+      },
+      {
+        "hour": 2,
+        "occupancyPercent": 45
+      },
+      {
+        "hour": 3,
+        "occupancyPercent": 72
+      }
+    ],
+    "We": [
+      {
+        "hour": 4,
+        "occupancyPercent": 27
+      },
+      {
+        "hour": 5,
+        "occupancyPercent": 27
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 27
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 18
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 9
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 9
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 18
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 9
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 9
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 27
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 54
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 27
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 9
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 9
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 18
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 36
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 18
+      },
+      {
+        "hour": 0,
+        "occupancyPercent": 9
+      },
+      {
+        "hour": 1,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 2,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 3,
+        "occupancyPercent": 9
+      }
+    ],
+    "Th": [
+      {
+        "hour": 4,
+        "occupancyPercent": 18
+      },
+      {
+        "hour": 5,
+        "occupancyPercent": 9
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 9
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 18
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 9
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 9
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 18
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 9
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 9
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 18
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 18
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 18
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 9
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 9
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 9
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 9
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 18
+      },
+      {
+        "hour": 0,
+        "occupancyPercent": 36
+      },
+      {
+        "hour": 1,
+        "occupancyPercent": 36
+      },
+      {
+        "hour": 2,
+        "occupancyPercent": 27
+      },
+      {
+        "hour": 3,
+        "occupancyPercent": 45
+      }
+    ],
+    "Fr": [
+      {
+        "hour": 4,
+        "occupancyPercent": 18
+      },
+      {
+        "hour": 5,
+        "occupancyPercent": 9
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 18
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 18
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 18
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 9
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 18
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 9
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 9
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 36
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 45
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 45
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 27
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 45
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 27
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 45
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 45
+      },
+      {
+        "hour": 0,
+        "occupancyPercent": 72
+      },
+      {
+        "hour": 1,
+        "occupancyPercent": 36
+      },
+      {
+        "hour": 2,
+        "occupancyPercent": 27
+      },
+      {
+        "hour": 3,
+        "occupancyPercent": 36
+      }
+    ],
+    "Sa": [
+      {
+        "hour": 4,
+        "occupancyPercent": 36
+      },
+      {
+        "hour": 5,
+        "occupancyPercent": 36
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 45
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 18
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 9
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 9
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 36
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 27
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 9
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 9
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 18
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 9
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 9
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 27
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 36
+      },
+      {
+        "hour": 0,
+        "occupancyPercent": 27
+      },
+      {
+        "hour": 1,
+        "occupancyPercent": 36
+      },
+      {
+        "hour": 2,
+        "occupancyPercent": 63
+      },
+      {
+        "hour": 3,
+        "occupancyPercent": 27
+      }
+    ]
+  },
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Thursday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Friday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Saturday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Open 24 hours"
+    }
+  ],
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "SIRAJ GARMENTS",
+      "reviewsCount": 7,
+      "totalScore": 5
+    }
+  ],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Offerings": [
+      {
+        "Men's clothing": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=Friends%20selection&query_place_id=ChIJqQiKtC_7yTsR9wxUq5Wzq1w",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMosCBJaYG1EtsPxw4SXNiRUPVCBacjBiE_klK3=w408-h609-k-no",
+  "kgmid": "/g/11vy7tz580",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMosCBJaYG1EtsPxw4SXNiRUPVCBacjBiE_klK3=w1920-h1080-k-no",
+      "authorName": "Friends selection",
+      "authorUrl": "https://maps.google.com/maps/contrib/117014496763618558154",
+      "uploadedAt": "2024-05-24T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipMosCBJaYG1EtsPxw4SXNiRUPVCBacjBiE_klK3=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 27,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@16.350981803310674,77.7449109254735,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "T. Ravi (Hotel) Masthipur",
+  "subTitle": null,
+  "description": null,
+  "price": null,
+  "categoryName": "Coffee shop",
+  "address": "9P8V+WPX, Atmakur Rd, Mastipur, Telangana 509131, India",
+  "neighborhood": null,
+  "street": "9P8V+WPX, Atmakur Rd",
+  "city": "Mastipur",
+  "postalCode": "509131",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": null,
+  "phoneUnformatted": null,
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 16.367363,
+    "lng": 77.744352
+  },
+  "locatedIn": null,
+  "plusCode": null,
+  "menu": null,
+  "totalScore": null,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJsWiZOQDvyTsRPzCEMEP38YU",
+  "categories": [
+    "Coffee shop"
+  ],
+  "fid": "0x3bc9ef00399968b1:0x85f1f7433084303f",
+  "cid": "9651767344380522559",
+  "reviewsCount": 0,
+  "reviewsDistribution": null,
+  "imagesCount": 1,
+  "imageCategories": [
+    "All",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T08:28:12.024Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "TEA SPOT",
+      "reviewsCount": 9,
+      "totalScore": 4.8
+    },
+    {
+      "category": "People also search for",
+      "title": "Hotel Ravi & Anja",
+      "reviewsCount": 1,
+      "totalScore": 5
+    },
+    {
+      "category": "People also search for",
+      "title": "Ramulu Hotel",
+      "reviewsCount": 1,
+      "totalScore": 5
+    }
+  ],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Service options": [
+      {
+        "Dine-in": true
+      }
+    ],
+    "Offerings": [
+      {
+        "Coffee": true
+      }
+    ],
+    "Atmosphere": [
+      {
+        "Casual": true
+      }
+    ],
+    "Crowd": [
+      {
+        "Groups": true
+      }
+    ],
+    "Children": [
+      {
+        "Good for kids": true
+      }
+    ],
+    "Parking": [
+      {
+        "Free street parking": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=T.%20Ravi%20(Hotel)%20Masthipur&query_place_id=ChIJsWiZOQDvyTsRPzCEMEP38YU",
+  "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_uAUxXaOiFOD7Wr6YHTU5g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=356.87134&pitch=0&thumbfov=100",
+  "kgmid": "/g/11v_158773",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_uAUxXaOiFOD7Wr6YHTU5g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=356.87134&pitch=0&thumbfov=100"
+    }
+  ],
+  "imageUrls": [
+    "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_uAUxXaOiFOD7Wr6YHTU5g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=356.87134&pitch=0&thumbfov=100"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 25,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@16.350981803310674,77.7449109254735,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "వెంకటేష్ హోటల్ మస్తీపురం",
+  "subTitle": null,
+  "description": null,
+  "price": null,
+  "categoryName": "Restaurant",
+  "address": "2/85, Mastipur, Telangana 509131, India",
+  "neighborhood": null,
+  "street": "2/85",
+  "city": "Mastipur",
+  "postalCode": "509131",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": null,
+  "phoneUnformatted": null,
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 16.3670493,
+    "lng": 77.7440091
+  },
+  "locatedIn": null,
+  "plusCode": "9P8V+RJ Mastipur, Telangana, India",
+  "menu": null,
+  "totalScore": 4.2,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJtZeOHMvvyTsRwxWV5kpT34Y",
+  "categories": [
+    "Restaurant"
+  ],
+  "fid": "0x3bc9efcb1c8e97b5:0x86df534ae69515c3",
+  "cid": "9718578102050035139",
+  "reviewsCount": 5,
+  "reviewsDistribution": {
+    "oneStar": 1,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 4
+  },
+  "imagesCount": 3,
+  "imageCategories": [
+    "All",
+    "By owner",
+    "Videos",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T08:28:17.548Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "popularTimesLiveText": "Now: Usually not too busy",
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {
+    "Su": [
+      {
+        "hour": 3,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 4,
+        "occupancyPercent": 27
+      },
+      {
+        "hour": 5,
+        "occupancyPercent": 36
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 45
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 43
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 45
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 54
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 75
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 100
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 100
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 84
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 50
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 43
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 31
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 36
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 31
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 0
+      }
+    ],
+    "Mo": [
+      {
+        "hour": 3,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 4,
+        "occupancyPercent": 47
+      },
+      {
+        "hour": 5,
+        "occupancyPercent": 34
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 43
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 45
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 50
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 50
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 50
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 47
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 56
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 65
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 61
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 56
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 50
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 54
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 56
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 0
+      }
+    ],
+    "Tu": [
+      {
+        "hour": 3,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 4,
+        "occupancyPercent": 13
+      },
+      {
+        "hour": 5,
+        "occupancyPercent": 20
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 18
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 25
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 31
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 43
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 38
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 36
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 45
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 52
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 54
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 43
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 38
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 38
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 43
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 0
+      }
+    ],
+    "We": [
+      {
+        "hour": 3,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 4,
+        "occupancyPercent": 20
+      },
+      {
+        "hour": 5,
+        "occupancyPercent": 31
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 40
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 38
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 52
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 65
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 86
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 75
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 54
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 27
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 15
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 20
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 34
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 34
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 52
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 0
+      }
+    ],
+    "Th": [
+      {
+        "hour": 3,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 4,
+        "occupancyPercent": 25
+      },
+      {
+        "hour": 5,
+        "occupancyPercent": 18
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 22
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 27
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 43
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 45
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 38
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 27
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 34
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 29
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 38
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 45
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 61
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 68
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 59
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 0
+      }
+    ],
+    "Fr": [
+      {
+        "hour": 3,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 4,
+        "occupancyPercent": 25
+      },
+      {
+        "hour": 5,
+        "occupancyPercent": 27
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 34
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 47
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 52
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 59
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 65
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 65
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 68
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 56
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 61
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 52
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 56
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 50
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 43
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 0
+      }
+    ],
+    "Sa": [
+      {
+        "hour": 3,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 4,
+        "occupancyPercent": 38
+      },
+      {
+        "hour": 5,
+        "occupancyPercent": 36
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 25
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 25
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 29
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 38
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 52
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 54
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 45
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 40
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 47
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 40
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 38
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 34
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 40
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 0
+      }
+    ]
+  },
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "4:30 AM to 7 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "4 AM to 7 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "4 AM to 7 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "4:30 AM to 7 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "4:30 AM to 7 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "4:30 AM to 7 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "4:30 AM to 7 PM"
+    }
+  ],
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Gouthamisree Hotel",
+      "reviewsCount": 1,
+      "totalScore": 3
+    },
+    {
+      "category": "People also search for",
+      "title": "AKHIL Restaurant",
+      "reviewsCount": 0,
+      "totalScore": 0
+    }
+  ],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Service options": [
+      {
+        "Drive-through": true
+      },
+      {
+        "Takeaway": true
+      },
+      {
+        "Dine-in": true
+      }
+    ],
+    "Accessibility": [
+      {
+        "Wheelchair-accessible car park": true
+      }
+    ],
+    "Offerings": [
+      {
+        "Small plates": true
+      }
+    ],
+    "Dining options": [
+      {
+        "Breakfast": true
+      },
+      {
+        "Lunch": true
+      },
+      {
+        "Dinner": true
+      }
+    ],
+    "Atmosphere": [
+      {
+        "Casual": true
+      }
+    ],
+    "Crowd": [
+      {
+        "Groups": true
+      }
+    ],
+    "Children": [
+      {
+        "Good for kids": true
+      }
+    ],
+    "Parking": [
+      {
+        "Free of charge street parking": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=%E0%B0%B5%E0%B1%86%E0%B0%82%E0%B0%95%E0%B0%9F%E0%B1%87%E0%B0%B7%E0%B1%8D%20%E0%B0%B9%E0%B1%8B%E0%B0%9F%E0%B0%B2%E0%B1%8D%20%E0%B0%AE%E0%B0%B8%E0%B1%8D%E0%B0%A4%E0%B1%80%E0%B0%AA%E0%B1%81%E0%B0%B0%E0%B0%82&query_place_id=ChIJtZeOHMvvyTsRwxWV5kpT34Y",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOnPYNGI-GsteRFE3ufwCL27AsVAlvfYpscacAD=w426-h240-k-no",
+  "kgmid": "/g/11scmp02zx",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOnPYNGI-GsteRFE3ufwCL27AsVAlvfYpscacAD=w1920-h1080-k-no",
+      "authorName": "Raju Jakula",
+      "authorUrl": "https://maps.google.com/maps/contrib/106668447805560677429",
+      "uploadedAt": "2022-12-20T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipOnPYNGI-GsteRFE3ufwCL27AsVAlvfYpscacAD=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 24,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@16.350981803310674,77.7449109254735,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "SHIRISHA HOTEL",
+  "subTitle": null,
+  "description": null,
+  "price": null,
+  "categoryName": "Tea store",
+  "address": "Shop.No.45, Atmakur Rd, near MRO Office, Atmakur, Telangana 509131, India",
+  "neighborhood": null,
+  "street": "Shop.No.45, Atmakur Rd, near MRO Office",
+  "city": "Atmakur",
+  "postalCode": "509131",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": "+91 83280 16608",
+  "phoneUnformatted": "+918328016608",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 16.3413788,
+    "lng": 77.7990155
+  },
+  "locatedIn": null,
+  "plusCode": "8QRX+HJ Atmakur, Telangana, India",
+  "menu": null,
+  "totalScore": null,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJB7gHpdb7yTsRnJUYv-g76Z4",
+  "categories": [
+    "Tea store"
+  ],
+  "fid": "0x3bc9fbd6a507b807:0x9ee93be8bf18959c",
+  "cid": "11450749398390707612",
+  "reviewsCount": 0,
+  "reviewsDistribution": null,
+  "imagesCount": null,
+  "imageCategories": [],
+  "scrapedAt": "2024-11-02T08:28:19.048Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {},
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=SHIRISHA%20HOTEL&query_place_id=ChIJB7gHpdb7yTsRnJUYv-g76Z4",
+  "imageUrl": null,
+  "kgmid": "/g/11wmcftkvt",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [],
+  "imageUrls": [],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 23,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@16.350981803310674,77.7449109254735,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "Hotel abhiruchi",
+  "subTitle": "హోటల్ అభిరుచి",
+  "description": null,
+  "price": null,
+  "categoryName": "Restaurant",
+  "address": "Old bus stand police station, opposite Amarchinta, Telangana 509130, India",
+  "neighborhood": null,
+  "street": "Old bus stand police station, opposite Amarchinta",
+  "city": "Amarchinta",
+  "postalCode": "509130",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": null,
+  "phoneUnformatted": null,
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 16.3708944,
+    "lng": 77.7730435
+  },
+  "locatedIn": null,
+  "plusCode": "9QCF+96 Amarchinta, Telangana, India",
+  "menu": null,
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ78IKkiXxyTsRwNXSfqHiOKk",
+  "categories": [
+    "Restaurant"
+  ],
+  "fid": "0x3bc9f125920ac2ef:0xa938e2a17ed2d5c0",
+  "cid": "12193745174350976448",
+  "reviewsCount": 3,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 3
+  },
+  "imagesCount": 4,
+  "imageCategories": [
+    "All",
+    "Vibe",
+    "By owner"
+  ],
+  "scrapedAt": "2024-11-02T08:28:24.144Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "10 AM to 10 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "10 AM to 10 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "10 AM to 10 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "10 AM to 10 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "10 AM to 10 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "10 AM to 10 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "10 AM to 10 PM"
+    }
+  ],
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Gouthamisree Hotel",
+      "reviewsCount": 1,
+      "totalScore": 3
+    },
+    {
+      "category": "People also search for",
+      "title": "Anjanna Hotel",
+      "reviewsCount": 3,
+      "totalScore": 4.3
+    }
+  ],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Service options": [
+      {
+        "No-contact delivery": true
+      },
+      {
+        "Delivery": true
+      },
+      {
+        "Drive-through": true
+      },
+      {
+        "Takeout": true
+      },
+      {
+        "Dine-in": true
+      }
+    ],
+    "Offerings": [
+      {
+        "Coffee": true
+      },
+      {
+        "Late-night food": true
+      },
+      {
+        "Small plates": true
+      }
+    ],
+    "Dining options": [
+      {
+        "Breakfast": true
+      },
+      {
+        "Lunch": true
+      },
+      {
+        "Dinner": true
+      }
+    ],
+    "Atmosphere": [
+      {
+        "Casual": true
+      }
+    ],
+    "Crowd": [
+      {
+        "Groups": true
+      }
+    ],
+    "Payments": [
+      {
+        "NFC mobile payments": true
+      }
+    ],
+    "Children": [
+      {
+        "Good for kids": true
+      }
+    ],
+    "Parking": [
+      {
+        "Free street parking": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=Hotel%20abhiruchi&query_place_id=ChIJ78IKkiXxyTsRwNXSfqHiOKk",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOYiOYthqjWbCA2It5pIXdBqlyjrqxULb0Vf6mZ=w426-h240-k-no",
+  "kgmid": "/g/11fw_47d4s",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOYiOYthqjWbCA2It5pIXdBqlyjrqxULb0Vf6mZ=w1920-h1080-k-no",
+      "authorName": "Hotel abhiruchi",
+      "authorUrl": "https://maps.google.com/maps/contrib/100102190560286369685",
+      "uploadedAt": "2020-08-10T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipOYiOYthqjWbCA2It5pIXdBqlyjrqxULb0Vf6mZ=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 22,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@16.350981803310674,77.7449109254735,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "Bujjamma Hotel",
+  "subTitle": "బుజ్జమ్మ హోటల్",
+  "description": null,
+  "price": "₹1–200",
+  "categoryName": "Tiffin center",
+  "address": "8QRX+HQG, Amarchinta Rd, Atmakur, Telangana 509131, India",
+  "neighborhood": null,
+  "street": "8QRX+HQG, Amarchinta Rd",
+  "city": "Atmakur",
+  "postalCode": "509131",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": "+91 99481 15119",
+  "phoneUnformatted": "+919948115119",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 16.3414266,
+    "lng": 77.7994633
+  },
+  "locatedIn": null,
+  "plusCode": null,
+  "menu": null,
+  "totalScore": 4,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJSwxeoF36yTsRiWI5RU3MCSE",
+  "categories": [
+    "Tiffin center",
+    "Restaurant"
+  ],
+  "fid": "0x3bc9fa5da05e0c4b:0x2109cc4d45396289",
+  "cid": "2380658510287954569",
+  "reviewsCount": 171,
+  "reviewsDistribution": {
+    "oneStar": 22,
+    "twoStar": 2,
+    "threeStar": 30,
+    "fourStar": 22,
+    "fiveStar": 95
+  },
+  "imagesCount": 4,
+  "imageCategories": [
+    "All",
+    "Food & drink",
+    "Videos"
+  ],
+  "scrapedAt": "2024-11-02T08:28:29.768Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "popularTimesLiveText": "Now: Usually a little busy",
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {
+    "Su": [
+      {
+        "hour": 5,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 5
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 6
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 24
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 34
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 35
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 38
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 40
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 42
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 41
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 37
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 35
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 37
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 32
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 25
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 16
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 14
+      }
+    ],
+    "Mo": [
+      {
+        "hour": 5,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 6
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 17
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 37
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 59
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 78
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 90
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 91
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 84
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 67
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 63
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 58
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 61
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 50
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 35
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 20
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 10
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 10
+      }
+    ],
+    "Tu": [
+      {
+        "hour": 5,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 5
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 13
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 35
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 55
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 79
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 92
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 85
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 70
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 54
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 47
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 53
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 56
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 51
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 32
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 18
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 6
+      }
+    ],
+    "We": [
+      {
+        "hour": 5,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 2
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 10
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 23
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 40
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 56
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 71
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 79
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 77
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 73
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 64
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 64
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 64
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 49
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 34
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 23
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 15
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 14
+      }
+    ],
+    "Th": [
+      {
+        "hour": 5,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 5
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 12
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 23
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 44
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 72
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 91
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 91
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 88
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 82
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 82
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 78
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 71
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 60
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 41
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 25
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 20
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 19
+      }
+    ],
+    "Fr": [
+      {
+        "hour": 5,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 11
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 29
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 46
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 72
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 88
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 100
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 89
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 78
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 70
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 71
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 67
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 63
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 46
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 28
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 12
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 3
+      }
+    ],
+    "Sa": [
+      {
+        "hour": 5,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 3
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 10
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 22
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 43
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 61
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 74
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 74
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 64
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 59
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 55
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 57
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 59
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 57
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 43
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 27
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 11
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 4
+      }
+    ]
+  },
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "6 AM to 10:30 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "6 AM to 10:30 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "6 AM to 10:30 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "6 AM to 10:30 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "6 AM to 10:30 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "6 AM to 10:30 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "6 AM to 10:30 PM"
+    }
+  ],
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Oorvashi Hotel",
+      "reviewsCount": 39,
+      "totalScore": 3.9
+    },
+    {
+      "category": "People also search for",
+      "title": "Mega Hotel",
+      "reviewsCount": 109,
+      "totalScore": 3.9
+    }
+  ],
+  "placesTags": [
+    {
+      "title": "Services",
+      "count": 1
+    }
+  ],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Service options": [
+      {
+        "Outdoor seating": true
+      },
+      {
+        "No-contact delivery": true
+      },
+      {
+        "Delivery": true
+      },
+      {
+        "Drive-through": true
+      },
+      {
+        "Takeaway": true
+      },
+      {
+        "Dine-in": true
+      }
+    ],
+    "Offerings": [
+      {
+        "All you can eat": true
+      },
+      {
+        "Coffee": true
+      },
+      {
+        "Halal food": true
+      },
+      {
+        "Small plates": true
+      },
+      {
+        "Vegan options": true
+      },
+      {
+        "Vegetarian options": true
+      }
+    ],
+    "Dining options": [
+      {
+        "Breakfast": true
+      },
+      {
+        "Brunch": true
+      },
+      {
+        "Lunch": true
+      },
+      {
+        "Dinner": true
+      },
+      {
+        "Dessert": true
+      },
+      {
+        "Seating": true
+      }
+    ],
+    "Atmosphere": [
+      {
+        "Casual": true
+      }
+    ],
+    "Crowd": [
+      {
+        "Groups": true
+      }
+    ],
+    "Planning": [
+      {
+        "Accepts reservations": false
+      }
+    ],
+    "Payments": [
+      {
+        "NFC mobile payments": true
+      }
+    ],
+    "Parking": [
+      {
+        "Free of charge street parking": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=Bujjamma%20Hotel&query_place_id=ChIJSwxeoF36yTsRiWI5RU3MCSE",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNBIV8BkRnlfzH5PrwVhLIbzWYJ4khPqwIFq3ZK=w408-h544-k-no",
+  "kgmid": "/g/11dfjj2cq5",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNBIV8BkRnlfzH5PrwVhLIbzWYJ4khPqwIFq3ZK=w1920-h1080-k-no",
+      "authorName": "raju bujjamma",
+      "authorUrl": "https://maps.google.com/maps/contrib/107869535944914049674",
+      "uploadedAt": "2020-09-14T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipNBIV8BkRnlfzH5PrwVhLIbzWYJ4khPqwIFq3ZK=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 21,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@16.350981803310674,77.7449109254735,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "BHUREDDY HOTEL",
+  "subTitle": "భురెడ్డి హోటల్",
+  "description": null,
+  "price": null,
+  "categoryName": "Hotel",
+  "address": "3RC Mashid, Masti Puram, 9P8W, Mahabubnagar, Telangana 509131, India",
+  "neighborhood": null,
+  "street": "3RC Mashid, Masti Puram, 9P8W",
+  "city": "Mahabubnagar, Mastipur",
+  "postalCode": "509131",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": "+91 63045 29511",
+  "phoneUnformatted": "+916304529511",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 16.367456,
+    "lng": 77.7455769
+  },
+  "locatedIn": null,
+  "plusCode": "9P8W+X6 Mastipur, Telangana, India",
+  "menu": null,
+  "totalScore": null,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ1VDbhaXxyTsRL8INGZzf70g",
+  "categories": [
+    "Hotel"
+  ],
+  "fid": "0x3bc9f1a585db50d5:0x48efdf9c190dc22f",
+  "cid": "5255665151692882479",
+  "reviewsCount": 0,
+  "reviewsDistribution": null,
+  "imagesCount": 1,
+  "imageCategories": [
+    "All",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T08:28:31.520Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Reddy hotel",
+      "reviewsCount": 13,
+      "totalScore": 3.8
+    },
+    {
+      "category": "People also search for",
+      "title": "Reddy Hotel",
+      "reviewsCount": 18,
+      "totalScore": 2.7
+    },
+    {
+      "category": "People also search for",
+      "title": "REDDY HOTEL",
+      "reviewsCount": 7,
+      "totalScore": 4.1
+    },
+    {
+      "category": "People also search for",
+      "title": "Bhagya laxmi Reddy Hotel",
+      "reviewsCount": 2,
+      "totalScore": 4.5
+    }
+  ],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {},
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=BHUREDDY%20HOTEL&query_place_id=ChIJ1VDbhaXxyTsRL8INGZzf70g",
+  "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=YyuUyINAyQULuBPR4mZ4Qg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=18.99311&pitch=0&thumbfov=100",
+  "kgmid": "/g/11y6g15589",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=YyuUyINAyQULuBPR4mZ4Qg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=18.99311&pitch=0&thumbfov=100"
+    }
+  ],
+  "imageUrls": [
+    "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=YyuUyINAyQULuBPR4mZ4Qg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=18.99311&pitch=0&thumbfov=100"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+}]

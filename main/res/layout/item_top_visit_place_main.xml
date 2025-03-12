@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+     xmlns:android="http://schemas.android.com/apk/res/android"
+     xmlns:app="http://schemas.android.com/apk/res-auto"
+     android:layout_height="105dp"
+     android:layout_width="match_parent"
+     android:layout_marginBottom="16dp"
+     android:backgroundTint="@color/white"
+     app:cardCornerRadius="8dp">
+
+    <RelativeLayout
+         android:layout_height="wrap_content"
+         android:layout_width="match_parent"
+         android:paddingEnd="7dp"
+         android:background="?attr/selectableItemBackground"
+         android:layout_margin="7dp"
+         android:paddingBottom="17dp"
+         android:paddingStart="17dp"
+         android:id="@+id/carditem"
+         android:paddingTop="7dp">
+
+        <com.google.android.material.imageview.ShapeableImageView
+             android:layout_height="120dp"
+             android:layout_width="120dp"
+             android:scaleType="centerCrop"
+             android:layout_centerVertical="true"
+             app:shapeAppearanceOverlay="@style/ShapeableImageView_ALLRoundedCorners"
+             android:layout_alignParentStart="true"
+             android:id="@+id/place_image" />
+
+        <TextView
+             android:layout_height="wrap_content"
+             android:layout_width="wrap_content"
+             android:layout_toEndOf="@id/place_image"
+             android:textSize="13sp"
+             android:fontFamily="@font/nunito_sans_extrabold"
+            android:textStyle="bold"
+             android:textColor="@color/black"
+             android:layout_marginStart="36dp"
+             android:layout_alignTop="@id/place_image"
+             android:id="@+id/place_name"
+             android:text="Agra" />
+
+        <TextView
+             android:layout_height="wrap_content"
+             android:layout_width="wrap_content"
+             android:layout_toEndOf="@id/place_image"
+             android:layout_below="@id/place_name"
+             android:textSize="10sp"
+             android:fontFamily="@font/nunito_sans_bold"
+             android:textColor="#CC000000"
+             android:layout_marginTop="4dp"
+             android:layout_marginStart="36dp"
+             android:id="@+id/place_rating"
+             android:text="Rating: 4.5" />
+
+        <androidx.cardview.widget.CardView
+             android:layout_height="24dp"
+             android:layout_width="24dp"
+             android:layout_centerVertical="true"
+             android:layout_alignParentEnd="true"
+            android:background="@color/white"
+             app:cardElevation="@dimen/cardview_compat_inset_shadow"
+             app:cardCornerRadius="14dp"
+             android:id="@+id/card_arrow">
+
+            <ImageView
+                 android:layout_height="20dp"
+                 android:layout_width="20dp"
+                 android:background="@drawable/ic_arrow_down"
+                 android:rotation="270"
+                 android:layout_gravity="center" />
+
+        </androidx.cardview.widget.CardView>
+
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>

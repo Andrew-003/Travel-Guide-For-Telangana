@@ -1,0 +1,3299 @@
+[{
+  "reviewTags": [],
+  "id": "23676702",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [],
+  "name": "Heart Beat De Aristo Resto",
+  "locationString": "Karimnagar, Karimnagar District, Telangana",
+  "description": "Food Like Pizza Burger Biryani, Fried Chicken, Much Moor Things Like Waffle Pancake And All",
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 70953 63738",
+  "address": "3-1-363 First Fioo Christian Colony Rajiv Rahadari 3-1-363 Beside Suraksha Hospital, Karimnagar 505001 India",
+  "addressObj": {
+    "street1": "3-1-363 First Fioo Christian Colony Rajiv Rahadari",
+    "street2": "3-1-363 Beside Suraksha Hospital",
+    "city": "Karimnagar",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "505001"
+  },
+  "localName": "Heart Beat De Aristo Resto",
+  "localAddress": "3-1-363 First Fioo Christian Colony Rajiv Rahadari, 3-1-363 Beside Suraksha Hospital, 505001",
+  "localLangCode": "en-IN",
+  "email": "heartbeatdearistoresto@gmail.com",
+  "latitude": 18.443834,
+  "longitude": 79.12695,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g2295103-d23676702-Reviews-Heart_Beat_De_Aristo_Resto-Karimnagar_Karimnagar_District_Telangana.html",
+  "website": null,
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295103",
+      "name": "Karimnagar",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389542",
+      "name": "Karimnagar District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": "Open Now",
+  "priceLevel": null,
+  "dishes": [],
+  "hours": {
+    "weekRanges": [
+      [
+        {
+          "open": 660,
+          "openHours": "11:00",
+          "close": 1500,
+          "closeHours": "01:00"
+        }
+      ],
+      [
+        {
+          "open": 660,
+          "openHours": "11:00",
+          "close": 1500,
+          "closeHours": "01:00"
+        }
+      ],
+      [
+        {
+          "open": 660,
+          "openHours": "11:00",
+          "close": 1500,
+          "closeHours": "01:00"
+        }
+      ],
+      [
+        {
+          "open": 660,
+          "openHours": "11:00",
+          "close": 1500,
+          "closeHours": "01:00"
+        }
+      ],
+      [
+        {
+          "open": 660,
+          "openHours": "11:00",
+          "close": 1500,
+          "closeHours": "01:00"
+        }
+      ],
+      [
+        {
+          "open": 660,
+          "openHours": "11:00",
+          "close": 1500,
+          "closeHours": "01:00"
+        }
+      ],
+      [
+        {
+          "open": 660,
+          "openHours": "11:00",
+          "close": 1500,
+          "closeHours": "01:00"
+        }
+      ]
+    ],
+    "timezone": "Asia/Kolkata"
+  },
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": false,
+  "priceRange": null,
+  "photos": [],
+  "travelerChoiceAward": null,
+  "cuisines": [
+    "Italian",
+    "Indian",
+    "Pizza",
+    "Cafe",
+    "Fast Food",
+    "Soups"
+  ],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [
+    "Lunch",
+    "Dinner"
+  ],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Karimnagar,restaurants"
+},
+{
+  "id": "27609136",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [],
+  "name": "Bongu Restaurant",
+  "locationString": "Karimnagar, Karimnagar District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 96034 56456",
+  "address": "Near Seven Hills, Beside Telangana Grameena Bank, Karimnagar 505001 India",
+  "addressObj": {
+    "street1": "Near Seven Hills, Beside Telangana Grameena Bank",
+    "street2": null,
+    "city": "Karimnagar",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "505001"
+  },
+  "localName": "Bongu Restaurant",
+  "localAddress": "Near Seven Hills, Beside Telangana Grameena Bank, 505001",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 18.439983,
+  "longitude": 79.12641,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g2295103-d27609136-Reviews-Bongu_Restaurant-Karimnagar_Karimnagar_District_Telangana.html",
+  "website": null,
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295103",
+      "name": "Karimnagar",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389542",
+      "name": "Karimnagar District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": null,
+  "priceLevel": null,
+  "dishes": [],
+  "hours": null,
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": false,
+  "reviewTags": [],
+  "priceRange": null,
+  "photos": [],
+  "travelerChoiceAward": null,
+  "cuisines": [
+    "Indian"
+  ],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Karimnagar,restaurants"
+},
+{
+  "id": "23680165",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [],
+  "name": "Heart Beat Food Court",
+  "locationString": "Karimnagar, Karimnagar District, Telangana",
+  "description": "Food Like Pizza Burger Fried Chicken Pasta Biryanis Pancake Waffles Bubble Waffle Ice Creams Much More Things",
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 878 224 5456",
+  "address": "Professional Couriers, 3-1-378, Karimnagar 505001 India",
+  "addressObj": {
+    "street1": "Professional Couriers, 3-1-378",
+    "street2": null,
+    "city": "Karimnagar",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "505001"
+  },
+  "localName": "Heart Beat Food Court",
+  "localAddress": "Professional Couriers, 3-1-378, 505001",
+  "localLangCode": "en-IN",
+  "email": "heartbeatfoodcourts@gmail.com",
+  "latitude": 18.444204,
+  "longitude": 79.12585,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g2295103-d23680165-Reviews-Heart_Beat_Food_Court-Karimnagar_Karimnagar_District_Telangana.html",
+  "website": "https://www.facebook.com/heartbeatfoodcourt/",
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295103",
+      "name": "Karimnagar",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389542",
+      "name": "Karimnagar District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": "Open Now",
+  "priceLevel": null,
+  "dishes": [],
+  "hours": {
+    "weekRanges": [
+      [
+        {
+          "open": 600,
+          "openHours": "10:00",
+          "close": 1080,
+          "closeHours": "18:00"
+        }
+      ],
+      [
+        {
+          "open": 600,
+          "openHours": "10:00",
+          "close": 1500,
+          "closeHours": "01:00"
+        }
+      ],
+      [
+        {
+          "open": 0,
+          "openHours": "00:00",
+          "close": 1439,
+          "closeHours": "23:59"
+        }
+      ],
+      [
+        {
+          "open": 600,
+          "openHours": "10:00",
+          "close": 1080,
+          "closeHours": "18:00"
+        }
+      ],
+      [
+        {
+          "open": 600,
+          "openHours": "10:00",
+          "close": 1080,
+          "closeHours": "18:00"
+        }
+      ],
+      [
+        {
+          "open": 600,
+          "openHours": "10:00",
+          "close": 1080,
+          "closeHours": "18:00"
+        }
+      ],
+      [
+        {
+          "open": 600,
+          "openHours": "10:00",
+          "close": 1080,
+          "closeHours": "18:00"
+        }
+      ]
+    ],
+    "timezone": "Asia/Kolkata"
+  },
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": false,
+  "reviewTags": [],
+  "priceRange": null,
+  "photos": [],
+  "travelerChoiceAward": null,
+  "cuisines": [
+    "Chinese",
+    "Indian",
+    "Pizza",
+    "Cafe",
+    "Fast Food"
+  ],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [
+    "Breakfast",
+    "Lunch",
+    "Dinner"
+  ],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Karimnagar,restaurants"
+},
+{
+  "id": "27609272",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [],
+  "name": "Sri Vindu Bhojanambu",
+  "locationString": "Karimnagar, Karimnagar District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 98669 72233",
+  "address": "Court To Srr College Road, Opp. Bharath Petrol Bunk, Karimnagar 505001 India",
+  "addressObj": {
+    "street1": "Court To Srr College Road, Opp. Bharath Petrol Bunk",
+    "street2": null,
+    "city": "Karimnagar",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "505001"
+  },
+  "localName": "Sri Vindu Bhojanambu",
+  "localAddress": "Court To Srr College Road, Opp. Bharath Petrol Bunk, 505001",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 18.44996,
+  "longitude": 79.12111,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g2295103-d27609272-Reviews-Sri_Vindu_Bhojanambu-Karimnagar_Karimnagar_District_Telangana.html",
+  "website": null,
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295103",
+      "name": "Karimnagar",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389542",
+      "name": "Karimnagar District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": null,
+  "priceLevel": null,
+  "dishes": [],
+  "hours": null,
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": false,
+  "reviewTags": [],
+  "priceRange": null,
+  "photos": [],
+  "travelerChoiceAward": null,
+  "cuisines": [
+    "Indian"
+  ],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Karimnagar,restaurants"
+},
+{
+  "reviewTags": [],
+  "id": "27609384",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [],
+  "name": "Santosh Dhaba",
+  "locationString": "Karimnagar, Karimnagar District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 88977 55050",
+  "address": "Near Ntr Statue, Kothirampur, Karimnagar 505001 India",
+  "addressObj": {
+    "street1": "Near Ntr Statue, Kothirampur",
+    "street2": null,
+    "city": "Karimnagar",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "505001"
+  },
+  "localName": "Santosh Dhaba",
+  "localAddress": "Near Ntr Statue, Kothirampur, 505001",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 18.412182,
+  "longitude": 79.1381,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g2295103-d27609384-Reviews-Santosh_Dhaba-Karimnagar_Karimnagar_District_Telangana.html",
+  "website": null,
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295103",
+      "name": "Karimnagar",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389542",
+      "name": "Karimnagar District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": null,
+  "priceLevel": null,
+  "dishes": [],
+  "hours": null,
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": false,
+  "priceRange": null,
+  "photos": [],
+  "travelerChoiceAward": null,
+  "cuisines": [
+    "Indian"
+  ],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Karimnagar,restaurants"
+},
+{
+  "id": "27635433",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [],
+  "name": "Chaat Puchka Karimnagar",
+  "locationString": "Karimnagar, Karimnagar District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 97550 16498",
+  "address": "D. No. 3-1-659, Near Saffron House, Court Road, Karimnagar 505001 India",
+  "addressObj": {
+    "street1": "D. No. 3-1-659, Near Saffron House, Court Road",
+    "street2": null,
+    "city": "Karimnagar",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "505001"
+  },
+  "localName": "Chaat Puchka Karimnagar",
+  "localAddress": "D. No. 3-1-659, Near Saffron House, Court Road, 505001",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.642452,
+  "longitude": 78.83038,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g2295103-d27635433-Reviews-Chaat_Puchka_Karimnagar-Karimnagar_Karimnagar_District_Telangana.html",
+  "website": "http://www.chaatpuchka.net",
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295103",
+      "name": "Karimnagar",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389542",
+      "name": "Karimnagar District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": null,
+  "priceLevel": null,
+  "dishes": [],
+  "hours": null,
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": false,
+  "reviewTags": [],
+  "priceRange": null,
+  "photos": [],
+  "travelerChoiceAward": null,
+  "cuisines": [],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Karimnagar,restaurants"
+},
+{
+  "reviewTags": [],
+  "priceRange": null,
+  "photos": [],
+  "travelerChoiceAward": null,
+  "cuisines": [],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [],
+  "rankingPosition": 8,
+  "rankingDenominator": "10",
+  "rankingString": "#8 of 32 places to eat in Karimnagar",
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "id": "22867293",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [
+    "Sit down"
+  ],
+  "name": "Just Chill Bro Cafe & Bistro",
+  "locationString": "Karimnagar, Karimnagar District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rating": 4,
+  "rawRanking": 3.015425443649292,
+  "phone": null,
+  "address": "Karimnagar Rd, Karimnagar 505001 India",
+  "addressObj": {
+    "street1": "Karimnagar Rd",
+    "street2": null,
+    "city": "Karimnagar",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "505001"
+  },
+  "localName": "Just Chill Bro Cafe & Bistro",
+  "localAddress": "Karimnagar Rd, 505001",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 18.450203,
+  "longitude": 79.121445,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g2295103-d22867293-Reviews-Just_Chill_Bro_Cafe_Bistro-Karimnagar_Karimnagar_District_Telangana.html",
+  "website": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295103",
+      "name": "Karimnagar",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389542",
+      "name": "Karimnagar District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 1,
+    "count5": 0
+  },
+  "numberOfReviews": 1,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": null,
+  "priceLevel": "$",
+  "dishes": [],
+  "hours": null,
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": false,
+  "input": "Telangana,Karimnagar,restaurants"
+},
+{
+  "id": "27609297",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [],
+  "name": "Lassi Shop Karimnagar",
+  "locationString": "Karimnagar, Karimnagar District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 95537 63767",
+  "address": "Lassi Shop, Tower Road, Rajiv Chowk, Karimnagar 505001 India",
+  "addressObj": {
+    "street1": "Lassi Shop, Tower Road, Rajiv Chowk",
+    "street2": null,
+    "city": "Karimnagar",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "505001"
+  },
+  "localName": "Lassi Shop Karimnagar",
+  "localAddress": "Lassi Shop, Tower Road, Rajiv Chowk, 505001",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 18.434505,
+  "longitude": 79.13502,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g2295103-d27609297-Reviews-Lassi_Shop_Karimnagar-Karimnagar_Karimnagar_District_Telangana.html",
+  "website": "http://www.lassishop.in/",
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295103",
+      "name": "Karimnagar",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389542",
+      "name": "Karimnagar District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": null,
+  "priceLevel": null,
+  "dishes": [],
+  "hours": null,
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": false,
+  "reviewTags": [],
+  "priceRange": null,
+  "photos": [],
+  "travelerChoiceAward": null,
+  "cuisines": [],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Karimnagar,restaurants"
+},
+{
+  "reviewTags": [],
+  "priceRange": null,
+  "photos": [],
+  "travelerChoiceAward": null,
+  "cuisines": [],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "id": "27609259",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [],
+  "name": "Monginis Cake Shop",
+  "locationString": "Karimnagar, Karimnagar District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 76740 61650",
+  "address": "Shop No 2/10/1193, Jagityal Road, Chaitanyapuri, Opposite Indian Oil Petrol Pump, Karimnagar 505001 India",
+  "addressObj": {
+    "street1": "Shop No 2/10/1193, Jagityal Road, Chaitanyapuri, Opposite Indian Oil Petrol Pump",
+    "street2": null,
+    "city": "Karimnagar",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "505001"
+  },
+  "localName": "Monginis Cake Shop",
+  "localAddress": "Shop No 2/10/1193, Jagityal Road, Chaitanyapuri, Opposite Indian Oil Petrol Pump, 505001",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 18.450638,
+  "longitude": 79.1207,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g2295103-d27609259-Reviews-Monginis_Cake_Shop-Karimnagar_Karimnagar_District_Telangana.html",
+  "website": "https://cakeshops.monginis.net/monginis-cake-shop-crazy-cake-zone-cake-shop-chaitanyapuri-karimnagar-92018/home?utm_source=locator&utm_medium=facebook",
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295103",
+      "name": "Karimnagar",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389542",
+      "name": "Karimnagar District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": null,
+  "priceLevel": null,
+  "dishes": [],
+  "hours": null,
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": false,
+  "input": "Telangana,Karimnagar,restaurants"
+},
+{
+  "id": "27609248",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [],
+  "name": "Mehfil Bar And Restaurant",
+  "locationString": "Karimnagar, Karimnagar District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+109966333000",
+  "address": "3-7-929 Jagtial Road, Karimnagar 505001 India",
+  "addressObj": {
+    "street1": "3-7-929 Jagtial Road",
+    "street2": null,
+    "city": "Karimnagar",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "505001"
+  },
+  "localName": "Mehfil Bar And Restaurant",
+  "localAddress": "3-7-929 Jagtial Road, 505001",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 18.451082,
+  "longitude": 79.12085,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g2295103-d27609248-Reviews-Mehfil_Bar_And_Restaurant-Karimnagar_Karimnagar_District_Telangana.html",
+  "website": null,
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295103",
+      "name": "Karimnagar",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389542",
+      "name": "Karimnagar District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": null,
+  "priceLevel": null,
+  "dishes": [],
+  "hours": null,
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": false,
+  "reviewTags": [],
+  "priceRange": null,
+  "photos": [],
+  "travelerChoiceAward": null,
+  "cuisines": [],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Karimnagar,restaurants"
+},
+{
+  "reviewTags": [],
+  "id": "27609125",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [],
+  "name": "Pizza Hut",
+  "locationString": "Karimnagar, Karimnagar District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 1800 202 2022",
+  "address": "H No 3/1 & 347/1, Ground Floor, Christian Colony Road, Karimnagar 505001 India",
+  "addressObj": {
+    "street1": "H No 3/1 & 347/1, Ground Floor, Christian Colony Road",
+    "street2": null,
+    "city": "Karimnagar",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "505001"
+  },
+  "localName": "Pizza Hut",
+  "localAddress": "H No 3/1 & 347/1, Ground Floor, Christian Colony Road, 505001",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 18.439848,
+  "longitude": 79.128044,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g2295103-d27609125-Reviews-Pizza_Hut-Karimnagar_Karimnagar_District_Telangana.html",
+  "website": "https://restaurants.pizzahut.co.in/pizza-hut-ph-karimnagar-pizza-restaurant-christian-colony-road-karimnagar-118368/home?utm_source=locator&utm_medium=bing",
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295103",
+      "name": "Karimnagar",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389542",
+      "name": "Karimnagar District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": null,
+  "priceLevel": null,
+  "dishes": [],
+  "hours": null,
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": false,
+  "priceRange": null,
+  "photos": [],
+  "travelerChoiceAward": null,
+  "cuisines": [],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Karimnagar,restaurants"
+},
+{
+  "id": "27609036",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [],
+  "name": "Salar Chowk",
+  "locationString": "Karimnagar, Karimnagar District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": null,
+  "address": "Ashoknagar, Karimnagar 505001 India",
+  "addressObj": {
+    "street1": "Ashoknagar",
+    "street2": null,
+    "city": "Karimnagar",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "505001"
+  },
+  "localName": "Salar Chowk",
+  "localAddress": "Ashoknagar, 505001",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 18.439825,
+  "longitude": 79.13989,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g2295103-d27609036-Reviews-Salar_Chowk-Karimnagar_Karimnagar_District_Telangana.html",
+  "website": null,
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295103",
+      "name": "Karimnagar",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389542",
+      "name": "Karimnagar District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": null,
+  "priceLevel": null,
+  "dishes": [],
+  "hours": null,
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": false,
+  "reviewTags": [],
+  "priceRange": null,
+  "photos": [],
+  "travelerChoiceAward": null,
+  "cuisines": [],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Karimnagar,restaurants"
+},
+{
+  "id": "27609376",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [],
+  "name": "Indian Terrain",
+  "locationString": "Karimnagar, Karimnagar District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 77999 25017",
+  "address": "Shutter No : 10 & 11,ground Floor, Reddy Residency,christian Colony, Karim Nagar,telangana - 505001, Karimnagar 505001 India",
+  "addressObj": {
+    "street1": "Shutter No : 10 & 11,ground Floor, Reddy Residency,christian Colony, Karim Nagar,telangana - 505001",
+    "street2": null,
+    "city": "Karimnagar",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "505001"
+  },
+  "localName": "Indian Terrain",
+  "localAddress": "Shutter No : 10 & 11,ground Floor, Reddy Residency,christian Colony, Karim Nagar,telangana - 505001, 505001",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 18.42145,
+  "longitude": 79.11237,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g2295103-d27609376-Reviews-Indian_Terrain-Karimnagar_Karimnagar_District_Telangana.html",
+  "website": null,
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295103",
+      "name": "Karimnagar",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389542",
+      "name": "Karimnagar District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": null,
+  "priceLevel": null,
+  "dishes": [],
+  "hours": null,
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": false,
+  "reviewTags": [],
+  "priceRange": null,
+  "photos": [],
+  "travelerChoiceAward": null,
+  "cuisines": [
+    "Indian"
+  ],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Karimnagar,restaurants"
+},
+{
+  "reviewTags": [],
+  "id": "27609051",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [],
+  "name": "Pizza Hut",
+  "locationString": "Karimnagar, Karimnagar District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 1800 202 2022",
+  "address": "H No 3/1 & 347/1, Ground Floor, Christian Colony Road, Opposite Hdfc Bank, Karimnagar 505001 India",
+  "addressObj": {
+    "street1": "H No 3/1 & 347/1, Ground Floor, Christian Colony Road, Opposite Hdfc Bank",
+    "street2": null,
+    "city": "Karimnagar",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "505001"
+  },
+  "localName": "Pizza Hut",
+  "localAddress": "H No 3/1 & 347/1, Ground Floor, Christian Colony Road, Opposite Hdfc Bank, 505001",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 18.443575,
+  "longitude": 79.128075,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g2295103-d27609051-Reviews-Pizza_Hut-Karimnagar_Karimnagar_District_Telangana.html",
+  "website": "https://restaurants.pizzahut.co.in/pizza-hut-ph-karimnagar-pizza-restaurant-christian-colony-road-karimnagar-118368/home?utm_source=locator&utm_medium=facebook",
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295103",
+      "name": "Karimnagar",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389542",
+      "name": "Karimnagar District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": null,
+  "priceLevel": null,
+  "dishes": [],
+  "hours": null,
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": false,
+  "priceRange": null,
+  "photos": [],
+  "travelerChoiceAward": null,
+  "cuisines": [
+    "Pizza"
+  ],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Karimnagar,restaurants"
+},
+{
+  "id": "27635511",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [],
+  "name": "Vidhath Custard Apple Farm",
+  "locationString": "Karimnagar, Karimnagar District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": null,
+  "address": "Vinjapalli, Karimnagar 505473 India",
+  "addressObj": {
+    "street1": "Vinjapalli",
+    "street2": null,
+    "city": "Karimnagar",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "505473"
+  },
+  "localName": "Vidhath Custard Apple Farm",
+  "localAddress": "Vinjapalli, 505473",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 18.177414,
+  "longitude": 79.108345,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g2295103-d27635511-Reviews-Vidhath_Custard_Apple_Farm-Karimnagar_Karimnagar_District_Telangana.html",
+  "website": "http://custardapplefarm.com",
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295103",
+      "name": "Karimnagar",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389542",
+      "name": "Karimnagar District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": null,
+  "priceLevel": null,
+  "dishes": [],
+  "hours": null,
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": false,
+  "reviewTags": [],
+  "priceRange": null,
+  "photos": [],
+  "travelerChoiceAward": null,
+  "cuisines": [],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Karimnagar,restaurants"
+},
+{
+  "priceRange": null,
+  "photos": [],
+  "travelerChoiceAward": null,
+  "cuisines": [],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "id": "27609418",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [],
+  "name": "Eagle Restaurant",
+  "locationString": "Karimnagar, Karimnagar District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 70939 45857",
+  "address": "Gangadhara, Karimnagar 505445 India",
+  "addressObj": {
+    "street1": "Gangadhara",
+    "street2": null,
+    "city": "Karimnagar",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "505445"
+  },
+  "localName": "Eagle Restaurant",
+  "localAddress": "Gangadhara, 505445",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 18.58264,
+  "longitude": 79.01082,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g2295103-d27609418-Reviews-Eagle_Restaurant-Karimnagar_Karimnagar_District_Telangana.html",
+  "website": null,
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295103",
+      "name": "Karimnagar",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389542",
+      "name": "Karimnagar District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": null,
+  "priceLevel": null,
+  "dishes": [],
+  "hours": null,
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": false,
+  "reviewTags": [],
+  "input": "Telangana,Karimnagar,restaurants"
+},
+{
+  "id": "12994334",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [
+    "Sit down"
+  ],
+  "name": "Fresh N Fillin",
+  "locationString": "Karimnagar, Karimnagar District, Telangana",
+  "description": "Fresh ‘n’ Fillin’- a registered trademark brand by Filler Multi Products Pvt. Ltd. is our new venture of entering the world of Fresh n Healthy food & beverages. Our concept of F’n’F has come from the very aware & exposed youth of India who are ready to experiment different ideas, concepts, cuisines and at the same time are increasingly becoming more health & environment conscious.F’n’F believe in it’s unique delivery of service as its policy is “GUEST FIRST”. It’s traditional as well as western outlook gives you the feeling as you are the member of it’s family. Though we are new but the love and taste in our foods will let you become it’s fan. So fresh and so green, green ! We are the world! We love our planet and all its inhabitants. We’re working hard to lessen our footprint, and promise to keep pushing to make important new strides. We’re committed to extending hospitality beyond the four walls of FNF into the surrounding community.",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/11/1a/cb/b5/fresh-n-fillin-karimnagar.jpg",
+  "photoCount": 19,
+  "rankingPosition": 9,
+  "rating": 3.5,
+  "rawRanking": 3.0061068534851074,
+  "phone": "+91 878 222 2033",
+  "address": "Jagital Road 3-7-943, Gourishetty VV, Karimnagar 505001 India",
+  "addressObj": {
+    "street1": "Jagital Road",
+    "street2": "3-7-943, Gourishetty VV",
+    "city": "Karimnagar",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "505001"
+  },
+  "localName": "Fresh N Fillin",
+  "localAddress": "Jagital Road, 3-7-943, Gourishetty VV, 505001",
+  "localLangCode": "en-IN",
+  "email": "freshnfillin@gmail.com",
+  "latitude": 18.46597,
+  "longitude": 79.11165,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g2295103-d12994334-Reviews-Fresh_N_Fillin-Karimnagar_Karimnagar_District_Telangana.html",
+  "website": "http://www.freshnfillin.com",
+  "rankingString": "#9 of 29 Restaurants in Karimnagar",
+  "rankingDenominator": "29",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295103",
+      "name": "Karimnagar",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389542",
+      "name": "Karimnagar District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 1,
+    "count2": 0,
+    "count3": 1,
+    "count4": 1,
+    "count5": 1
+  },
+  "numberOfReviews": 4,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": "Open Now",
+  "priceLevel": "$$$$",
+  "dishes": [],
+  "hours": {
+    "weekRanges": [
+      [
+        {
+          "open": 660,
+          "openHours": "11:00",
+          "close": 1440,
+          "closeHours": "00:00"
+        }
+      ],
+      [
+        {
+          "open": 660,
+          "openHours": "11:00",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ],
+      [
+        {
+          "open": 660,
+          "openHours": "11:00",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ],
+      [
+        {
+          "open": 660,
+          "openHours": "11:00",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ],
+      [
+        {
+          "open": 660,
+          "openHours": "11:00",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ],
+      [
+        {
+          "open": 660,
+          "openHours": "11:00",
+          "close": 1440,
+          "closeHours": "00:00"
+        }
+      ],
+      [
+        {
+          "open": 660,
+          "openHours": "11:00",
+          "close": 1440,
+          "closeHours": "00:00"
+        }
+      ]
+    ],
+    "timezone": "Asia/Kolkata"
+  },
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": false,
+  "reviewTags": [],
+  "priceRange": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/1a/cb/a1/fresh-n-fillin-karimnagar.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/1a/cb/b5/fresh-n-fillin-karimnagar.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/1a/cb/b3/fresh-n-fillin-karimnagar.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/1a/cb/af/fresh-n-fillin-karimnagar.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/1a/cb/aa/fresh-n-fillin-karimnagar.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/1a/cb/a7/fresh-n-fillin-karimnagar.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/1a/cb/a4/fresh-n-fillin-karimnagar.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/1a/cb/9c/fresh-n-fillin-karimnagar.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/1a/cb/94/fresh-n-fillin-karimnagar.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/1a/cb/88/fresh-n-fillin-karimnagar.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/1a/cb/84/fresh-n-fillin-karimnagar.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/1a/cb/81/fresh-n-fillin-karimnagar.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/1a/cb/7f/fresh-n-fillin-karimnagar.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/1a/cb/7b/fresh-n-fillin-karimnagar.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/1a/cb/78/fresh-n-fillin-karimnagar.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/1a/cb/77/fresh-n-fillin-karimnagar.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/1a/cb/73/fresh-n-fillin-karimnagar.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/1a/cb/68/fresh-n-fillin-karimnagar.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/1a/ca/72/fresh-n-fillin-karimnagar.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "cuisines": [],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [
+    "Delivery",
+    "Takeout",
+    "Reservations",
+    "Outdoor Seating",
+    "Private Dining",
+    "Seating",
+    "Parking Available",
+    "Street Parking",
+    "Free off-street parking",
+    "Television",
+    "Digital Payments",
+    "Free Wifi",
+    "Accepts Credit Cards"
+  ],
+  "mealTypes": [
+    "Breakfast",
+    "Lunch",
+    "Dinner",
+    "Brunch"
+  ],
+  "isClaimedIcon": true,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Karimnagar,restaurants"
+},
+{
+  "reviewTags": [],
+  "id": "17430780",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [],
+  "name": "Lotus Grand Restaurant",
+  "locationString": "Karimnagar, Karimnagar District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/17/a8/8c/77/lotus-grand-conference.jpg",
+  "photoCount": 11,
+  "rankingPosition": 7,
+  "rating": 4,
+  "rawRanking": 3.037728786468506,
+  "phone": "+91 878 223 5555",
+  "address": "H.no 8-5-411, 412, Near Kaman Chowrastha Lotus Grand Hotel, Karimnagar 505001 India",
+  "addressObj": {
+    "street1": "H.no 8-5-411, 412, Near Kaman Chowrastha",
+    "street2": "Lotus Grand Hotel",
+    "city": "Karimnagar",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "505001"
+  },
+  "localName": "Lotus Grand Restaurant",
+  "localAddress": "H.no 8-5-411, 412, Near Kaman Chowrastha, Lotus Grand Hotel, 505001",
+  "localLangCode": "en-IN",
+  "email": "enquiry@lalotus.in",
+  "latitude": 18.42798,
+  "longitude": 79.13537,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g2295103-d17430780-Reviews-Lotus_Grand_Restaurant-Karimnagar_Karimnagar_District_Telangana.html",
+  "website": "http://www.lalotus.in",
+  "rankingString": "#7 of 29 Restaurants in Karimnagar",
+  "rankingDenominator": "29",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295103",
+      "name": "Karimnagar",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389542",
+      "name": "Karimnagar District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 3,
+    "count5": 0
+  },
+  "numberOfReviews": 3,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": null,
+  "priceLevel": null,
+  "dishes": [],
+  "hours": null,
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": false,
+  "priceRange": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/18/e3/86/24/screenshot-2019-08-21.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/17/a8/8c/77/lotus-grand-conference.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/17/a8/7e/1a/hotel-lotus-grand-restaurant.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/17/a8/8c/f3/deluxe-rooms.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/17/a8/8c/e5/spacious-room-furniture.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/17/a8/8c/c6/executive-twin-bed-rooms.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/17/a8/8c/a2/clean-and-beautiful-interiors.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/17/a8/8c/80/lavish-and-spacious-banquet.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/17/a8/8c/7d/pdrs-for-family-gatherings.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/17/a8/7f/b7/lotus-restaurant.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/17/a8/7d/eb/hotel-lotus-grand.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/e3/86/24/screenshot-2019-08-21.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "cuisines": [
+    "Indian"
+  ],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Karimnagar,restaurants"
+},
+{
+  "reviewTags": [],
+  "priceRange": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/0f/fa/77/bf/caption.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/fa/77/bf/caption.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "cuisines": [
+    "Indian"
+  ],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [],
+  "rankingPosition": 6,
+  "rankingDenominator": "10",
+  "rankingString": "#6 of 32 places to eat in Karimnagar",
+  "isClaimedIcon": true,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "id": "7074841",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [
+    "Sit down"
+  ],
+  "name": "Hotel Lakshmi Niharika Regency",
+  "locationString": "Karimnagar, Karimnagar District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-s/0f/fa/77/bf/caption.jpg",
+  "photoCount": 1,
+  "rating": 4,
+  "rawRanking": 3.039659023284912,
+  "phone": "+91 90000 21288",
+  "address": "Parvathipuram, Vemulawada, Karimnagar 505302 India",
+  "addressObj": {
+    "street1": "Parvathipuram, Vemulawada",
+    "street2": null,
+    "city": "Karimnagar",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "505302"
+  },
+  "localName": "Hotel Lakshmi Niharika Regency",
+  "localAddress": "Parvathipuram, Vemulawada, 505302",
+  "localLangCode": "en-IN",
+  "email": "gannamaneni@gmail.com",
+  "latitude": 18.46188,
+  "longitude": 78.86921,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g2295103-d7074841-Reviews-Hotel_Lakshmi_Niharika_Regency-Karimnagar_Karimnagar_District_Telangana.html",
+  "website": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295103",
+      "name": "Karimnagar",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389542",
+      "name": "Karimnagar District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 4,
+    "count5": 0
+  },
+  "numberOfReviews": 4,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": null,
+  "priceLevel": "$$ - $$$",
+  "dishes": [],
+  "hours": null,
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": false,
+  "input": "Telangana,Karimnagar,restaurants"
+},
+{
+  "id": "4825692",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [
+    "Sit down"
+  ],
+  "name": "Akshaya Family Restaurant",
+  "locationString": "Karimnagar, Karimnagar District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-s/04/7e/fa/3d/getlstd-property-photo.jpg",
+  "photoCount": 9,
+  "rankingPosition": 5,
+  "rating": 3.5,
+  "rawRanking": 3.051257371902466,
+  "phone": "+91 98494 39493",
+  "address": "Srinagar Colony, Karimnagar 505209 India",
+  "addressObj": {
+    "street1": "Srinagar Colony",
+    "street2": null,
+    "city": "Karimnagar",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "505209"
+  },
+  "localName": "Akshaya Family Restaurant",
+  "localAddress": "Srinagar Colony, 505209",
+  "localLangCode": "en-IN",
+  "email": "akshayafamilyrestaurantgdk@gmail.com",
+  "latitude": 27.20871,
+  "longitude": 78.04445,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g2295103-d4825692-Reviews-Akshaya_Family_Restaurant-Karimnagar_Karimnagar_District_Telangana.html",
+  "website": null,
+  "rankingString": "#5 of 29 Restaurants in Karimnagar",
+  "rankingDenominator": "29",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295103",
+      "name": "Karimnagar",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389542",
+      "name": "Karimnagar District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 2,
+    "count2": 0,
+    "count3": 3,
+    "count4": 7,
+    "count5": 3
+  },
+  "numberOfReviews": 15,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": null,
+  "priceLevel": "$$ - $$$",
+  "dishes": [],
+  "hours": null,
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": false,
+  "reviewTags": [],
+  "priceRange": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/13/cc/a2/0e/photo3jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/04/7e/fa/3d/getlstd-property-photo.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/26/f5/51/e3/akshaya-family-restaurant.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/26/f5/51/e0/akshaya-family-restaurant.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/26/f5/51/dc/akshaya-family-restaurant.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/13/cc/a2/0f/photo4jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/13/cc/a2/0d/photo2jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/13/cc/a2/0b/photo1jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/13/cc/a2/0a/photo0jpg.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/f5/51/dc/akshaya-family-restaurant.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/f5/51/e3/akshaya-family-restaurant.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/f5/51/e0/akshaya-family-restaurant.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/cc/a2/0f/photo4jpg.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/cc/a2/0e/photo3jpg.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/cc/a2/0d/photo2jpg.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/cc/a2/0b/photo1jpg.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/cc/a2/0a/photo0jpg.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "cuisines": [
+    "Chinese",
+    "Indian",
+    "Asian"
+  ],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [
+    "Breakfast",
+    "Lunch",
+    "Dinner"
+  ],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Karimnagar,restaurants"
+},
+{
+  "reviewTags": [],
+  "id": "8665146",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [],
+  "name": "Prathima",
+  "locationString": "Karimnagar, Karimnagar District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-s/0f/fa/6f/1e/caption.jpg",
+  "photoCount": 5,
+  "rankingPosition": 4,
+  "rating": 3.5,
+  "rawRanking": 3.0580027103424072,
+  "phone": null,
+  "address": "Karimnagar 505001 India",
+  "addressObj": {
+    "street1": null,
+    "street2": null,
+    "city": "Karimnagar",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "505001"
+  },
+  "localName": "Prathima",
+  "localAddress": "505001",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": null,
+  "longitude": null,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g2295103-d8665146-Reviews-Prathima-Karimnagar_Karimnagar_District_Telangana.html",
+  "website": null,
+  "rankingString": "#4 of 29 Restaurants in Karimnagar",
+  "rankingDenominator": "29",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295103",
+      "name": "Karimnagar",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389542",
+      "name": "Karimnagar District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 3,
+    "count2": 0,
+    "count3": 5,
+    "count4": 9,
+    "count5": 6
+  },
+  "numberOfReviews": 23,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": null,
+  "priceLevel": "$$ - $$$",
+  "dishes": [],
+  "hours": null,
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": false,
+  "priceRange": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/13/c9/d9/1d/photo2jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0f/fa/6f/1e/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/13/c9/d9/1e/photo3jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/13/c9/d9/1c/photo1jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/13/c9/d9/1b/photo0jpg.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/c9/d9/1e/photo3jpg.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/c9/d9/1d/photo2jpg.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/c9/d9/1c/photo1jpg.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/c9/d9/1b/photo0jpg.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/fa/6f/1e/caption.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "cuisines": [
+    "Indian"
+  ],
+  "dietaryRestrictions": [
+    "Vegetarian friendly"
+  ],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [
+    "Takeout",
+    "Seating"
+  ],
+  "mealTypes": [
+    "Lunch"
+  ],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Karimnagar,restaurants"
+},
+{
+  "reviewTags": [],
+  "id": "14141366",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [],
+  "name": "Atmosphere Lounge",
+  "locationString": "Karimnagar, Karimnagar District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/19/09/36/c4/screenshot-2019-08-29.jpg",
+  "photoCount": 1,
+  "rankingPosition": 3,
+  "rating": 4.5,
+  "rawRanking": 3.0617330074310303,
+  "phone": "+91 77998 55855",
+  "address": "Chemit Bhavan Street H.No. 2-10-1425, Above Vijay Bank, Karimnagar 505001 India",
+  "addressObj": {
+    "street1": "Chemit Bhavan Street",
+    "street2": "H.No. 2-10-1425, Above Vijay Bank",
+    "city": "Karimnagar",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "505001"
+  },
+  "localName": "Atmosphere Lounge",
+  "localAddress": "Chemit Bhavan Street, H.No. 2-10-1425, Above Vijay Bank, 505001",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 18.446957,
+  "longitude": 79.121796,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g2295103-d14141366-Reviews-Atmosphere_Lounge-Karimnagar_Karimnagar_District_Telangana.html",
+  "website": "https://www.facebook.com/Atmosphere-Lounge-105333734167731/",
+  "rankingString": "#3 of 29 Restaurants in Karimnagar",
+  "rankingDenominator": "29",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295103",
+      "name": "Karimnagar",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389542",
+      "name": "Karimnagar District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 2,
+    "count5": 1
+  },
+  "numberOfReviews": 3,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": null,
+  "priceLevel": null,
+  "dishes": [],
+  "hours": null,
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": false,
+  "priceRange": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/19/09/36/c4/screenshot-2019-08-29.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/09/36/c4/screenshot-2019-08-29.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "cuisines": [
+    "Fast Food"
+  ],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Karimnagar,restaurants"
+},
+{
+  "id": "12326205",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [],
+  "name": "New Peacock Restaurant",
+  "locationString": "Karimnagar, Karimnagar District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0f/fa/74/74/caption.jpg",
+  "photoCount": 14,
+  "rankingPosition": 2,
+  "rating": 4,
+  "rawRanking": 3.1174283027648926,
+  "phone": "+91 81252 90901",
+  "address": "8-5-433 Kaman Road, Karimnagar 505001 India",
+  "addressObj": {
+    "street1": "8-5-433 Kaman Road",
+    "street2": null,
+    "city": "Karimnagar",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "505001"
+  },
+  "localName": "New Peacock Restaurant",
+  "localAddress": "8-5-433 Kaman Road, 505001",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 18.43537,
+  "longitude": 79.13547,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g2295103-d12326205-Reviews-New_Peacock_Restaurant-Karimnagar_Karimnagar_District_Telangana.html",
+  "website": "https://www.facebook.com/newpeacockrestaurant/",
+  "rankingString": "#2 of 29 Restaurants in Karimnagar",
+  "rankingDenominator": "29",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295103",
+      "name": "Karimnagar",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389542",
+      "name": "Karimnagar District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 2,
+    "count3": 3,
+    "count4": 6,
+    "count5": 6
+  },
+  "numberOfReviews": 17,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": null,
+  "priceLevel": "$$ - $$$",
+  "dishes": [],
+  "hours": null,
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": false,
+  "reviewTags": [
+    {
+      "text": "biryani",
+      "reviews": 4
+    },
+    {
+      "text": "taste",
+      "reviews": 7
+    }
+  ],
+  "priceRange": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/0f/fa/74/74/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/29/05/6a/c8/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/29/05/6a/c7/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/29/05/6a/c6/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/29/05/6a/c5/caption.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/05/68/1e/restaurant-inside-view.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/05/68/1d/live-kitchen.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/05/68/1c/waiting-hall.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/05/68/1a/separate-family-sections.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/05/68/18/restaurant-inside-view.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/05/6a/c8/caption.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/05/6a/c6/caption.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/05/6a/c5/caption.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/05/6a/c7/caption.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/05/6a/c4/caption.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/05/68/19/new-peacock-restaurant.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/98/f6/5b/new-peacock-restaurant.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/fa/74/74/caption.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "cuisines": [
+    "Indian",
+    "Asian"
+  ],
+  "dietaryRestrictions": [
+    "Vegetarian friendly",
+    "Halal"
+  ],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [
+    "Takeout",
+    "Reservations",
+    "Seating",
+    "Table Service"
+  ],
+  "mealTypes": [
+    "Lunch",
+    "Dinner"
+  ],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Karimnagar,restaurants"
+},
+{
+  "id": "16769475",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [
+    "Sit down"
+  ],
+  "name": "Sensations Bistro",
+  "locationString": "Karimnagar, Karimnagar District, Telangana",
+  "description": "Meeting up with colleagues, catching up with old friends, visiting from out of town whatever be it, sometimes the occasion calls for a memorable and indulgent meal under scenic settings that offers a welcome break from the norm. #BeSensational #senstionsknr #Karimnagar",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/16/ba/e1/63/exterior-look.jpg",
+  "photoCount": 9,
+  "rankingPosition": 1,
+  "rating": 5,
+  "rawRanking": 3.1589603424072266,
+  "phone": "+91 86868 65616",
+  "address": "Nalamachu complex, Karimnagar 505001 India",
+  "addressObj": {
+    "street1": "Nalamachu complex",
+    "street2": null,
+    "city": "Karimnagar",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "505001"
+  },
+  "localName": "Sensations Bistro",
+  "localAddress": "Nalamachu complex, 505001",
+  "localLangCode": "en-IN",
+  "email": "sensations2do@gmail.com",
+  "latitude": 18.4387,
+  "longitude": 79.1249,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g2295103-d16769475-Reviews-Sensations_Bistro-Karimnagar_Karimnagar_District_Telangana.html",
+  "website": "http://www.sensationsbistro.com",
+  "rankingString": "#1 of 29 Restaurants in Karimnagar",
+  "rankingDenominator": "29",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295103",
+      "name": "Karimnagar",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389542",
+      "name": "Karimnagar District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 2,
+    "count5": 7
+  },
+  "numberOfReviews": 9,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": null,
+  "priceLevel": "$$ - $$$",
+  "dishes": [],
+  "hours": null,
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": false,
+  "priceRange": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/16/ba/e1/61/interior.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/16/ba/e1/63/exterior-look.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/16/ba/e1/6f/balcony.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/16/ba/d9/c8/interior.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/16/ba/e1/6c/mocktail-counter.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/16/ba/e1/6a/entrance.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/16/ba/e1/68/live-kitchen.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/16/ba/e1/65/entrance.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/16/ba/e1/5f/interior.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "cuisines": [
+    "Italian",
+    "Chinese",
+    "Indian"
+  ],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [
+    "Reservations"
+  ],
+  "mealTypes": [],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "reviewTags": [],
+  "input": "Telangana,Karimnagar,restaurants"
+},
+{
+  "reviewTags": [],
+  "priceRange": null,
+  "photos": [],
+  "travelerChoiceAward": null,
+  "cuisines": [],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "id": "27609396",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [],
+  "name": "Letalkies",
+  "locationString": "Secunderabad, Hyderabad District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 84999 30074",
+  "address": "Le Talkies, Beside Gmart, Thumkunta Mainroad, Secunderabad 500078 India",
+  "addressObj": {
+    "street1": "Le Talkies, Beside Gmart, Thumkunta Mainroad",
+    "street2": null,
+    "city": "Secunderabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "500078"
+  },
+  "localName": "Letalkies",
+  "localAddress": "Le Talkies, Beside Gmart, Thumkunta Mainroad, 500078",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 18.35102,
+  "longitude": 79.16437,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g679014-d27609396-Reviews-Letalkies-Secunderabad_Hyderabad_District_Telangana.html",
+  "website": "https://d-letalkies.dotpe.in",
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "679014",
+      "name": "Secunderabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389092",
+      "name": "Hyderabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": null,
+  "priceLevel": null,
+  "dishes": [],
+  "hours": null,
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": true,
+  "input": "Telangana,Karimnagar,restaurants"
+},
+{
+  "reviewTags": [],
+  "priceRange": null,
+  "photos": [],
+  "travelerChoiceAward": null,
+  "cuisines": [
+    "Fast Food"
+  ],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "id": "19142765",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [],
+  "name": "Shree Vinayaka A/C Family Restaurant",
+  "locationString": "Rajanna Sircilla District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 87232 32211",
+  "address": "Samudra Lingapoor Rd Gopal Nagar, 505301 India",
+  "addressObj": {
+    "street1": "Samudra Lingapoor Rd",
+    "street2": "Gopal Nagar",
+    "city": null,
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "505301"
+  },
+  "localName": "Shree Vinayaka A/C Family Restaurant",
+  "localAddress": "Samudra Lingapoor Rd, Gopal Nagar, 505301",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 18.45393,
+  "longitude": 79.08882,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g12389599-d19142765-Reviews-Shree_Vinayaka_A_C_Family_Restaurant-Rajanna_Sircilla_District_Telangana.html",
+  "website": null,
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "12389599",
+      "name": "Rajanna Sircilla District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": null,
+  "priceLevel": null,
+  "dishes": [],
+  "hours": null,
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": true,
+  "input": "Telangana,Karimnagar,restaurants"
+},
+{
+  "reviewTags": [],
+  "id": "25009839",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [],
+  "name": "Frostopdrivein",
+  "locationString": "Karimnagar, Karimnagar District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/27/be/df/be/drive-in-with-all-types.jpg",
+  "photoCount": 8,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 99884 53456",
+  "address": "Padmanagar Bypass, Karimnagar 505001 India",
+  "addressObj": {
+    "street1": "Padmanagar Bypass",
+    "street2": null,
+    "city": "Karimnagar",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "505001"
+  },
+  "localName": "Frostopdrivein",
+  "localAddress": "Padmanagar Bypass, 505001",
+  "localLangCode": "en-IN",
+  "email": "frostop999@gmail.com",
+  "latitude": 18.436012,
+  "longitude": 79.123276,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g2295103-d25009839-Reviews-Frostopdrivein-Karimnagar_Karimnagar_District_Telangana.html",
+  "website": null,
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295103",
+      "name": "Karimnagar",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389542",
+      "name": "Karimnagar District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": "Open Now",
+  "priceLevel": null,
+  "dishes": [],
+  "hours": {
+    "weekRanges": [
+      [
+        {
+          "open": 450,
+          "openHours": "07:30",
+          "close": 1440,
+          "closeHours": "00:00"
+        }
+      ],
+      [
+        {
+          "open": 450,
+          "openHours": "07:30",
+          "close": 1425,
+          "closeHours": "23:45"
+        }
+      ],
+      [
+        {
+          "open": 450,
+          "openHours": "07:30",
+          "close": 1425,
+          "closeHours": "23:45"
+        }
+      ],
+      [
+        {
+          "open": 450,
+          "openHours": "07:30",
+          "close": 1425,
+          "closeHours": "23:45"
+        }
+      ],
+      [
+        {
+          "open": 450,
+          "openHours": "07:30",
+          "close": 1425,
+          "closeHours": "23:45"
+        }
+      ],
+      [
+        {
+          "open": 450,
+          "openHours": "07:30",
+          "close": 1425,
+          "closeHours": "23:45"
+        }
+      ],
+      [
+        {
+          "open": 450,
+          "openHours": "07:30",
+          "close": 1470,
+          "closeHours": "00:30"
+        }
+      ]
+    ],
+    "timezone": "Asia/Kolkata"
+  },
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": false,
+  "priceRange": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/27/be/df/0a/it-s-a-drive-in-all-types.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/27/be/df/c0/drive-in-with-all-types.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/27/be/df/bf/drive-in-with-all-types.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/27/be/df/be/drive-in-with-all-types.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/27/be/df/bd/drive-in-with-all-types.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/27/be/df/bc/drive-in-with-all-types.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "cuisines": [
+    "Italian",
+    "Chinese",
+    "Indian",
+    "Pizza",
+    "Barbecue"
+  ],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [
+    "Takeout",
+    "Reservations",
+    "Outdoor Seating",
+    "Parking Available",
+    "Free off-street parking",
+    "Television",
+    "Mastercard",
+    "Visa",
+    "Digital Payments",
+    "Free Wifi",
+    "Discover",
+    "Accepts Credit Cards",
+    "Table Service",
+    "Waterfront",
+    "Drive Thru",
+    "Playgrounds",
+    "Non-smoking restaurants"
+  ],
+  "mealTypes": [
+    "Breakfast",
+    "Lunch",
+    "Dinner"
+  ],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Karimnagar,restaurants"
+},
+{
+  "reviewTags": [],
+  "id": "27609008",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [],
+  "name": "Jayanthkiranam",
+  "locationString": "Karimnagar, Karimnagar District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 79896 61332",
+  "address": "Opp:rtc Work Shop,vivekanandapuri,jagityal Road, Karimnagar 505001 India",
+  "addressObj": {
+    "street1": "Opp:rtc Work Shop,vivekanandapuri,jagityal Road",
+    "street2": null,
+    "city": "Karimnagar",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "505001"
+  },
+  "localName": "Jayanthkiranam",
+  "localAddress": "Opp:rtc Work Shop,vivekanandapuri,jagityal Road, 505001",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 18.4588,
+  "longitude": 79.11591,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g2295103-d27609008-Reviews-Jayanthkiranam-Karimnagar_Karimnagar_District_Telangana.html",
+  "website": null,
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295103",
+      "name": "Karimnagar",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389542",
+      "name": "Karimnagar District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": null,
+  "priceLevel": null,
+  "dishes": [],
+  "hours": null,
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": false,
+  "priceRange": null,
+  "photos": [],
+  "travelerChoiceAward": null,
+  "cuisines": [],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Karimnagar,restaurants"
+},
+{
+  "reviewTags": [],
+  "id": "27609240",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [],
+  "name": "London Waffle",
+  "locationString": "Karimnagar, Karimnagar District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 76740 11211",
+  "address": "Vavilalapallynn, Karimnagar 505001 India",
+  "addressObj": {
+    "street1": "Vavilalapallynn",
+    "street2": null,
+    "city": "Karimnagar",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "505001"
+  },
+  "localName": "London Waffle",
+  "localAddress": "Vavilalapallynn, 505001",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 18.449457,
+  "longitude": 79.12198,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g2295103-d27609240-Reviews-London_Waffle-Karimnagar_Karimnagar_District_Telangana.html",
+  "website": null,
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295103",
+      "name": "Karimnagar",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389542",
+      "name": "Karimnagar District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": null,
+  "priceLevel": null,
+  "dishes": [],
+  "hours": null,
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": false,
+  "priceRange": null,
+  "photos": [],
+  "travelerChoiceAward": null,
+  "cuisines": [],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Karimnagar,restaurants"
+},
+{
+  "id": "27609100",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [],
+  "name": "Multi Bite Bakers",
+  "locationString": "Karimnagar, Karimnagar District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 96424 86878",
+  "address": "H.no:4-1-498, Beside Vrk Silks Shoppingmall, Rajiv Chowk Road To Govt Girls College Road, Karimnagar 505001 India",
+  "addressObj": {
+    "street1": "H.no:4-1-498, Beside Vrk Silks Shoppingmall, Rajiv Chowk Road To Govt Girls College Road",
+    "street2": null,
+    "city": "Karimnagar",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "505001"
+  },
+  "localName": "Multi Bite Bakers",
+  "localAddress": "H.no:4-1-498, Beside Vrk Silks Shoppingmall, Rajiv Chowk Road To Govt Girls College Road, 505001",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 18.435528,
+  "longitude": 79.13382,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g2295103-d27609100-Reviews-Multi_Bite_Bakers-Karimnagar_Karimnagar_District_Telangana.html",
+  "website": null,
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295103",
+      "name": "Karimnagar",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389542",
+      "name": "Karimnagar District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": null,
+  "priceLevel": null,
+  "dishes": [],
+  "hours": null,
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": false,
+  "reviewTags": [],
+  "priceRange": null,
+  "photos": [],
+  "travelerChoiceAward": null,
+  "cuisines": [],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Karimnagar,restaurants"
+}]

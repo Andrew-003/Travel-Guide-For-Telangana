@@ -1,0 +1,2984 @@
+[{
+  "searchString": "hotels",
+  "rank": 12,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@17.4346375174663,77.78523654486554,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "R Banquets Ac Rooms",
+  "subTitle": "ఆర్ బాంక్వెట్స్ ఏసి రూమ్స్",
+  "description": null,
+  "price": null,
+  "categoryName": "Hotel",
+  "address": "Vikarabad Rd, Kamala Nagar, Vikarabad, Telangana 501101, India",
+  "neighborhood": "Kamala Nagar",
+  "street": "Vikarabad Rd",
+  "city": "Vikarabad",
+  "postalCode": "501101",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": "+91 99897 26656",
+  "phoneUnformatted": "+919989726656",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 17.3327268,
+    "lng": 77.9151939
+  },
+  "locatedIn": null,
+  "plusCode": "8WM8+33 Vikarabad, Telangana, India",
+  "menu": null,
+  "totalScore": 4.2,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJja5OtJFfyTsRNqZV18TBFZQ",
+  "categories": [
+    "Hotel"
+  ],
+  "fid": "0x3bc95f91b44eae8d:0x9415c1c4d755a636",
+  "cid": "10670647943294723638",
+  "reviewsCount": 328,
+  "reviewsDistribution": {
+    "oneStar": 18,
+    "twoStar": 12,
+    "threeStar": 33,
+    "fourStar": 75,
+    "fiveStar": 190
+  },
+  "imagesCount": 84,
+  "imageCategories": [
+    "All",
+    "Rooms",
+    "Exterior",
+    "Amenities",
+    "From visitors",
+    "By owner",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T08:10:34.276Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": "2024-11-04",
+  "checkOutDate": "2024-11-05",
+  "similarHotelsNearby": [
+    {
+      "name": "Chaya Inn Banquets and rooms",
+      "rating": 4.8,
+      "reviews": 122,
+      "description": "Higher guest rating",
+      "price": "$32"
+    },
+    {
+      "name": "Trance Veechika Resort",
+      "rating": 3.8,
+      "reviews": 865,
+      "description": "Free breakfast, Wi-Fi, and parking",
+      "price": "$80"
+    },
+    {
+      "name": "HARSHA DELUXE LODGE",
+      "rating": 4,
+      "reviews": 328,
+      "description": "Free Wi-Fi",
+      "price": null
+    },
+    {
+      "name": "RJ comforts hotel and lodging",
+      "rating": 3,
+      "reviews": 260,
+      "description": "Modest hotel next to a train station",
+      "price": null
+    },
+    {
+      "name": "Haritha Resort Ananthagiri, Vikarabad",
+      "rating": 3.7,
+      "reviews": 4212,
+      "description": "Free breakfast, Wi-Fi, and parking",
+      "price": null
+    },
+    {
+      "name": "Balaji Lodge A/C Deluxe",
+      "rating": 4.1,
+      "reviews": 106,
+      "description": null,
+      "price": null
+    },
+    {
+      "name": "Anantha Deluxe Lodge",
+      "rating": 4,
+      "reviews": 89,
+      "description": null,
+      "price": null
+    },
+    {
+      "name": "Deccan Trails-Forest Resort",
+      "rating": 4.1,
+      "reviews": 461,
+      "description": "Free breakfast, Wi-Fi, and parking",
+      "price": null
+    },
+    {
+      "name": "Infinite Adventure Club Luxury Lake side Camping in Ananthagiri Hills",
+      "rating": 3.9,
+      "reviews": 337,
+      "description": "Free breakfast and Wi-Fi",
+      "price": null
+    }
+  ],
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [
+    {
+      "title": "price",
+      "count": 10
+    },
+    {
+      "title": "ananthagiri hills",
+      "count": 6
+    },
+    {
+      "title": "service",
+      "count": 6
+    }
+  ],
+  "additionalInfo": {
+    "Amenities": [
+      {
+        "Wi-Fi": false
+      },
+      {
+        "Breakfast": false
+      },
+      {
+        "Parking": true
+      },
+      {
+        "Pool": false
+      },
+      {
+        "Air-conditioned": true
+      },
+      {
+        "Laundry service": true
+      },
+      {
+        "Pet-friendly": false
+      },
+      {
+        "Kid-friendly": true
+      },
+      {
+        "Restaurant": false
+      },
+      {
+        "Kitchens in some rooms": true
+      },
+      {
+        "Airport shuttle": false
+      },
+      {
+        "Fitness center": false
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=R%20Banquets%20Ac%20Rooms&query_place_id=ChIJja5OtJFfyTsRNqZV18TBFZQ",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOQWk8V6cOYULPxtDgK3vCZ_vsF7d1Dr3ehkVkP=w408-h259-k-no",
+  "kgmid": "/g/11h644wx38",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOQWk8V6cOYULPxtDgK3vCZ_vsF7d1Dr3ehkVkP=w1920-h1080-k-no",
+      "authorName": "R Banquets Ac Rooms",
+      "authorUrl": "https://maps.google.com/maps/contrib/108418693625976626079",
+      "uploadedAt": "2021-01-07T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipOQWk8V6cOYULPxtDgK3vCZ_vsF7d1Dr3ehkVkP=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 13,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@17.4346375174663,77.78523654486554,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "RJ comforts hotel and lodging",
+  "subTitle": "RJ కంఫోర్ట్స్ హోటల్ అండ్ లాడ్జింగ్",
+  "description": "Functional rooms, some with a/c, in a low-key hotel next to Vikarabad Junction railway station.",
+  "price": null,
+  "categoryName": "Hotel",
+  "address": "Vikarabad, Telangana 501101, India",
+  "neighborhood": null,
+  "street": null,
+  "city": "Vikarabad",
+  "postalCode": "501101",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": "+91 92463 39415",
+  "phoneUnformatted": "+919246339415",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 17.336908,
+    "lng": 77.909001
+  },
+  "locatedIn": null,
+  "plusCode": "8WP5+QJ Vikarabad, Telangana, India",
+  "menu": null,
+  "totalScore": 3,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJQS8KyJlfyTsR-KQPYN6rWGw",
+  "categories": [
+    "Hotel"
+  ],
+  "fid": "0x3bc95f99c80a2f41:0x6c58abde600fa4f8",
+  "cid": "7807178925629482232",
+  "reviewsCount": 260,
+  "reviewsDistribution": {
+    "oneStar": 68,
+    "twoStar": 34,
+    "threeStar": 54,
+    "fourStar": 44,
+    "fiveStar": 60
+  },
+  "imagesCount": 43,
+  "imageCategories": [
+    "All",
+    "Rooms",
+    "Videos",
+    "Exterior",
+    "From visitors",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T08:10:34.244Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": "3-star hotel",
+  "hotelDescription": null,
+  "checkInDate": "2024-11-04",
+  "checkOutDate": "2024-11-05",
+  "similarHotelsNearby": [
+    {
+      "name": "Balaji Lodge A/C Deluxe",
+      "rating": 4.1,
+      "reviews": 106,
+      "description": "Higher guest rating",
+      "price": null
+    }
+  ],
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [
+    {
+      "title": "service",
+      "count": 16
+    },
+    {
+      "title": "railway station",
+      "count": 9
+    },
+    {
+      "title": "price",
+      "count": 9
+    },
+    {
+      "title": "AC",
+      "count": 6
+    },
+    {
+      "title": "hot water",
+      "count": 4
+    },
+    {
+      "title": "money",
+      "count": 4
+    },
+    {
+      "title": "noise",
+      "count": 3
+    },
+    {
+      "title": "smell",
+      "count": 2
+    },
+    {
+      "title": "customer",
+      "count": 2
+    }
+  ],
+  "additionalInfo": {
+    "Amenities": [
+      {
+        "Pool": false
+      },
+      {
+        "Air-conditioned": true
+      },
+      {
+        "Laundry service": true
+      },
+      {
+        "Pet-friendly": true
+      },
+      {
+        "Kid-friendly": true
+      },
+      {
+        "Airport shuttle": false
+      },
+      {
+        "Fitness center": false
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=RJ%20comforts%20hotel%20and%20lodging&query_place_id=ChIJQS8KyJlfyTsR-KQPYN6rWGw",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPmcECRW_Tjc4p6gGe7_fY8VNzGuru8TT6JoJwk=w408-h543-k-no",
+  "kgmid": "/g/1yfjjnrfw",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPmcECRW_Tjc4p6gGe7_fY8VNzGuru8TT6JoJwk=w1920-h1080-k-no",
+      "authorName": "Sai Marar",
+      "authorUrl": "https://maps.google.com/maps/contrib/105212904032839679533",
+      "uploadedAt": "2021-12-08T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipPmcECRW_Tjc4p6gGe7_fY8VNzGuru8TT6JoJwk=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 11,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@17.4346375174663,77.78523654486554,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "Anantha Deluxe Lodge",
+  "subTitle": "అనంత డీలక్స్ లాడ్జ్",
+  "description": null,
+  "price": null,
+  "categoryName": "Hotel",
+  "address": "near Railway Station, Vikarabad, Telangana 501101, India",
+  "neighborhood": null,
+  "street": "near Railway Station",
+  "city": "Vikarabad",
+  "postalCode": "501101",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": "+91 95029 92213",
+  "phoneUnformatted": "+919502992213",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 17.335986,
+    "lng": 77.9089226
+  },
+  "locatedIn": null,
+  "plusCode": "8WP5+9H Vikarabad, Telangana, India",
+  "menu": null,
+  "totalScore": 4,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJIXbbpSNfyTsRkUFxu20FKrY",
+  "categories": [
+    "Hotel"
+  ],
+  "fid": "0x3bc95f23a5db7621:0xb62a056dbb714191",
+  "cid": "13126310032779067793",
+  "reviewsCount": 91,
+  "reviewsDistribution": {
+    "oneStar": 15,
+    "twoStar": 3,
+    "threeStar": 10,
+    "fourStar": 2,
+    "fiveStar": 61
+  },
+  "imagesCount": 5,
+  "imageCategories": [
+    "All",
+    "Exterior",
+    "Videos",
+    "From visitors",
+    "By owner",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T08:10:44.552Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": "2024-11-04",
+  "checkOutDate": "2024-11-05",
+  "similarHotelsNearby": [
+    {
+      "name": "Chaya Inn Banquets and rooms",
+      "rating": 4.8,
+      "reviews": 122,
+      "description": "Higher guest rating",
+      "price": "£28"
+    },
+    {
+      "name": "Trance Veechika Resort",
+      "rating": 3.8,
+      "reviews": 865,
+      "description": "Free breakfast, Wi-Fi and parking",
+      "price": "£69"
+    },
+    {
+      "name": "Balaji Lodge A/C Deluxe",
+      "rating": 4.1,
+      "reviews": 106,
+      "description": null,
+      "price": "£24"
+    },
+    {
+      "name": "Deccan Trails-Forest Resort",
+      "rating": 4.1,
+      "reviews": 461,
+      "description": "Free breakfast, Wi-Fi and parking",
+      "price": "£87"
+    },
+    {
+      "name": "HARSHA DELUXE LODGE",
+      "rating": 4,
+      "reviews": 328,
+      "description": "Free Wi-Fi",
+      "price": null
+    },
+    {
+      "name": "R Banquets Ac Rooms",
+      "rating": 4.2,
+      "reviews": 328,
+      "description": null,
+      "price": null
+    },
+    {
+      "name": "RJ comforts hotel and lodging",
+      "rating": 3,
+      "reviews": 260,
+      "description": "Modest hotel next to a train station",
+      "price": null
+    },
+    {
+      "name": "Haritha Resort Ananthagiri, Vikarabad",
+      "rating": 3.7,
+      "reviews": 4212,
+      "description": "Free breakfast, Wi-Fi and parking",
+      "price": null
+    },
+    {
+      "name": "Infinite Adventure Club Luxury Lake side Camping in Ananthagiri Hills",
+      "rating": 3.9,
+      "reviews": 337,
+      "description": "Free breakfast and Wi-Fi",
+      "price": null
+    }
+  ],
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [
+    {
+      "title": "service",
+      "count": 13
+    },
+    {
+      "title": "price",
+      "count": 4
+    },
+    {
+      "title": "AC",
+      "count": 2
+    },
+    {
+      "title": "bed sheet",
+      "count": 2
+    },
+    {
+      "title": "bar",
+      "count": 2
+    }
+  ],
+  "additionalInfo": {},
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=Anantha%20Deluxe%20Lodge&query_place_id=ChIJIXbbpSNfyTsRkUFxu20FKrY",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMKTsYCjxxw3VSOhLIO0WdcFZLt9WJKAsOhNwbx=w426-h240-k-no",
+  "kgmid": "/g/11p5rn5n2m",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMKTsYCjxxw3VSOhLIO0WdcFZLt9WJKAsOhNwbx=w1920-h1080-k-no",
+      "authorName": "Anantha Deluxe Lodge",
+      "authorUrl": "https://maps.google.com/maps/contrib/113964435903063925501",
+      "uploadedAt": "2021-10-01T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipMKTsYCjxxw3VSOhLIO0WdcFZLt9WJKAsOhNwbx=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 10,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@17.4346375174663,77.78523654486554,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "The GrassWalk jungle lodge",
+  "subTitle": "ద GrassWalk జంగల్ లాడ్జ్",
+  "description": null,
+  "price": null,
+  "categoryName": "Resort hotel",
+  "address": "7WH7+5HC, Village Road, Gudupally, Vikarabad, Telangana 501101, India",
+  "neighborhood": null,
+  "street": "7WH7+5HC, Village Road",
+  "city": "Gudupally, Vikarabad",
+  "postalCode": "501101",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": "+91 95151 13323",
+  "phoneUnformatted": "+919515113323",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 17.2779418,
+    "lng": 77.9138801
+  },
+  "locatedIn": null,
+  "plusCode": null,
+  "menu": null,
+  "totalScore": 3.5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJgUnF7BVgyTsRANP0NW3CcFM",
+  "categories": [
+    "Resort hotel",
+    "Wildlife and safari park"
+  ],
+  "fid": "0x3bc96015ecc54981:0x5370c26d35f4d300",
+  "cid": "6012519276852073216",
+  "reviewsCount": 798,
+  "reviewsDistribution": {
+    "oneStar": 141,
+    "twoStar": 57,
+    "threeStar": 142,
+    "fourStar": 185,
+    "fiveStar": 273
+  },
+  "imagesCount": 1245,
+  "imageCategories": [
+    "All",
+    "Rooms",
+    "Videos",
+    "Exterior",
+    "Amenities",
+    "Food & drink",
+    "From visitors"
+  ],
+  "scrapedAt": "2024-11-02T08:10:47.328Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": "2024-11-04",
+  "checkOutDate": "2024-11-05",
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [
+    {
+      "title": "tents",
+      "count": 57
+    },
+    {
+      "title": "mosquitoes",
+      "count": 12
+    },
+    {
+      "title": "winter",
+      "count": 11
+    },
+    {
+      "title": "feel",
+      "count": 11
+    },
+    {
+      "title": "blankets",
+      "count": 10
+    },
+    {
+      "title": "rainy",
+      "count": 7
+    },
+    {
+      "title": "drinking water",
+      "count": 6
+    },
+    {
+      "title": "scenery",
+      "count": 6
+    },
+    {
+      "title": "trekking",
+      "count": 5
+    },
+    {
+      "title": "frogs",
+      "count": 5
+    }
+  ],
+  "additionalInfo": {
+    "Amenities": [
+      {
+        "Free Wi-Fi": true
+      },
+      {
+        "Free breakfast": true
+      },
+      {
+        "Parking": true
+      },
+      {
+        "Pool": true
+      },
+      {
+        "Air-conditioned": false
+      },
+      {
+        "Laundry service": true
+      },
+      {
+        "Pet-friendly": true
+      },
+      {
+        "Room service": true
+      },
+      {
+        "Kid-friendly": true
+      },
+      {
+        "Restaurant": true
+      },
+      {
+        "Airport shuttle": false
+      },
+      {
+        "Fitness center": false
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=The%20GrassWalk%20jungle%20lodge&query_place_id=ChIJgUnF7BVgyTsRANP0NW3CcFM",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOEW1XYPzkx2fqEF-E3KcQEdrqBXFeePZc8mcHj=w426-h240-k-no",
+  "kgmid": "/g/1tgwl40q",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOEW1XYPzkx2fqEF-E3KcQEdrqBXFeePZc8mcHj=w1920-h1080-k-no",
+      "authorName": "Santhosh Birudaraju",
+      "authorUrl": "https://maps.google.com/maps/contrib/114994914424363496053",
+      "uploadedAt": "2022-05-29T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipOEW1XYPzkx2fqEF-E3KcQEdrqBXFeePZc8mcHj=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 9,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@17.4346375174663,77.78523654486554,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "Deccan Trails-Forest Resort",
+  "subTitle": "డెక్కన్ ట్రయల్స్-ఫారెస్ట్ రిసార్ట్",
+  "description": null,
+  "price": null,
+  "categoryName": "Resort hotel",
+  "address": "7XV4+QVJ gangupally thanda, Manneguda village, Vikarabad, Telangana 501101, India",
+  "neighborhood": null,
+  "street": "7XV4+QVJ gangupally thanda, Manneguda village",
+  "city": "Vikarabad",
+  "postalCode": "501101",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": "https://www.deccantrails.com/",
+  "phone": "+91 94906 89747",
+  "phoneUnformatted": "+919490689747",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 17.2944505,
+    "lng": 77.9571519
+  },
+  "locatedIn": null,
+  "plusCode": null,
+  "menu": null,
+  "totalScore": 4.1,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJoyrIYyVfyTsR0E-iZHHyYe4",
+  "categories": [
+    "Resort hotel"
+  ],
+  "fid": "0x3bc95f2563c82aa3:0xee61f27164a24fd0",
+  "cid": "17177277022601367504",
+  "reviewsCount": 461,
+  "reviewsDistribution": {
+    "oneStar": 32,
+    "twoStar": 14,
+    "threeStar": 47,
+    "fourStar": 156,
+    "fiveStar": 212
+  },
+  "imagesCount": 1341,
+  "imageCategories": [
+    "All",
+    "Latest",
+    "Videos",
+    "Exterior",
+    "Amenities",
+    "Food & drink",
+    "From visitors",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T08:10:47.478Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "similarHotelsNearby": [
+    {
+      "name": "DeccanTrails Campsite",
+      "rating": 4.1,
+      "reviews": 15,
+      "description": null,
+      "price": "$87"
+    },
+    {
+      "name": "Trance Veechika Resort",
+      "rating": 3.8,
+      "reviews": 865,
+      "description": "Lively countryside resort with a pool",
+      "price": null
+    }
+  ],
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [
+    {
+      "title": "tents",
+      "count": 29
+    },
+    {
+      "title": "adventure",
+      "count": 25
+    },
+    {
+      "title": "trekking",
+      "count": 18
+    },
+    {
+      "title": "nature",
+      "count": 18
+    },
+    {
+      "title": "zip line",
+      "count": 10
+    },
+    {
+      "title": "games",
+      "count": 10
+    },
+    {
+      "title": "rock climbing",
+      "count": 9
+    },
+    {
+      "title": "felt",
+      "count": 6
+    },
+    {
+      "title": "snacks",
+      "count": 6
+    },
+    {
+      "title": "adults",
+      "count": 5
+    }
+  ],
+  "additionalInfo": {
+    "Amenities": [
+      {
+        "Free Wi-Fi": true
+      },
+      {
+        "Free breakfast": true
+      },
+      {
+        "Free parking": true
+      },
+      {
+        "Pool": true
+      },
+      {
+        "Kitchens in some rooms": true
+      },
+      {
+        "Fitness center": false
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": {
+    "postDate": "3 years ago",
+    "postedBy": {
+      "totalReviews": null
+    },
+    "media": []
+  },
+  "url": "https://www.google.com/maps/search/?api=1&query=Deccan%20Trails-Forest%20Resort&query_place_id=ChIJoyrIYyVfyTsR0E-iZHHyYe4",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipM7eus25-j9CYKUf1J2jfd1ORvQ_UbZcCUyKpR0=w408-h306-k-no",
+  "kgmid": "/g/11fst0tqqr",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipM7eus25-j9CYKUf1J2jfd1ORvQ_UbZcCUyKpR0=w1920-h1080-k-no",
+      "authorName": "Priya M",
+      "authorUrl": "https://maps.google.com/maps/contrib/101435201362600130979",
+      "uploadedAt": "2021-10-20T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipM7eus25-j9CYKUf1J2jfd1ORvQ_UbZcCUyKpR0=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 8,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@17.4346375174663,77.78523654486554,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "Infinite Adventure Club Luxury Lake side Camping in Ananthagiri Hills",
+  "subTitle": null,
+  "description": null,
+  "price": null,
+  "categoryName": "Campground",
+  "address": "7VG6+CH Ananthagiri Hills, Dyacharam, Telangana 501102, India",
+  "neighborhood": null,
+  "street": "7VG6+CH Ananthagiri Hills",
+  "city": "Dyacharam",
+  "postalCode": "501102",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": "https://infiniteadventureclub.com/st_location/ananthagiri-hills/",
+  "phone": "+91 91107 45256",
+  "phoneUnformatted": "+919110745256",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 17.2760625,
+    "lng": 77.8614375
+  },
+  "locatedIn": null,
+  "plusCode": null,
+  "menu": null,
+  "totalScore": 3.9,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJreVCsQ9fyTsRI5v00rLeeUg",
+  "categories": [
+    "Campground",
+    "Adventure sports",
+    "Adventure sports center",
+    "Camping farm",
+    "Hiking area",
+    "Hostel",
+    "Mountain cabin",
+    "Resort hotel",
+    "Sports club",
+    "Wildlife park"
+  ],
+  "fid": "0x3bc95f0fb142e5ad:0x4879deb2d2f49b23",
+  "cid": "5222450102537591587",
+  "reviewsCount": 337,
+  "reviewsDistribution": {
+    "oneStar": 54,
+    "twoStar": 9,
+    "threeStar": 31,
+    "fourStar": 56,
+    "fiveStar": 187
+  },
+  "imagesCount": 602,
+  "imageCategories": [
+    "All",
+    "Latest",
+    "Videos",
+    "Exterior",
+    "Food & drink",
+    "Camping",
+    "Sunset",
+    "From visitors",
+    "By owner"
+  ],
+  "scrapedAt": "2024-11-02T08:10:48.934Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": "2024-11-04",
+  "checkOutDate": "2024-11-05",
+  "similarHotelsNearby": [
+    {
+      "name": "Trance Veechika Resort",
+      "rating": 3.8,
+      "reviews": 865,
+      "description": "Free parking",
+      "price": "$80"
+    },
+    {
+      "name": "The Wilderness Campsite",
+      "rating": 3.8,
+      "reviews": 207,
+      "description": null,
+      "price": "$594"
+    },
+    {
+      "name": "Haritha Resort Ananthagiri, Vikarabad",
+      "rating": 3.7,
+      "reviews": 4212,
+      "description": "Free parking",
+      "price": null
+    },
+    {
+      "name": "HARSHA DELUXE LODGE",
+      "rating": 4,
+      "reviews": 328,
+      "description": null,
+      "price": null
+    },
+    {
+      "name": "R Banquets Ac Rooms",
+      "rating": 4.2,
+      "reviews": 328,
+      "description": null,
+      "price": null
+    },
+    {
+      "name": "RJ comforts hotel and lodging",
+      "rating": 3,
+      "reviews": 260,
+      "description": "Modest hotel next to a train station",
+      "price": null
+    },
+    {
+      "name": "Balaji Lodge A/C Deluxe",
+      "rating": 4.1,
+      "reviews": 106,
+      "description": null,
+      "price": null
+    },
+    {
+      "name": "Anantha Deluxe Lodge",
+      "rating": 4,
+      "reviews": 89,
+      "description": null,
+      "price": null
+    }
+  ],
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [
+    {
+      "title": "service",
+      "count": 16
+    },
+    {
+      "title": "management",
+      "count": 14
+    },
+    {
+      "title": "money",
+      "count": 13
+    },
+    {
+      "title": "games",
+      "count": 11
+    },
+    {
+      "title": "cycling",
+      "count": 8
+    },
+    {
+      "title": "live music",
+      "count": 7
+    },
+    {
+      "title": "dinner",
+      "count": 7
+    },
+    {
+      "title": "snacks",
+      "count": 7
+    },
+    {
+      "title": "bonfire",
+      "count": 5
+    },
+    {
+      "title": "resort",
+      "count": 5
+    }
+  ],
+  "additionalInfo": {
+    "From the business": [
+      {
+        "Identifies as women-owned": true
+      }
+    ],
+    "Service options": [
+      {
+        "Onsite services": true
+      }
+    ],
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      }
+    ],
+    "Activities": [
+      {
+        "Hiking": true
+      }
+    ],
+    "Crowd": [
+      {
+        "LGBTQ+ friendly": true
+      }
+    ],
+    "Payments": [
+      {
+        "Google Pay": true
+      }
+    ],
+    "Children": [
+      {
+        "Good for kids": true
+      },
+      {
+        "Good for kids birthday": true
+      },
+      {
+        "Kid-friendly activities": true
+      },
+      {
+        "Playground": true
+      }
+    ],
+    "Pets": [
+      {
+        "Dog park": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Free Wi-Fi": true
+      },
+      {
+        "Free breakfast": true
+      },
+      {
+        "Parking": true
+      },
+      {
+        "Pool": true
+      },
+      {
+        "Laundry service": true
+      },
+      {
+        "Kitchens in some rooms": true
+      },
+      {
+        "Fitness center": false
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": {
+    "postDate": "a year ago",
+    "postedBy": {
+      "totalReviews": null
+    },
+    "media": [
+      {
+        "link": "https://lh3.googleusercontent.com/ggms/AF1QipMk10kBHsZ-NeOuxGczTrRv7O0o1dw0etjqSawu=m18",
+        "postDate": null
+      }
+    ]
+  },
+  "url": "https://www.google.com/maps/search/?api=1&query=Infinite%20Adventure%20Club%20Luxury%20Lake%20side%20Camping%20in%20Ananthagiri%20Hills&query_place_id=ChIJreVCsQ9fyTsRI5v00rLeeUg",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPgsgsx6dauBWaXJc8al4GOVxASbojQFKFf_DCt=w408-h725-k-no",
+  "kgmid": "/g/11mw8k258s",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPgsgsx6dauBWaXJc8al4GOVxASbojQFKFf_DCt=w1920-h1080-k-no",
+      "authorName": "Infinite Adventure Club Luxury Lake side Camping in Ananthagiri Hills",
+      "authorUrl": "https://maps.google.com/maps/contrib/113877180805737350068",
+      "uploadedAt": "2024-08-12T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipPgsgsx6dauBWaXJc8al4GOVxASbojQFKFf_DCt=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 7,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@17.4346375174663,77.78523654486554,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "Tiki village the Eco Resort",
+  "subTitle": "టికి గ్రామం ద ఎకో రిసార్ట్",
+  "description": null,
+  "price": null,
+  "categoryName": "Resort hotel",
+  "address": "Sarpanpally Lake, Godumguda, Vikarabad, Telangana 501101, India",
+  "neighborhood": null,
+  "street": "Sarpanpally Lake, Godumguda",
+  "city": "Vikarabad",
+  "postalCode": "501101",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": "https://www.tikivillagetheecoresort.com/",
+  "phone": "+91 76250 00666",
+  "phoneUnformatted": "+917625000666",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 17.2799528,
+    "lng": 77.861646
+  },
+  "locatedIn": null,
+  "plusCode": "7VH6+XM Vikarabad, Telangana, India",
+  "menu": null,
+  "totalScore": 4.3,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ1ygodKZhyTsRbtR3gTYBFhE",
+  "categories": [
+    "Resort hotel"
+  ],
+  "fid": "0x3bc961a6742828d7:0x111601368177d46e",
+  "cid": "1231172881744385134",
+  "reviewsCount": 814,
+  "reviewsDistribution": {
+    "oneStar": 87,
+    "twoStar": 24,
+    "threeStar": 47,
+    "fourStar": 96,
+    "fiveStar": 560
+  },
+  "imagesCount": 2067,
+  "imageCategories": [
+    "All",
+    "Latest",
+    "Videos",
+    "Rooms",
+    "Exterior",
+    "Food & drink",
+    "From visitors",
+    "By owner",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T08:10:58.643Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": "2024-11-04",
+  "checkOutDate": "2024-11-05",
+  "similarHotelsNearby": [
+    {
+      "name": "Trance Veechika Resort",
+      "rating": 3.8,
+      "reviews": 865,
+      "description": "Free breakfast, Wi-Fi, and parking",
+      "price": "$80"
+    },
+    {
+      "name": "The Wilderness Campsite",
+      "rating": 3.8,
+      "reviews": 207,
+      "description": null,
+      "price": "$594"
+    },
+    {
+      "name": "La Forest Resort",
+      "rating": 4.7,
+      "reviews": 162,
+      "description": "Free breakfast, Wi-Fi, and parking",
+      "price": "$101"
+    },
+    {
+      "name": "Infinite Adventure Club Luxury Lake side Camping in Ananthagiri Hills",
+      "rating": 3.9,
+      "reviews": 337,
+      "description": "Free breakfast and Wi-Fi",
+      "price": null
+    },
+    {
+      "name": "Haritha Resort Ananthagiri, Vikarabad",
+      "rating": 3.7,
+      "reviews": 4212,
+      "description": "Free breakfast, Wi-Fi, and parking",
+      "price": null
+    }
+  ],
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [
+    {
+      "title": "lake",
+      "count": 46
+    },
+    {
+      "title": "campfire",
+      "count": 33
+    },
+    {
+      "title": "ananthagiri hills",
+      "count": 17
+    },
+    {
+      "title": "biryani",
+      "count": 17
+    },
+    {
+      "title": "DJ",
+      "count": 15
+    },
+    {
+      "title": "budget",
+      "count": 15
+    },
+    {
+      "title": "trekking",
+      "count": 10
+    },
+    {
+      "title": "winter",
+      "count": 8
+    },
+    {
+      "title": "maintenance",
+      "count": 8
+    },
+    {
+      "title": "indoor games",
+      "count": 6
+    }
+  ],
+  "additionalInfo": {},
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": {
+    "postDate": "9 months ago",
+    "postedBy": {
+      "totalReviews": null
+    },
+    "media": []
+  },
+  "url": "https://www.google.com/maps/search/?api=1&query=Tiki%20village%20the%20Eco%20Resort&query_place_id=ChIJ1ygodKZhyTsRbtR3gTYBFhE",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOj2_h3D4dxY8m4Jnr9WXOMAcrSroZq9MNwDSpY=w408-h306-k-no",
+  "kgmid": "/g/11h8kzn5ps",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOj2_h3D4dxY8m4Jnr9WXOMAcrSroZq9MNwDSpY=w1920-h1080-k-no",
+      "authorName": "Tiki village the Eco Resort",
+      "authorUrl": "https://maps.google.com/maps/contrib/101994445007371728490",
+      "uploadedAt": "2022-12-09T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipOj2_h3D4dxY8m4Jnr9WXOMAcrSroZq9MNwDSpY=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 6,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@17.4346375174663,77.78523654486554,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "Haritha Resort Ananthagiri, Vikarabad",
+  "subTitle": "హరిత రిసార్ట్ అనంతగిరి, వికారాబాద్",
+  "description": null,
+  "price": null,
+  "categoryName": "Resort hotel",
+  "address": "Ananthagiri Down Rd, Vikarabad, Burgupally, Telangana 501101, India",
+  "neighborhood": null,
+  "street": "Ananthagiri Down Rd",
+  "city": "Vikarabad, Burgupally",
+  "postalCode": "501101",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": "+91 90109 11122",
+  "phoneUnformatted": "+919010911122",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 17.3117741,
+    "lng": 77.875494
+  },
+  "locatedIn": null,
+  "plusCode": "8V6G+P5 Vikarabad, Telangana, India",
+  "menu": null,
+  "totalScore": 3.6,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJbWE0lDFeyTsRPDMwdpICVrE",
+  "categories": [
+    "Resort hotel"
+  ],
+  "fid": "0x3bc95e319434616d:0xb15602927630333c",
+  "cid": "12778403820781712188",
+  "reviewsCount": 4214,
+  "reviewsDistribution": {
+    "oneStar": 378,
+    "twoStar": 335,
+    "threeStar": 946,
+    "fourStar": 1281,
+    "fiveStar": 1274
+  },
+  "imagesCount": 5171,
+  "imageCategories": [
+    "All",
+    "Latest",
+    "Videos",
+    "Rooms",
+    "Exterior",
+    "Amenities",
+    "Food & drink",
+    "From visitors",
+    "By owner",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T08:11:00.781Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": "2024-11-04",
+  "checkOutDate": "2024-11-05",
+  "similarHotelsNearby": [
+    {
+      "name": "Trance Veechika Resort",
+      "rating": 3.8,
+      "reviews": 865,
+      "description": "Lively countryside resort with a pool",
+      "price": "$80"
+    },
+    {
+      "name": "The Wilderness Campsite",
+      "rating": 3.8,
+      "reviews": 207,
+      "description": null,
+      "price": "$594"
+    },
+    {
+      "name": "HARSHA DELUXE LODGE",
+      "rating": 4,
+      "reviews": 328,
+      "description": null,
+      "price": null
+    },
+    {
+      "name": "R Banquets Ac Rooms",
+      "rating": 4.2,
+      "reviews": 328,
+      "description": null,
+      "price": null
+    },
+    {
+      "name": "RJ comforts hotel and lodging",
+      "rating": 3,
+      "reviews": 260,
+      "description": "Modest hotel next to a train station",
+      "price": null
+    },
+    {
+      "name": "Infinite Adventure Club Luxury Lake side Camping in Ananthagiri Hills",
+      "rating": 3.9,
+      "reviews": 337,
+      "description": null,
+      "price": null
+    },
+    {
+      "name": "Balaji Lodge A/C Deluxe",
+      "rating": 4.1,
+      "reviews": 106,
+      "description": null,
+      "price": null
+    },
+    {
+      "name": "Anantha Deluxe Lodge",
+      "rating": 4,
+      "reviews": 89,
+      "description": null,
+      "price": null
+    }
+  ],
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [
+    {
+      "title": "Recreations",
+      "count": 1
+    },
+    {
+      "title": "Lodging",
+      "count": 1
+    }
+  ],
+  "reviewsTags": [
+    {
+      "title": "ananthagiri hills",
+      "count": 73
+    },
+    {
+      "title": "buffet",
+      "count": 73
+    },
+    {
+      "title": "government",
+      "count": 68
+    },
+    {
+      "title": "play area",
+      "count": 46
+    },
+    {
+      "title": "average",
+      "count": 29
+    },
+    {
+      "title": "bedsheets",
+      "count": 27
+    },
+    {
+      "title": "spicy",
+      "count": 16
+    },
+    {
+      "title": "drinking water",
+      "count": 9
+    },
+    {
+      "title": "needs",
+      "count": 8
+    },
+    {
+      "title": "vada",
+      "count": 7
+    }
+  ],
+  "additionalInfo": {
+    "Amenities": [
+      {
+        "Free Wi-Fi": true
+      },
+      {
+        "Free breakfast": true
+      },
+      {
+        "Free parking": true
+      },
+      {
+        "Outdoor pool": true
+      },
+      {
+        "Air-conditioned": true
+      },
+      {
+        "Laundry service": true
+      },
+      {
+        "Pet-friendly": false
+      },
+      {
+        "Kid-friendly": true
+      },
+      {
+        "Restaurant": true
+      },
+      {
+        "Kitchens in some rooms": true
+      },
+      {
+        "Airport shuttle": false
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": {
+    "postDate": "4 months ago",
+    "postedBy": {
+      "totalReviews": null
+    },
+    "media": [
+      {
+        "link": "https://lh3.googleusercontent.com/ggms/AF1QipNTPOh7vZdsZDdS7c-NE8BGaGcQFnFBwhuIWU-T=m18",
+        "postDate": null
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/ggms/AF1QipMURwj3t6d9VCjEP5UXb-fnygDkc8lb6oycY3xs=m18",
+        "postDate": null
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/ggms/AF1QipPozsEMkPrvSaJb-KXMWjPdvqobVwemKucSFap6=m18",
+        "postDate": null
+      }
+    ]
+  },
+  "url": "https://www.google.com/maps/search/?api=1&query=Haritha%20Resort%20Ananthagiri%2C%20Vikarabad&query_place_id=ChIJbWE0lDFeyTsRPDMwdpICVrE",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOV8vchRDsf8uObLx9K4GkbpnKALFRe157kcWGL=w455-h240-k-no",
+  "kgmid": "/g/1tddw6jh",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOV8vchRDsf8uObLx9K4GkbpnKALFRe157kcWGL=w1920-h1080-k-no",
+      "authorName": "Haritha Resort Ananthagiri, Vikarabad",
+      "authorUrl": "https://maps.google.com/maps/contrib/102749225314274943757",
+      "uploadedAt": "2018-06-13T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipOV8vchRDsf8uObLx9K4GkbpnKALFRe157kcWGL=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 4,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@17.4346375174663,77.78523654486554,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "Chaya Inn Banquets and rooms",
+  "subTitle": null,
+  "description": null,
+  "price": "$32",
+  "categoryName": "Hotel",
+  "address": "8WHC+FQ8, Vikarabad, Telangana 501102, India",
+  "neighborhood": null,
+  "street": "8WHC+FQ8",
+  "city": "Vikarabad",
+  "postalCode": "501102",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": null,
+  "phoneUnformatted": null,
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 17.3286657,
+    "lng": 77.9219937
+  },
+  "locatedIn": null,
+  "plusCode": null,
+  "menu": null,
+  "totalScore": 4.8,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJZ7BZaABfyTsRRRmGGlWl13I",
+  "categories": [
+    "Hotel"
+  ],
+  "fid": "0x3bc95f006859b067:0x72d7a5551a861945",
+  "cid": "8275264625252374853",
+  "reviewsCount": 123,
+  "reviewsDistribution": {
+    "oneStar": 4,
+    "twoStar": 0,
+    "threeStar": 3,
+    "fourStar": 6,
+    "fiveStar": 110
+  },
+  "imagesCount": 40,
+  "imageCategories": [
+    "All",
+    "Rooms",
+    "Videos",
+    "Exterior",
+    "Amenities",
+    "From visitors",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T08:11:02.337Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "similarHotelsNearby": [
+    {
+      "name": "The Wilderness Campsite",
+      "rating": 3.8,
+      "reviews": 207,
+      "description": null,
+      "price": "$39"
+    }
+  ],
+  "hotelReviewSummary": null,
+  "hotelAds": [
+    {
+      "title": "Booking.com",
+      "googleUrl": "http://www.google.com/travel/clk?pc=AA80Osx0ME6sm075BtUtzCrf1RJHCEd3UKVUnX_62OAwMs0uHP5PJRC6ZfbaMLLxFD-NXJP4cCedCIJreex_ZGFtSvt6LddjNa7-8_AKzy7BKJa5dw1S5dluZz8QRx00XwJi1R7IP83RY5NMUQ&pcurl=https://www.booking.com/hotel/in/chaya-inn.html?checkin%3D2024-11-02%26checkout%3D2024-11-03%26group_adults%3D2%26req_adults%3D2%26show_room%3D1145344001_389976847_2_0_0%26lang%3Den%26selected_currency%3DUSD%26exrt%3D0.01188582%26ext_price_total%3D35.94%26ext_price_tax%3D3.85%26xfc%3DINR%26hca%3Dm%26group_children%3D0%26req_children%3D0%26%26no_rooms%3D1%26ts%3D1730528455%26%26utm_source%3Dmetagha%26utm_medium%3Dmapresults%26utm_campaign%3DUS%26utm_term%3Dhotel-11453440%26utm_content%3Ddev-desktop_los-1_bw-0_dow-Saturday_defdate-1_room-0_gstadt-2_rateid-0_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-0_checkin-20241102_ppt-%26aid%3D2127489%26label%3Dmetagha-link-MRUS-hotel-11453440_dev-desktop_los-1_bw-0_dow-Saturday_defdate-1_room-0_gstadt-2_rateid-0_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-0_checkin-20241102_ppt-",
+      "isOfficialSite": false,
+      "price": "$36",
+      "url": "https://www.booking.com/hotel/in/chaya-inn.html?checkin=2024-11-02&checkout=2024-11-03&group_adults=2&req_adults=2&show_room=1145344001_389976847_2_0_0&lang=en&selected_currency=USD&exrt=0.01188582&ext_price_total=35.94&ext_price_tax=3.85&xfc=INR&hca=m&group_children=0&req_children=0&&no_rooms=1&ts=1730528455&&utm_source=metagha&utm_medium=mapresults&utm_campaign=US&utm_term=hotel-11453440&utm_content=dev-desktop_los-1_bw-0_dow-Saturday_defdate-1_room-0_gstadt-2_rateid-0_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-0_checkin-20241102_ppt-&aid=2127489&label=metagha-link-MRUS-hotel-11453440_dev-desktop_los-1_bw-0_dow-Saturday_defdate-1_room-0_gstadt-2_rateid-0_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-0_checkin-20241102_ppt-"
+    },
+    {
+      "title": "Agoda",
+      "googleUrl": "http://www.google.com/travel/clk?pc=AA80Osxup9YkFEIEn4pwchisvamvcNMYu8KDs_h-TyS0wKe8w_opMIzvKtNpolZ5DTcFEvYbejQ5vaYdqveW6ivA_etEJoKWf2b5tNUxVa06dgs_2m8wOUwR_z_h-UqXZCV27nl9fw&pcurl=https://www.agoda.com/partners/partnersearch.aspx?site_id%3D1917614%26CkInDay%3D02%26CkInMonth%3D11%26CkInYear%3D2024%26CkOutDay%3D03%26campaignid%3D%26CkOutMonth%3D11%26CkOutYear%3D2024%26SearchDateType%3Ddefault%26NumberOfAdults%3D2%26LT%3D0%26NumberOfChildren%3D0%26childages%3D%26NumberOfRooms%3D1%26gsite%3Dmapresults%26los%3D1%26PartnerCurrency%3DINR%26hid%3D50521132%26RoomID%3D792204989%26masterRoomId%3D791650267%26PriceTax%3D3.85%26PriceTotal%3D35.94%26RatePlan%3D049c0d54-73e4-c523-7327-3241af8dc85f%26UserCountry%3DUS%26Currency%3DUSD%26UserDevice%3Ddesktop%26Verif%3Dfalse%26rr%3Drow_desktop%26audience_list%3D%26mcid%3D3038%26booking_source%3Dcpc%26adType%3D0%26mpt%3DNHYxd0xmOHFYM21qQzBEejF3STlPQ1ZsdkZ1aWlENXUzVWVYb2VXQmluMS9TUT09%26original_rr%3D",
+      "isOfficialSite": false,
+      "price": "$36",
+      "url": "https://www.agoda.com/partners/partnersearch.aspx?site_id=1917614&CkInDay=02&CkInMonth=11&CkInYear=2024&CkOutDay=03&campaignid=&CkOutMonth=11&CkOutYear=2024&SearchDateType=default&NumberOfAdults=2&LT=0&NumberOfChildren=0&childages=&NumberOfRooms=1&gsite=mapresults&los=1&PartnerCurrency=INR&hid=50521132&RoomID=792204989&masterRoomId=791650267&PriceTax=3.85&PriceTotal=35.94&RatePlan=049c0d54-73e4-c523-7327-3241af8dc85f&UserCountry=US&Currency=USD&UserDevice=desktop&Verif=false&rr=row_desktop&audience_list=&mcid=3038&booking_source=cpc&adType=0&mpt=NHYxd0xmOHFYM21qQzBEejF3STlPQ1ZsdkZ1aWlENXUzVWVYb2VXQmluMS9TUT09&original_rr="
+    },
+    {
+      "title": "Priceline",
+      "googleUrl": "http://www.google.com/travel/clk?pc=AA80OswfxC3VMgT8L6xymexerSEIzy_ccZf5lxAcBg2aNfvaniQWpHbkKgaGpMpHjooqpGYTPAUxosAer26r-n-4K2jyV6DHqvBPSA-uVzIe0ohiLsIiRn5wVwHXm8bH3vAzBDFi7L-tngY&pcurl=https://www.priceline.com/r/?channel%3Dmeta%26product%3Dhotel%26theme%3Dghalistings%26refid%3DPLGOOGLEMSS%26refclickid%3DUS_HP%257C91340806_mapresults_1%257C20241102%257Cdesktop%257Cdefaultdate%7Cpublic%7C%7C%7C0%257C2%257C0%7C0%7CEN%26hotelid%3D91340806%26checkin%3D20241102%26checkout%3D20241103%26rooms%3D1%26currency%3DINR%26displayedCurr%3DUSD%26POSCountryCode%3DUS%26taxDisplayMode%3DBP%26cityID%3D5000028316%26adults%3D2%26land%3DL%26metaid%3D15M_RutE1MOiSuKdubjRTPxw6Qhv6ZXWL6sxfX97zrkUkRBn1x3PqNUwW6guRgshZjndVoB4CO9YaE7XTgCYwSihaJB1SIwlrr_ju8fFBZqlaFqo9bB6tsOFW1MPjebKnLiptggowdAU0YJWra6uK5Fm6hn-V4-Xv-IJnO_NJ22jEdSkLHEGY3QjBx9IWmKC30J1A4Onl7pd6GnpA0xpOsXqHi6jYRv-xvnHIrm6ID1DPDYn9yIWWQPmde65IBzDWKS27ptbc1DQXtsdNyLhXQ%26dblcnt%3Dtrue%26user_num_adults%3D2%26pdtax%3D3.85%26pdt%3D35.94%26locale%3Den-us%26ad-src%3D",
+      "isOfficialSite": false,
+      "price": "$36",
+      "url": "https://www.priceline.com/r/?channel=meta&product=hotel&theme=ghalistings&refid=PLGOOGLEMSS&refclickid=US_HP|91340806_mapresults_1|20241102|desktop|defaultdate|public|||0|2|0|0|EN&hotelid=91340806&checkin=20241102&checkout=20241103&rooms=1&currency=INR&displayedCurr=USD&POSCountryCode=US&taxDisplayMode=BP&cityID=5000028316&adults=2&land=L&metaid=15M_RutE1MOiSuKdubjRTPxw6Qhv6ZXWL6sxfX97zrkUkRBn1x3PqNUwW6guRgshZjndVoB4CO9YaE7XTgCYwSihaJB1SIwlrr_ju8fFBZqlaFqo9bB6tsOFW1MPjebKnLiptggowdAU0YJWra6uK5Fm6hn-V4-Xv-IJnO_NJ22jEdSkLHEGY3QjBx9IWmKC30J1A4Onl7pd6GnpA0xpOsXqHi6jYRv-xvnHIrm6ID1DPDYn9yIWWQPmde65IBzDWKS27ptbc1DQXtsdNyLhXQ&dblcnt=true&user_num_adults=2&pdtax=3.85&pdt=35.94&locale=en-us&ad-src="
+    },
+    {
+      "title": "Bluepillow.com",
+      "googleUrl": "http://www.google.com/travel/clk?pc=AA80OszLUiipFGAzq9P8hW2CUJJcbxZ21cQdHsx2vtUpH0ZkAT30bbDlltABqgIml2xoN2ETNaNsPcUIfvdssSzhUqes9vTHJiFbjYRIn7bj0LcIm8ocUc0gKs5-J7yKlLJR0g&pcurl=https://www.bluepillow.com/checkout/65e232de93553be8f557cb3c?begin%3D2024-11-02%26end%3D2024-11-03%26block_id%3D-b,-BUhnD5VP-OzVLRSmLXyHoNOCH9eXY5bc8p3d48oqR4,-bpag-Vacation%2520rental%2520(other)%26adults%3D2%26childs%3D0%26infants%3D0%26childrens%3D0%26country%3DUS%26currency%3DUSD%26language%3Den%26source%3Dmapresults%26utm_campaign%3Dhotel%26prid%3Dforeign",
+      "isOfficialSite": false,
+      "price": "$36",
+      "url": "https://www.bluepillow.com/checkout/65e232de93553be8f557cb3c?begin=2024-11-02&end=2024-11-03&block_id=-b,-BUhnD5VP-OzVLRSmLXyHoNOCH9eXY5bc8p3d48oqR4,-bpag-Vacation rental (other)&adults=2&childs=0&infants=0&childrens=0&country=US&currency=USD&language=en&source=mapresults&utm_campaign=hotel&prid=foreign"
+    }
+  ],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [
+    {
+      "title": "service",
+      "count": 14
+    },
+    {
+      "title": "banquet hall",
+      "count": 7
+    },
+    {
+      "title": "hygienic",
+      "count": 7
+    },
+    {
+      "title": "decor",
+      "count": 3
+    },
+    {
+      "title": "clean rooms",
+      "count": 3
+    },
+    {
+      "title": "function",
+      "count": 3
+    },
+    {
+      "title": "catering",
+      "count": 2
+    },
+    {
+      "title": "food quality",
+      "count": 2
+    },
+    {
+      "title": "professionalism",
+      "count": 2
+    },
+    {
+      "title": "parking space",
+      "count": 2
+    }
+  ],
+  "additionalInfo": {},
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=Chaya%20Inn%20Banquets%20and%20rooms&query_place_id=ChIJZ7BZaABfyTsRRRmGGlWl13I",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMeqNjNBZ_eUCj9oXO0lnh3nGesj0pCBEZvdh_g=w535-h240-k-no",
+  "kgmid": "/g/11vk6prttt",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMeqNjNBZ_eUCj9oXO0lnh3nGesj0pCBEZvdh_g=w1920-h1080-k-no",
+      "authorName": "Shiva Event Manager",
+      "authorUrl": "https://maps.google.com/maps/contrib/113289409216563544999",
+      "uploadedAt": "2023-12-14T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipMeqNjNBZ_eUCj9oXO0lnh3nGesj0pCBEZvdh_g=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 5,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@17.4346375174663,77.78523654486554,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "DeccanTrails Campsite",
+  "subTitle": "దేచ్కాన్త్రైల్స్ కామ్ప్సితే",
+  "description": null,
+  "price": "£67",
+  "categoryName": "Campsite",
+  "address": "Manneguda Village, Gangupally Tanda, Manneguda (Sarecas), Telangana 501101, India",
+  "neighborhood": null,
+  "street": "Manneguda Village, Gangupally Tanda",
+  "city": "Manneguda (Sarecas)",
+  "postalCode": "501101",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": "http://www.deccantrails.com/",
+  "phone": "+91 98854 48894",
+  "phoneUnformatted": "+919885448894",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 17.2944719,
+    "lng": 77.9571519
+  },
+  "locatedIn": null,
+  "plusCode": "7XV4+QV Manneguda (Sarecas), Telangana, India",
+  "menu": null,
+  "totalScore": 4.1,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJfcbWLYzfyzsRlstQJ3VMXXY",
+  "categories": [
+    "Campsite",
+    "Adventure sports",
+    "Resort hotel",
+    "Rock climbing",
+    "Rock climbing instructor",
+    "Tours",
+    "Tourist attraction",
+    "Travel Agent"
+  ],
+  "fid": "0x3bcbdf8c2dd6c67d:0x765d4c752750cb96",
+  "cid": "8529057335364078486",
+  "reviewsCount": 15,
+  "reviewsDistribution": {
+    "oneStar": 2,
+    "twoStar": 0,
+    "threeStar": 1,
+    "fourStar": 4,
+    "fiveStar": 8
+  },
+  "imagesCount": 68,
+  "imageCategories": [
+    "All",
+    "Latest",
+    "Videos",
+    "Exterior",
+    "Food & drink",
+    "From visitors",
+    "By owner",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T08:11:04.920Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "similarHotelsNearby": [
+    {
+      "name": "Deccan Trails-Forest Resort",
+      "rating": 4.1,
+      "reviews": 461,
+      "description": "Free breakfast, Wi-Fi and parking",
+      "price": "£87"
+    },
+    {
+      "name": "Trance Veechika Resort",
+      "rating": 3.8,
+      "reviews": 865,
+      "description": "Free breakfast, Wi-Fi and parking",
+      "price": null
+    }
+  ],
+  "hotelReviewSummary": null,
+  "hotelAds": [
+    {
+      "title": "Bluepillow.co.uk",
+      "googleUrl": "http://www.google.com/travel/clk?pc=AA80Osy9psqtPcyGpH2nvbwL7RwsnpOnS7df-591UJGIKDdjuo0AXu5iIbS92nSIfqMyRzPOBiHk7RhOuhT4hj79AJsET0sj-0ZDRJnPcsgKAnEZbnDXrMrjqJQnDO2eTE0g-g&pcurl=https://www.bluepillow.co.uk/checkout/62de8777de4e4eebed116ce6?begin%3D2024-11-02%26end%3D2024-11-03%26block_id%3D-b,UjAJKy_3wYMrY2HooAFbZAiKtI6Oh8OAAjqwqUg7fWM,-bpag-Vacation%2520rental%2520(other)%26adults%3D2%26childs%3D0%26infants%3D0%26childrens%3D0%26country%3DGB%26currency%3DGBP%26language%3Den%26source%3Dmapresults%26utm_campaign%3Dhotel%26prid%3Dforeign",
+      "isOfficialSite": false,
+      "price": "£67",
+      "url": "https://www.bluepillow.co.uk/checkout/62de8777de4e4eebed116ce6?begin=2024-11-02&end=2024-11-03&block_id=-b,UjAJKy_3wYMrY2HooAFbZAiKtI6Oh8OAAjqwqUg7fWM,-bpag-Vacation rental (other)&adults=2&childs=0&infants=0&childrens=0&country=GB&currency=GBP&language=en&source=mapresults&utm_campaign=hotel&prid=foreign"
+    }
+  ],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [
+    {
+      "title": "trip",
+      "count": 2
+    }
+  ],
+  "additionalInfo": {
+    "Children": [
+      {
+        "Good for kids": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=DeccanTrails%20Campsite&query_place_id=ChIJfcbWLYzfyzsRlstQJ3VMXXY",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipP1b8pobckM8e-eyh-VXdSXYrC4gYMejqkzWT0L=w408-h408-k-no",
+  "kgmid": "/g/11l9k1914r",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipP1b8pobckM8e-eyh-VXdSXYrC4gYMejqkzWT0L=w1920-h1080-k-no",
+      "authorName": "Satish Kolluru",
+      "authorUrl": "https://maps.google.com/maps/contrib/101513941762826912383",
+      "uploadedAt": "2021-01-17T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipP1b8pobckM8e-eyh-VXdSXYrC4gYMejqkzWT0L=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 3,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@17.4346375174663,77.78523654486554,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "The Wilderness Campsite",
+  "subTitle": "ద విల్డర్నెస్ కామ్ప్సితే",
+  "description": null,
+  "price": "$594",
+  "categoryName": "Campground",
+  "address": "Sy 97, Sarpanpally Lake Rd, Vikarabad, Telangana 501101, India",
+  "neighborhood": null,
+  "street": "Sy 97, Sarpanpally Lake Rd",
+  "city": "Vikarabad",
+  "postalCode": "501101",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": "http://www.thewildernessretreat.in/",
+  "phone": "+91 80 4881 1488",
+  "phoneUnformatted": "+918048811488",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 17.2765739,
+    "lng": 77.8603218
+  },
+  "locatedIn": null,
+  "plusCode": "7VG6+J4 Vikarabad, Telangana, India",
+  "menu": null,
+  "totalScore": 3.8,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ1ZjqMR1fyTsRNRuLCjYAipg",
+  "categories": [
+    "Campground"
+  ],
+  "fid": "0x3bc95f1d31ea98d5:0x988a00360a8b1b35",
+  "cid": "10991598072656239413",
+  "reviewsCount": 208,
+  "reviewsDistribution": {
+    "oneStar": 43,
+    "twoStar": 7,
+    "threeStar": 16,
+    "fourStar": 19,
+    "fiveStar": 123
+  },
+  "imagesCount": 290,
+  "imageCategories": [
+    "All",
+    "Latest",
+    "Videos",
+    "Exterior",
+    "Amenities",
+    "Food & drink",
+    "Camping",
+    "Sunset",
+    "Lake",
+    "From visitors",
+    "By owner",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T08:11:11.896Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": "2025-01-23",
+  "checkOutDate": "2025-01-24",
+  "similarHotelsNearby": [
+    {
+      "name": "Trance Veechika Resort",
+      "rating": 3.8,
+      "reviews": 865,
+      "description": "Free breakfast, Wi-Fi, and parking",
+      "price": "$80"
+    },
+    {
+      "name": "Chaya Inn Banquets and rooms",
+      "rating": 4.8,
+      "reviews": 122,
+      "description": "Higher guest rating",
+      "price": "$32"
+    }
+  ],
+  "hotelReviewSummary": null,
+  "hotelAds": [
+    {
+      "title": "The Wilderness Campsite",
+      "googleUrl": "http://www.google.com/travel/clk?pc=AA80Oszf4sybNBlszyQvME-WPGnJPHML-wSbq-IhPnazHHOBHkGGyA0A8u0pS0Yvw0Nr6MJ5srUTtWIINSKg5-pGISDU-vqUBw2KzDxMFNIp-HnoQBvfG75G4V1QbOksXV23&pcurl=https://www.secure-booking-engine.com/accounts/3I0LemCdo6TtHYrgj5vpDA/properties/ftM7N-7DdUUasb-FgLMBPw/google-ari-reservation/?categoryId%3D25076%26propertyId%3D6999%26ratePlanId%3D25076_2%26checkinDay%3D23%26checkinMonth%3D01%26checkinYear%3D2025%26checkoutDay%3D24%26checkoutMonth%3D01%26checkoutYear%3D2025%26adults%3D2%26mpId%3D25076_2%26sourceType%3D6",
+      "isOfficialSite": true,
+      "price": "$79",
+      "url": "https://www.secure-booking-engine.com/accounts/3I0LemCdo6TtHYrgj5vpDA/properties/ftM7N-7DdUUasb-FgLMBPw/google-ari-reservation/?categoryId=25076&propertyId=6999&ratePlanId=25076_2&checkinDay=23&checkinMonth=01&checkinYear=2025&checkoutDay=24&checkoutMonth=01&checkoutYear=2025&adults=2&mpId=25076_2&sourceType=6"
+    },
+    {
+      "title": "Booking.com",
+      "googleUrl": "http://www.google.com/travel/clk?pc=AA80Oswb_jmHMZ9mYLvIsUEYJvHCB-28iqZ7Cylbp-wwSFmEsPoGo5UMMxGh_m0e_W8T4oWYwhmQmeR8phu-9z8INUwtqJHE3Xn8tUc3LSNpzQLqCk61Fv72qz14_eaMRayUMkPxh2_DWcmiCQ&pcurl=https://www.booking.com/hotel/in/the-wilderness-campsite-vikarabad1.html?checkin%3D2025-01-23%26checkout%3D2025-01-24%26group_adults%3D2%26req_adults%3D2%26show_room%3D1162178601_388907481_2_0_0%26lang%3Den%26selected_currency%3DUSD%26exrt%3D0.01188582%26ext_price_total%3D701.25%26ext_price_tax%3D106.97%26xfc%3DINR%26hca%3Dm%26group_children%3D0%26req_children%3D0%26%26ts%3D1729784100%26no_rooms%3D1%26edgtid%3D8B3B37KeSuqXM1PWF-Ic2g%26efpc%3DSZmbAKWJmLgqEw%26utm_source%3Dmetagha%26utm_medium%3Dmapresults%26utm_campaign%3DUS%26utm_term%3Dhotel-11621786%26utm_content%3Ddev-desktop_los-1_bw-82_dow-Thursday_defdate-1_room-0_gstadt-2_rateid-public_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-0_checkin-20250123_ppt-%26aid%3D2127489%26label%3Dmetagha-link-MRUS-hotel-11621786_dev-desktop_los-1_bw-82_dow-Thursday_defdate-1_room-0_gstadt-2_rateid-public_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-0_checkin-20250123_ppt-",
+      "isOfficialSite": false,
+      "price": "$701",
+      "url": "https://www.booking.com/hotel/in/the-wilderness-campsite-vikarabad1.html?checkin=2025-01-23&checkout=2025-01-24&group_adults=2&req_adults=2&show_room=1162178601_388907481_2_0_0&lang=en&selected_currency=USD&exrt=0.01188582&ext_price_total=701.25&ext_price_tax=106.97&xfc=INR&hca=m&group_children=0&req_children=0&&ts=1729784100&no_rooms=1&edgtid=8B3B37KeSuqXM1PWF-Ic2g&efpc=SZmbAKWJmLgqEw&utm_source=metagha&utm_medium=mapresults&utm_campaign=US&utm_term=hotel-11621786&utm_content=dev-desktop_los-1_bw-82_dow-Thursday_defdate-1_room-0_gstadt-2_rateid-public_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-0_checkin-20250123_ppt-&aid=2127489&label=metagha-link-MRUS-hotel-11621786_dev-desktop_los-1_bw-82_dow-Thursday_defdate-1_room-0_gstadt-2_rateid-public_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-0_checkin-20250123_ppt-"
+    }
+  ],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [
+    {
+      "title": "resort",
+      "count": 17
+    },
+    {
+      "title": "lake",
+      "count": 16
+    },
+    {
+      "title": "hospitality",
+      "count": 9
+    },
+    {
+      "title": "management",
+      "count": 9
+    },
+    {
+      "title": "mosquitoes",
+      "count": 8
+    },
+    {
+      "title": "ATV",
+      "count": 7
+    },
+    {
+      "title": "property",
+      "count": 7
+    },
+    {
+      "title": "cabins",
+      "count": 7
+    },
+    {
+      "title": "adventure",
+      "count": 6
+    },
+    {
+      "title": "boating",
+      "count": 5
+    }
+  ],
+  "additionalInfo": {
+    "Activities": [
+      {
+        "Hiking": true
+      }
+    ],
+    "Payments": [
+      {
+        "Camping fee": true
+      }
+    ],
+    "Children": [
+      {
+        "Good for kids": true
+      },
+      {
+        "Good for kids birthday": true
+      },
+      {
+        "Kid-friendly hikes": true
+      }
+    ],
+    "Pets": [
+      {
+        "Dog park": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=The%20Wilderness%20Campsite&query_place_id=ChIJ1ZjqMR1fyTsRNRuLCjYAipg",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMMUtaIJQV9QFEDn6d5rT0phUlhIzJe8nJM9EbV=w408-h272-k-no",
+  "kgmid": "/g/11tcw_tk0y",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMMUtaIJQV9QFEDn6d5rT0phUlhIzJe8nJM9EbV=w1920-h1080-k-no",
+      "authorName": "The Wilderness Campsite",
+      "authorUrl": "https://maps.google.com/maps/contrib/106471029834886359443",
+      "uploadedAt": "2022-09-22T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipMMUtaIJQV9QFEDn6d5rT0phUlhIzJe8nJM9EbV=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 2,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@17.4346375174663,77.78523654486554,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "La Forest Resort",
+  "subTitle": "లా ఫారెస్ట్ రిసార్ట్",
+  "description": null,
+  "price": "$101",
+  "categoryName": "Hotel",
+  "address": "Gudpally Village Road, Gudupally, Telangana 501101, India",
+  "neighborhood": null,
+  "street": "Gudpally Village Road",
+  "city": "Gudupally",
+  "postalCode": "501101",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": null,
+  "phoneUnformatted": null,
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 17.278304,
+    "lng": 77.9138511
+  },
+  "locatedIn": null,
+  "plusCode": "7WH7+8G Gudupally, Telangana, India",
+  "menu": null,
+  "totalScore": 4.7,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJzVliZwBhyTsRaMPzYe9HJRA",
+  "categories": [
+    "Hotel"
+  ],
+  "fid": "0x3bc96100676259cd:0x102547ef61f3c368",
+  "cid": "1163415172211262312",
+  "reviewsCount": 164,
+  "reviewsDistribution": {
+    "oneStar": 4,
+    "twoStar": 2,
+    "threeStar": 6,
+    "fourStar": 10,
+    "fiveStar": 142
+  },
+  "imagesCount": 118,
+  "imageCategories": [
+    "All",
+    "Latest",
+    "Videos",
+    "Rooms",
+    "Exterior",
+    "Amenities",
+    "Food & drink",
+    "From visitors",
+    "By owner"
+  ],
+  "scrapedAt": "2024-11-02T08:11:14.352Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": "2024-11-13",
+  "checkOutDate": "2024-11-14",
+  "similarHotelsNearby": [
+    {
+      "name": "The Wilderness Campsite",
+      "rating": 3.8,
+      "reviews": 207,
+      "description": null,
+      "price": "$39"
+    },
+    {
+      "name": "DeccanTrails Campsite",
+      "rating": 4.1,
+      "reviews": 15,
+      "description": null,
+      "price": "$87"
+    },
+    {
+      "name": "Deccan Trails-Forest Resort",
+      "rating": 4.1,
+      "reviews": 461,
+      "description": null,
+      "price": "$94"
+    },
+    {
+      "name": "Chaya Inn Banquets and rooms",
+      "rating": 4.8,
+      "reviews": 122,
+      "description": null,
+      "price": "$32"
+    },
+    {
+      "name": "Trance Veechika Resort",
+      "rating": 3.8,
+      "reviews": 865,
+      "description": "Lively countryside resort with a pool",
+      "price": "$80"
+    },
+    {
+      "name": "Haritha Resort Ananthagiri, Vikarabad",
+      "rating": 3.7,
+      "reviews": 4212,
+      "description": null,
+      "price": null
+    },
+    {
+      "name": "Tiki village the Eco Resort",
+      "rating": 4.3,
+      "reviews": 812,
+      "description": null,
+      "price": null
+    }
+  ],
+  "hotelReviewSummary": null,
+  "hotelAds": [
+    {
+      "title": "Booking.com",
+      "googleUrl": "http://www.google.com/travel/clk?pc=AA80OsxAaRuS-CVDPYjAA18LbgVa6XD8IKWiHb_M1bz0vGDb4wTsXI0qyHvz0N-TI6Ev4nF8MHEuN-_NpCBS_V36-0tBuJ6NLLgLSRumIdXkABxhjlAAJSMBn8kE5eVPuDdlIlTAJVm8kBgYew&pcurl=https://www.booking.com/hotel/in/la-forest-resort.html?checkin%3D2024-11-13%26checkout%3D2024-11-14%26group_adults%3D2%26req_adults%3D2%26show_room%3D1253355304_397854609_2_1_0%26lang%3Den%26selected_currency%3DUSD%26exrt%3D0.01188582%26ext_price_total%3D119.21%26ext_price_tax%3D18.19%26xfc%3DINR%26hca%3Dm%26group_children%3D0%26req_children%3D0%26%26ts%3D1730527708%26no_rooms%3D1%26%26utm_source%3Dmetagha%26utm_medium%3Dmapresults%26utm_campaign%3DUS%26utm_term%3Dhotel-12533553%26utm_content%3Ddev-desktop_los-1_bw-11_dow-Wednesday_defdate-1_room-0_gstadt-2_rateid-0_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-0_checkin-20241113_ppt-%26aid%3D2127489%26label%3Dmetagha-link-MRUS-hotel-12533553_dev-desktop_los-1_bw-11_dow-Wednesday_defdate-1_room-0_gstadt-2_rateid-0_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-0_checkin-20241113_ppt-",
+      "isOfficialSite": false,
+      "price": "$119",
+      "url": "https://www.booking.com/hotel/in/la-forest-resort.html?checkin=2024-11-13&checkout=2024-11-14&group_adults=2&req_adults=2&show_room=1253355304_397854609_2_1_0&lang=en&selected_currency=USD&exrt=0.01188582&ext_price_total=119.21&ext_price_tax=18.19&xfc=INR&hca=m&group_children=0&req_children=0&&ts=1730527708&no_rooms=1&&utm_source=metagha&utm_medium=mapresults&utm_campaign=US&utm_term=hotel-12533553&utm_content=dev-desktop_los-1_bw-11_dow-Wednesday_defdate-1_room-0_gstadt-2_rateid-0_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-0_checkin-20241113_ppt-&aid=2127489&label=metagha-link-MRUS-hotel-12533553_dev-desktop_los-1_bw-11_dow-Wednesday_defdate-1_room-0_gstadt-2_rateid-0_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-0_checkin-20241113_ppt-"
+    },
+    {
+      "title": "Priceline",
+      "googleUrl": "http://www.google.com/travel/clk?pc=AA80OswsjDd_jV2KHnzIgmxH9b-mlEX94sKLdBC18Yf1hiSmzEzDIt-JCUqSknf5X6MFpSK4Z8EdgZJ3IGBTPqsz2NoVmF1ztaFfJYzLSg524_zAOz_DQS52T67-SqR-JG3-KPafaso45H8&pcurl=https://www.priceline.com/r/?channel%3Dmeta%26product%3Dhotel%26theme%3Dghalistings%26refid%3DPLGOOGLEMSS%26refclickid%3DUS_HP%257C319302003_mapresults_1%257C20241113%257Cdesktop%257Cdefaultdate%7Cpublic%7C%7C%7C11%257C2%257C0%7C0%7CEN%26hotelid%3D319302003%26checkin%3D20241113%26checkout%3D20241114%26rooms%3D1%26currency%3DINR%26displayedCurr%3DUSD%26POSCountryCode%3DUS%26taxDisplayMode%3DBP%26cityID%3D5000028316%26adults%3D2%26land%3DL%26metaid%3DeKSUrudOwjjmWkhvKVygQCwn77k1CZcGQe5wTJTH39LIfC3sasBfsxsHLHiSnUoqh68uW8bozO597EW0uQkC7Frd6NDvqv2TZ4bLsR5_BlbYk8MPOjjAbPzfNW9vC_Bw0xamcd7srYfBe8ObGNF-VL3L8k-ui9aejPSa9kI7tKVkPakbydZSLxOnGm5P4PlI5-eJQjfsdWoHXm4--Kl9NckW4NuS5Rr9s_j5iPhNhQhrqFeQD1NtG5CvDZg0DI0rhJUuMJlKx96OfxYhCggEwQ%26dblcnt%3Dtrue%26user_num_adults%3D2%26pdtax%3D18.19%26pdt%3D119.22%26locale%3Den-us%26ad-src%3D",
+      "isOfficialSite": false,
+      "price": "$119",
+      "url": "https://www.priceline.com/r/?channel=meta&product=hotel&theme=ghalistings&refid=PLGOOGLEMSS&refclickid=US_HP|319302003_mapresults_1|20241113|desktop|defaultdate|public|||11|2|0|0|EN&hotelid=319302003&checkin=20241113&checkout=20241114&rooms=1&currency=INR&displayedCurr=USD&POSCountryCode=US&taxDisplayMode=BP&cityID=5000028316&adults=2&land=L&metaid=eKSUrudOwjjmWkhvKVygQCwn77k1CZcGQe5wTJTH39LIfC3sasBfsxsHLHiSnUoqh68uW8bozO597EW0uQkC7Frd6NDvqv2TZ4bLsR5_BlbYk8MPOjjAbPzfNW9vC_Bw0xamcd7srYfBe8ObGNF-VL3L8k-ui9aejPSa9kI7tKVkPakbydZSLxOnGm5P4PlI5-eJQjfsdWoHXm4--Kl9NckW4NuS5Rr9s_j5iPhNhQhrqFeQD1NtG5CvDZg0DI0rhJUuMJlKx96OfxYhCggEwQ&dblcnt=true&user_num_adults=2&pdtax=18.19&pdt=119.22&locale=en-us&ad-src="
+    }
+  ],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [
+    {
+      "title": "nature",
+      "count": 18
+    },
+    {
+      "title": "kids",
+      "count": 7
+    },
+    {
+      "title": "infinity pool",
+      "count": 5
+    },
+    {
+      "title": "property",
+      "count": 5
+    },
+    {
+      "title": "rainy",
+      "count": 4
+    },
+    {
+      "title": "leaves",
+      "count": 3
+    },
+    {
+      "title": "amount",
+      "count": 3
+    },
+    {
+      "title": "cottage",
+      "count": 3
+    },
+    {
+      "title": "trekking",
+      "count": 3
+    },
+    {
+      "title": "idli",
+      "count": 2
+    }
+  ],
+  "additionalInfo": {
+    "Crowd": [
+      {
+        "LGBTQ+ friendly": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Free Wi-Fi": true
+      },
+      {
+        "Free breakfast": true
+      },
+      {
+        "Free parking": true
+      },
+      {
+        "Accessible": false
+      },
+      {
+        "Outdoor pool": true
+      },
+      {
+        "Air-conditioned": true
+      },
+      {
+        "Laundry service": true
+      },
+      {
+        "Pet-friendly": true
+      },
+      {
+        "Room service": true
+      },
+      {
+        "Kid-friendly": true
+      },
+      {
+        "Restaurant": true
+      },
+      {
+        "Kitchen in all rooms": true
+      },
+      {
+        "Airport shuttle": false
+      },
+      {
+        "Fitness center": false
+      },
+      {
+        "Smoke-free": false
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=La%20Forest%20Resort&query_place_id=ChIJzVliZwBhyTsRaMPzYe9HJRA",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMIE2YjznpgQYdJIrrgQg5YeMUe4rd9XgSm8ybB=w427-h240-k-no",
+  "kgmid": "/g/11vzs2lqj2",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMIE2YjznpgQYdJIrrgQg5YeMUe4rd9XgSm8ybB=w1920-h1080-k-no",
+      "authorName": "La Forest Resort",
+      "authorUrl": "https://maps.google.com/maps/contrib/100463692456331791200",
+      "uploadedAt": "2024-07-10T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipMIE2YjznpgQYdJIrrgQg5YeMUe4rd9XgSm8ybB=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 3,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@17.500147104452818,77.92217163459668,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "Dwellings D.S Udyanavanam by V9 Acres",
+  "subTitle": null,
+  "description": null,
+  "price": null,
+  "categoryName": "Resort hotel",
+  "address": "CXHM+R9R, Shankarpalli - Nawabpet - Vikarabad Rd, Vattimeenapally, Vikarabad, Telangana 501111, India",
+  "neighborhood": null,
+  "street": "CXHM+R9R, Shankarpalli - Nawabpet - Vikarabad Rd",
+  "city": "Vattimeenapally, Vikarabad",
+  "postalCode": null,
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": null,
+  "phoneUnformatted": null,
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 17.4296241,
+    "lng": 77.9833962
+  },
+  "locatedIn": null,
+  "plusCode": null,
+  "menu": null,
+  "totalScore": 4.9,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ4wg7bi7jyzsR0sr1gWF1xOs",
+  "categories": [
+    "Resort hotel"
+  ],
+  "fid": "0x3bcbe32e6e3b08e3:0xebc4756181f5cad2",
+  "cid": "16988832756001000146",
+  "reviewsCount": 260,
+  "reviewsDistribution": {
+    "oneStar": 4,
+    "twoStar": 0,
+    "threeStar": 1,
+    "fourStar": 1,
+    "fiveStar": 254
+  },
+  "imagesCount": 4,
+  "imageCategories": [
+    "All",
+    "Exterior",
+    "Videos",
+    "Food & drink",
+    "From visitors",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T08:11:18.811Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": "2024-11-04",
+  "checkOutDate": "2024-11-05",
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [
+    {
+      "title": "environment",
+      "count": 7
+    },
+    {
+      "title": "farmhouse",
+      "count": 7
+    },
+    {
+      "title": "property",
+      "count": 4
+    },
+    {
+      "title": "cooperative",
+      "count": 3
+    },
+    {
+      "title": "peaceful",
+      "count": 3
+    },
+    {
+      "title": "heart",
+      "count": 2
+    },
+    {
+      "title": "culture",
+      "count": 2
+    }
+  ],
+  "additionalInfo": {},
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": {
+    "postDate": "9 months ago",
+    "postedBy": {
+      "totalReviews": null
+    },
+    "media": []
+  },
+  "url": "https://www.google.com/maps/search/?api=1&query=Dwellings%20D.S%20Udyanavanam%20by%20V9%20Acres&query_place_id=ChIJ4wg7bi7jyzsR0sr1gWF1xOs",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPmjVL6hfQ-yeVwO16kUAtpuHbJYUcOSlDSjotC=w408-h544-k-no",
+  "kgmid": "/g/11lrt8dt4q",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPmjVL6hfQ-yeVwO16kUAtpuHbJYUcOSlDSjotC=w1920-h1080-k-no",
+      "authorName": "Bhavya sai Karnati",
+      "authorUrl": "https://maps.google.com/maps/contrib/116632319046704419682",
+      "uploadedAt": "2023-04-19T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipPmjVL6hfQ-yeVwO16kUAtpuHbJYUcOSlDSjotC=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 1,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@17.4346375174663,77.78523654486554,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "Trance Veechika Resort",
+  "subTitle": "ట్రాన్స్ వీచిక రిసార్ట్",
+  "description": "Down-to-earth countryside resort offering simple cottages, plus a zip line, dirt karts & a pool.",
+  "price": "£69",
+  "categoryName": "Resort hotel",
+  "address": "Anantagiri Hills, Vikarabad Road, Godamguda, Vikarabad, Hyderabad, Telangana 500038, India",
+  "neighborhood": null,
+  "street": "Anantagiri Hills, Vikarabad Road, Godamguda, Vikarabad",
+  "city": "Hyderabad, Godamguda",
+  "postalCode": "500038",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": "http://www.trancehotels.com/",
+  "phone": "+91 88854 04505",
+  "phoneUnformatted": "+918885404505",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 17.2978123,
+    "lng": 77.8727972
+  },
+  "locatedIn": null,
+  "plusCode": "7VXF+44 Godamguda, Telangana, India",
+  "menu": null,
+  "totalScore": 3.8,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJPRDjiYFgyTsRHAPkMSqFiZk",
+  "categories": [
+    "Resort hotel"
+  ],
+  "fid": "0x3bc9608189e3103d:0x9989852a31e4031c",
+  "cid": "11063520375884481308",
+  "reviewsCount": 863,
+  "reviewsDistribution": {
+    "oneStar": 108,
+    "twoStar": 48,
+    "threeStar": 132,
+    "fourStar": 204,
+    "fiveStar": 371
+  },
+  "imagesCount": 1582,
+  "imageCategories": [
+    "All",
+    "Latest",
+    "Videos",
+    "Rooms",
+    "Exterior",
+    "Amenities",
+    "Food & drink",
+    "From visitors",
+    "By owner",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T08:11:19.681Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": "3-star hotel",
+  "hotelDescription": "Surrounded by meadows and fields, this relaxed resort is 6 km from the town of Vikarabad and 2 km from Godamgura railway station. It's 7 km from Ananthagiri Hills Viewpoint, offering scenic sunrise and sunset views of the Araku Valley.\n Basic cottages offer porches and en suite bathrooms; some have air-conditioning. Upgraded A-frame cottages add modern decor, sitting areas and verandas. There are no TVs.\n Complimentary perks include 3 meals at a casual open-air restaurant, plus dirt kart and zip line activities. There's also an outdoor pool and a rope park. Trekking and jeep tours are available, as are camping pitches. The resort is alcohol-free.",
+  "checkInDate": "2025-02-03",
+  "checkOutDate": "2025-02-04",
+  "similarHotelsNearby": [
+    {
+      "name": "DeccanTrails Campsite",
+      "rating": 4.1,
+      "reviews": 15,
+      "description": null,
+      "price": null
+    },
+    {
+      "name": "Deccan Trails-Forest Resort",
+      "rating": 4.1,
+      "reviews": 461,
+      "description": null,
+      "price": null
+    }
+  ],
+  "hotelReviewSummary": null,
+  "hotelAds": [
+    {
+      "title": "Trance Veechika Resort",
+      "googleUrl": "http://www.google.com/travel/clk?pc=AA80OsyOAQBjtCG0qC4iu5IhL7ZK7na47aZL1tXCyxho-ly-QJ2vLdAdLqFat7xuf6l_g_Lkkpor-Hhwb0nyCfHw1DBqXafac40SlA-v62gs89mfM1qd7qKtmpACVDbXUqIx&pcurl=https://bookings.simplotel.com/?propertyId%3D9369%26checkIn%3D2025-02-03%26checkOut%3D2025-02-04%26adults%3D2%26source%3Dgoogle_hotel_ads%26bookingSource%3Dcommissions%26VERIFICATION%3Dtrue%26utm_source%3Dgoogle_hotel_ads%26utm_medium%3Dcpa%26utm_campaign%3Dmapresults%26aid%3D%26adType%3D0",
+      "isOfficialSite": true,
+      "price": "£69",
+      "url": "https://bookings.simplotel.com/?propertyId=9369&checkIn=2025-02-03&checkOut=2025-02-04&adults=2&source=google_hotel_ads&bookingSource=commissions&VERIFICATION=true&utm_source=google_hotel_ads&utm_medium=cpa&utm_campaign=mapresults&aid=&adType=0"
+    },
+    {
+      "title": "MakeMyTrip.com",
+      "googleUrl": "http://www.google.com/travel/clk?pc=AA80Oswour9NlOAzGgC2iDDdFHsXT36ASK1Gy5XBXhJBCJajDlC4MU-k9UppvdtyYrEi9EdLGxYr6ENw0LAK71P7K8en9pcyP_PYnxWfDxYGl5kB7VJp3If7xImJjGKKTAmZig&pcurl=https://www.makemytrip.com/hotels/hotel-listing/?topHtlId%3D202304290749043106%26city%3DCTVIK%26country%3DIN%26checkin%3D02032025%26checkout%3D02042025%26rsc%3D1e2e%26roomStayQualifier%3D2e0e%26totalGuestCount%3D2%26roomCount%3D1%26cmp%3Dgooglehoteldfinder_DH_META_Free_default_GB_mapresults_202304290749043106%26_uCurrency%3DGBP%26Campaign%3D%26locusId%3DCTVIK%26locusType%3Dcity%26mtkeys%3D9d4d440f-6102-4511-bde7-668a9807442c%26au%3D",
+      "isOfficialSite": false,
+      "price": "£61",
+      "url": "https://www.makemytrip.com/hotels/hotel-listing/?topHtlId=202304290749043106&city=CTVIK&country=IN&checkin=02032025&checkout=02042025&rsc=1e2e&roomStayQualifier=2e0e&totalGuestCount=2&roomCount=1&cmp=googlehoteldfinder_DH_META_Free_default_GB_mapresults_202304290749043106&_uCurrency=GBP&Campaign=&locusId=CTVIK&locusType=city&mtkeys=9d4d440f-6102-4511-bde7-668a9807442c&au="
+    }
+  ],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [
+    {
+      "title": "kayaking",
+      "count": 46
+    },
+    {
+      "title": "zip line",
+      "count": 38
+    },
+    {
+      "title": "ATV",
+      "count": 27
+    },
+    {
+      "title": "team",
+      "count": 18
+    },
+    {
+      "title": "lunch",
+      "count": 18
+    },
+    {
+      "title": "trekking",
+      "count": 12
+    },
+    {
+      "title": "adventure sports",
+      "count": 10
+    },
+    {
+      "title": "cycling",
+      "count": 10
+    },
+    {
+      "title": "foosball",
+      "count": 7
+    },
+    {
+      "title": "boating",
+      "count": 6
+    }
+  ],
+  "additionalInfo": {
+    "Amenities": [
+      {
+        "Free Wi-Fi": true
+      },
+      {
+        "Free breakfast": true
+      },
+      {
+        "Free parking": true
+      },
+      {
+        "Outdoor pool": true
+      },
+      {
+        "Pet-friendly": false
+      },
+      {
+        "Room service": true
+      },
+      {
+        "Child friendly": true
+      },
+      {
+        "Airport shuttle": false
+      },
+      {
+        "Fitness centre": false
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": {
+    "postDate": "2 years ago",
+    "postedBy": {
+      "totalReviews": null
+    },
+    "media": []
+  },
+  "url": "https://www.google.com/maps/search/?api=1&query=Trance%20Veechika%20Resort&query_place_id=ChIJPRDjiYFgyTsRHAPkMSqFiZk",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNFumo4LJudHLuRzTkgMXMnCJTjyJI70jNS__Ko=w408-h272-k-no",
+  "kgmid": "/g/1q5gr_65m",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNFumo4LJudHLuRzTkgMXMnCJTjyJI70jNS__Ko=w1920-h1080-k-no",
+      "authorName": "Trance Veechika Resort",
+      "authorUrl": "https://maps.google.com/maps/contrib/106353739308378649477",
+      "uploadedAt": "2024-01-15T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipNFumo4LJudHLuRzTkgMXMnCJTjyJI70jNS__Ko=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 2,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@17.500147104452818,77.92217163459668,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "N Farm",
+  "subTitle": null,
+  "description": null,
+  "price": "$193",
+  "categoryName": "Farmstay",
+  "address": "CXWG+6HQ, near Nawabpet, Yavapur, Telangana 501111, India",
+  "neighborhood": null,
+  "street": "CXWG+6HQ, near Nawabpet",
+  "city": "Yavapur",
+  "postalCode": "501111",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": "https://nfarm.in/",
+  "phone": "+91 81069 19076",
+  "phoneUnformatted": "+918106919076",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 17.4455158,
+    "lng": 77.9764466
+  },
+  "locatedIn": null,
+  "plusCode": null,
+  "menu": null,
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJvxJksx7jyzsRqkDHpiUaUmk",
+  "categories": [
+    "Farmstay"
+  ],
+  "fid": "0x3bcbe31eb36412bf:0x69521a25a6c740aa",
+  "cid": "7589157071086895274",
+  "reviewsCount": 1,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 1
+  },
+  "imagesCount": 5,
+  "imageCategories": [
+    "All",
+    "Latest",
+    "Rooms",
+    "Exterior",
+    "Amenities",
+    "By owner",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T08:11:25.978Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "similarHotelsNearby": [
+    {
+      "name": "The Hamlet",
+      "rating": 4.1,
+      "reviews": 65,
+      "description": null,
+      "price": "$182"
+    }
+  ],
+  "hotelReviewSummary": null,
+  "hotelAds": [
+    {
+      "title": "MakeMyTrip.com",
+      "googleUrl": "http://www.google.com/travel/clk?pc=AA80OswjH-JzHyoEU42YbMfcSOTpFK6nWA0sX1mPcyhygaO6sJM4_5BJC6QfV9OWCL1o6jrnP2w7LL_LcA8va8WeTki9A6usfeBTDTPTfSYge4P_YnmjYQ0xQlHsgrLHKMjrTw&pcurl=https://www.makemytrip.com/hotels/hotel-listing/?topHtlId%3D202408221459324191%26city%3DCTVIK%26country%3DIN%26checkin%3D11022024%26checkout%3D11032024%26rsc%3D1e2e%26roomStayQualifier%3D2e0e%26totalGuestCount%3D2%26roomCount%3D1%26cmp%3Dgooglehoteldfinder_DH_META_Free_default_US_mapresults_202408221459324191%26_uCurrency%3DUSD%26Campaign%3D%26locusId%3DCTVIK%26locusType%3Dcity%26priceby%3DPNS%26mtkeys%3Dea3f9363-e103-494b-be11-868c161de9fb%26au%3D",
+      "isOfficialSite": false,
+      "price": "$227",
+      "url": "https://www.makemytrip.com/hotels/hotel-listing/?topHtlId=202408221459324191&city=CTVIK&country=IN&checkin=11022024&checkout=11032024&rsc=1e2e&roomStayQualifier=2e0e&totalGuestCount=2&roomCount=1&cmp=googlehoteldfinder_DH_META_Free_default_US_mapresults_202408221459324191&_uCurrency=USD&Campaign=&locusId=CTVIK&locusType=city&priceby=PNS&mtkeys=ea3f9363-e103-494b-be11-868c161de9fb&au="
+    }
+  ],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Amenities": [
+      {
+        "Free Wi-Fi": true
+      },
+      {
+        "Paid breakfast": true
+      },
+      {
+        "Parking": true
+      },
+      {
+        "Outdoor pool": true
+      },
+      {
+        "Air-conditioned": true
+      },
+      {
+        "Laundry service": true
+      },
+      {
+        "Restaurant": false
+      },
+      {
+        "Kitchen in all rooms": true
+      },
+      {
+        "Fitness center": false
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=N%20Farm&query_place_id=ChIJvxJksx7jyzsRqkDHpiUaUmk",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNHtginiCOTVhfEFfphU0pazexLhbQmfnw02QPX=w408-h272-k-no",
+  "kgmid": "/g/11y5vd44vw",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNHtginiCOTVhfEFfphU0pazexLhbQmfnw02QPX=w1920-h1080-k-no",
+      "authorName": "N Farm",
+      "authorUrl": "https://maps.google.com/maps/contrib/117511045680560911828",
+      "uploadedAt": "2024-01-21T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipNHtginiCOTVhfEFfphU0pazexLhbQmfnw02QPX=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 1,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@17.500147104452818,77.92217163459668,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "A4 Avallon Resort Valley",
+  "subTitle": "A4 అవల్లోన్ రిసార్ట్ వేల్లీ",
+  "description": null,
+  "price": null,
+  "categoryName": "Resort hotel",
+  "address": "FVXG+JQC, Vikarabad - Mominpet Rd, Telangana 501202, India",
+  "neighborhood": null,
+  "street": "FVXG+JQC, Vikarabad - Mominpet Rd",
+  "city": null,
+  "postalCode": "501202",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": null,
+  "phoneUnformatted": null,
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 17.4990509,
+    "lng": 77.8768883
+  },
+  "locatedIn": null,
+  "plusCode": null,
+  "menu": null,
+  "totalScore": 4.4,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJsbz0J0lXyTsRD2DFZItW21c",
+  "categories": [
+    "Resort hotel"
+  ],
+  "fid": "0x3bc9574927f4bcb1:0x57db568b64c5600f",
+  "cid": "6330748857890463759",
+  "reviewsCount": 21,
+  "reviewsDistribution": {
+    "oneStar": 2,
+    "twoStar": 1,
+    "threeStar": 0,
+    "fourStar": 2,
+    "fiveStar": 16
+  },
+  "imagesCount": 4,
+  "imageCategories": [
+    "All",
+    "Exterior",
+    "Videos",
+    "From visitors",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T08:11:31.858Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": "2024-11-04",
+  "checkOutDate": "2024-11-05",
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {},
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=A4%20Avallon%20Resort%20Valley&query_place_id=ChIJsbz0J0lXyTsRD2DFZItW21c",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipP-T2o_T6uCaCA-GHr8nkSFcVR_Eo6-F9koYRBp=w408-h906-k-no",
+  "kgmid": "/g/11hgkq77r1",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipP-T2o_T6uCaCA-GHr8nkSFcVR_Eo6-F9koYRBp=w1920-h1080-k-no",
+      "authorName": "Koti Rock",
+      "authorUrl": "https://maps.google.com/maps/contrib/118149754799538357764",
+      "uploadedAt": "2023-04-23T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipP-T2o_T6uCaCA-GHr8nkSFcVR_Eo6-F9koYRBp=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+}]

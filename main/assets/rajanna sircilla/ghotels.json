@@ -1,0 +1,2736 @@
+[{
+  "searchString": "hotels",
+  "rank": 1,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@18.28984353507332,78.80803210409886,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "Sri Durga Luxury A/C Rooms",
+  "subTitle": null,
+  "description": null,
+  "price": "£46",
+  "categoryName": "Lodge",
+  "address": "12-9-17 3rd floor, near old Bus stand, beside Canara Bank, Old Bus Stand, Sircilla, Telangana 505301, India",
+  "neighborhood": "Old Bus Stand, Shanti Nagar",
+  "street": "12-9-17 3rd floor, near old Bus stand, beside Canara Bank",
+  "city": "Sircilla",
+  "postalCode": "505301",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": "+91 79966 01235",
+  "phoneUnformatted": "+917996601235",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 18.3906461,
+    "lng": 78.8089925
+  },
+  "locatedIn": null,
+  "plusCode": "9RR5+7H Sircilla, Telangana, India",
+  "menu": null,
+  "totalScore": 4.1,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJgZST4_79zDsRiihMA0_0pdc",
+  "categories": [
+    "Lodge"
+  ],
+  "fid": "0x3bccfdfee3939481:0xd7a5f44f034c288a",
+  "cid": "15539094709506680970",
+  "reviewsCount": 27,
+  "reviewsDistribution": {
+    "oneStar": 3,
+    "twoStar": 1,
+    "threeStar": 1,
+    "fourStar": 8,
+    "fiveStar": 14
+  },
+  "imagesCount": 51,
+  "imageCategories": [
+    "All",
+    "Rooms",
+    "Videos",
+    "Exterior",
+    "Bed",
+    "From visitors",
+    "By owner",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T06:37:05.296Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "similarHotelsNearby": [
+    {
+      "name": "SS Stay Inn",
+      "rating": 4.6,
+      "reviews": 45,
+      "description": "Higher guest rating",
+      "price": null
+    }
+  ],
+  "hotelReviewSummary": null,
+  "hotelAds": [
+    {
+      "title": "Agoda",
+      "googleUrl": "http://www.google.com/travel/clk?pc=AA80OszMjbRiO9chNr4s_QdcdQDw0GekjhoJOA81EaVle1dJ0crGKJp1DUUgUjofRf34afRqLB_l0oOabAAPqb4PHsiZQAHnt_ydXWnLiLow7_XytbmzkU0wdqjhmCZGX3_nPeVvKg&pcurl=https://www.agoda.com/partners/partnersearch.aspx?site_id%3D1917614%26CkInDay%3D02%26CkInMonth%3D11%26CkInYear%3D2024%26CkOutDay%3D03%26campaignid%3D%26CkOutMonth%3D11%26CkOutYear%3D2024%26SearchDateType%3Ddefault%26NumberOfAdults%3D2%26LT%3D0%26NumberOfChildren%3D0%26childages%3D%26NumberOfRooms%3D1%26gsite%3Dmapresults%26los%3D1%26PartnerCurrency%3DINR%26hid%3D47450839%26RoomID%3D757733977%26masterRoomId%3D757733977%26PriceTax%3D4.97%26PriceTotal%3D46.34%26RatePlan%3Dcb8f5c55-07dd-cd98-f80c-f783ea2ede8b%26UserCountry%3DGB%26Currency%3DGBP%26UserDevice%3Ddesktop%26Verif%3Dfalse%26rr%3Drow_desktop%26audience_list%3D%26mcid%3D3038%26booking_source%3Dcpc%26adType%3D0%26mpt%3DbFR6a1JQNWRtSVlmYU1LK1Mwc1JLYVdNQ3J0QXJLV0QwZ1ZzUXcxYW5XOFJKZz09%26original_rr%3D",
+      "isOfficialSite": false,
+      "price": "£46",
+      "url": "https://www.agoda.com/partners/partnersearch.aspx?site_id=1917614&CkInDay=02&CkInMonth=11&CkInYear=2024&CkOutDay=03&campaignid=&CkOutMonth=11&CkOutYear=2024&SearchDateType=default&NumberOfAdults=2&LT=0&NumberOfChildren=0&childages=&NumberOfRooms=1&gsite=mapresults&los=1&PartnerCurrency=INR&hid=47450839&RoomID=757733977&masterRoomId=757733977&PriceTax=4.97&PriceTotal=46.34&RatePlan=cb8f5c55-07dd-cd98-f80c-f783ea2ede8b&UserCountry=GB&Currency=GBP&UserDevice=desktop&Verif=false&rr=row_desktop&audience_list=&mcid=3038&booking_source=cpc&adType=0&mpt=bFR6a1JQNWRtSVlmYU1LK1Mwc1JLYVdNQ3J0QXJLV0QwZ1ZzUXcxYW5XOFJKZz09&original_rr="
+    },
+    {
+      "title": "Bluepillow.co.uk",
+      "googleUrl": "http://www.google.com/travel/clk?pc=AA80Osz0zuisOZSX3skqG5TN--Mi6qUovH_BpxfvEe97JjJxnuaZOGS9z6cBrXcaueaccKBbhPwQ94n0ZH1cPyaTDwRI8MdnFalqU5eSs4BZpzbeiiRLb5iXGQEtTUH3lP2Qpg&pcurl=https://www.bluepillow.co.uk/checkout/65c9fe7e671b07d23c69b6bc?begin%3D2024-11-02%26end%3D2024-11-03%26block_id%3D-b,3BJKX0Abbkc2cu7Z4O0xHuhsUVfcJP21NJV1TCcAGfmctMNgo7Lz7D9LoM-Xi800,-bkng-Hotel%26adults%3D2%26childs%3D0%26infants%3D0%26childrens%3D0%26country%3DGB%26currency%3DGBP%26language%3Den%26source%3Dmapresults%26utm_campaign%3Dhotel%26prid%3D",
+      "isOfficialSite": false,
+      "price": "£46",
+      "url": "https://www.bluepillow.co.uk/checkout/65c9fe7e671b07d23c69b6bc?begin=2024-11-02&end=2024-11-03&block_id=-b,3BJKX0Abbkc2cu7Z4O0xHuhsUVfcJP21NJV1TCcAGfmctMNgo7Lz7D9LoM-Xi800,-bkng-Hotel&adults=2&childs=0&infants=0&childrens=0&country=GB&currency=GBP&language=en&source=mapresults&utm_campaign=hotel&prid="
+    },
+    {
+      "title": "Priceline",
+      "googleUrl": "http://www.google.com/travel/clk?pc=AA80OswSi0ZrQO7zB-C94aMtuI3hdyJQ-JxvGSKp7DvxF426bA78oWFhcyfeQPmAYmWMSetGmVSx2p8SJt5VzRzSPRgUybKEvM15t4OjE0ZcvzIA2miVArtxDirBf34yTWcALN-7macswZw&pcurl=https://www.priceline.com/r/?channel%3Dmeta%26product%3Dhotel%26theme%3Dghalistings%26refid%3DPLGOOGLEMSS%26refclickid%3DGB_HP%257C235307304_mapresults_1%257C20241102%257Cdesktop%257Cdefaultdate%7Cpublic%7C%7C%7C0%257C2%257C0%7C0%7CEN%26hotelid%3D235307304%26checkin%3D20241102%26checkout%3D20241103%26rooms%3D1%26currency%3DINR%26displayedCurr%3DGBP%26POSCountryCode%3DGB%26taxDisplayMode%3DBP%26cityID%3D5000142826%26adults%3D2%26land%3DL%26metaid%3DqBM-0re68j_YSTs6Qh0vi0Uy7Pj8aJTn76Xv9-S7LFUrauho62TeqpCkCzycItb3mMqFzC2_qGlmrodmrvseUAB3wA8r4kfaD1fYcywbHmS-2m97vgrNdbYmMFtx6JGXoA_qokp0C3AZiixFSXUG_MschlBH0CG3ehRnENrOTFUn7wlshc_O_fh5m6U6a2GI3FZtzL32dvuLHovx8GVClDeTy6NFW7-wkfIGmg2vpbBEcWWs30D1DhImX0tPVO5Y83G0CJWu2NQDp4HsDQR5rQ%26dblcnt%3Dtrue%26user_num_adults%3D2%26pdtax%3D4.96%26pdt%3D46.34%26locale%3Den-us%26ad-src%3D",
+      "isOfficialSite": false,
+      "price": "£46",
+      "url": "https://www.priceline.com/r/?channel=meta&product=hotel&theme=ghalistings&refid=PLGOOGLEMSS&refclickid=GB_HP|235307304_mapresults_1|20241102|desktop|defaultdate|public|||0|2|0|0|EN&hotelid=235307304&checkin=20241102&checkout=20241103&rooms=1&currency=INR&displayedCurr=GBP&POSCountryCode=GB&taxDisplayMode=BP&cityID=5000142826&adults=2&land=L&metaid=qBM-0re68j_YSTs6Qh0vi0Uy7Pj8aJTn76Xv9-S7LFUrauho62TeqpCkCzycItb3mMqFzC2_qGlmrodmrvseUAB3wA8r4kfaD1fYcywbHmS-2m97vgrNdbYmMFtx6JGXoA_qokp0C3AZiixFSXUG_MschlBH0CG3ehRnENrOTFUn7wlshc_O_fh5m6U6a2GI3FZtzL32dvuLHovx8GVClDeTy6NFW7-wkfIGmg2vpbBEcWWs30D1DhImX0tPVO5Y83G0CJWu2NQDp4HsDQR5rQ&dblcnt=true&user_num_adults=2&pdtax=4.96&pdt=46.34&locale=en-us&ad-src="
+    }
+  ],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [
+    {
+      "title": "service",
+      "count": 2
+    }
+  ],
+  "additionalInfo": {},
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=Sri%20Durga%20Luxury%20A%2FC%20Rooms&query_place_id=ChIJgZST4_79zDsRiihMA0_0pdc",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNrVFP2BwitWfoEJIXTKhhFo5Ajbf26BhzpF2_d=w408-h611-k-no",
+  "kgmid": "/g/11n__1m9bl",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNrVFP2BwitWfoEJIXTKhhFo5Ajbf26BhzpF2_d=w1920-h1080-k-no",
+      "authorName": "Sri Durga Luxury A/C Rooms",
+      "authorUrl": "https://maps.google.com/maps/contrib/116459185632203389288",
+      "uploadedAt": "2021-09-18T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipNrVFP2BwitWfoEJIXTKhhFo5Ajbf26BhzpF2_d=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 23,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@18.28984353507332,78.80803210409886,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "MYTHILI HOTEL",
+  "subTitle": "మైథిలి హోటల్",
+  "description": null,
+  "price": null,
+  "categoryName": "Restaurant",
+  "address": "H.No 4, 1-22/3/2, Nerella, Sircilla, Telangana 505405, India",
+  "neighborhood": null,
+  "street": "H.No 4, 1-22/3/2",
+  "city": "Nerella, Sircilla",
+  "postalCode": "505405",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": "+91 91821 55170",
+  "phoneUnformatted": "+919182155170",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 18.2962943,
+    "lng": 78.8215818
+  },
+  "locatedIn": null,
+  "plusCode": "7RWC+GJ Nerella, Telangana, India",
+  "menu": null,
+  "totalScore": null,
+  "permanentlyClosed": false,
+  "temporarilyClosed": true,
+  "placeId": "ChIJXes7mZL7zDsRzXoP89VsBsc",
+  "categories": [
+    "Restaurant"
+  ],
+  "fid": "0x3bccfb92993beb5d:0xc7066cd5f30f7acd",
+  "cid": "14341269729569635021",
+  "reviewsCount": 0,
+  "reviewsDistribution": null,
+  "imagesCount": 1,
+  "imageCategories": [
+    "All",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T06:37:06.353Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "LUCKY ENTTI RUCHULU",
+      "reviewsCount": 2,
+      "totalScore": 4
+    },
+    {
+      "category": "People also search for",
+      "title": "Thirupathi Hotel",
+      "reviewsCount": 3,
+      "totalScore": 5
+    }
+  ],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Service options": [
+      {
+        "Takeout": true
+      },
+      {
+        "Dine-in": true
+      }
+    ],
+    "Accessibility": [
+      {
+        "Wheelchair accessible parking lot": true
+      }
+    ],
+    "Offerings": [
+      {
+        "Coffee": true
+      },
+      {
+        "Small plates": true
+      }
+    ],
+    "Dining options": [
+      {
+        "Breakfast": true
+      },
+      {
+        "Lunch": true
+      },
+      {
+        "Dinner": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Restroom": true
+      }
+    ],
+    "Crowd": [
+      {
+        "Groups": true
+      }
+    ],
+    "Parking": [
+      {
+        "Free street parking": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=MYTHILI%20HOTEL&query_place_id=ChIJXes7mZL7zDsRzXoP89VsBsc",
+  "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=N7CboXrFCURky7xxYLZsBg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=63.25755&pitch=0&thumbfov=100",
+  "kgmid": "/g/11q3rtd90s",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=N7CboXrFCURky7xxYLZsBg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=63.25755&pitch=0&thumbfov=100"
+    }
+  ],
+  "imageUrls": [
+    "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=N7CboXrFCURky7xxYLZsBg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=63.25755&pitch=0&thumbfov=100"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 21,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@18.61542256492667,78.67093128770341,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "RAJENDER HOTEL",
+  "subTitle": "రాజేందర్ హోటల్",
+  "description": null,
+  "price": null,
+  "categoryName": "Restaurant",
+  "address": "15-84, Indhira Chowk, Rudrangi, Sircilla, Telangana 505307, India",
+  "neighborhood": "Indhira Chowk",
+  "street": "15-84",
+  "city": "Rudrangi, Sircilla",
+  "postalCode": "505307",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": "+91 98666 69267",
+  "phoneUnformatted": "+919866669267",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 18.626175,
+    "lng": 78.6977012
+  },
+  "locatedIn": null,
+  "plusCode": "JMGX+F3 Rudrangi, Telangana, India",
+  "menu": null,
+  "totalScore": 3.9,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJG_ckRjkHzTsRLQuJCBCiHOo",
+  "categories": [
+    "Restaurant"
+  ],
+  "fid": "0x3bcd07394624f71b:0xea1ca21008890b2d",
+  "cid": "16869536493969410861",
+  "reviewsCount": 8,
+  "reviewsDistribution": {
+    "oneStar": 1,
+    "twoStar": 0,
+    "threeStar": 2,
+    "fourStar": 1,
+    "fiveStar": 4
+  },
+  "imagesCount": 5,
+  "imageCategories": [
+    "All",
+    "Food & drink",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T06:37:14.417Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "SRR Fast Food And Biryani Point",
+      "reviewsCount": 0,
+      "totalScore": 0
+    },
+    {
+      "category": "People also search for",
+      "title": "Shiva Family Restaurant",
+      "reviewsCount": 5,
+      "totalScore": 3.6
+    }
+  ],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Service options": [
+      {
+        "Drive-through": true
+      },
+      {
+        "Takeaway": true
+      },
+      {
+        "Dine-in": true
+      }
+    ],
+    "Offerings": [
+      {
+        "Small plates": true
+      }
+    ],
+    "Dining options": [
+      {
+        "Breakfast": true
+      },
+      {
+        "Lunch": true
+      },
+      {
+        "Dinner": true
+      }
+    ],
+    "Atmosphere": [
+      {
+        "Casual": true
+      }
+    ],
+    "Parking": [
+      {
+        "Free of charge street parking": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=RAJENDER%20HOTEL&query_place_id=ChIJG_ckRjkHzTsRLQuJCBCiHOo",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOGkAkvzF0kxFeH27vGnfhRU2RRJHF65_VWrqEt=w408-h816-k-no",
+  "kgmid": "/g/11t1j5r97p",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOGkAkvzF0kxFeH27vGnfhRU2RRJHF65_VWrqEt=w1920-h1080-k-no",
+      "authorName": "babu babu",
+      "authorUrl": "https://maps.google.com/maps/contrib/100315078674098092045",
+      "uploadedAt": "2019-12-07T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipOGkAkvzF0kxFeH27vGnfhRU2RRJHF65_VWrqEt=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 2,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@18.61542256492667,78.67093128770341,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "Hotel Lakshmi Niharika",
+  "subTitle": "హోటల్ లక్ష్మీ నిహారిక",
+  "description": null,
+  "price": null,
+  "categoryName": "Hotel",
+  "address": "Parvathi pooram, Vemulawada, Telangana 505302, India",
+  "neighborhood": null,
+  "street": "Parvathi pooram",
+  "city": "Vemulawada",
+  "postalCode": "505302",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": null,
+  "phoneUnformatted": null,
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 18.4688188,
+    "lng": 78.8697492
+  },
+  "locatedIn": null,
+  "plusCode": "FV99+GV Vemulawada, Telangana, India",
+  "menu": null,
+  "totalScore": 3.9,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ4ZmYGpPizDsRrwtbyno2LBA",
+  "categories": [
+    "Hotel"
+  ],
+  "fid": "0x3bcce2931a9899e1:0x102c367aca5b0baf",
+  "cid": "1165366304590990255",
+  "reviewsCount": 243,
+  "reviewsDistribution": {
+    "oneStar": 26,
+    "twoStar": 12,
+    "threeStar": 35,
+    "fourStar": 58,
+    "fiveStar": 112
+  },
+  "imagesCount": 113,
+  "imageCategories": [
+    "All",
+    "Rooms",
+    "Videos",
+    "Exterior",
+    "Food & drink",
+    "From visitors",
+    "By owner",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T06:37:16.666Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": "2024-11-04",
+  "checkOutDate": "2024-11-05",
+  "similarHotelsNearby": [
+    {
+      "name": "Hotel SRR Grand Vemulawada",
+      "rating": 4.7,
+      "reviews": 291,
+      "description": "Free parking",
+      "price": "$40"
+    },
+    {
+      "name": "Hotel Sharavana Ac Lodge",
+      "rating": 3.3,
+      "reviews": 140,
+      "description": null,
+      "price": null
+    },
+    {
+      "name": "Rajarajeswari A/c Lodge",
+      "rating": 3.5,
+      "reviews": 334,
+      "description": "Free parking",
+      "price": null
+    },
+    {
+      "name": "Balaji Lodge",
+      "rating": 3.5,
+      "reviews": 549,
+      "description": null,
+      "price": null
+    },
+    {
+      "name": "Laksha Ac & Non Ac Residency",
+      "rating": 3.9,
+      "reviews": 228,
+      "description": "Free parking",
+      "price": null
+    },
+    {
+      "name": "Akshaya Residency",
+      "rating": 3.4,
+      "reviews": 16,
+      "description": null,
+      "price": null
+    }
+  ],
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [
+    {
+      "title": "hot water",
+      "count": 7
+    },
+    {
+      "title": "service",
+      "count": 6
+    },
+    {
+      "title": "price",
+      "count": 5
+    },
+    {
+      "title": "AC",
+      "count": 4
+    },
+    {
+      "title": "toiletries",
+      "count": 3
+    },
+    {
+      "title": "construction",
+      "count": 3
+    },
+    {
+      "title": "lift",
+      "count": 3
+    },
+    {
+      "title": "parking space",
+      "count": 2
+    },
+    {
+      "title": "phone number",
+      "count": 2
+    }
+  ],
+  "additionalInfo": {
+    "Amenities": [
+      {
+        "Free Wi-Fi": true
+      },
+      {
+        "Parking": true
+      },
+      {
+        "Pool": true
+      },
+      {
+        "Laundry service": true
+      },
+      {
+        "Kid-friendly": true
+      },
+      {
+        "Fitness center": false
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": {
+    "postDate": "2 months ago",
+    "postedBy": {
+      "totalReviews": null
+    },
+    "media": []
+  },
+  "url": "https://www.google.com/maps/search/?api=1&query=Hotel%20Lakshmi%20Niharika&query_place_id=ChIJ4ZmYGpPizDsRrwtbyno2LBA",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipO9hJbyd0dzRouyoYuN5Rz-E0XCQW0jF9Xj5adE=w408-h544-k-no",
+  "kgmid": "/g/11b6w9hbzh",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipO9hJbyd0dzRouyoYuN5Rz-E0XCQW0jF9Xj5adE=w1920-h1080-k-no",
+      "authorName": "Pavan Bandari",
+      "authorUrl": "https://maps.google.com/maps/contrib/105694954332040167086",
+      "uploadedAt": "2023-05-17T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipO9hJbyd0dzRouyoYuN5Rz-E0XCQW0jF9Xj5adE=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 1,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@18.61542256492667,78.67093128770341,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "Haritha Tourism Hotel - Vemulawada",
+  "subTitle": "హరిత టుూరిజం హోటల్ - వేములవాడ",
+  "description": null,
+  "price": null,
+  "categoryName": "Hotel",
+  "address": "Karimnagar Godavarikhani, Main Rd, Thippapuram, Telangana 505302, India",
+  "neighborhood": null,
+  "street": "Karimnagar Godavarikhani, Main Rd",
+  "city": "Thippapuram",
+  "postalCode": "505302",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": "+91 84998 30815",
+  "phoneUnformatted": "+918499830815",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 18.4583706,
+    "lng": 78.8671093
+  },
+  "locatedIn": null,
+  "plusCode": "FV58+8R Thippapuram, Telangana, India",
+  "menu": null,
+  "totalScore": 3.8,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJE-9d6ZPizDsRZYTpi7fJqVA",
+  "categories": [
+    "Hotel"
+  ],
+  "fid": "0x3bcce293e95def13:0x50a9c9b78be98465",
+  "cid": "5812398584261870693",
+  "reviewsCount": 1083,
+  "reviewsDistribution": {
+    "oneStar": 108,
+    "twoStar": 65,
+    "threeStar": 209,
+    "fourStar": 285,
+    "fiveStar": 416
+  },
+  "imagesCount": 313,
+  "imageCategories": [
+    "All",
+    "Rooms",
+    "Videos",
+    "Exterior",
+    "Food & drink",
+    "From visitors"
+  ],
+  "scrapedAt": "2024-11-02T06:37:19.019Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Laksha Ac & Non Ac Residency",
+      "reviewsCount": 228,
+      "totalScore": 3.9
+    },
+    {
+      "category": "People also search for",
+      "title": "Hotel bhavani & Lodging",
+      "reviewsCount": 20,
+      "totalScore": 4.9
+    },
+    {
+      "category": "People also search for",
+      "title": "Maheshwara residency&Lodge",
+      "reviewsCount": 40,
+      "totalScore": 4.2
+    },
+    {
+      "category": "People also search for",
+      "title": "Hotel Sharavana Ac Lodge",
+      "reviewsCount": 140,
+      "totalScore": 3.3
+    },
+    {
+      "category": "People also search for",
+      "title": "katherasala Rooms",
+      "reviewsCount": 6,
+      "totalScore": 3.2
+    }
+  ],
+  "placesTags": [
+    {
+      "title": "Health & Beauty",
+      "count": 1
+    }
+  ],
+  "reviewsTags": [
+    {
+      "title": "service",
+      "count": 22
+    },
+    {
+      "title": "AC",
+      "count": 11
+    },
+    {
+      "title": "hot water",
+      "count": 10
+    },
+    {
+      "title": "quality",
+      "count": 8
+    },
+    {
+      "title": "tiffins",
+      "count": 7
+    },
+    {
+      "title": "government",
+      "count": 6
+    },
+    {
+      "title": "customer",
+      "count": 6
+    },
+    {
+      "title": "dormitory",
+      "count": 5
+    },
+    {
+      "title": "tv",
+      "count": 5
+    },
+    {
+      "title": "money",
+      "count": 5
+    }
+  ],
+  "additionalInfo": {},
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=Haritha%20Tourism%20Hotel%20-%20Vemulawada&query_place_id=ChIJE-9d6ZPizDsRZYTpi7fJqVA",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPk5FVB0V7ILH6VbaNEvOljxqf494foh2aOylLf=w408-h306-k-no",
+  "kgmid": "/g/11bwqm3hp8",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPk5FVB0V7ILH6VbaNEvOljxqf494foh2aOylLf=w1920-h1080-k-no",
+      "authorName": "Pradeep Rama",
+      "authorUrl": "https://maps.google.com/maps/contrib/102536401530331692594",
+      "uploadedAt": "2021-03-20T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipPk5FVB0V7ILH6VbaNEvOljxqf494foh2aOylLf=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 22,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@18.28984353507332,78.80803210409886,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "Super bihar tyre and grease work",
+  "subTitle": null,
+  "description": null,
+  "price": null,
+  "categoryName": "Vehicle repair shop",
+  "address": "Ramnupatla Near Mashala Hotel, Ramnupatla, Telangana 502267, India",
+  "neighborhood": null,
+  "street": "Ramnupatla Near Mashala Hotel",
+  "city": "Ramnupatla",
+  "postalCode": "502267",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": null,
+  "phoneUnformatted": null,
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 18.3164303,
+    "lng": 78.826958
+  },
+  "locatedIn": null,
+  "plusCode": "8R8G+HQ Baswapur, Telangana, India",
+  "menu": null,
+  "totalScore": 3,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJLa0X6sn7zDsRzho5F8yxyns",
+  "categories": [
+    "Vehicle repair shop"
+  ],
+  "fid": "0x3bccfbc9ea17ad2d:0x7bcab1cc17391ace",
+  "cid": "8920137502081751758",
+  "reviewsCount": 2,
+  "reviewsDistribution": {
+    "oneStar": 1,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 1
+  },
+  "imagesCount": 3,
+  "imageCategories": [
+    "All",
+    "By owner"
+  ],
+  "scrapedAt": "2024-11-02T06:37:23.847Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Aburaza Puncture Shop",
+      "reviewsCount": 12,
+      "totalScore": 3.8
+    },
+    {
+      "category": "People also search for",
+      "title": "BIHAR TYRE & PUNCTURE SOAP",
+      "reviewsCount": 0,
+      "totalScore": 0
+    },
+    {
+      "category": "People also search for",
+      "title": "KGN Bihar Tyre Work Shop",
+      "reviewsCount": 0,
+      "totalScore": 0
+    }
+  ],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair-accessible car park": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=Super%20bihar%20tyre%20and%20grease%20work&query_place_id=ChIJLa0X6sn7zDsRzho5F8yxyns",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPza8sHL3H9cjMcDjlbO4G4tx3yrooDqTdA8DXE=w408-h725-k-no",
+  "kgmid": "/g/11nmlfm0yh",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPza8sHL3H9cjMcDjlbO4G4tx3yrooDqTdA8DXE=w1920-h1080-k-no",
+      "authorName": "Super bihar tyre and grease work",
+      "authorUrl": "https://maps.google.com/maps/contrib/116631763815884942397",
+      "uploadedAt": "2021-05-18T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipPza8sHL3H9cjMcDjlbO4G4tx3yrooDqTdA8DXE=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 21,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@18.28984353507332,78.80803210409886,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "RENUKA MATHA HOTEL",
+  "subTitle": "రేణుక మత హోటల్",
+  "description": null,
+  "price": null,
+  "categoryName": "Restaurant",
+  "address": "3-13 Near Srinivasa Rice Mill Sarampalli, Sircilla, Telangana 505405, India",
+  "neighborhood": null,
+  "street": "3-13 Near Srinivasa Rice Mill Sarampalli",
+  "city": "Sircilla, Sarampalli",
+  "postalCode": "505405",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": "+91 62814 10187",
+  "phoneUnformatted": "+916281410187",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 18.3178195,
+    "lng": 78.8149668
+  },
+  "locatedIn": null,
+  "plusCode": "8R97+4X Sircilla, Telangana, India",
+  "menu": null,
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJt8xZOWb7zDsR0APKwv0EPBA",
+  "categories": [
+    "Restaurant"
+  ],
+  "fid": "0x3bccfb663959ccb7:0x103c04fdc2ca03d0",
+  "cid": "1169815491150742480",
+  "reviewsCount": 3,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 3
+  },
+  "imagesCount": null,
+  "imageCategories": [],
+  "scrapedAt": "2024-11-02T06:37:29.434Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "RENUKA MATHA PERMITROOM",
+      "reviewsCount": 0,
+      "totalScore": 0
+    },
+    {
+      "category": "People also search for",
+      "title": "Thirupathi Hotel",
+      "reviewsCount": 11,
+      "totalScore": 3.4
+    }
+  ],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Service options": [
+      {
+        "Drive-through": true
+      },
+      {
+        "Takeout": true
+      },
+      {
+        "Dine-in": true
+      }
+    ],
+    "Offerings": [
+      {
+        "Small plates": true
+      }
+    ],
+    "Dining options": [
+      {
+        "Breakfast": true
+      },
+      {
+        "Lunch": true
+      },
+      {
+        "Dinner": true
+      }
+    ],
+    "Atmosphere": [
+      {
+        "Casual": true
+      }
+    ],
+    "Crowd": [
+      {
+        "Groups": true
+      }
+    ],
+    "Parking": [
+      {
+        "Free street parking": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=RENUKA%20MATHA%20HOTEL&query_place_id=ChIJt8xZOWb7zDsR0APKwv0EPBA",
+  "imageUrl": null,
+  "kgmid": "/g/11t0rvngfw",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [],
+  "imageUrls": [],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 7,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@18.28984353507332,78.80803210409886,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "RUCHI HOTEL",
+  "subTitle": "రుచీ హోటల్",
+  "description": null,
+  "price": null,
+  "categoryName": "Restaurant",
+  "address": "2-7-58/1, Sanjeevaiah Nagar, Shanti Nagar, Sircilla, Telangana 505301, India",
+  "neighborhood": "Sanjeevaiah Nagar, Shanti Nagar",
+  "street": "2-7-58/1",
+  "city": "Sircilla",
+  "postalCode": "505301",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": "+91 90546 46746",
+  "phoneUnformatted": "+919054646746",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 18.3927728,
+    "lng": 78.8108875
+  },
+  "locatedIn": null,
+  "plusCode": "9RV6+49 Sircilla, Telangana, India",
+  "menu": null,
+  "totalScore": 3.7,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJO2wXWJf8zDsRHaWmsN2rAAE",
+  "categories": [
+    "Restaurant",
+    "Lodge"
+  ],
+  "fid": "0x3bccfc9758176c3b:0x100abddb0a6a51d",
+  "cid": "72246562677761309",
+  "reviewsCount": 916,
+  "reviewsDistribution": {
+    "oneStar": 99,
+    "twoStar": 66,
+    "threeStar": 178,
+    "fourStar": 239,
+    "fiveStar": 334
+  },
+  "imagesCount": 103,
+  "imageCategories": [
+    "All",
+    "Menu",
+    "Videos",
+    "Food & drink",
+    "Vibe",
+    "By owner",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T06:37:29.737Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": "2024-11-04",
+  "checkOutDate": "2024-11-05",
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "popularTimesLiveText": "Now: Usually a little busy",
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {
+    "Su": [
+      {
+        "hour": 4,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 5,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 25
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 38
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 56
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 69
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 75
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 70
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 61
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 56
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 61
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 76
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 91
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 92
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 71
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 48
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 0,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 1,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 2,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 3,
+        "occupancyPercent": 0
+      }
+    ],
+    "Mo": [
+      {
+        "hour": 4,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 5,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 6
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 15
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 24
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 39
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 57
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 71
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 79
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 82
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 80
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 75
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 76
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 83
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 93
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 88
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 68
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 47
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 0,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 1,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 2,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 3,
+        "occupancyPercent": 0
+      }
+    ],
+    "Tu": [
+      {
+        "hour": 4,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 5,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 9
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 17
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 26
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 37
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 50
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 60
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 71
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 75
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 78
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 78
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 83
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 94
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 95
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 90
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 72
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 49
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 0,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 1,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 2,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 3,
+        "occupancyPercent": 0
+      }
+    ],
+    "We": [
+      {
+        "hour": 4,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 5,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 5
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 13
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 23
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 35
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 49
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 60
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 65
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 62
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 60
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 61
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 65
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 73
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 82
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 84
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 73
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 55
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 0,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 1,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 2,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 3,
+        "occupancyPercent": 0
+      }
+    ],
+    "Th": [
+      {
+        "hour": 4,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 5,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 16
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 24
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 35
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 48
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 60
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 71
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 76
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 77
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 77
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 76
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 83
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 88
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 88
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 72
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 52
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 0,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 1,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 2,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 3,
+        "occupancyPercent": 0
+      }
+    ],
+    "Fr": [
+      {
+        "hour": 4,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 5,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 9
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 17
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 27
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 39
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 50
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 62
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 71
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 80
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 81
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 76
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 76
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 85
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 93
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 94
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 74
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 50
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 0,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 1,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 2,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 3,
+        "occupancyPercent": 0
+      }
+    ],
+    "Sa": [
+      {
+        "hour": 4,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 5,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 9
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 16
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 26
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 38
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 54
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 63
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 70
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 67
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 65
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 65
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 70
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 85
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 96
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 100
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 79
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 53
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 0,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 1,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 2,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 3,
+        "occupancyPercent": 0
+      }
+    ]
+  },
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [
+    {
+      "title": "biryani",
+      "count": 20
+    },
+    {
+      "title": "rooms",
+      "count": 15
+    },
+    {
+      "title": "service",
+      "count": 15
+    },
+    {
+      "title": "veg",
+      "count": 6
+    },
+    {
+      "title": "price",
+      "count": 5
+    },
+    {
+      "title": "tiffins",
+      "count": 4
+    },
+    {
+      "title": "cleanliness",
+      "count": 3
+    },
+    {
+      "title": "bus",
+      "count": 3
+    },
+    {
+      "title": "bed",
+      "count": 3
+    },
+    {
+      "title": "comfortable",
+      "count": 3
+    }
+  ],
+  "additionalInfo": {
+    "Service options": [
+      {
+        "Drive-through": true
+      },
+      {
+        "Takeout": true
+      },
+      {
+        "Dine-in": true
+      }
+    ],
+    "Offerings": [
+      {
+        "All you can eat": true
+      },
+      {
+        "Coffee": true
+      },
+      {
+        "Halal food": true
+      },
+      {
+        "Small plates": true
+      }
+    ],
+    "Dining options": [
+      {
+        "Breakfast": true
+      },
+      {
+        "Brunch": true
+      },
+      {
+        "Lunch": true
+      },
+      {
+        "Dinner": true
+      },
+      {
+        "Dessert": true
+      },
+      {
+        "Seating": true
+      }
+    ],
+    "Atmosphere": [
+      {
+        "Casual": true
+      },
+      {
+        "Cozy": true
+      }
+    ],
+    "Crowd": [
+      {
+        "Groups": true
+      }
+    ],
+    "Payments": [
+      {
+        "Credit cards": true
+      },
+      {
+        "NFC mobile payments": true
+      }
+    ],
+    "Children": [
+      {
+        "Good for kids": true
+      },
+      {
+        "Good for kids birthday": true
+      },
+      {
+        "High chairs": true
+      }
+    ],
+    "Parking": [
+      {
+        "Free parking lot": true
+      },
+      {
+        "Free street parking": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=RUCHI%20HOTEL&query_place_id=ChIJO2wXWJf8zDsRHaWmsN2rAAE",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOKsUmwvtw-vuglt1uh50B7FMIeOyWB6rfRqoti=w408-h287-k-no",
+  "kgmid": "/g/1264gw93g",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOKsUmwvtw-vuglt1uh50B7FMIeOyWB6rfRqoti=w1920-h1080-k-no",
+      "authorName": "Swamy Smart",
+      "authorUrl": "https://maps.google.com/maps/contrib/106201819723773085147",
+      "uploadedAt": "2022-05-04T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipOKsUmwvtw-vuglt1uh50B7FMIeOyWB6rfRqoti=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 6,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@18.28984353507332,78.80803210409886,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "Kakatiya Residency , Lodge and Banquet hall",
+  "subTitle": "కాకతీయ రెసిడెన్సీ , లాడ్జ్ అండ్ బ్యాంక్వెట్ హాల్",
+  "description": null,
+  "price": null,
+  "categoryName": "Lodge",
+  "address": "Shanti Nagar, Sircilla, Telangana 505301, India",
+  "neighborhood": "Shanti Nagar",
+  "street": null,
+  "city": "Sircilla",
+  "postalCode": "505301",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": "+91 94402 53799",
+  "phoneUnformatted": "+919440253799",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 18.3907826,
+    "lng": 78.8097038
+  },
+  "locatedIn": null,
+  "plusCode": "9RR5+8V Sircilla, Telangana, India",
+  "menu": null,
+  "totalScore": 3.5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJGRrWJpr8zDsRqzOwpCzeaOg",
+  "categories": [
+    "Lodge"
+  ],
+  "fid": "0x3bccfc9a26d61a19:0xe868de2ca4b033ab",
+  "cid": "16746879497700127659",
+  "reviewsCount": 202,
+  "reviewsDistribution": {
+    "oneStar": 28,
+    "twoStar": 21,
+    "threeStar": 46,
+    "fourStar": 41,
+    "fiveStar": 66
+  },
+  "imagesCount": 58,
+  "imageCategories": [
+    "All",
+    "Rooms",
+    "Videos",
+    "Exterior",
+    "Food & drink",
+    "Food",
+    "Bed",
+    "From visitors",
+    "By owner",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T06:37:31.942Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": "2024-11-04",
+  "checkOutDate": "2024-11-05",
+  "similarHotelsNearby": [
+    {
+      "name": "Sri Durga Luxury A/C Rooms",
+      "rating": 4.1,
+      "reviews": 27,
+      "description": "Higher guest rating",
+      "price": "$53"
+    },
+    {
+      "name": "OYO 82996 Sri Durga Luxury Rooms",
+      "rating": 4.3,
+      "reviews": 12,
+      "description": "Free Wi-Fi",
+      "price": null
+    },
+    {
+      "name": "Rajanna Palace",
+      "rating": 4.3,
+      "reviews": 30,
+      "description": "Free Wi-Fi and parking",
+      "price": null
+    },
+    {
+      "name": "SS Stay Inn",
+      "rating": 4.6,
+      "reviews": 45,
+      "description": "Higher guest rating",
+      "price": null
+    },
+    {
+      "name": "Hotel SS Grand",
+      "rating": 4.4,
+      "reviews": 101,
+      "description": "Higher guest rating",
+      "price": null
+    }
+  ],
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [
+    {
+      "title": "service",
+      "count": 3
+    }
+  ],
+  "additionalInfo": {},
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=Kakatiya%20Residency%20%2C%20Lodge%20and%20Banquet%20hall&query_place_id=ChIJGRrWJpr8zDsRqzOwpCzeaOg",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNKHcG2xt3h-59mmvkhKryJ_evjHA3NvzI_5ksF=w408-h906-k-no",
+  "kgmid": "/g/1hf05xhfv",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNKHcG2xt3h-59mmvkhKryJ_evjHA3NvzI_5ksF=w1920-h1080-k-no",
+      "authorName": "Kakatiya Residency , Lodge and Banquet hall",
+      "authorUrl": "https://maps.google.com/maps/contrib/109083725792310237435",
+      "uploadedAt": "2020-02-04T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipNKHcG2xt3h-59mmvkhKryJ_evjHA3NvzI_5ksF=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 5,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@18.28984353507332,78.80803210409886,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "OYO 82996 Sri Durga Luxury Rooms",
+  "subTitle": null,
+  "description": null,
+  "price": null,
+  "categoryName": "Hotel",
+  "address": "Adj To Prasad Rao Hosipital, Nimmapalli Sirikonda, Shanti Nagar, Sircilla, Telangana 505301, India",
+  "neighborhood": "Sardar Nagar, Shanti Nagar",
+  "street": "Adj To Prasad Rao Hosipital, Nimmapalli Sirikonda",
+  "city": "Sircilla",
+  "postalCode": "505301",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": "+91 124 620 1464",
+  "phoneUnformatted": "+911246201464",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 18.3906881,
+    "lng": 78.8089829
+  },
+  "locatedIn": null,
+  "plusCode": "9RR5+7H Sircilla, Telangana, India",
+  "menu": null,
+  "totalScore": 4.3,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJvfUpcwz9zDsR6omBMYT7FKo",
+  "categories": [
+    "Hotel"
+  ],
+  "fid": "0x3bccfd0c7329f5bd:0xaa14fb84318189ea",
+  "cid": "12255697031166790122",
+  "reviewsCount": 12,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 3,
+    "fourStar": 2,
+    "fiveStar": 7
+  },
+  "imagesCount": 5,
+  "imageCategories": [
+    "All",
+    "Rooms",
+    "Videos",
+    "From visitors",
+    "By owner",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T06:37:37.909Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": "2024-11-04",
+  "checkOutDate": "2024-11-05",
+  "similarHotelsNearby": [
+    {
+      "name": "SS Stay Inn",
+      "rating": 4.6,
+      "reviews": 45,
+      "description": null,
+      "price": null
+    }
+  ],
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Amenities": [
+      {
+        "Free Wi-Fi": true
+      },
+      {
+        "Breakfast": true
+      },
+      {
+        "Parking": true
+      },
+      {
+        "Pool": true
+      },
+      {
+        "Air-conditioned": true
+      },
+      {
+        "Laundry service": true
+      },
+      {
+        "Pet-friendly": true
+      },
+      {
+        "Restaurant": false
+      },
+      {
+        "Kitchens in some rooms": true
+      },
+      {
+        "Fitness center": false
+      },
+      {
+        "Smoke-free": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=OYO%2082996%20Sri%20Durga%20Luxury%20Rooms&query_place_id=ChIJvfUpcwz9zDsR6omBMYT7FKo",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNzX1FWFnwpDqOWjURzgtwFMEYQnW447_Ctx0gY=w408-h265-k-no",
+  "kgmid": "/g/11rjq9bvf2",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNzX1FWFnwpDqOWjURzgtwFMEYQnW447_Ctx0gY=w1920-h1080-k-no",
+      "authorName": "OYO 82996 Sri Durga Luxury Rooms",
+      "authorUrl": "https://maps.google.com/maps/contrib/102289228410042131068",
+      "uploadedAt": "2023-08-23T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipNzX1FWFnwpDqOWjURzgtwFMEYQnW447_Ctx0gY=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 4,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@18.28984353507332,78.80803210409886,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "Rajanna Palace",
+  "subTitle": "రాజన్న ప్యాలస్",
+  "description": null,
+  "price": null,
+  "categoryName": "Hotel",
+  "address": "beside Gandhi Hospital, opposite Sanjeevaiah Nagar, Kaman, Shanti Nagar, Sircilla, Telangana 505302, India",
+  "neighborhood": "Kaman, Shanti Nagar",
+  "street": "beside Gandhi Hospital, opposite Sanjeevaiah Nagar",
+  "city": "Sircilla",
+  "postalCode": "505302",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": "+91 96422 06789",
+  "phoneUnformatted": "+919642206789",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 18.392385,
+    "lng": 78.810242
+  },
+  "locatedIn": null,
+  "plusCode": "9RR6+X3 Sircilla, Telangana, India",
+  "menu": null,
+  "totalScore": 4.3,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJO6PKnrf9zDsRRb0ZErycFTU",
+  "categories": [
+    "Hotel",
+    "Extended stay hotel",
+    "Hindu temple",
+    "Lodge",
+    "Motel",
+    "Homestay"
+  ],
+  "fid": "0x3bccfdb79ecaa33b:0x35159cbc1219bd45",
+  "cid": "3825135790092565829",
+  "reviewsCount": 30,
+  "reviewsDistribution": {
+    "oneStar": 2,
+    "twoStar": 2,
+    "threeStar": 3,
+    "fourStar": 2,
+    "fiveStar": 21
+  },
+  "imagesCount": 5,
+  "imageCategories": [
+    "All",
+    "Rooms",
+    "Exterior",
+    "By owner",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T06:37:42.520Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": "2024-11-04",
+  "checkOutDate": "2024-11-05",
+  "similarHotelsNearby": [
+    {
+      "name": "Sri Durga Luxury A/C Rooms",
+      "rating": 4.1,
+      "reviews": 27,
+      "description": null,
+      "price": "$53"
+    },
+    {
+      "name": "Kakatiya Residency , Lodge and Banquet hall",
+      "rating": 3.5,
+      "reviews": 202,
+      "description": null,
+      "price": null
+    },
+    {
+      "name": "OYO 82996 Sri Durga Luxury Rooms",
+      "rating": 4.3,
+      "reviews": 12,
+      "description": null,
+      "price": null
+    },
+    {
+      "name": "SS Stay Inn",
+      "rating": 4.6,
+      "reviews": 45,
+      "description": null,
+      "price": null
+    },
+    {
+      "name": "Hotel SS Grand",
+      "rating": 4.4,
+      "reviews": 101,
+      "description": null,
+      "price": null
+    }
+  ],
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Amenities": [
+      {
+        "Free Wi-Fi": true
+      },
+      {
+        "Free parking": true
+      },
+      {
+        "Air-conditioned": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=Rajanna%20Palace&query_place_id=ChIJO6PKnrf9zDsRRb0ZErycFTU",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNPU0AsYuokPBGFJWqlTG5qzF5rykGXXbPo-TVE=w408-h612-k-no",
+  "kgmid": "/g/11n106nl6m",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNPU0AsYuokPBGFJWqlTG5qzF5rykGXXbPo-TVE=w1920-h1080-k-no",
+      "authorName": "Rajanna Palace",
+      "authorUrl": "https://maps.google.com/maps/contrib/107111032443758661336",
+      "uploadedAt": "2024-02-27T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipNPU0AsYuokPBGFJWqlTG5qzF5rykGXXbPo-TVE=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 2,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@18.550306758956,78.60238087950569,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "Sainath hotel",
+  "subTitle": "సాయినాథ్ హోటల్",
+  "description": null,
+  "price": null,
+  "categoryName": "Hotel",
+  "address": "GM98+567, Nimmapalle, Telangana 505301, India",
+  "neighborhood": null,
+  "street": "GM98+567",
+  "city": "Nimmapalle",
+  "postalCode": "505301",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": null,
+  "phoneUnformatted": null,
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 18.5179244,
+    "lng": 78.6655562
+  },
+  "locatedIn": null,
+  "plusCode": null,
+  "menu": null,
+  "totalScore": 4,
+  "permanentlyClosed": true,
+  "temporarilyClosed": false,
+  "placeId": "ChIJA03vKmABzTsRU1mBv2IuydM",
+  "categories": [
+    "Hotel"
+  ],
+  "fid": "0x3bcd01602aef4d03:0xd3c92e62bf815953",
+  "cid": "15260779813976234323",
+  "reviewsCount": 2,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 1,
+    "fourStar": 0,
+    "fiveStar": 1
+  },
+  "imagesCount": 1,
+  "imageCategories": [
+    "All",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T06:37:45.348Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {},
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=Sainath%20hotel&query_place_id=ChIJA03vKmABzTsRU1mBv2IuydM",
+  "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=DZpTRH0qyCCYDbdDMgHvtQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=350.48676&pitch=0&thumbfov=100",
+  "kgmid": "/g/11j3vsvqzq",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=DZpTRH0qyCCYDbdDMgHvtQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=350.48676&pitch=0&thumbfov=100"
+    }
+  ],
+  "imageUrls": [
+    "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=DZpTRH0qyCCYDbdDMgHvtQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=350.48676&pitch=0&thumbfov=100"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 3,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@18.28984353507332,78.80803210409886,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "SS Stay Inn",
+  "subTitle": "SS స్టే ఇన్న్",
+  "description": null,
+  "price": null,
+  "categoryName": "Hotel",
+  "address": "6-2-89, Markandeya Street, Rajanna Sircilla, Sircilla, Telangana 505301, India",
+  "neighborhood": "Rajanna Sircilla",
+  "street": "6-2-89, Markandeya Street",
+  "city": "Sircilla",
+  "postalCode": "505301",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": "+91 70133 13860",
+  "phoneUnformatted": "+917013313860",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 18.3870727,
+    "lng": 78.8121497
+  },
+  "locatedIn": null,
+  "plusCode": "9RP6+RV Sircilla, Telangana, India",
+  "menu": null,
+  "totalScore": 4.6,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJpZ-zg6_9zDsRmVC7prCATwg",
+  "categories": [
+    "Hotel"
+  ],
+  "fid": "0x3bccfdaf83b39fa5:0x84f80b0a6bb5099",
+  "cid": "598838771663458457",
+  "reviewsCount": 45,
+  "reviewsDistribution": {
+    "oneStar": 2,
+    "twoStar": 0,
+    "threeStar": 3,
+    "fourStar": 6,
+    "fiveStar": 34
+  },
+  "imagesCount": 64,
+  "imageCategories": [
+    "All",
+    "Rooms",
+    "Exterior",
+    "From visitors",
+    "By owner",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T06:37:47.321Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": "2024-11-04",
+  "checkOutDate": "2024-11-05",
+  "similarHotelsNearby": [
+    {
+      "name": "Sri Durga Luxury A/C Rooms",
+      "rating": 4.1,
+      "reviews": 27,
+      "description": null,
+      "price": "£46"
+    },
+    {
+      "name": "OYO 82996 Sri Durga Luxury Rooms",
+      "rating": 4.3,
+      "reviews": 12,
+      "description": "Free Wi-Fi",
+      "price": null
+    }
+  ],
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [
+    {
+      "title": "prices",
+      "count": 2
+    }
+  ],
+  "additionalInfo": {},
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=SS%20Stay%20Inn&query_place_id=ChIJpZ-zg6_9zDsRmVC7prCATwg",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPKUsomeqPq090rooVq14tywCWfgbuRqMft3ql-=w408-h544-k-no",
+  "kgmid": "/g/11rrrb0ncg",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPKUsomeqPq090rooVq14tywCWfgbuRqMft3ql-=w1920-h1080-k-no",
+      "authorName": "SS Stay Inn",
+      "authorUrl": "https://maps.google.com/maps/contrib/100702832328431759392",
+      "uploadedAt": "2021-07-10T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipPKUsomeqPq090rooVq14tywCWfgbuRqMft3ql-=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 1,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@18.550306758956,78.60238087950569,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "Hotel SS Grand",
+  "subTitle": "హోటల్ SS గ్రాండ్",
+  "description": null,
+  "price": null,
+  "categoryName": "Lodge",
+  "address": "opp. to LIC office, Gopal Nagar, Rajanna Sircilla, Sircilla, Telangana 505301, India",
+  "neighborhood": "Gopal Nagar, Rajanna Sircilla",
+  "street": "opp. to LIC office",
+  "city": "Sircilla",
+  "postalCode": "505301",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": "+91 93946 07407",
+  "phoneUnformatted": "+919394607407",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 18.3865895,
+    "lng": 78.8039131
+  },
+  "locatedIn": null,
+  "plusCode": "9RP3+JH Sircilla, Telangana, India",
+  "menu": null,
+  "totalScore": 4.4,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ_eKULE39zDsR6XN6E0G4Hr4",
+  "categories": [
+    "Lodge",
+    "Hotel",
+    "Serviced accommodation"
+  ],
+  "fid": "0x3bccfd4d2c94e2fd:0xbe1eb841137a73e9",
+  "cid": "13699589706146804713",
+  "reviewsCount": 101,
+  "reviewsDistribution": {
+    "oneStar": 5,
+    "twoStar": 3,
+    "threeStar": 6,
+    "fourStar": 23,
+    "fiveStar": 64
+  },
+  "imagesCount": 56,
+  "imageCategories": [
+    "All",
+    "Rooms",
+    "Videos",
+    "Exterior",
+    "Amenities",
+    "From visitors",
+    "By owner",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T06:37:55.514Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": "2024-11-04",
+  "checkOutDate": "2024-11-05",
+  "similarHotelsNearby": [
+    {
+      "name": "Sri Durga Luxury A/C Rooms",
+      "rating": 4.1,
+      "reviews": 27,
+      "description": null,
+      "price": "£46"
+    },
+    {
+      "name": "SS Stay Inn",
+      "rating": 4.6,
+      "reviews": 45,
+      "description": null,
+      "price": null
+    },
+    {
+      "name": "OYO 82996 Sri Durga Luxury Rooms",
+      "rating": 4.3,
+      "reviews": 12,
+      "description": "Free Wi-Fi",
+      "price": null
+    },
+    {
+      "name": "Kakatiya Residency , Lodge and Banquet hall",
+      "rating": 3.5,
+      "reviews": 202,
+      "description": null,
+      "price": null
+    },
+    {
+      "name": "Rajanna Palace",
+      "rating": 4.3,
+      "reviews": 30,
+      "description": "Free Wi-Fi and parking",
+      "price": null
+    }
+  ],
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [
+    {
+      "title": "service",
+      "count": 5
+    },
+    {
+      "title": "price",
+      "count": 3
+    },
+    {
+      "title": "traveling",
+      "count": 2
+    }
+  ],
+  "additionalInfo": {},
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=Hotel%20SS%20Grand&query_place_id=ChIJ_eKULE39zDsR6XN6E0G4Hr4",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPNOVyezF7bwAebjuY5tGuOppi3ViZzycLdi5ff=w533-h240-k-no",
+  "kgmid": "/g/11qgc5_xfs",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPNOVyezF7bwAebjuY5tGuOppi3ViZzycLdi5ff=w1920-h1080-k-no",
+      "authorName": "Hotel SS Grand",
+      "authorUrl": "https://maps.google.com/maps/contrib/113569680314469175910",
+      "uploadedAt": "2021-10-05T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipPNOVyezF7bwAebjuY5tGuOppi3ViZzycLdi5ff=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+}]

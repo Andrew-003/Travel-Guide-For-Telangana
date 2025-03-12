@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+     xmlns:android="http://schemas.android.com/apk/res/android"
+     xmlns:app="http://schemas.android.com/apk/res-auto"
+     android:layout_height="wrap_content"
+     android:layout_width="match_parent"
+     android:layout_marginBottom="16dp"
+     android:backgroundTint="@color/white"
+     app:cardCornerRadius="8dp">
+
+    <RelativeLayout
+         android:layout_height="wrap_content"
+         android:layout_width="match_parent"
+         android:paddingEnd="16dp"
+         android:background="?attr/selectableItemBackground"
+         android:layout_margin="7dp"
+         android:paddingBottom="16dp"
+         android:paddingStart="16dp"
+         android:id="@+id/carditem"
+         android:paddingTop="16dp">
+
+        <com.google.android.material.imageview.ShapeableImageView
+             android:layout_height="85dp"
+             android:layout_width="85dp"
+             android:scaleType="fitCenter"
+             android:contentDescription="Attraction image"
+             android:layout_centerVertical="true"
+             app:shapeAppearanceOverlay="@style/ShapeableImageView_ALLRoundedCorners"
+             android:layout_alignParentStart="true"
+             android:id="@+id/attraction_image_list" />
+
+        <TextView
+             android:layout_height="wrap_content"
+             android:layout_width="wrap_content"
+             android:layout_toEndOf="@id/attraction_image_list"
+             android:fontFamily="@font/nunito_sans_extrabold"
+             android:textSize="18sp"
+             android:textColor="@color/black"
+             android:layout_marginStart="36dp"
+             android:layout_alignTop="@id/attraction_image_list"
+             android:id="@+id/attraction_name_list"
+             android:text="Hyd" />
+
+        <LinearLayout
+             android:layout_height="wrap_content"
+             android:layout_width="match_parent"
+             android:layout_toEndOf="@+id/attraction_image_list"
+             android:layout_below="@id/attraction_name_list"
+             android:orientation="horizontal"
+             android:layout_marginTop="5dp"
+             android:layout_marginStart="2dp">
+
+            <TextView
+                 android:layout_height="wrap_content"
+                 android:layout_width="wrap_content"
+                 android:fontFamily="@font/nunito_sans_bold"
+                 android:textSize="12sp"
+                 android:textColor="#333333"
+                 android:layout_marginStart="36dp"
+                 android:id="@+id/attraction_rating_list"
+                 android:layout_gravity="center_vertical"
+                 android:text="4.5" />
+
+            <RatingBar
+                 android:layout_height="wrap_content"
+                 android:layout_width="80dp"
+                 android:layout_marginEnd="16dp"
+                 style="@style/SmallRatingBar"
+                 android:layout_marginTop="-1dp"
+                 android:isIndicator="true"
+                 android:rating="4.5"
+                 android:id="@+id/attraction_rating_bar" />
+
+            <TextView
+                 android:layout_height="wrap_content"
+                 android:layout_width="wrap_content"
+                 android:textSize="11sp"
+                 android:layout_marginTop="-2dp"
+                 android:layout_marginStart="-28dp"
+                 android:text="(76)" />
+
+        </LinearLayout>
+
+        <androidx.cardview.widget.CardView
+             android:layout_height="44dp"
+             android:layout_width="44dp"
+             android:layout_centerVertical="true"
+             android:layout_alignParentEnd="true"
+             app:cardCornerRadius="16dp"
+             android:id="@+id/card_arrow">
+
+            <ImageView
+                 android:layout_height="28dp"
+                 android:layout_width="28dp"
+                 android:background="@drawable/ic_arrow_down"
+                 android:rotation="270"
+                 android:layout_gravity="center" />
+
+        </androidx.cardview.widget.CardView>
+
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>

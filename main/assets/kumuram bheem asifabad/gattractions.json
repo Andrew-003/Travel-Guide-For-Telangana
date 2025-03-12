@@ -1,0 +1,5074 @@
+[{
+  "searchString": "tourist places",
+  "rank": 20,
+  "searchPageUrl": "https://www.google.com/maps/search/tourist%20places/@19.139607053924237,79.21865488486002,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "Mitte Waterfalls",
+  "subTitle": "మిట్టే వాటర్ ఫాల్స్",
+  "description": null,
+  "price": null,
+  "categoryName": "Tourist attraction",
+  "address": "72FC+MPP, Vankamaddi, Telangana 504313, India",
+  "neighborhood": null,
+  "street": "72FC+MPP",
+  "city": "Vankamaddi",
+  "postalCode": "504313",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": "+91 1800 4254 6464",
+  "phoneUnformatted": null,
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 19.2742101,
+    "lng": 79.0218204
+  },
+  "locatedIn": null,
+  "plusCode": null,
+  "menu": null,
+  "totalScore": 4.7,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJj7x-JZih0jsR0rtI3pCpu6M",
+  "categories": [
+    "Tourist attraction"
+  ],
+  "fid": "0x3bd2a198257ebc8f:0xa3bba990de48bbd2",
+  "cid": "11798210088496839634",
+  "reviewsCount": 153,
+  "reviewsDistribution": {
+    "oneStar": 4,
+    "twoStar": 3,
+    "threeStar": 4,
+    "fourStar": 20,
+    "fiveStar": 122
+  },
+  "imagesCount": 612,
+  "imageCategories": [
+    "All",
+    "Latest",
+    "Videos"
+  ],
+  "scrapedAt": "2024-12-07T17:27:08.784Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {
+    "Su": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 9
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 36
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 72
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 90
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 45
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 18
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "Mo": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 27
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 54
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 36
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 36
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 63
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 81
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 45
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 18
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 9
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 18
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 45
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "Tu": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 36
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 36
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 36
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 54
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 36
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 27
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 9
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 9
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "We": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 9
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 9
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 18
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 36
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 63
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 100
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 63
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 36
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 9
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 18
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "Th": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 54
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 81
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 72
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 72
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 27
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 18
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 18
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 18
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 27
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 54
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 45
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "Fr": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 45
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 18
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 9
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 18
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 54
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 54
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 54
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 27
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 36
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 45
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "Sa": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 9
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 36
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 72
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 72
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 81
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ]
+  },
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "7 AM to 5:30 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "7 AM to 5:30 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "7 AM to 5:30 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "7 AM to 5:30 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "7 AM to 5:30 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "7 AM to 5:30 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "7 AM to 5:30 PM"
+    }
+  ],
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Mitte Waterfalls (Saptha Gundalu) , Telangana",
+      "reviewsCount": 194,
+      "totalScore": 4.7
+    },
+    {
+      "category": "People also search for",
+      "title": "Sapthakund Waterfalls - 4",
+      "reviewsCount": 9,
+      "totalScore": 4.8
+    },
+    {
+      "category": "People also search for",
+      "title": "Sapthakund Waterfalls - 3",
+      "reviewsCount": 5,
+      "totalScore": 4.6
+    },
+    {
+      "category": "People also search for",
+      "title": "Jamuldhara Waterfalls",
+      "reviewsCount": 7,
+      "totalScore": 4.7
+    }
+  ],
+  "placesTags": [],
+  "reviewsTags": [
+    {
+      "title": "nature",
+      "count": 9
+    },
+    {
+      "title": "adventure",
+      "count": 5
+    },
+    {
+      "title": "to walk",
+      "count": 3
+    },
+    {
+      "title": "trek",
+      "count": 2
+    },
+    {
+      "title": "beautiful",
+      "count": 2
+    }
+  ],
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": false
+      }
+    ],
+    "Children": [
+      {
+        "Good for kids": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": {
+    "text": "I love mitte 💖 past time full Enjoy with my wife 💞👍🫶",
+    "language": "en",
+    "postDate": "10 months ago",
+    "postedBy": {
+      "name": "RK Modal",
+      "url": "https://www.google.com/maps/contrib/109454362230710706535?hl=en-US",
+      "title": null,
+      "totalReviews": 0
+    },
+    "media": [
+      {
+        "link": "https://lh5.googleusercontent.com/p/AF1QipNK71GPvOQo-YFlJBhGiXEe4cowhNuM8Cu3aiQx=w150-h150-k-no-p",
+        "postDate": "10 months ago"
+      },
+      {
+        "link": "https://lh5.googleusercontent.com/p/AF1QipNvdknWmnX2RhteLWh3DluKWD7eOhd0iVUV4wX0=w150-h150-k-no-p",
+        "postDate": "10 months ago"
+      }
+    ]
+  },
+  "url": "https://www.google.com/maps/search/?api=1&query=Mitte%20Waterfalls&query_place_id=ChIJj7x-JZih0jsR0rtI3pCpu6M",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPeRqP-eu4143MreyTVcbUdYkjCZ34Sp8ibW4y7=w408-h272-k-no",
+  "kgmid": "/g/11h4kwsb_b",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPeRqP-eu4143MreyTVcbUdYkjCZ34Sp8ibW4y7=w1920-h1080-k-no",
+      "authorName": "Kishore Thodasam",
+      "authorUrl": "https://maps.google.com/maps/contrib/107086576767081625872",
+      "uploadedAt": "2022-10-08T00:00:00.000Z"
+    },
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipP_p5PwINaaiF5MEGE3K6Pt1olF-NyIDOJIki3C=w1920-h1080-k-no",
+      "authorName": "Karthik Reddy",
+      "authorUrl": "https://maps.google.com/maps/contrib/112826574395592136597",
+      "uploadedAt": "2020-10-03T00:00:00.000Z"
+    },
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOwg-WbxgBm1w3_g97wzQCeWqGp8gPKvg6eaaX4=w1920-h1080-k-no",
+      "authorName": "Prem Manepally",
+      "authorUrl": "https://maps.google.com/maps/contrib/101063817032169731850",
+      "uploadedAt": "2024-08-15T00:00:00.000Z"
+    },
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNYJBseJ_EXonzGRPQaz5bQuuSVzXSlVRthQCwD=w1920-h1080-k-no",
+      "authorName": "ROMEO KANAKA",
+      "authorUrl": "https://maps.google.com/maps/contrib/113808750212345741242",
+      "uploadedAt": "2021-08-15T00:00:00.000Z"
+    },
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipM5N2TYdpIKZ3UMBR6DOQoa_Wsm9jlv3ZwyfrRd=w1920-h1080-k-no",
+      "authorName": "Vajreshwari Gudladona",
+      "authorUrl": "https://maps.google.com/maps/contrib/102144509687713968596",
+      "uploadedAt": "2021-10-19T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipPeRqP-eu4143MreyTVcbUdYkjCZ34Sp8ibW4y7=w1920-h1080-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP_p5PwINaaiF5MEGE3K6Pt1olF-NyIDOJIki3C=w1920-h1080-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOwg-WbxgBm1w3_g97wzQCeWqGp8gPKvg6eaaX4=w1920-h1080-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNYJBseJ_EXonzGRPQaz5bQuuSVzXSlVRthQCwD=w1920-h1080-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM5N2TYdpIKZ3UMBR6DOQoa_Wsm9jlv3ZwyfrRd=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null,
+  "restaurantData": {},
+  "ownerUpdates": []
+},
+{
+  "searchString": "tourist places",
+  "rank": 18,
+  "searchPageUrl": "https://www.google.com/maps/search/tourist%20places/@19.139607053924237,79.21865488486002,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "Komarambheem Waterfalls",
+  "subTitle": "కొమరంభీం వాటర్ ఫాల్స్",
+  "description": null,
+  "price": null,
+  "categoryName": "Tourist attraction",
+  "address": "C6PH+5GF, Ada, Telangana 504293, India",
+  "neighborhood": null,
+  "street": "C6PH+5GF",
+  "city": "Ada",
+  "postalCode": "504293",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": null,
+  "phoneUnformatted": null,
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 19.4354454,
+    "lng": 79.2288015
+  },
+  "locatedIn": null,
+  "plusCode": null,
+  "menu": null,
+  "totalScore": 4.3,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJSyQ5z9iv0jsRfQsbEsnV_sM",
+  "categories": [
+    "Tourist attraction"
+  ],
+  "fid": "0x3bd2afd8cf39244b:0xc3fed5c9121b0b7d",
+  "cid": "14122960541049359229",
+  "reviewsCount": 53,
+  "reviewsDistribution": {
+    "oneStar": 3,
+    "twoStar": 1,
+    "threeStar": 6,
+    "fourStar": 9,
+    "fiveStar": 34
+  },
+  "imagesCount": 218,
+  "imageCategories": [
+    "All",
+    "Videos"
+  ],
+  "scrapedAt": "2024-12-07T17:27:15.000Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Ada water point and dam view",
+      "reviewsCount": 18,
+      "totalScore": 3.9
+    },
+    {
+      "category": "People also search for",
+      "title": "Sri Komaram Bhim Project",
+      "reviewsCount": 71,
+      "totalScore": 4.5
+    },
+    {
+      "category": "People also search for",
+      "title": "Kallegaon waterfall",
+      "reviewsCount": 17,
+      "totalScore": 4.4
+    }
+  ],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Children": [
+      {
+        "Good for kids": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=Komarambheem%20Waterfalls&query_place_id=ChIJSyQ5z9iv0jsRfQsbEsnV_sM",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPrt3sCAJaVCpkn_k1CUf9c-qPuxpaYntIxH4E=w408-h306-k-no",
+  "kgmid": "/g/11f2xxf39b",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPrt3sCAJaVCpkn_k1CUf9c-qPuxpaYntIxH4E=w1920-h1080-k-no",
+      "authorName": "omkar Naitham",
+      "authorUrl": "https://maps.google.com/maps/contrib/109922863847253627280",
+      "uploadedAt": "2018-08-12T00:00:00.000Z"
+    },
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOf16jt08ydDbo9bO7DnY_i8SRGgW6KJwj5WEb3=w1920-h1080-k-no",
+      "authorName": "Srikanth Soma",
+      "authorUrl": "https://maps.google.com/maps/contrib/116157291150938047950",
+      "uploadedAt": "2018-08-17T00:00:00.000Z"
+    },
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNWrjSRhHXnTaRCWVzjWrBtFsKTPKtIP-qHOMC3=w1920-h1080-k-no",
+      "authorName": "Fidaa Ram",
+      "authorUrl": "https://maps.google.com/maps/contrib/113414152554099745681",
+      "uploadedAt": "2020-10-15T00:00:00.000Z"
+    },
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNTNyJcdo3_hyC307puvCsaivWET72W06bk_SKz=w1920-h1080-k-no",
+      "authorName": "sampath kumar",
+      "authorUrl": "https://maps.google.com/maps/contrib/107068634011169585779",
+      "uploadedAt": "2020-08-31T00:00:00.000Z"
+    },
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipP3Y3XmV3dOC9dEQR0tHCdZ_CPlmGULnpTlfHjE=w1920-h1080-k-no",
+      "authorName": "Fidaa Ram",
+      "authorUrl": "https://maps.google.com/maps/contrib/113414152554099745681",
+      "uploadedAt": "2020-01-16T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipPrt3sCAJaVCpkn_k1CUf9c-qPuxpaYntIxH4E=w1920-h1080-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOf16jt08ydDbo9bO7DnY_i8SRGgW6KJwj5WEb3=w1920-h1080-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNWrjSRhHXnTaRCWVzjWrBtFsKTPKtIP-qHOMC3=w1920-h1080-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNTNyJcdo3_hyC307puvCsaivWET72W06bk_SKz=w1920-h1080-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP3Y3XmV3dOC9dEQR0tHCdZ_CPlmGULnpTlfHjE=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null,
+  "restaurantData": {},
+  "ownerUpdates": []
+},
+{
+  "searchString": "tourist places",
+  "rank": 16,
+  "searchPageUrl": "https://www.google.com/maps/search/tourist%20places/@19.528115546075753,79.69817872725199,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "Kushnapally orre",
+  "subTitle": "కుష్ణపల్లీ ఒర్రె",
+  "description": null,
+  "price": null,
+  "categoryName": "Tourist attraction",
+  "address": "8VMX+29, Kushnepalle, Telangana 504299, India",
+  "neighborhood": null,
+  "street": "8VMX+29",
+  "city": "Kushnepalle",
+  "postalCode": null,
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": null,
+  "phoneUnformatted": null,
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 19.3325625,
+    "lng": 79.8984375
+  },
+  "locatedIn": null,
+  "plusCode": null,
+  "menu": null,
+  "totalScore": 4,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJVR0xbbNjLToRSi3mhZXVDho",
+  "categories": [
+    "Tourist attraction"
+  ],
+  "fid": "0x3a2d63b36d311d55:0x1a0ed59585e62d4a",
+  "cid": "1877672932833373514",
+  "reviewsCount": 4,
+  "reviewsDistribution": {
+    "oneStar": 1,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 3
+  },
+  "imagesCount": 5,
+  "imageCategories": [
+    "All",
+    "Videos"
+  ],
+  "scrapedAt": "2024-12-07T17:27:13.334Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Children": [
+      {
+        "Good for kids": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": {
+    "text": "ఫ్రీ\n\nడమ్ ఫైటర్",
+    "language": "te",
+    "postDate": "3 months ago",
+    "postedBy": {
+      "name": "Laxmi Eligeti",
+      "url": "https://www.google.com/maps/contrib/117336414035085264096?hl=en-GB",
+      "title": null,
+      "totalReviews": 1
+    },
+    "media": [
+      {
+        "link": "https://lh5.googleusercontent.com/p/AF1QipNh6FtqtGrzSE4iX_IGv3DUFlWeD8SQCM98MQcd=w150-h150-k-no-p",
+        "postDate": "3 months ago"
+      },
+      {
+        "link": "https://lh5.googleusercontent.com/p/AF1QipO1beaWfF99cR6ckdxtGALzWrnJ6rJgXoQPk1NR=w150-h150-k-no-p",
+        "postDate": "3 months ago"
+      }
+    ]
+  },
+  "url": "https://www.google.com/maps/search/?api=1&query=Kushnapally%20orre&query_place_id=ChIJVR0xbbNjLToRSi3mhZXVDho",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOcebSq10zgFjxMZfU8sWFCRQcr0n5CBq5CTeND=w408-h725-k-no",
+  "kgmid": "/g/11t6j3nqvh",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOcebSq10zgFjxMZfU8sWFCRQcr0n5CBq5CTeND=w1920-h1080-k-no",
+      "authorName": "sunil sunil",
+      "authorUrl": "https://maps.google.com/maps/contrib/115732501843960870867",
+      "uploadedAt": "2023-07-27T00:00:00.000Z"
+    },
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNjuv_jGzKkRyuqu4YC0klVkfC0E1KnkoIyNbHy=w1920-h1080-k-no",
+      "authorName": "N eashwar",
+      "authorUrl": "https://maps.google.com/maps/contrib/117369507524223137275",
+      "uploadedAt": "2022-07-14T00:00:00.000Z"
+    },
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPhRuAK5NdMTPvYQ1CzLlIBQW3pylXbfobPAayO=w1920-h1080-k-no",
+      "authorName": "Devender Nenduguri",
+      "authorUrl": "https://maps.google.com/maps/contrib/102313781906723217983",
+      "uploadedAt": "2023-05-04T00:00:00.000Z"
+    },
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNh6FtqtGrzSE4iX_IGv3DUFlWeD8SQCM98MQcd=w1920-h1080-k-no",
+      "authorName": "Laxmi Eligeti",
+      "authorUrl": "https://maps.google.com/maps/contrib/117336414035085264096",
+      "uploadedAt": "2024-06-28T00:00:00.000Z"
+    },
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipO1beaWfF99cR6ckdxtGALzWrnJ6rJgXoQPk1NR=w1920-h1080-k-no",
+      "authorName": "Laxmi Eligeti",
+      "authorUrl": "https://maps.google.com/maps/contrib/117336414035085264096",
+      "uploadedAt": "2024-06-14T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipOcebSq10zgFjxMZfU8sWFCRQcr0n5CBq5CTeND=w1920-h1080-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNjuv_jGzKkRyuqu4YC0klVkfC0E1KnkoIyNbHy=w1920-h1080-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPhRuAK5NdMTPvYQ1CzLlIBQW3pylXbfobPAayO=w1920-h1080-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNh6FtqtGrzSE4iX_IGv3DUFlWeD8SQCM98MQcd=w1920-h1080-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO1beaWfF99cR6ckdxtGALzWrnJ6rJgXoQPk1NR=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null,
+  "restaurantData": {},
+  "ownerUpdates": []
+},
+{
+  "searchString": "tourist places",
+  "rank": 11,
+  "searchPageUrl": "https://www.google.com/maps/search/tourist%20places/@19.528115546075753,79.69817872725199,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "Kosni dam",
+  "subTitle": "కోస్ని డాం",
+  "description": null,
+  "price": null,
+  "categoryName": "Tourist attraction",
+  "address": "9FVF+8MP, Unnamed Road, Kosni, Telangana 504299, India",
+  "neighborhood": null,
+  "street": "9FVF+8MP, Unnamed Road",
+  "city": "Kosni",
+  "postalCode": null,
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": null,
+  "phoneUnformatted": null,
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 19.3933275,
+    "lng": 79.4741934
+  },
+  "locatedIn": null,
+  "plusCode": null,
+  "menu": null,
+  "totalScore": 4.2,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJV__TKbpRLToRFF4R9EBra5w",
+  "categories": [
+    "Tourist attraction"
+  ],
+  "fid": "0x3a2d51ba29d3ff57:0x9c6b6b40f4115e14",
+  "cid": "11271220419141656084",
+  "reviewsCount": 36,
+  "reviewsDistribution": {
+    "oneStar": 3,
+    "twoStar": 2,
+    "threeStar": 1,
+    "fourStar": 8,
+    "fiveStar": 22
+  },
+  "imagesCount": 114,
+  "imageCategories": [
+    "All",
+    "Mountain",
+    "Videos"
+  ],
+  "scrapedAt": "2024-12-07T17:27:19.368Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Stream view",
+      "reviewsCount": 10,
+      "totalScore": 4.4
+    },
+    {
+      "category": "People also search for",
+      "title": "Mini Tank Band Sirpur",
+      "reviewsCount": 123,
+      "totalScore": 3.7
+    },
+    {
+      "category": "People also search for",
+      "title": "Harini nature park",
+      "reviewsCount": 20,
+      "totalScore": 4.2
+    },
+    {
+      "category": "People also search for",
+      "title": "Ada dam boating spot",
+      "reviewsCount": 1,
+      "totalScore": 5
+    }
+  ],
+  "placesTags": [],
+  "reviewsTags": [
+    {
+      "title": "government",
+      "count": 2
+    }
+  ],
+  "additionalInfo": {
+    "Children": [
+      {
+        "Good for kids": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": {
+    "text": "Just visit 🤘",
+    "language": "en",
+    "postDate": "3 years ago",
+    "postedBy": {
+      "name": "Srikar B",
+      "url": "https://www.google.com/maps/contrib/108105336532524590164?hl=en-US",
+      "title": "Local Guide",
+      "totalReviews": 32
+    },
+    "media": [
+      {
+        "link": "https://lh5.googleusercontent.com/p/AF1QipOL2YUryMmqNCQOUL85cZxxMeHTtCVLvvPo8V8r=w150-h150-k-no-p",
+        "postDate": "3 years ago"
+      },
+      {
+        "link": "https://lh5.googleusercontent.com/p/AF1QipNJCcvjBw1wcgMV8s9hfCFV2sm5PviyWLsIpqth=w150-h150-k-no-p",
+        "postDate": "3 years ago"
+      },
+      {
+        "link": "https://lh5.googleusercontent.com/p/AF1QipNGqzWpecBsX96Bryp3N-sG-3ev05AdmE1XRA85=w150-h150-k-no-p",
+        "postDate": "3 years ago"
+      },
+      {
+        "link": "https://lh5.googleusercontent.com/p/AF1QipNxyuwg4qsp51p1MayD34T6YFwK--BG26zHwS_0=w150-h150-k-no-p",
+        "postDate": "3 years ago"
+      }
+    ]
+  },
+  "url": "https://www.google.com/maps/search/?api=1&query=Kosni%20dam&query_place_id=ChIJV__TKbpRLToRFF4R9EBra5w",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPoGFLxkCcc6RtdewwmT2D9nUv8Eel2uk8FPlDN=w426-h240-k-no",
+  "kgmid": "/g/11q97j_2gk",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPoGFLxkCcc6RtdewwmT2D9nUv8Eel2uk8FPlDN=w1920-h1080-k-no",
+      "authorName": "Mohammed Imran",
+      "authorUrl": "https://maps.google.com/maps/contrib/108534811209751531456",
+      "uploadedAt": "2022-09-03T00:00:00.000Z"
+    },
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipN12CzdTADeya21VvWIJcgYliYnK0w5xL0caNqi=w1920-h1080-k-no",
+      "authorName": "Srikanth SM",
+      "authorUrl": "https://maps.google.com/maps/contrib/114826598861041088947",
+      "uploadedAt": "2020-10-14T00:00:00.000Z"
+    },
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOlXBqiep5SG4K6O0cQYctLP0_-kxx4Y19vKUA=w1920-h1080-k-no",
+      "authorName": "Saud Faisal sarri",
+      "authorUrl": "https://maps.google.com/maps/contrib/104205760532727298467",
+      "uploadedAt": "2024-05-18T00:00:00.000Z"
+    },
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOcvTfAz-84yTXtV7qjnxhu8PC_Q3fo7alGR59r=w1920-h1080-k-no",
+      "authorName": "Srikar B",
+      "authorUrl": "https://maps.google.com/maps/contrib/108105336532524590164",
+      "uploadedAt": "2019-09-14T00:00:00.000Z"
+    },
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNkV_h5eeALuYQJhGuui2i2YwNeJl6OF2YJIbXK=w1920-h1080-k-no",
+      "authorName": "Srikar B",
+      "authorUrl": "https://maps.google.com/maps/contrib/108105336532524590164",
+      "uploadedAt": "2023-10-07T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipPoGFLxkCcc6RtdewwmT2D9nUv8Eel2uk8FPlDN=w1920-h1080-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN12CzdTADeya21VvWIJcgYliYnK0w5xL0caNqi=w1920-h1080-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOlXBqiep5SG4K6O0cQYctLP0_-kxx4Y19vKUA=w1920-h1080-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOcvTfAz-84yTXtV7qjnxhu8PC_Q3fo7alGR59r=w1920-h1080-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNkV_h5eeALuYQJhGuui2i2YwNeJl6OF2YJIbXK=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null,
+  "restaurantData": {},
+  "ownerUpdates": []
+},
+{
+  "searchString": "tourist places",
+  "rank": 16,
+  "searchPageUrl": "https://www.google.com/maps/search/tourist%20places/@19.139607053924237,79.21865488486002,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "Sangapur Waterfalls",
+  "subTitle": "సంగాపూర్ వాటర్ ఫాల్స్",
+  "description": null,
+  "price": null,
+  "categoryName": "Tourist attraction",
+  "address": "658G+FM7, Pangidi Madra, Telangana 504294, India",
+  "neighborhood": null,
+  "street": "658G+FM7",
+  "city": "Pangidi Madra",
+  "postalCode": null,
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": null,
+  "phoneUnformatted": null,
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 19.2161684,
+    "lng": 79.1766771
+  },
+  "locatedIn": null,
+  "plusCode": null,
+  "menu": null,
+  "totalScore": 3.6,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJfVEdkG1ZzTsRWUR0qn7LF1Y",
+  "categories": [
+    "Tourist attraction"
+  ],
+  "fid": "0x3bcd596d901d517d:0x5617cb7eaa744459",
+  "cid": "6203650756612211801",
+  "reviewsCount": 9,
+  "reviewsDistribution": {
+    "oneStar": 3,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 1,
+    "fiveStar": 5
+  },
+  "imagesCount": 32,
+  "imageCategories": [
+    "All",
+    "Videos"
+  ],
+  "scrapedAt": "2024-12-07T17:27:22.374Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "7 AM to 5 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "7 AM to 5 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "7 AM to 5 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "7 AM to 5 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "7 AM to 5 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "7 AM to 5 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "7 AM to 5 PM"
+    }
+  ],
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "MANGAMTADVA WATERFALLS",
+      "reviewsCount": 3,
+      "totalScore": 5
+    },
+    {
+      "category": "People also search for",
+      "title": "KURR waterfall",
+      "reviewsCount": 4,
+      "totalScore": 5
+    },
+    {
+      "category": "People also search for",
+      "title": "Sapthakund Waterfalls - 3",
+      "reviewsCount": 5,
+      "totalScore": 4.6
+    },
+    {
+      "category": "People also search for",
+      "title": "Chechera Waterfalls",
+      "reviewsCount": 11,
+      "totalScore": 4.1
+    },
+    {
+      "category": "People also search for",
+      "title": "Sapthakund Waterfalls - 4",
+      "reviewsCount": 9,
+      "totalScore": 4.8
+    }
+  ],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Children": [
+      {
+        "Good for kids": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=Sangapur%20Waterfalls&query_place_id=ChIJfVEdkG1ZzTsRWUR0qn7LF1Y",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMwa0t6eBCSHV4Ndg6LpEP-cugz6v7iEtqVkBo1=w408-h883-k-no",
+  "kgmid": "/g/11h_7qwm14",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMwa0t6eBCSHV4Ndg6LpEP-cugz6v7iEtqVkBo1=w1920-h1080-k-no",
+      "authorName": "Ajay 6264",
+      "authorUrl": "https://maps.google.com/maps/contrib/105269672866381955086",
+      "uploadedAt": "2022-10-15T00:00:00.000Z"
+    },
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOa8gYaCQDRxG8vEPVY3JlYVFA0ujlNcB_WNVzA=w1920-h1080-k-no",
+      "authorName": "SKRESHMA RESHMA",
+      "authorUrl": "https://maps.google.com/maps/contrib/103189774773086752942",
+      "uploadedAt": "2023-07-24T00:00:00.000Z"
+    },
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMwH2z3Z4xFehebEur83rwhE-5CL_cmHxt_Jg4j=w1920-h1080-k-no",
+      "authorName": "SKRESHMA RESHMA",
+      "authorUrl": "https://maps.google.com/maps/contrib/103189774773086752942",
+      "uploadedAt": "2023-07-24T00:00:00.000Z"
+    },
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPRwRT0pqIM3rht3ZCHDZRAULuSX104x_9itzYz=w1920-h1080-k-no",
+      "authorName": "SKRESHMA RESHMA",
+      "authorUrl": "https://maps.google.com/maps/contrib/103189774773086752942",
+      "uploadedAt": "2023-07-24T00:00:00.000Z"
+    },
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOxXyTWCzjdYaTIri_aAXFBIuOBROz5YUuU-gmh=w1920-h1080-k-no",
+      "authorName": "Abdul Mehraj",
+      "authorUrl": "https://maps.google.com/maps/contrib/112612613253035947751",
+      "uploadedAt": "2023-08-06T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipMwa0t6eBCSHV4Ndg6LpEP-cugz6v7iEtqVkBo1=w1920-h1080-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOa8gYaCQDRxG8vEPVY3JlYVFA0ujlNcB_WNVzA=w1920-h1080-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMwH2z3Z4xFehebEur83rwhE-5CL_cmHxt_Jg4j=w1920-h1080-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPRwRT0pqIM3rht3ZCHDZRAULuSX104x_9itzYz=w1920-h1080-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOxXyTWCzjdYaTIri_aAXFBIuOBROz5YUuU-gmh=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null,
+  "restaurantData": {},
+  "ownerUpdates": []
+},
+{
+  "searchString": "tourist places",
+  "rank": 9,
+  "searchPageUrl": "https://www.google.com/maps/search/tourist%20places/@19.528115546075753,79.69817872725199,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "Twin waterfalls 🌊🏔️",
+  "subTitle": null,
+  "description": null,
+  "price": null,
+  "categoryName": "Tourist attraction",
+  "address": "CFR2+46P, Regulguda, Telangana 504299, India",
+  "neighborhood": null,
+  "street": "CFR2+46P",
+  "city": "Regulguda",
+  "postalCode": null,
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": null,
+  "phoneUnformatted": null,
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 19.4403296,
+    "lng": 79.4505816
+  },
+  "locatedIn": null,
+  "plusCode": null,
+  "menu": null,
+  "totalScore": 4.7,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJu8ePIABTLToRMmSjZtN4_bQ",
+  "categories": [
+    "Tourist attraction"
+  ],
+  "fid": "0x3a2d5300208fc7bb:0xb4fd78d366a36432",
+  "cid": "13041712945290241074",
+  "reviewsCount": 7,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 2,
+    "fiveStar": 5
+  },
+  "imagesCount": 27,
+  "imageCategories": [
+    "All",
+    "Videos"
+  ],
+  "scrapedAt": "2024-12-07T17:27:29.376Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {},
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=Twin%20waterfalls%20%F0%9F%8C%8A%F0%9F%8F%94%EF%B8%8F&query_place_id=ChIJu8ePIABTLToRMmSjZtN4_bQ",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNgeeARtq8-cC58Kp_TnsmLIfQEHodKRxKf4w0c=w408-h544-k-no",
+  "kgmid": "/g/11ln1q15wl",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNgeeARtq8-cC58Kp_TnsmLIfQEHodKRxKf4w0c=w1920-h1080-k-no",
+      "authorName": "NSK",
+      "authorUrl": "https://maps.google.com/maps/contrib/110506785763243670248",
+      "uploadedAt": "2024-08-20T00:00:00.000Z"
+    },
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNBPK_Ifyl0pAPFk6Wr7rLsbIUVWRzid_wL2Xf5=w1920-h1080-k-no",
+      "authorName": "Athram Rajashekar",
+      "authorUrl": "https://maps.google.com/maps/contrib/106372043900765560091",
+      "uploadedAt": "2024-09-17T00:00:00.000Z"
+    },
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMqZc4w1C74oA-XJebVyQu9UiUIn5imxf8xqco9=w1920-h1080-k-no",
+      "authorName": "Athram Rajashekar",
+      "authorUrl": "https://maps.google.com/maps/contrib/106372043900765560091",
+      "uploadedAt": "2024-09-17T00:00:00.000Z"
+    },
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNvgwMAgddUKz9dyATZvBSUCFlD-xruQhPk7-Ey=w1920-h1080-k-no",
+      "authorName": "Athram Rajashekar",
+      "authorUrl": "https://maps.google.com/maps/contrib/106372043900765560091",
+      "uploadedAt": "2024-09-16T00:00:00.000Z"
+    },
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPRceLvx55l0KVsgxX2pd67XuBS3Qt2-b0zb7Nw=w1920-h1080-k-no",
+      "authorName": "NSK",
+      "authorUrl": "https://maps.google.com/maps/contrib/110506785763243670248",
+      "uploadedAt": "2024-08-21T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipNgeeARtq8-cC58Kp_TnsmLIfQEHodKRxKf4w0c=w1920-h1080-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNBPK_Ifyl0pAPFk6Wr7rLsbIUVWRzid_wL2Xf5=w1920-h1080-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMqZc4w1C74oA-XJebVyQu9UiUIn5imxf8xqco9=w1920-h1080-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNvgwMAgddUKz9dyATZvBSUCFlD-xruQhPk7-Ey=w1920-h1080-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPRceLvx55l0KVsgxX2pd67XuBS3Qt2-b0zb7Nw=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null,
+  "restaurantData": {},
+  "ownerUpdates": []
+},
+{
+  "searchString": "tourist places",
+  "rank": 14,
+  "searchPageUrl": "https://www.google.com/maps/search/tourist%20places/@19.139607053924237,79.21865488486002,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "Vattivagu Dam",
+  "subTitle": "వట్టివాగు డాం",
+  "description": null,
+  "price": null,
+  "categoryName": "Tourist attraction",
+  "address": "77P9+MH, Padibonda, Telangana 504292, India",
+  "neighborhood": null,
+  "street": "77P9+MH",
+  "city": "Padibonda",
+  "postalCode": null,
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": null,
+  "phoneUnformatted": null,
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 19.2866977,
+    "lng": 79.2689565
+  },
+  "locatedIn": null,
+  "plusCode": null,
+  "menu": null,
+  "totalScore": 4.6,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJr7nMBB6p0jsRnbD0TyvAPwM",
+  "categories": [
+    "Tourist attraction"
+  ],
+  "fid": "0x3bd2a91e04ccb9af:0x33fc02b4ff4b09d",
+  "cid": "234116997904117917",
+  "reviewsCount": 7,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 1,
+    "fourStar": 1,
+    "fiveStar": 5
+  },
+  "imagesCount": 29,
+  "imageCategories": [
+    "All",
+    "Videos"
+  ],
+  "scrapedAt": "2024-12-07T17:27:30.984Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Ada water point and dam view",
+      "reviewsCount": 18,
+      "totalScore": 3.9
+    },
+    {
+      "category": "People also search for",
+      "title": "Ada dam boating spot",
+      "reviewsCount": 1,
+      "totalScore": 5
+    }
+  ],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Children": [
+      {
+        "Good for kids": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=Vattivagu%20Dam&query_place_id=ChIJr7nMBB6p0jsRnbD0TyvAPwM",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipO6dz4qgxEkWBapKcY-nQD4ucLa8AphiiEWOQki=w426-h240-k-no",
+  "kgmid": "/g/11t2bz_8zq",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipO6dz4qgxEkWBapKcY-nQD4ucLa8AphiiEWOQki=w1920-h1080-k-no",
+      "authorName": "MD Sharooq khan",
+      "authorUrl": "https://maps.google.com/maps/contrib/108719387410261606496",
+      "uploadedAt": "2023-07-02T00:00:00.000Z"
+    },
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMESWm-Hh1F__8n-oSc0vReogykOeXXPtlMXv3C=w1920-h1080-k-no",
+      "authorName": "Hari Krishna",
+      "authorUrl": "https://maps.google.com/maps/contrib/105064045519342721030",
+      "uploadedAt": "2022-06-05T00:00:00.000Z"
+    },
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNfmRd5YOz-L9VGLrEzHuhy_gM30H3Vp-t6GylD=w1920-h1080-k-no",
+      "authorName": "MD Sharooq khan",
+      "authorUrl": "https://maps.google.com/maps/contrib/108719387410261606496",
+      "uploadedAt": "2023-07-02T00:00:00.000Z"
+    },
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPIQIHXacLrAHrAzJeE2CxXaTN1TBMOMSd0Aorr=w1920-h1080-k-no",
+      "authorName": "MAHESHWAR DURGAM",
+      "authorUrl": "https://maps.google.com/maps/contrib/105873378498159966141",
+      "uploadedAt": "2022-08-18T00:00:00.000Z"
+    },
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPBsOfGNQpEPZyhskhR9z79bQfQCaFxhtjWaSJF=w1920-h1080-k-no",
+      "authorName": "Hari Krishna",
+      "authorUrl": "https://maps.google.com/maps/contrib/105064045519342721030",
+      "uploadedAt": "2022-06-05T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipO6dz4qgxEkWBapKcY-nQD4ucLa8AphiiEWOQki=w1920-h1080-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMESWm-Hh1F__8n-oSc0vReogykOeXXPtlMXv3C=w1920-h1080-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNfmRd5YOz-L9VGLrEzHuhy_gM30H3Vp-t6GylD=w1920-h1080-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPIQIHXacLrAHrAzJeE2CxXaTN1TBMOMSd0Aorr=w1920-h1080-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPBsOfGNQpEPZyhskhR9z79bQfQCaFxhtjWaSJF=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null,
+  "restaurantData": {},
+  "ownerUpdates": []
+},
+{
+  "searchString": "tourist places",
+  "rank": 8,
+  "searchPageUrl": "https://www.google.com/maps/search/tourist%20places/@19.528115546075753,79.69817872725199,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "Rock waterfall",
+  "subTitle": "రాక్ వాటర్ఫాల్",
+  "description": null,
+  "price": null,
+  "categoryName": "Tourist attraction",
+  "address": "9WC4+W3J, Kushnapalle, Bejjur, Ambhaghat, Telangana 504299, India",
+  "neighborhood": "Kushnapalle",
+  "street": "9WC4+W3J",
+  "city": "Bejjur, Ambhaghat",
+  "postalCode": "504299",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": null,
+  "phoneUnformatted": null,
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 19.3723444,
+    "lng": 79.9051275
+  },
+  "locatedIn": null,
+  "plusCode": null,
+  "menu": null,
+  "totalScore": 4.4,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJNQ1tzp9jLToRDoofNK939ME",
+  "categories": [
+    "Tourist attraction"
+  ],
+  "fid": "0x3a2d639fce6d0d35:0xc1f477af341f8a0e",
+  "cid": "13975927138014956046",
+  "reviewsCount": 5,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 1,
+    "fourStar": 1,
+    "fiveStar": 3
+  },
+  "imagesCount": 69,
+  "imageCategories": [
+    "All",
+    "Videos"
+  ],
+  "scrapedAt": "2024-12-07T17:27:32.825Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Shivapalli waterfall",
+      "reviewsCount": 38,
+      "totalScore": 4.4
+    },
+    {
+      "category": "People also search for",
+      "title": "Dhodhadai waterfall",
+      "reviewsCount": 7,
+      "totalScore": 4
+    },
+    {
+      "category": "People also search for",
+      "title": "Waterfalls",
+      "reviewsCount": 3,
+      "totalScore": 4.7
+    },
+    {
+      "category": "People also search for",
+      "title": "Bugga waterfall",
+      "reviewsCount": 17,
+      "totalScore": 4.2
+    }
+  ],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Children": [
+      {
+        "Good for kids": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=Rock%20waterfall&query_place_id=ChIJNQ1tzp9jLToRDoofNK939ME",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPMyjihZDukfHVcY9_T918mFF4ySOgLEMivKLpU=w408-h541-k-no",
+  "kgmid": "/g/11v6z8q4vs",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPMyjihZDukfHVcY9_T918mFF4ySOgLEMivKLpU=w1920-h1080-k-no",
+      "authorName": "Sai Kumar",
+      "authorUrl": "https://maps.google.com/maps/contrib/107836708163324628131",
+      "uploadedAt": "2023-07-24T00:00:00.000Z"
+    },
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPVHs1kek1ML_LPrZwkUct_8RxBK0akfQ6XRB2v=w1920-h1080-k-no",
+      "authorName": "Sandeep Maruthi",
+      "authorUrl": "https://maps.google.com/maps/contrib/116192600558080274104",
+      "uploadedAt": "2024-08-04T00:00:00.000Z"
+    },
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNAXm1w6NOC03O8rk2zWrGqbOzi8qOznIv5AC6x=w1920-h1080-k-no",
+      "authorName": "Nikadi Rajinikanth",
+      "authorUrl": "https://maps.google.com/maps/contrib/113378317478800877072",
+      "uploadedAt": "2024-07-10T00:00:00.000Z"
+    },
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPEt3V4TK2sDWeM3D-zw2P56RSegF_pAbIv_RxD=w1920-h1080-k-no",
+      "authorName": "Sonule Srinu",
+      "authorUrl": "https://maps.google.com/maps/contrib/113487009626412007058",
+      "uploadedAt": "2024-08-07T00:00:00.000Z"
+    },
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMcMIUpMGX-YQKeCAJlKwdIawfnC9ETrQPRnyaP=w1920-h1080-k-no",
+      "authorName": "Sai Kumar",
+      "authorUrl": "https://maps.google.com/maps/contrib/107836708163324628131",
+      "uploadedAt": "2024-07-23T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipPMyjihZDukfHVcY9_T918mFF4ySOgLEMivKLpU=w1920-h1080-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPVHs1kek1ML_LPrZwkUct_8RxBK0akfQ6XRB2v=w1920-h1080-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNAXm1w6NOC03O8rk2zWrGqbOzi8qOznIv5AC6x=w1920-h1080-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPEt3V4TK2sDWeM3D-zw2P56RSegF_pAbIv_RxD=w1920-h1080-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMcMIUpMGX-YQKeCAJlKwdIawfnC9ETrQPRnyaP=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null,
+  "restaurantData": {},
+  "ownerUpdates": []
+},
+{
+  "searchString": "tourist places",
+  "rank": 13,
+  "searchPageUrl": "https://www.google.com/maps/search/tourist%20places/@19.139607053924237,79.21865488486002,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "Mannat Waterfalls",
+  "subTitle": "మన్నత్ వాటర్ ఫాల్స్",
+  "description": null,
+  "price": null,
+  "categoryName": "Tourist attraction",
+  "address": "Asifabad, Ullipitta Dorli, Telangana 504293, India",
+  "neighborhood": null,
+  "street": null,
+  "city": "Asifabad, Ullipitta Dorli",
+  "postalCode": "504293",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": null,
+  "phoneUnformatted": null,
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 19.2626346,
+    "lng": 79.2309423
+  },
+  "locatedIn": null,
+  "plusCode": "767J+39 Asifabad, Telangana, India",
+  "menu": null,
+  "totalScore": 4.8,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJwQdYRZ-p0jsRATGX79kcIaM",
+  "categories": [
+    "Tourist attraction"
+  ],
+  "fid": "0x3bd2a99f455807c1:0xa3211cd9ef973101",
+  "cid": "11754708224766849281",
+  "reviewsCount": 26,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 2,
+    "fourStar": 1,
+    "fiveStar": 23
+  },
+  "imagesCount": 76,
+  "imageCategories": [
+    "All",
+    "By owner",
+    "Videos"
+  ],
+  "scrapedAt": "2024-12-07T17:27:36.468Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "MANGAMTADVA WATERFALLS",
+      "reviewsCount": 3,
+      "totalScore": 5
+    },
+    {
+      "category": "People also search for",
+      "title": "Samthulagundam Waterfalls",
+      "reviewsCount": 30,
+      "totalScore": 4.4
+    },
+    {
+      "category": "People also search for",
+      "title": "Sapthakund Waterfalls - 4",
+      "reviewsCount": 9,
+      "totalScore": 4.8
+    },
+    {
+      "category": "People also search for",
+      "title": "Sangapur Waterfalls",
+      "reviewsCount": 9,
+      "totalScore": 3.6
+    }
+  ],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Children": [
+      {
+        "Good for kids": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": {
+    "text": "🌊",
+    "language": "en",
+    "postDate": "3 months ago",
+    "postedBy": {
+      "name": "Motam Sagar",
+      "url": "https://www.google.com/maps/contrib/105632440601646360111?hl=en-US",
+      "title": null,
+      "totalReviews": 0
+    },
+    "media": [
+      {
+        "link": "https://lh5.googleusercontent.com/p/AF1QipNUW4-8z2t8dSOYHpd6p8k_wzjInMLfCncUr0ly=w150-h150-k-no-p",
+        "postDate": "3 months ago"
+      },
+      {
+        "link": "https://lh5.googleusercontent.com/p/AF1QipNvXtCcByvbTdojZNPSxKA6UrTYHkBS3xVnbn11=w150-h150-k-no-p",
+        "postDate": "3 months ago"
+      },
+      {
+        "link": "https://lh5.googleusercontent.com/p/AF1QipN8d-4wHO_w-yO7H17l5HIEwm73F97LA5vpIvK4=w150-h150-k-no-p",
+        "postDate": "3 months ago"
+      },
+      {
+        "link": "https://lh5.googleusercontent.com/p/AF1QipPNZ8gGf9AmPcchapwCA8pjk5TGhSon-pgLmaV7=w150-h150-k-no-p",
+        "postDate": "3 months ago"
+      },
+      {
+        "link": "https://lh5.googleusercontent.com/p/AF1QipMhSXh1bLsj-tSFEoTUIEFgh68kyNOL2JdU5HvE=w150-h150-k-no-p",
+        "postDate": "3 months ago"
+      }
+    ]
+  },
+  "url": "https://www.google.com/maps/search/?api=1&query=Mannat%20Waterfalls&query_place_id=ChIJwQdYRZ-p0jsRATGX79kcIaM",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPCoU5MMikNIufuVRhb5YDUKHKaQXckxvfAtBuG=w408-h544-k-no",
+  "kgmid": "/g/11nwplxvq1",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPCoU5MMikNIufuVRhb5YDUKHKaQXckxvfAtBuG=w1920-h1080-k-no",
+      "authorName": "ADE MAHENDER",
+      "authorUrl": "https://maps.google.com/maps/contrib/102353694866680060826",
+      "uploadedAt": "2021-07-18T00:00:00.000Z"
+    },
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPwrXYvxbx4rVf464bkjY_4By9Bclk1cGn3iuBP=w1920-h1080-k-no",
+      "authorName": "Royal Computer's",
+      "authorUrl": "https://maps.google.com/maps/contrib/117325318708183761142",
+      "uploadedAt": "2021-07-19T00:00:00.000Z"
+    },
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMFm75YaRP8eBBJLWPx_JafAMJb4MwvuVL2NfRe=w1920-h1080-k-no",
+      "authorName": "prabhakaran amar",
+      "authorUrl": "https://maps.google.com/maps/contrib/115270116039226478450",
+      "uploadedAt": "2021-10-01T00:00:00.000Z"
+    },
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOJA27HN-uyjNlLaC0C9ewziZroZbbKh7q5Xldu=w1920-h1080-k-no",
+      "authorName": "Mannat Waterfalls",
+      "authorUrl": "https://maps.google.com/maps/contrib/116618382923889850573",
+      "uploadedAt": "2021-06-30T00:00:00.000Z"
+    },
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOceLOfmboqHpHs-vuJvBNKzLXNFBCgbnFnIl4R=w1920-h1080-k-no",
+      "authorName": "Gomasi John Prayoj",
+      "authorUrl": "https://maps.google.com/maps/contrib/105835884445370247059",
+      "uploadedAt": "2021-09-30T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipPCoU5MMikNIufuVRhb5YDUKHKaQXckxvfAtBuG=w1920-h1080-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPwrXYvxbx4rVf464bkjY_4By9Bclk1cGn3iuBP=w1920-h1080-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMFm75YaRP8eBBJLWPx_JafAMJb4MwvuVL2NfRe=w1920-h1080-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOJA27HN-uyjNlLaC0C9ewziZroZbbKh7q5Xldu=w1920-h1080-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOceLOfmboqHpHs-vuJvBNKzLXNFBCgbnFnIl4R=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null,
+  "restaurantData": {},
+  "ownerUpdates": []
+},
+{
+  "searchString": "tourist places",
+  "rank": 12,
+  "searchPageUrl": "https://www.google.com/maps/search/tourist%20places/@19.139607053924237,79.21865488486002,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "KURR waterfall",
+  "subTitle": "KURR వాటర్ఫాల్",
+  "description": null,
+  "price": null,
+  "categoryName": "Tourist attraction",
+  "address": "65P6+QF, Pangidi Madra, Telangana 504294, India",
+  "neighborhood": null,
+  "street": "65P6+QF",
+  "city": "Pangidi Madra",
+  "postalCode": null,
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": null,
+  "phoneUnformatted": null,
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 19.2369484,
+    "lng": 79.1611665
+  },
+  "locatedIn": null,
+  "plusCode": null,
+  "menu": null,
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJo5ucr2dZzTsRZWhK2oShOx0",
+  "categories": [
+    "Tourist attraction"
+  ],
+  "fid": "0x3bcd5967af9c9ba3:0x1d3ba184da4a6865",
+  "cid": "2106454842695903333",
+  "reviewsCount": 4,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 4
+  },
+  "imagesCount": 4,
+  "imageCategories": [
+    "All",
+    "Videos"
+  ],
+  "scrapedAt": "2024-12-07T17:27:43.129Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Sangapur Waterfalls",
+      "reviewsCount": 9,
+      "totalScore": 3.6
+    },
+    {
+      "category": "People also search for",
+      "title": "Thiryani Waterfalls",
+      "reviewsCount": 337,
+      "totalScore": 4.4
+    },
+    {
+      "category": "People also search for",
+      "title": "Chechera Waterfalls",
+      "reviewsCount": 11,
+      "totalScore": 4.1
+    },
+    {
+      "category": "People also search for",
+      "title": "Kundai waterfalls",
+      "reviewsCount": 38,
+      "totalScore": 4.3
+    }
+  ],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {},
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=KURR%20waterfall&query_place_id=ChIJo5ucr2dZzTsRZWhK2oShOx0",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPnfOi_cqLwNYFm0j4i5e7dIYUIVduQMOr40z0z=w408-h873-k-no",
+  "kgmid": "/g/11t49ssgdf",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPnfOi_cqLwNYFm0j4i5e7dIYUIVduQMOr40z0z=w1920-h1080-k-no",
+      "authorName": "Uday Kiran Erukula",
+      "authorUrl": "https://maps.google.com/maps/contrib/112975928462085863459",
+      "uploadedAt": "2022-07-03T00:00:00.000Z"
+    },
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPO7vy7_r4dkr0R5J3YWjaRFK2a61z-svTJHEUl=w1920-h1080-k-no",
+      "authorName": "Uday Kiran Erukula",
+      "authorUrl": "https://maps.google.com/maps/contrib/112975928462085863459",
+      "uploadedAt": "2022-07-10T00:00:00.000Z"
+    },
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPnfOi_cqLwNYFm0j4i5e7dIYUIVduQMOr40z0z=w1920-h1080-k-no",
+      "authorName": "Uday Kiran Erukula",
+      "authorUrl": "https://maps.google.com/maps/contrib/112975928462085863459",
+      "uploadedAt": "2022-07-03T00:00:00.000Z"
+    },
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPO7vy7_r4dkr0R5J3YWjaRFK2a61z-svTJHEUl=w1920-h1080-k-no",
+      "authorName": "Uday Kiran Erukula",
+      "authorUrl": "https://maps.google.com/maps/contrib/112975928462085863459",
+      "uploadedAt": "2022-07-10T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipPnfOi_cqLwNYFm0j4i5e7dIYUIVduQMOr40z0z=w1920-h1080-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPO7vy7_r4dkr0R5J3YWjaRFK2a61z-svTJHEUl=w1920-h1080-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPnfOi_cqLwNYFm0j4i5e7dIYUIVduQMOr40z0z=w1920-h1080-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPO7vy7_r4dkr0R5J3YWjaRFK2a61z-svTJHEUl=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null,
+  "restaurantData": {},
+  "ownerUpdates": []
+},
+{
+  "searchString": "tourist places",
+  "rank": 6,
+  "searchPageUrl": "https://www.google.com/maps/search/tourist%20places/@19.528115546075753,79.69817872725199,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "Shivapalli waterfall",
+  "subTitle": "శివపల్లి జలపాతం",
+  "description": null,
+  "price": null,
+  "categoryName": "Tourist attraction",
+  "address": "9WV6+FPF, Shivapalle, Telangana 504299, India",
+  "neighborhood": null,
+  "street": "9WV6+FPF",
+  "city": "Shivapalle",
+  "postalCode": "504299",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": null,
+  "phoneUnformatted": null,
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 19.3936938,
+    "lng": 79.9118022
+  },
+  "locatedIn": null,
+  "plusCode": null,
+  "menu": null,
+  "totalScore": 4.4,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJwUT0jHBlLToRHmAkc97WsmE",
+  "categories": [
+    "Tourist attraction"
+  ],
+  "fid": "0x3a2d65708cf444c1:0x61b2d6de7324601e",
+  "cid": "7039925418436354078",
+  "reviewsCount": 38,
+  "reviewsDistribution": {
+    "oneStar": 3,
+    "twoStar": 3,
+    "threeStar": 0,
+    "fourStar": 3,
+    "fiveStar": 29
+  },
+  "imagesCount": 267,
+  "imageCategories": [
+    "All",
+    "Videos"
+  ],
+  "scrapedAt": "2024-12-07T17:27:44.497Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Rock waterfall",
+      "reviewsCount": 5,
+      "totalScore": 4.4
+    },
+    {
+      "category": "People also search for",
+      "title": "Dhodhadai waterfall",
+      "reviewsCount": 7,
+      "totalScore": 4
+    }
+  ],
+  "placesTags": [],
+  "reviewsTags": [
+    {
+      "title": "village",
+      "count": 2
+    },
+    {
+      "title": "beautiful",
+      "count": 2
+    }
+  ],
+  "additionalInfo": {
+    "Children": [
+      {
+        "Good for kids": true
+      },
+      {
+        "Good for kids birthday": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": {
+    "text": "Shivapelli water falls",
+    "language": "en",
+    "postDate": "a month ago",
+    "postedBy": {
+      "name": "Routhu Sandeep cmp",
+      "url": "https://www.google.com/maps/contrib/111886314381076926628?hl=en-US",
+      "title": null,
+      "totalReviews": 1
+    },
+    "media": [
+      {
+        "link": "https://lh5.googleusercontent.com/p/AF1QipOra7zL0yxTalkUR6wCslZB0GFXB7cAXLJPrA0J=w150-h150-k-no-p",
+        "postDate": "a month ago"
+      }
+    ]
+  },
+  "url": "https://www.google.com/maps/search/?api=1&query=Shivapalli%20waterfall&query_place_id=ChIJwUT0jHBlLToRHmAkc97WsmE",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOzG_7_gf1t8QDR97NoQXqzGWE0oSS3PkP6vxJL=w408-h305-k-no",
+  "kgmid": "/g/11m8br5kn2",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOzG_7_gf1t8QDR97NoQXqzGWE0oSS3PkP6vxJL=w1920-h1080-k-no",
+      "authorName": "choudary chandu",
+      "authorUrl": "https://maps.google.com/maps/contrib/103600076814599080425",
+      "uploadedAt": "2020-10-03T00:00:00.000Z"
+    },
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPYr6kgNBXL0G2pJRuycBPfqMO4VTYmgPS5Zcvt=w1920-h1080-k-no",
+      "authorName": "choudary chandu",
+      "authorUrl": "https://maps.google.com/maps/contrib/103600076814599080425",
+      "uploadedAt": "2020-10-03T00:00:00.000Z"
+    },
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipP0x15QFMLwB62W5NpI-SGdUbrkEsA04CvrkUeC=w1920-h1080-k-no",
+      "authorName": "Umesh Tekam",
+      "authorUrl": "https://maps.google.com/maps/contrib/117476246201387467594",
+      "uploadedAt": "2024-08-23T00:00:00.000Z"
+    },
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPomJKgMRE4JcLZkDlhxFep7KyMs4-sKpZT49xE=w1920-h1080-k-no",
+      "authorName": "Kota Chinnaiah",
+      "authorUrl": "https://maps.google.com/maps/contrib/105299177842493075876",
+      "uploadedAt": "2022-12-29T00:00:00.000Z"
+    },
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipO0m1aKiy6wXnPewE0F8_7ovSp2oUrJz3WRWxAb=w1920-h1080-k-no",
+      "authorName": "Harish Kherkar",
+      "authorUrl": "https://maps.google.com/maps/contrib/104758584082199620471",
+      "uploadedAt": "2024-09-16T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipOzG_7_gf1t8QDR97NoQXqzGWE0oSS3PkP6vxJL=w1920-h1080-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPYr6kgNBXL0G2pJRuycBPfqMO4VTYmgPS5Zcvt=w1920-h1080-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP0x15QFMLwB62W5NpI-SGdUbrkEsA04CvrkUeC=w1920-h1080-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPomJKgMRE4JcLZkDlhxFep7KyMs4-sKpZT49xE=w1920-h1080-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO0m1aKiy6wXnPewE0F8_7ovSp2oUrJz3WRWxAb=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null,
+  "restaurantData": {},
+  "ownerUpdates": []
+},
+{
+  "searchString": "tourist places",
+  "rank": 3,
+  "searchPageUrl": "https://www.google.com/maps/search/tourist%20places/@19.528115546075753,79.69817872725199,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "Bupalapatnam View point",
+  "subTitle": "బుపలపట్నం వ్యూ పాయింట్",
+  "description": null,
+  "price": null,
+  "categoryName": "Tourist attraction",
+  "address": "CJX4+VXQ, Heerapur, Telangana 504299, India",
+  "neighborhood": null,
+  "street": "CJX4+VXQ",
+  "city": "Heerapur",
+  "postalCode": "504299",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": null,
+  "phoneUnformatted": null,
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 19.4497139,
+    "lng": 79.6074697
+  },
+  "locatedIn": null,
+  "plusCode": null,
+  "menu": null,
+  "totalScore": 4,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJMWWIMwBbLToRn0eQDtjRIY4",
+  "categories": [
+    "Tourist attraction"
+  ],
+  "fid": "0x3a2d5b0033886531:0x8e21d1d80e90479f",
+  "cid": "10241697753504696223",
+  "reviewsCount": 1,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 1,
+    "fiveStar": 0
+  },
+  "imagesCount": null,
+  "imageCategories": [],
+  "scrapedAt": "2024-12-07T17:27:51.265Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "View Point Rahapally",
+      "reviewsCount": 1,
+      "totalScore": 5
+    },
+    {
+      "category": "People also search for",
+      "title": "Hill view Point",
+      "reviewsCount": 2,
+      "totalScore": 5
+    }
+  ],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {},
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=Bupalapatnam%20View%20point&query_place_id=ChIJMWWIMwBbLToRn0eQDtjRIY4",
+  "imageUrl": null,
+  "kgmid": "/g/11vrx7zcqy",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [],
+  "imageUrls": [],
+  "reviews": [],
+  "userPlaceNote": null,
+  "restaurantData": {},
+  "ownerUpdates": []
+},
+{
+  "searchString": "tourist places",
+  "rank": 10,
+  "searchPageUrl": "https://www.google.com/maps/search/tourist%20places/@19.139607053924237,79.21865488486002,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "Mitte Waterfalls (Saptha Gundalu) , Telangana",
+  "subTitle": "మిట్టే వాటర్ ఫాల్స్, తెలంగాణ",
+  "description": null,
+  "price": null,
+  "categoryName": "Tourist attraction",
+  "address": "72GC+HFW Pittaguda, Vankamaddi, Telangana 504313, India",
+  "neighborhood": null,
+  "street": "72GC+HFW Pittaguda",
+  "city": "Vankamaddi",
+  "postalCode": "504313",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": "+91 76010 49080",
+  "phoneUnformatted": "+917601049080",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 19.2764909,
+    "lng": 79.0212166
+  },
+  "locatedIn": null,
+  "plusCode": null,
+  "menu": null,
+  "totalScore": 4.7,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJBbv-Wyig0jsRWCOjrWGeGSI",
+  "categories": [
+    "Tourist attraction"
+  ],
+  "fid": "0x3bd2a0285bfebb05:0x22199e61ada32358",
+  "cid": "2457169214069482328",
+  "reviewsCount": 194,
+  "reviewsDistribution": {
+    "oneStar": 4,
+    "twoStar": 0,
+    "threeStar": 8,
+    "fourStar": 27,
+    "fiveStar": 155
+  },
+  "imagesCount": 1165,
+  "imageCategories": [
+    "All",
+    "Videos"
+  ],
+  "scrapedAt": "2024-12-07T17:27:50.553Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "6 AM to 6 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "6 AM to 6 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "6 AM to 6 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "6 AM to 6 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "6 AM to 6 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "6 AM to 6 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "6 AM to 6 PM"
+    }
+  ],
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Mitte Waterfalls",
+      "reviewsCount": 153,
+      "totalScore": 4.7
+    },
+    {
+      "category": "People also search for",
+      "title": "Sapthakund Waterfalls - 4",
+      "reviewsCount": 9,
+      "totalScore": 4.8
+    },
+    {
+      "category": "People also search for",
+      "title": "Samthulagundam Waterfalls",
+      "reviewsCount": 30,
+      "totalScore": 4.4
+    },
+    {
+      "category": "People also search for",
+      "title": "Jamuldhara Waterfalls",
+      "reviewsCount": 7,
+      "totalScore": 4.7
+    },
+    {
+      "category": "People also search for",
+      "title": "Sapthakund Waterfalls - 3",
+      "reviewsCount": 5,
+      "totalScore": 4.6
+    }
+  ],
+  "placesTags": [],
+  "reviewsTags": [
+    {
+      "title": "experience",
+      "count": 10
+    },
+    {
+      "title": "beautiful",
+      "count": 10
+    },
+    {
+      "title": "trip",
+      "count": 7
+    },
+    {
+      "title": "water fall",
+      "count": 6
+    },
+    {
+      "title": "adventure",
+      "count": 6
+    },
+    {
+      "title": "forest",
+      "count": 5
+    },
+    {
+      "title": "peaceful",
+      "count": 4
+    }
+  ],
+  "additionalInfo": {},
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": {
+    "text": "superb,  one of the highest waterfalls in Telangana",
+    "language": "en",
+    "postDate": "2 months ago",
+    "postedBy": {
+      "name": "ADEPU KUMAR",
+      "url": "https://www.google.com/maps/contrib/100146522874465040769?hl=en-US",
+      "title": "Local Guide",
+      "totalReviews": 32
+    },
+    "media": [
+      {
+        "link": "https://lh5.googleusercontent.com/p/AF1QipMO3qfHxVQdBOPBOVVcJXdmxDyTOehDtYV2khXk=w150-h150-k-no-p",
+        "postDate": "2 months ago"
+      },
+      {
+        "link": "https://lh5.googleusercontent.com/p/AF1QipOhXhGHLPmuIRY5cXdmiJdWHgZAtjPeVby_6gA2=w150-h150-k-no-p",
+        "postDate": "2 months ago"
+      },
+      {
+        "link": "https://lh5.googleusercontent.com/p/AF1QipMGaLquF8rSV4NV0GDjtDIkBWYN7LtouD2i2h_S=w150-h150-k-no-p",
+        "postDate": "2 months ago"
+      },
+      {
+        "link": "https://lh5.googleusercontent.com/p/AF1QipNqqslKTY_2MKRhbD5qwMlKGkFgrbJgExIRWQML=w150-h150-k-no-p",
+        "postDate": "2 months ago"
+      },
+      {
+        "link": "https://lh5.googleusercontent.com/p/AF1QipPQ4sAyBYPJD1pWwCEXS6LWr3lQ-Ug5s4oeNO53=w150-h150-k-no-p",
+        "postDate": "2 months ago"
+      },
+      {
+        "link": "https://lh5.googleusercontent.com/p/AF1QipOenmLPUGRHROmZL1RWWbWYptjodVlVdgEE1i1v=w150-h150-k-no-p",
+        "postDate": "2 months ago"
+      },
+      {
+        "link": "https://lh5.googleusercontent.com/p/AF1QipOhdtQxdjaecOvrV4kWILYfcDTapB5oJTt4YPH1=w150-h150-k-no-p",
+        "postDate": "2 months ago"
+      }
+    ]
+  },
+  "url": "https://www.google.com/maps/search/?api=1&query=Mitte%20Waterfalls%20(Saptha%20Gundalu)%20%2C%20Telangana&query_place_id=ChIJBbv-Wyig0jsRWCOjrWGeGSI",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNJa-b3mfLqWOPpTazHb3PWjgp6y3mhyC0omB9j=w408-h278-k-no",
+  "kgmid": "/g/11c1pgbl3k",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNJa-b3mfLqWOPpTazHb3PWjgp6y3mhyC0omB9j=w1920-h1080-k-no",
+      "authorName": "Thippu Photography",
+      "authorUrl": "https://maps.google.com/maps/contrib/116989329308098912529",
+      "uploadedAt": "2020-09-21T00:00:00.000Z"
+    },
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPVfqxUzCShE_yQlVLmltML1CUSvQsc3a-ng1z0=w1920-h1080-k-no",
+      "authorName": "Soul Of Wheels",
+      "authorUrl": "https://maps.google.com/maps/contrib/116983706485204043090",
+      "uploadedAt": "2019-07-20T00:00:00.000Z"
+    },
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMENMkbIKtZNmkB4ui0gecGxT4wmt2Bqs_KBWeZ=w1920-h1080-k-no",
+      "authorName": "Shashi Sadhana",
+      "authorUrl": "https://maps.google.com/maps/contrib/105163217479108204804",
+      "uploadedAt": "2020-07-10T00:00:00.000Z"
+    },
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNfvzpWrn1AD-7IhO9yjEufk37kYi4gxTPEXvdr=w1920-h1080-k-no",
+      "authorName": "uday Varma",
+      "authorUrl": "https://maps.google.com/maps/contrib/108415363682378762357",
+      "uploadedAt": "2020-08-11T00:00:00.000Z"
+    },
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNRCht2rp8iOko-O6k3Q7jOyI4RGsnHyCxXq6w_=w1920-h1080-k-no",
+      "authorName": "Pinnam Shivakumar",
+      "authorUrl": "https://maps.google.com/maps/contrib/101925984716235487289",
+      "uploadedAt": "2018-10-23T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipNJa-b3mfLqWOPpTazHb3PWjgp6y3mhyC0omB9j=w1920-h1080-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPVfqxUzCShE_yQlVLmltML1CUSvQsc3a-ng1z0=w1920-h1080-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMENMkbIKtZNmkB4ui0gecGxT4wmt2Bqs_KBWeZ=w1920-h1080-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNfvzpWrn1AD-7IhO9yjEufk37kYi4gxTPEXvdr=w1920-h1080-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNRCht2rp8iOko-O6k3Q7jOyI4RGsnHyCxXq6w_=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null,
+  "restaurantData": {},
+  "ownerUpdates": []
+},
+{
+  "searchString": "tourist places",
+  "rank": 2,
+  "searchPageUrl": "https://www.google.com/maps/search/tourist%20places/@19.528115546075753,79.69817872725199,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "Thumdihetti phushkar ghat",
+  "subTitle": "తుమ్దిహెట్టి ఫుష్కర్ ఘాట్",
+  "description": null,
+  "price": null,
+  "categoryName": "Tourist attraction",
+  "address": "HQMV+Q22, Thumbadihatti, Telangana 504299, India",
+  "neighborhood": null,
+  "street": "HQMV+Q22",
+  "city": "Thumbadihatti",
+  "postalCode": null,
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": null,
+  "phoneUnformatted": null,
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 19.5843804,
+    "lng": 79.7925217
+  },
+  "locatedIn": null,
+  "plusCode": null,
+  "menu": null,
+  "totalScore": 4.5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJI0ZvoGNrLToRg-J9pVcyq38",
+  "categories": [
+    "Tourist attraction"
+  ],
+  "fid": "0x3a2d6b63a06f4623:0x7fab3257a57de283",
+  "cid": "9199502015854404227",
+  "reviewsCount": 6,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 1,
+    "fourStar": 1,
+    "fiveStar": 4
+  },
+  "imagesCount": 55,
+  "imageCategories": [
+    "All",
+    "Videos"
+  ],
+  "scrapedAt": "2024-12-07T17:27:56.447Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Children": [
+      {
+        "Good for kids": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=Thumdihetti%20phushkar%20ghat&query_place_id=ChIJI0ZvoGNrLToRg-J9pVcyq38",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPrpKZo0YNuTVkQB6ybkGKO7CrveOcvCDi39h52=w408-h306-k-no",
+  "kgmid": "/g/11thlg0pjb",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPrpKZo0YNuTVkQB6ybkGKO7CrveOcvCDi39h52=w1920-h1080-k-no",
+      "authorName": "Mahendar Jade",
+      "authorUrl": "https://maps.google.com/maps/contrib/104613563719001977686",
+      "uploadedAt": "2022-10-17T00:00:00.000Z"
+    },
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPs4ExmjfTjwX0qEYvMinLWieCy2EdER5-Qnb8=w1920-h1080-k-no",
+      "authorName": "S.R SAMPATH",
+      "authorUrl": "https://maps.google.com/maps/contrib/106436033104371259733",
+      "uploadedAt": "2022-03-29T00:00:00.000Z"
+    },
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMJRAbcS03XaMuxKCEuES02DKe6wEKUSCa4goA=w1920-h1080-k-no",
+      "authorName": "S.R SAMPATH",
+      "authorUrl": "https://maps.google.com/maps/contrib/106436033104371259733",
+      "uploadedAt": "2022-03-29T00:00:00.000Z"
+    },
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMRw-gJh5LwDeiSdU0W_hPuXCwjbYwBGPRenfe7=w1920-h1080-k-no",
+      "authorName": "Ramesh Kothapalli",
+      "authorUrl": "https://maps.google.com/maps/contrib/101963528749630928886",
+      "uploadedAt": "2023-08-22T00:00:00.000Z"
+    },
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipO9nLZn__rBsfiVQqo25D9_7DqomojIQt0VTdpb=w1920-h1080-k-no",
+      "authorName": "Mahendar Jade",
+      "authorUrl": "https://maps.google.com/maps/contrib/104613563719001977686",
+      "uploadedAt": "2022-10-17T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipPrpKZo0YNuTVkQB6ybkGKO7CrveOcvCDi39h52=w1920-h1080-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPs4ExmjfTjwX0qEYvMinLWieCy2EdER5-Qnb8=w1920-h1080-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMJRAbcS03XaMuxKCEuES02DKe6wEKUSCa4goA=w1920-h1080-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMRw-gJh5LwDeiSdU0W_hPuXCwjbYwBGPRenfe7=w1920-h1080-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO9nLZn__rBsfiVQqo25D9_7DqomojIQt0VTdpb=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null,
+  "restaurantData": {},
+  "ownerUpdates": []
+},
+{
+  "searchString": "tourist places",
+  "rank": 4,
+  "searchPageUrl": "https://www.google.com/maps/search/tourist%20places/@19.139607053924237,79.21865488486002,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "Ullipitta Waterfall",
+  "subTitle": "ఉల్లిపిట్ట వాటర్ఫాల్",
+  "description": null,
+  "price": null,
+  "categoryName": "Tourist attraction",
+  "address": "767J+GQG, Ullipitta Dorli, Telangana 504294, India",
+  "neighborhood": null,
+  "street": "767J+GQG",
+  "city": "Ullipitta Dorli",
+  "postalCode": null,
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": null,
+  "phoneUnformatted": null,
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 19.2638098,
+    "lng": 79.2319568
+  },
+  "locatedIn": null,
+  "plusCode": null,
+  "menu": null,
+  "totalScore": 4.3,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJU7ngiPKp0jsRkBFY3wV8F6c",
+  "categories": [
+    "Tourist attraction"
+  ],
+  "fid": "0x3bd2a9f288e0b953:0xa7177c05df581190",
+  "cid": "12040228493462081936",
+  "reviewsCount": 59,
+  "reviewsDistribution": {
+    "oneStar": 6,
+    "twoStar": 0,
+    "threeStar": 4,
+    "fourStar": 11,
+    "fiveStar": 38
+  },
+  "imagesCount": 109,
+  "imageCategories": [
+    "All",
+    "Videos"
+  ],
+  "scrapedAt": "2024-12-07T17:28:04.315Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Thursday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Friday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Saturday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Open 24 hours"
+    }
+  ],
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Mannat Waterfalls",
+      "reviewsCount": 26,
+      "totalScore": 4.8
+    },
+    {
+      "category": "People also search for",
+      "title": "KURR waterfall",
+      "reviewsCount": 4,
+      "totalScore": 5
+    },
+    {
+      "category": "People also search for",
+      "title": "Sapthakundala 5 Waterfalls",
+      "reviewsCount": 5,
+      "totalScore": 4.4
+    },
+    {
+      "category": "People also search for",
+      "title": "Sapthakund Waterfalls - 4",
+      "reviewsCount": 9,
+      "totalScore": 4.8
+    }
+  ],
+  "placesTags": [],
+  "reviewsTags": [
+    {
+      "title": "waterfalls",
+      "count": 3
+    },
+    {
+      "title": "pure water",
+      "count": 2
+    },
+    {
+      "title": "rain",
+      "count": 2
+    }
+  ],
+  "additionalInfo": {
+    "Children": [
+      {
+        "Good for kids": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=Ullipitta%20Waterfall&query_place_id=ChIJU7ngiPKp0jsRkBFY3wV8F6c",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPqkDbuJ2NsnedVD4u6R4uQr75BD8ti-URtVB6a=w408-h305-k-no",
+  "kgmid": "/g/11qh1c9bxg",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPqkDbuJ2NsnedVD4u6R4uQr75BD8ti-URtVB6a=w1920-h1080-k-no",
+      "authorName": "Arunkumar Chinthapalli",
+      "authorUrl": "https://maps.google.com/maps/contrib/102453923054106573020",
+      "uploadedAt": "2022-07-30T00:00:00.000Z"
+    },
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMyBvC-GJo3UxT1Fq7zTuXyg1Rom9uHLRSA6UMt=w1920-h1080-k-no",
+      "authorName": "Fidaa Ram",
+      "authorUrl": "https://maps.google.com/maps/contrib/113414152554099745681",
+      "uploadedAt": "2022-09-29T00:00:00.000Z"
+    },
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNQ2zwhzds3omVUYuc4opSaikVE3_QpY67RKjuS=w1920-h1080-k-no",
+      "authorName": "Arunkumar Chinthapalli",
+      "authorUrl": "https://maps.google.com/maps/contrib/102453923054106573020",
+      "uploadedAt": "2022-07-30T00:00:00.000Z"
+    },
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPFugUdznT0dtFqhzKnMbwnM7JnIe9_zvjbn7xU=w1920-h1080-k-no",
+      "authorName": "Shashank Tokala",
+      "authorUrl": "https://maps.google.com/maps/contrib/104306944335257663499",
+      "uploadedAt": "2022-09-30T00:00:00.000Z"
+    },
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipONg5VDEwy7eq6hQGVSHgNVnU9isR0vmKsEg2qM=w1920-h1080-k-no",
+      "authorName": "Venkat Dora",
+      "authorUrl": "https://maps.google.com/maps/contrib/112571026693681406798",
+      "uploadedAt": "2024-09-15T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipPqkDbuJ2NsnedVD4u6R4uQr75BD8ti-URtVB6a=w1920-h1080-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMyBvC-GJo3UxT1Fq7zTuXyg1Rom9uHLRSA6UMt=w1920-h1080-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNQ2zwhzds3omVUYuc4opSaikVE3_QpY67RKjuS=w1920-h1080-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPFugUdznT0dtFqhzKnMbwnM7JnIe9_zvjbn7xU=w1920-h1080-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipONg5VDEwy7eq6hQGVSHgNVnU9isR0vmKsEg2qM=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null,
+  "restaurantData": {},
+  "ownerUpdates": []
+},
+{
+  "searchString": "tourist places",
+  "rank": 5,
+  "searchPageUrl": "https://www.google.com/maps/search/tourist%20places/@19.139607053924237,79.21865488486002,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "Gundala Waterfalls",
+  "subTitle": "గుండాల జలపాతం",
+  "description": null,
+  "price": null,
+  "categoryName": "Tourist attraction",
+  "address": "36MF+5VJ, Gundala, Telangana 504207, India",
+  "neighborhood": null,
+  "street": "36MF+5VJ",
+  "city": "Gundala",
+  "postalCode": "504207",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": "+91 1800 4254 6464",
+  "phoneUnformatted": null,
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 19.0829648,
+    "lng": 79.2246478
+  },
+  "locatedIn": null,
+  "plusCode": null,
+  "menu": null,
+  "totalScore": 4.5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJW9o5uz9QzTsRvUOpMXJq8SU",
+  "categories": [
+    "Tourist attraction"
+  ],
+  "fid": "0x3bcd503fbb39da5b:0x25f16a7231a943bd",
+  "cid": "2734083487482594237",
+  "reviewsCount": 497,
+  "reviewsDistribution": {
+    "oneStar": 26,
+    "twoStar": 4,
+    "threeStar": 23,
+    "fourStar": 86,
+    "fiveStar": 358
+  },
+  "imagesCount": 2258,
+  "imageCategories": [
+    "All",
+    "Latest",
+    "Videos",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-12-07T17:28:02.594Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {
+    "Su": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 18
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 11
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 11
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 23
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 32
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 62
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 88
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 100
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 76
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 58
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "Mo": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 16
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 18
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 25
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 20
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 16
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 25
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 37
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 34
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 16
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 4
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "Tu": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 11
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 9
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 4
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 9
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 18
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 18
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 13
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 6
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 4
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 2
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "We": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 6
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 2
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 4
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 9
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 25
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 39
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 58
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 62
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 60
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 44
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "Th": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 4
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 2
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 4
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 11
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 27
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 18
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 20
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 20
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 18
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 13
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "Fr": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 4
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 2
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 4
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 4
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 6
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 9
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 20
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 32
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 39
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 20
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "Sa": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 4
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 4
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 9
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 30
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 62
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 76
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 46
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ]
+  },
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "8 AM to 6 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "8 AM to 6 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "8 AM to 6 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "8 AM to 6 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "8 AM to 6 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "8 AM to 6 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "8 AM to 6 PM"
+    }
+  ],
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "MANGAMTADVA WATERFALLS",
+      "reviewsCount": 3,
+      "totalScore": 5
+    },
+    {
+      "category": "People also search for",
+      "title": "Gatrapalle, water falls",
+      "reviewsCount": 35,
+      "totalScore": 4.5
+    },
+    {
+      "category": "People also search for",
+      "title": "Nagoba temple gundala gudem",
+      "reviewsCount": 3,
+      "totalScore": 3.7
+    }
+  ],
+  "placesTags": [],
+  "reviewsTags": [
+    {
+      "title": "bike",
+      "count": 16
+    },
+    {
+      "title": "beautiful",
+      "count": 15
+    },
+    {
+      "title": "forest",
+      "count": 11
+    },
+    {
+      "title": "adventure",
+      "count": 11
+    },
+    {
+      "title": "season",
+      "count": 9
+    },
+    {
+      "title": "travel",
+      "count": 9
+    },
+    {
+      "title": "hills",
+      "count": 8
+    },
+    {
+      "title": "peaceful",
+      "count": 6
+    },
+    {
+      "title": "rainy",
+      "count": 6
+    },
+    {
+      "title": "water fall",
+      "count": 5
+    }
+  ],
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair-accessible car park": false
+      },
+      {
+        "Wheelchair-accessible entrance": false
+      }
+    ],
+    "Children": [
+      {
+        "Good for kids": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": {
+    "text": "Next time will do cycling!!",
+    "language": "en",
+    "postDate": "2 months ago",
+    "postedBy": {
+      "name": "Srikanth Pettem",
+      "url": "https://www.google.com/maps/contrib/100990357938243332817?hl=en-GB",
+      "title": "Local Guide",
+      "totalReviews": 71
+    },
+    "media": [
+      {
+        "link": "https://lh5.googleusercontent.com/p/AF1QipO-qgU7inygwLkbuZTEqciYy62WDzw5E_a3iqjT=w150-h150-k-no-p",
+        "postDate": "2 months ago"
+      }
+    ]
+  },
+  "url": "https://www.google.com/maps/search/?api=1&query=Gundala%20Waterfalls&query_place_id=ChIJW9o5uz9QzTsRvUOpMXJq8SU",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPdF-XTkyO4rSlTy3lYjGUvfgaX9pIlslXUXz6S=w426-h240-k-no",
+  "kgmid": "/g/11c2jlbcdz",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPdF-XTkyO4rSlTy3lYjGUvfgaX9pIlslXUXz6S=w1920-h1080-k-no",
+      "authorName": "Arike Kranthi kiran",
+      "authorUrl": "https://maps.google.com/maps/contrib/103209841352635021762",
+      "uploadedAt": "2023-08-01T00:00:00.000Z"
+    },
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipN8aNBIrx17bzSGlKIoZ1UClzIZXsbBUskGVB48=w1920-h1080-k-no",
+      "authorName": "Admission",
+      "authorUrl": "https://maps.google.com/maps/contrib/110005323394057606031",
+      "uploadedAt": "2024-02-07T00:00:00.000Z"
+    },
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPLHlHhG2wYkvU7Rmj4xlDbsn3fdQ-KjANGPhAk=w1920-h1080-k-no",
+      "authorName": "Ravi Kiran Bandari",
+      "authorUrl": "https://maps.google.com/maps/contrib/111218139909556698895",
+      "uploadedAt": "2019-08-25T00:00:00.000Z"
+    },
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMd1ylejUHAZoIUaFL1k6-fRhUgsGIa-DzNwJxB=w1920-h1080-k-no",
+      "authorName": "Manideep Bommakanti",
+      "authorUrl": "https://maps.google.com/maps/contrib/110602243684819008146",
+      "uploadedAt": "2022-09-19T00:00:00.000Z"
+    },
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOY8vSOtULRWM-B9LZL8gOM4jhYZk9U62ZE4DSr=w1920-h1080-k-no",
+      "authorName": "Manideep Bommakanti",
+      "authorUrl": "https://maps.google.com/maps/contrib/110602243684819008146",
+      "uploadedAt": "2022-08-07T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipPdF-XTkyO4rSlTy3lYjGUvfgaX9pIlslXUXz6S=w1920-h1080-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN8aNBIrx17bzSGlKIoZ1UClzIZXsbBUskGVB48=w1920-h1080-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPLHlHhG2wYkvU7Rmj4xlDbsn3fdQ-KjANGPhAk=w1920-h1080-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMd1ylejUHAZoIUaFL1k6-fRhUgsGIa-DzNwJxB=w1920-h1080-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOY8vSOtULRWM-B9LZL8gOM4jhYZk9U62ZE4DSr=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null,
+  "restaurantData": {},
+  "ownerUpdates": []
+},
+{
+  "searchString": "tourist places",
+  "rank": 1,
+  "searchPageUrl": "https://www.google.com/maps/search/tourist%20places/@19.528115546075753,79.69817872725199,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "Heerapur waterfalls",
+  "subTitle": "హీరాపూర్ వాటర్ ఫాల్స్",
+  "description": null,
+  "price": null,
+  "categoryName": "Tourist attraction",
+  "address": "FJCH+CH, Laxmipur, Telangana 504299, India",
+  "neighborhood": null,
+  "street": "FJCH+CH",
+  "city": "Laxmipur",
+  "postalCode": null,
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": null,
+  "phoneUnformatted": null,
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 19.4710873,
+    "lng": 79.6289864
+  },
+  "locatedIn": null,
+  "plusCode": null,
+  "menu": null,
+  "totalScore": 4,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJb3fOZgBFLToRsQBpTZT1VWw",
+  "categories": [
+    "Tourist attraction"
+  ],
+  "fid": "0x3a2d450066ce776f:0x6c55f5944d6900b1",
+  "cid": "7806415546419314865",
+  "reviewsCount": 4,
+  "reviewsDistribution": {
+    "oneStar": 1,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 3
+  },
+  "imagesCount": 30,
+  "imageCategories": [
+    "All",
+    "Videos"
+  ],
+  "scrapedAt": "2024-12-07T17:28:10.476Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {},
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=Heerapur%20waterfalls&query_place_id=ChIJb3fOZgBFLToRsQBpTZT1VWw",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNb9sLhzhXYxJis-U7tIhdt4UPAKRLGJIsxb1ta=w408-h544-k-no",
+  "kgmid": "/g/11ln1cfvz0",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNb9sLhzhXYxJis-U7tIhdt4UPAKRLGJIsxb1ta=w1920-h1080-k-no",
+      "authorName": "sathish reddy",
+      "authorUrl": "https://maps.google.com/maps/contrib/109852074567530962833",
+      "uploadedAt": "2024-08-21T00:00:00.000Z"
+    },
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOd92y9YR9EkCjRnSHP8_H7VcT22_nhSYyHP0h8=w1920-h1080-k-no",
+      "authorName": "sathish reddy",
+      "authorUrl": "https://maps.google.com/maps/contrib/109852074567530962833",
+      "uploadedAt": "2024-08-21T00:00:00.000Z"
+    },
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNEbb7bYhPHiLZ-DLlHAemRAWmkWSjfuzZYf2eN=w1920-h1080-k-no",
+      "authorName": "Nanna Rajkumar",
+      "authorUrl": "https://maps.google.com/maps/contrib/113116076783741883805",
+      "uploadedAt": "2024-08-12T00:00:00.000Z"
+    },
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMbIVWfGucwy-OXUsVA7d5mU4H8inOKjapbz7aM=w1920-h1080-k-no",
+      "authorName": "Nanna Rajkumar",
+      "authorUrl": "https://maps.google.com/maps/contrib/113116076783741883805",
+      "uploadedAt": "2024-08-12T00:00:00.000Z"
+    },
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNyN9qR4sQd8vX6OXOcElHW_a7HcEUiqeeFHL-W=w1920-h1080-k-no",
+      "authorName": "Nanna Rajkumar",
+      "authorUrl": "https://maps.google.com/maps/contrib/113116076783741883805",
+      "uploadedAt": "2024-09-02T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipNb9sLhzhXYxJis-U7tIhdt4UPAKRLGJIsxb1ta=w1920-h1080-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOd92y9YR9EkCjRnSHP8_H7VcT22_nhSYyHP0h8=w1920-h1080-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNEbb7bYhPHiLZ-DLlHAemRAWmkWSjfuzZYf2eN=w1920-h1080-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMbIVWfGucwy-OXUsVA7d5mU4H8inOKjapbz7aM=w1920-h1080-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNyN9qR4sQd8vX6OXOcElHW_a7HcEUiqeeFHL-W=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null,
+  "restaurantData": {},
+  "ownerUpdates": []
+},
+{
+  "searchString": "tourist places",
+  "rank": 3,
+  "searchPageUrl": "https://www.google.com/maps/search/tourist%20places/@19.139607053924237,79.21865488486002,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "MANGAMTADVA WATERFALLS",
+  "subTitle": "మంగంతద్వా వాటర్ ఫాల్స్",
+  "description": null,
+  "price": null,
+  "categoryName": "Tourist attraction",
+  "address": "45VC+FMC, Unnamed Road, Mangi, Telangana 504294, India",
+  "neighborhood": null,
+  "street": "45VC+FMC, Unnamed Road",
+  "city": "Mangi",
+  "postalCode": "504294",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": null,
+  "phoneUnformatted": null,
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 19.1436799,
+    "lng": 79.1716268
+  },
+  "locatedIn": null,
+  "plusCode": null,
+  "menu": null,
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJYYzHgN5bzTsRtGFZP4hnzI0",
+  "categories": [
+    "Tourist attraction"
+  ],
+  "fid": "0x3bcd5bde80c78c61:0x8dcc67883f5961b4",
+  "cid": "10217655489472848308",
+  "reviewsCount": 3,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 3
+  },
+  "imagesCount": 132,
+  "imageCategories": [
+    "All"
+  ],
+  "scrapedAt": "2024-12-07T17:28:09.434Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "9 AM to 5 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "9 AM to 5 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "9 AM to 5 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "9 AM to 5 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "9 AM to 5 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "9 AM to 5 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "9 AM to 5 PM"
+    }
+  ],
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Chechera Waterfalls",
+      "reviewsCount": 11,
+      "totalScore": 4.1
+    },
+    {
+      "category": "People also search for",
+      "title": "Sangapur Waterfalls",
+      "reviewsCount": 9,
+      "totalScore": 3.6
+    },
+    {
+      "category": "People also search for",
+      "title": "Mannat Waterfalls",
+      "reviewsCount": 26,
+      "totalScore": 4.8
+    },
+    {
+      "category": "People also search for",
+      "title": "Jamuldhara Waterfalls",
+      "reviewsCount": 7,
+      "totalScore": 4.7
+    }
+  ],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {},
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=MANGAMTADVA%20WATERFALLS&query_place_id=ChIJYYzHgN5bzTsRtGFZP4hnzI0",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMpg-b-_cMeE3FQrq3WYEejobilVMPLeH0_QDg=w426-h240-k-no",
+  "kgmid": "/g/11h_d7bfsg",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMpg-b-_cMeE3FQrq3WYEejobilVMPLeH0_QDg=w1920-h1080-k-no",
+      "authorName": "CMV Tribe Village Show",
+      "authorUrl": "https://maps.google.com/maps/contrib/107312956707987536609",
+      "uploadedAt": "2020-09-13T00:00:00.000Z"
+    },
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipP5yODyBYwv8E6CgXFrW-Z-zDxcXRxF5EQyIak=w1920-h1080-k-no",
+      "authorName": "CMV Tribe Village Show",
+      "authorUrl": "https://maps.google.com/maps/contrib/107312956707987536609",
+      "uploadedAt": "2020-09-13T00:00:00.000Z"
+    },
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOd7Xqb_fYj4-8O04LXUkvqzSz-XOdPqg5ebyA=w1920-h1080-k-no",
+      "authorName": "CMV Tribe Village Show",
+      "authorUrl": "https://maps.google.com/maps/contrib/107312956707987536609",
+      "uploadedAt": "2020-09-13T00:00:00.000Z"
+    },
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMIcasqcaO7yrJybc1A7KB0FDQNJ0wEvbh2Mrw=w1920-h1080-k-no",
+      "authorName": "CMV Tribe Village Show",
+      "authorUrl": "https://maps.google.com/maps/contrib/107312956707987536609",
+      "uploadedAt": "2020-09-13T00:00:00.000Z"
+    },
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOaS3bzZk8mD_6ui8g6Pm698-QcRtoKuy-zfVQ=w1920-h1080-k-no",
+      "authorName": "CMV Tribe Village Show",
+      "authorUrl": "https://maps.google.com/maps/contrib/107312956707987536609",
+      "uploadedAt": "2020-09-13T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipMpg-b-_cMeE3FQrq3WYEejobilVMPLeH0_QDg=w1920-h1080-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP5yODyBYwv8E6CgXFrW-Z-zDxcXRxF5EQyIak=w1920-h1080-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOd7Xqb_fYj4-8O04LXUkvqzSz-XOdPqg5ebyA=w1920-h1080-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMIcasqcaO7yrJybc1A7KB0FDQNJ0wEvbh2Mrw=w1920-h1080-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOaS3bzZk8mD_6ui8g6Pm698-QcRtoKuy-zfVQ=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null,
+  "restaurantData": {},
+  "ownerUpdates": []
+},
+{
+  "searchString": "tourist places",
+  "rank": 2,
+  "searchPageUrl": "https://www.google.com/maps/search/tourist%20places/@19.139607053924237,79.21865488486002,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "NTR sagar thiryani",
+  "subTitle": "NTR సాగర్ తిర్యాని",
+  "description": null,
+  "price": null,
+  "categoryName": "Tourist attraction",
+  "address": "47X2+452, Tiryani, Telangana 504297, India",
+  "neighborhood": null,
+  "street": "47X2+452",
+  "city": "Tiryani",
+  "postalCode": "504297",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": null,
+  "phoneUnformatted": null,
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 19.1477625,
+    "lng": 79.2503906
+  },
+  "locatedIn": null,
+  "plusCode": null,
+  "menu": null,
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJeWh2NkZRzTsRRuJrJrpAmRo",
+  "categories": [
+    "Tourist attraction"
+  ],
+  "fid": "0x3bcd514636766879:0x1a9940ba266be246",
+  "cid": "1916634284675555910",
+  "reviewsCount": 5,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 5
+  },
+  "imagesCount": 14,
+  "imageCategories": [
+    "All",
+    "Latest"
+  ],
+  "scrapedAt": "2024-12-07T17:28:18.734Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Thiryani Waterfalls",
+      "reviewsCount": 337,
+      "totalScore": 4.4
+    },
+    {
+      "category": "People also search for",
+      "title": "Sangapur Waterfalls",
+      "reviewsCount": 9,
+      "totalScore": 3.6
+    },
+    {
+      "category": "People also search for",
+      "title": "Tiryani Route",
+      "reviewsCount": 3,
+      "totalScore": 3.7
+    },
+    {
+      "category": "People also search for",
+      "title": "KURR waterfall",
+      "reviewsCount": 4,
+      "totalScore": 5
+    }
+  ],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Children": [
+      {
+        "Good for kids": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=NTR%20sagar%20thiryani&query_place_id=ChIJeWh2NkZRzTsRRuJrJrpAmRo",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMoO-bHY4ZSG508PSRvbpi3OXFOVBUV4X1G-6oF=w521-h240-k-no",
+  "kgmid": "/g/11q95gymm7",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMoO-bHY4ZSG508PSRvbpi3OXFOVBUV4X1G-6oF=w1920-h1080-k-no",
+      "authorName": "CHETTIPALLY MAHESH",
+      "authorUrl": "https://maps.google.com/maps/contrib/105586556102670602764",
+      "uploadedAt": "2022-08-21T00:00:00.000Z"
+    },
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPFpTLvemHXmkcV1Qei1IZfE9maLcL4y8PuqKUp=w1920-h1080-k-no",
+      "authorName": "Viney Viney",
+      "authorUrl": "https://maps.google.com/maps/contrib/104285365749819804335",
+      "uploadedAt": "2024-02-26T00:00:00.000Z"
+    },
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOhE5Np3FS3oiB4oOaur5WvAssylvePKDl-Nb-p=w1920-h1080-k-no",
+      "authorName": "arun ratnam",
+      "authorUrl": "https://maps.google.com/maps/contrib/111254157746939467840",
+      "uploadedAt": "2024-12-01T00:00:00.000Z"
+    },
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNeBQWzkkAps6fHSZnOGmq_fjZYHsv-oJHUM9Xn=w1920-h1080-k-no",
+      "authorName": "AJEMERA SHRAVAN",
+      "authorUrl": "https://maps.google.com/maps/contrib/114851279365804531698",
+      "uploadedAt": "2024-06-30T00:00:00.000Z"
+    },
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipM2aW88kcc6bjEpSduXJOyzrFNsgG0iqACsHZhw=w1920-h1080-k-no",
+      "authorName": "CHETTIPALLY MAHESH",
+      "authorUrl": "https://maps.google.com/maps/contrib/105586556102670602764",
+      "uploadedAt": "2022-08-22T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipMoO-bHY4ZSG508PSRvbpi3OXFOVBUV4X1G-6oF=w1920-h1080-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPFpTLvemHXmkcV1Qei1IZfE9maLcL4y8PuqKUp=w1920-h1080-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOhE5Np3FS3oiB4oOaur5WvAssylvePKDl-Nb-p=w1920-h1080-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNeBQWzkkAps6fHSZnOGmq_fjZYHsv-oJHUM9Xn=w1920-h1080-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM2aW88kcc6bjEpSduXJOyzrFNsgG0iqACsHZhw=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null,
+  "restaurantData": {},
+  "ownerUpdates": []
+},
+{
+  "searchString": "tourist places",
+  "rank": 1,
+  "searchPageUrl": "https://www.google.com/maps/search/tourist%20places/@19.139607053924237,79.21865488486002,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "Chechera Waterfalls",
+  "subTitle": "చేచేర వాటర్ ఫాల్స్",
+  "description": null,
+  "price": null,
+  "categoryName": "Tourist attraction",
+  "address": "559Q+PWR, Mangi, Telangana 504294, India",
+  "neighborhood": null,
+  "street": "559Q+PWR",
+  "city": "Mangi",
+  "postalCode": null,
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": null,
+  "phoneUnformatted": null,
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 19.1693727,
+    "lng": 79.1897656
+  },
+  "locatedIn": null,
+  "plusCode": null,
+  "menu": null,
+  "totalScore": 4.1,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJObSNV55ZzTsRbZXw1xzZtOY",
+  "categories": [
+    "Tourist attraction"
+  ],
+  "fid": "0x3bcd599e578db439:0xe6b4d91cd7f0956d",
+  "cid": "16624150842436523373",
+  "reviewsCount": 11,
+  "reviewsDistribution": {
+    "oneStar": 1,
+    "twoStar": 1,
+    "threeStar": 1,
+    "fourStar": 1,
+    "fiveStar": 7
+  },
+  "imagesCount": 60,
+  "imageCategories": [
+    "All",
+    "Videos"
+  ],
+  "scrapedAt": "2024-12-07T17:28:20.476Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "popularTimesLiveText": "Now: Usually not too busy",
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {
+    "Su": [
+      {
+        "hour": 4,
+        "occupancyPercent": 28
+      },
+      {
+        "hour": 5,
+        "occupancyPercent": 35
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 50
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 28
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 28
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 21
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 35
+      },
+      {
+        "hour": 0,
+        "occupancyPercent": 71
+      },
+      {
+        "hour": 1,
+        "occupancyPercent": 35
+      },
+      {
+        "hour": 2,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 3,
+        "occupancyPercent": 7
+      }
+    ],
+    "Mo": [
+      {
+        "hour": 4,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 5,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 35
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 35
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 21
+      },
+      {
+        "hour": 0,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 1,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 2,
+        "occupancyPercent": 35
+      },
+      {
+        "hour": 3,
+        "occupancyPercent": 28
+      }
+    ],
+    "Tu": [
+      {
+        "hour": 4,
+        "occupancyPercent": 35
+      },
+      {
+        "hour": 5,
+        "occupancyPercent": 35
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 50
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 100
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 78
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 42
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 35
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 50
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 50
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 21
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 0,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 1,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 2,
+        "occupancyPercent": 28
+      },
+      {
+        "hour": 3,
+        "occupancyPercent": 21
+      }
+    ],
+    "We": [
+      {
+        "hour": 4,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 5,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 21
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 21
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 21
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 21
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 42
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 28
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 28
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 28
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 21
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 35
+      },
+      {
+        "hour": 0,
+        "occupancyPercent": 71
+      },
+      {
+        "hour": 1,
+        "occupancyPercent": 92
+      },
+      {
+        "hour": 2,
+        "occupancyPercent": 64
+      },
+      {
+        "hour": 3,
+        "occupancyPercent": 50
+      }
+    ],
+    "Th": [
+      {
+        "hour": 4,
+        "occupancyPercent": 21
+      },
+      {
+        "hour": 5,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 35
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 21
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 28
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 57
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 35
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 35
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 0,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 1,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 2,
+        "occupancyPercent": 21
+      },
+      {
+        "hour": 3,
+        "occupancyPercent": 42
+      }
+    ],
+    "Fr": [
+      {
+        "hour": 4,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 5,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 21
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 21
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 28
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 64
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 28
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 0,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 1,
+        "occupancyPercent": 28
+      },
+      {
+        "hour": 2,
+        "occupancyPercent": 28
+      },
+      {
+        "hour": 3,
+        "occupancyPercent": 7
+      }
+    ],
+    "Sa": [
+      {
+        "hour": 4,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 5,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 28
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 21
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 42
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 50
+      },
+      {
+        "hour": 0,
+        "occupancyPercent": 78
+      },
+      {
+        "hour": 1,
+        "occupancyPercent": 42
+      },
+      {
+        "hour": 2,
+        "occupancyPercent": 28
+      },
+      {
+        "hour": 3,
+        "occupancyPercent": 0
+      }
+    ]
+  },
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Thursday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Friday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Saturday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Open 24 hours"
+    }
+  ],
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "MANGAMTADVA WATERFALLS",
+      "reviewsCount": 3,
+      "totalScore": 5
+    },
+    {
+      "category": "People also search for",
+      "title": "Sangapur Waterfalls",
+      "reviewsCount": 9,
+      "totalScore": 3.6
+    },
+    {
+      "category": "People also search for",
+      "title": "Bodharu (ksheera) waterfall",
+      "reviewsCount": 56,
+      "totalScore": 4.3
+    },
+    {
+      "category": "People also search for",
+      "title": "Gatrapalle, water falls",
+      "reviewsCount": 35,
+      "totalScore": 4.5
+    },
+    {
+      "category": "People also search for",
+      "title": "KURR waterfall",
+      "reviewsCount": 4,
+      "totalScore": 5
+    }
+  ],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Children": [
+      {
+        "Good for kids": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=Chechera%20Waterfalls&query_place_id=ChIJObSNV55ZzTsRbZXw1xzZtOY",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPIsj0j2FqUbunlDy0U8YWk-tkDJUZgvKmq2b8=w426-h240-k-no",
+  "kgmid": "/g/11lqkj451j",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPIsj0j2FqUbunlDy0U8YWk-tkDJUZgvKmq2b8=w1920-h1080-k-no",
+      "authorName": "CMV Tribe Village Show",
+      "authorUrl": "https://maps.google.com/maps/contrib/107312956707987536609",
+      "uploadedAt": "2021-09-19T00:00:00.000Z"
+    },
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOsP6sWMKeFen9qE3ajOgMXGkJH5yebiNjeJK4=w1920-h1080-k-no",
+      "authorName": "CMV Tribe Village Show",
+      "authorUrl": "https://maps.google.com/maps/contrib/107312956707987536609",
+      "uploadedAt": "2021-09-17T00:00:00.000Z"
+    },
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOjVZK3Pf2vXfmnDJPYrBmjOWyzpFTkY48faTE=w1920-h1080-k-no",
+      "authorName": "CMV Tribe Village Show",
+      "authorUrl": "https://maps.google.com/maps/contrib/107312956707987536609",
+      "uploadedAt": "2021-09-05T00:00:00.000Z"
+    },
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipM-DPto3Hx1P7sIm-wSwUSEnyzqPVNRRzlpD14=w1920-h1080-k-no",
+      "authorName": "CMV Tribe Village Show",
+      "authorUrl": "https://maps.google.com/maps/contrib/107312956707987536609",
+      "uploadedAt": "2021-09-16T00:00:00.000Z"
+    },
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipO2sipoZU2664oIO8DRe3lBJcbieUsvk1PgOw0=w1920-h1080-k-no",
+      "authorName": "CMV Tribe Village Show",
+      "authorUrl": "https://maps.google.com/maps/contrib/107312956707987536609",
+      "uploadedAt": "2020-09-22T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipPIsj0j2FqUbunlDy0U8YWk-tkDJUZgvKmq2b8=w1920-h1080-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOsP6sWMKeFen9qE3ajOgMXGkJH5yebiNjeJK4=w1920-h1080-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOjVZK3Pf2vXfmnDJPYrBmjOWyzpFTkY48faTE=w1920-h1080-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM-DPto3Hx1P7sIm-wSwUSEnyzqPVNRRzlpD14=w1920-h1080-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO2sipoZU2664oIO8DRe3lBJcbieUsvk1PgOw0=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null,
+  "restaurantData": {},
+  "ownerUpdates": []
+}]

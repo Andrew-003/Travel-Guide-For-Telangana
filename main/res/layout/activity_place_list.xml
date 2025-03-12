@@ -1,0 +1,182 @@
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:backgroundTint="#fff"
+    android:fitsSystemWindows="true">
+
+    <!-- Main LinearLayout with all content -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="16dp"
+        android:orientation="vertical"
+        android:backgroundTint="#fff">
+
+        <androidx.appcompat.widget.SearchView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:contentDescription="Search view"
+            android:background="@drawable/box_bg"
+            android:paddingStart="18dp"
+            android:layout_margin="5dp"
+            android:queryHint="Search ...."
+            android:iconifiedByDefault="false"
+            android:id="@+id/search_view" />
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:clickable="true"
+            android:elevation="4dp"
+            cardCornerRadius="8dp"
+            android:onClick="toggleSortBy"
+            android:focusable="true">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical|end"
+                android:background="?android:attr/selectableItemBackground"
+                android:padding="8dp"
+                android:orientation="horizontal"
+                android:layout_marginStart="10dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginEnd="8dp"
+                    android:textSize="14sp"
+                    android:text="Sort By"
+                    android:textStyle="bold" />
+
+                <ImageView
+                    android:layout_width="24dp"
+                    android:layout_height="24dp"
+                    android:src="@drawable/ic_arrow_down"
+                    android:contentDescription="Sort By Expand"
+                    android:id="@+id/arrow_sort_by" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:visibility="gone"
+                android:padding="6dp"
+                android:orientation="horizontal"
+                android:id="@+id/sort_by_content">
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="2dp"
+                    android:backgroundTint="#03A9F4"
+                    android:textColor="@android:color/white"
+                    android:id="@+id/btn_most_visited"
+                    android:text="Most Visited" />
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="2dp"
+                    android:backgroundTint="#03A9F4"
+                    android:textColor="@android:color/white"
+                    android:id="@+id/btn_popular"
+                    android:text="Popular" />
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="1dp"
+                    android:backgroundTint="#03A9F4"
+                    android:textColor="@android:color/white"
+                    android:id="@+id/btn_top_rated"
+                    android:text="Top Rated" />
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:clickable="true"
+            android:elevation="4dp"
+            cardCornerRadius="8dp"
+            android:onClick="toggleBudget"
+            android:focusable="true">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical|end"
+                android:background="?android:attr/selectableItemBackground"
+                android:padding="8dp"
+                android:orientation="horizontal"
+                android:layout_marginLeft="10dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginEnd="8dp"
+                    android:textSize="14sp"
+                    android:text="Budget"
+                    android:textStyle="bold" />
+
+                <ImageView
+                    android:layout_width="24dp"
+                    android:layout_height="24dp"
+                    android:src="@drawable/ic_arrow_down"
+                    android:contentDescription="Budget Expand"
+                    android:id="@+id/arrow_budget" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:visibility="gone"
+                android:padding="6dp"
+                android:orientation="horizontal"
+                android:id="@+id/budget_content">
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginEnd="8dp"
+                    android:backgroundTint="#03A9F4"
+                    android:textColor="@android:color/white"
+                    android:id="@+id/btn_low_to_high"
+                    android:text="Low to High" />
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:backgroundTint="#03A9F4"
+                    android:textColor="@android:color/white"
+                    android:id="@+id/btn_high_to_low"
+                    android:text="High to Low" />
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="12dp"
+            android:layout_marginTop="12dp"
+            android:id="@+id/recycler_view_place_list" />
+    </LinearLayout>
+
+    <!-- Floating Action Button -->
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/fab_add"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end"
+        android:layout_margin="32dp"
+        android:contentDescription="Add"
+        android:src="@drawable/ic_fab"
+        android:tint="@color/white"
+        android:backgroundTint="@color/button_blue" />
+</FrameLayout>

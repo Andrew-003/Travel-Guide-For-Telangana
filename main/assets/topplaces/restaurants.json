@@ -1,0 +1,972 @@
+[
+    {
+        "reviewTags": [],
+        "id": "23464572",
+        "type": "HOTEL",
+        "category": "hotel",
+        "subcategories": [
+            "Specialty Lodging"
+        ],
+        "name": "Hornbill Retreat",
+        "locationString": "Hyderabad, Hyderabad District, Telangana",
+        "description": "Experience a therapeutic break from the concrete jungle on a 5 acre property where we undertake natural farming methods. we have facilities for food, bonfire, organic farming activities. We have Cabins, Treehouses and cottages available in the same property",
+        "image": "https://media-cdn.tripadvisor.com/media/photo-o/2b/95/25/5b/treehouse.jpg",
+        "photoCount": 38,
+        "rankingPosition": 2,
+        "rating": 5,
+        "rawRanking": 3.1086835861206055,
+        "phone": "+91 77951 21112",
+        "address": "Basuragadi Village, Hyderabad 500043 India",
+        "addressObj": {
+            "street1": "Basuragadi Village",
+            "street2": null,
+            "city": "Hyderabad",
+            "state": "Telangana",
+            "country": "India",
+            "postalcode": "500043"
+        },
+        "localName": "Hornbill Retreat",
+        "localAddress": "Basuragadi Village, 500043",
+        "localLangCode": "en-IN",
+        "email": "dhananjay543@gmail.com",
+        "latitude": 17.590193,
+        "longitude": 78.45122,
+        "webUrl": "https://www.tripadvisor.com/Hotel_Review-g297586-d23464572-Reviews-Hornbill_Retreat-Hyderabad_Hyderabad_District_Telangana.html",
+        "website": "http://www.hornbillretreat.com",
+        "rankingString": "#2 of 2 campgrounds in Hyderabad",
+        "rankingDenominator": "2",
+        "neighborhoodLocations": [],
+        "nearestMetroStations": [],
+        "ancestorLocations": [
+            {
+                "id": "297586",
+                "name": "Hyderabad",
+                "abbreviation": null,
+                "subcategory": "City"
+            },
+            {
+                "id": "12389092",
+                "name": "Hyderabad District",
+                "abbreviation": null,
+                "subcategory": "District"
+            },
+            {
+                "id": "7058854",
+                "name": "Telangana",
+                "abbreviation": null,
+                "subcategory": "State"
+            },
+            {
+                "id": "293860",
+                "name": "India",
+                "abbreviation": null,
+                "subcategory": "Country"
+            }
+        ],
+        "ratingHistogram": {
+            "count1": 0,
+            "count2": 0,
+            "count3": 0,
+            "count4": 0,
+            "count5": 3
+        },
+        "numberOfReviews": 3,
+        "hotelClass": "0.0",
+        "amenities": [
+            "Room service",
+            "Free Internet",
+            "Free parking",
+            "Restaurant",
+            "Pets Allowed",
+            "Kitchenette",
+            "Wifi",
+            "Family Rooms",
+            "Breakfast Available",
+            "Housekeeping",
+            "Kids Stay Free",
+            "Electric vehicle charging station",
+            "Baggage Storage",
+            "Bath / Shower",
+            "BBQ Facilities",
+            "Bicycle Tours",
+            "Car Hire",
+            "24-Hour Check-in",
+            "Darts",
+            "Dining Area",
+            "Extra Long Beds",
+            "Free Private Parking Nearby",
+            "Outdoor Fireplace",
+            "Outdoor Furniture",
+            "Parking Garage",
+            "Patio",
+            "Picnic Area",
+            "24-Hour Security",
+            "Separate Living Room",
+            "Shared Kitchen",
+            "Sofa",
+            "Walking Tours"
+        ],
+        "priceLevel": "$",
+        "priceRange": "$49 - $52",
+        "roomTips": [
+            {
+                "user": null,
+                "type": "room_tip",
+                "text": "Close to the city complete greenery",
+                "rating": "5",
+                "reviewId": "941380600",
+                "id": "941380600",
+                "createdTime": "2024-03-07T22:58:37-05:00"
+            }
+        ],
+        "isNearbyResult": false,
+        "checkInDate": "2024-10-26",
+        "checkOutDate": "2024-10-27",
+        "numberOfRooms": 3,
+        "categoryReviewScores": [
+            {
+                "categoryName": "Location",
+                "score": 5
+            },
+            {
+                "categoryName": "Service",
+                "score": 5
+            },
+            {
+                "categoryName": "Value",
+                "score": 5
+            }
+        ],
+        "aiReviewsSummary": null,
+        "whatsAppRedirectUrl": null,
+        "photos": [
+            "https://media-cdn.tripadvisor.com/media/photo-o/2b/95/25/5b/treehouse.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/2b/95/25/89/outhouse-cabin.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/2b/95/25/88/outhouse-cabin.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/2b/95/25/87/outhouse-cabin.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/2b/95/25/86/outhouse-cabin.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/2b/95/25/85/outhouse-cabin.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/2b/95/25/84/outhouse-cabin.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/2b/95/25/83/outhouse-cabin.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/2b/95/25/82/outhouse-cabin.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/2b/95/25/80/outhouse-cabin.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/2b/95/25/7e/outhouse-cabin.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/2b/95/25/7c/jungle-lodge-cottage.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/2b/95/25/7b/treehouse.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/2b/95/25/5f/outhouse-cabin.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/2b/95/25/5e/treehouse.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/2b/95/25/5d/jungle-lodge-cottage.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/2b/95/25/5c/jungle-lodge-cottage.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/2b/95/25/5a/outhouse-cabin.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/2b/95/25/59/jungle-lodge-cottage.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/2b/95/25/58/treehouse.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/2b/95/28/8a/caption.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/2b/95/25/53/treehouse.jpg"
+        ],
+        "travelerChoiceAward": null,
+        "input": "Telangana"
+    },
+    {
+        "reviewTags": [],
+        "id": "25239918",
+        "type": "HOTEL",
+        "category": "hotel",
+        "subcategories": [
+            "Bed and Breakfast"
+        ],
+        "name": "Hotel Lahari International",
+        "locationString": "Nizamabad, Nizamabad District, Telangana",
+        "description": "Hotel Lahari International is the favorite destination for luxury stay, delicious food and celebration. This property has 20 centralized AC luxury rooms with all amenities.",
+        "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/27/aa/9b/24/exterior-view.jpg",
+        "photoCount": 11,
+        "rankingPosition": 1,
+        "rating": 5,
+        "rawRanking": 3.070042610168457,
+        "phone": "+91 98886 48886",
+        "address": "Dubbak-Kanteshwar Rd Beside Royaloak, Nizamabad 503002 India",
+        "addressObj": {
+            "street1": "Dubbak-Kanteshwar Rd",
+            "street2": "Beside Royaloak",
+            "city": "Nizamabad",
+            "state": "Telangana",
+            "country": "India",
+            "postalcode": "503002"
+        },
+        "localName": "Hotel Lahari International",
+        "localAddress": "Dubbak-Kanteshwar Rd, Beside Royaloak, 503002",
+        "localLangCode": "en-IN",
+        "email": "lahariinternational@gmail.com",
+        "latitude": 18.68382,
+        "longitude": 78.114395,
+        "webUrl": "https://www.tripadvisor.com/Hotel_Review-g2295101-d25239918-Reviews-Hotel_Lahari_International-Nizamabad_Nizamabad_District_Telangana.html",
+        "website": "https://www.lahariinternational.com/",
+        "rankingString": "#1 of 3 small hotels in Nizamabad",
+        "rankingDenominator": "3",
+        "neighborhoodLocations": [],
+        "nearestMetroStations": [],
+        "ancestorLocations": [
+            {
+                "id": "2295101",
+                "name": "Nizamabad",
+                "abbreviation": null,
+                "subcategory": "City"
+            },
+            {
+                "id": "12389592",
+                "name": "Nizamabad District",
+                "abbreviation": null,
+                "subcategory": "District"
+            },
+            {
+                "id": "7058854",
+                "name": "Telangana",
+                "abbreviation": null,
+                "subcategory": "State"
+            },
+            {
+                "id": "293860",
+                "name": "India",
+                "abbreviation": null,
+                "subcategory": "Country"
+            }
+        ],
+        "ratingHistogram": {
+            "count1": 0,
+            "count2": 0,
+            "count3": 0,
+            "count4": 0,
+            "count5": 2
+        },
+        "numberOfReviews": 2,
+        "hotelClass": "0.0",
+        "amenities": [
+            "Room service",
+            "Free parking",
+            "Restaurant",
+            "Bar/Lounge",
+            "Free Wifi",
+            "Breakfast included",
+            "Meeting rooms",
+            "Non-smoking rooms",
+            "Laundry Service",
+            "Banquet Room",
+            "Air conditioning",
+            "Non-smoking hotel",
+            "Flatscreen TV",
+            "Breakfast Buffet",
+            "Breakfast Available",
+            "Housekeeping",
+            "Kids Stay Free",
+            "Adults Only",
+            "Bath / Shower",
+            "Bottled Water",
+            "Cable / Satellite TV",
+            "Complimentary Tea",
+            "Complimentary Instant Coffee",
+            "24-Hour Front Desk",
+            "Private Bathrooms",
+            "24-Hour Security",
+            "Telephone"
+        ],
+        "priceLevel": "$",
+        "priceRange": "$29 - $34",
+        "roomTips": [],
+        "isNearbyResult": false,
+        "checkInDate": "2024-10-26",
+        "checkOutDate": "2024-10-27",
+        "numberOfRooms": 20,
+        "categoryReviewScores": [
+            {
+                "categoryName": "Location",
+                "score": 4
+            },
+            {
+                "categoryName": "Service",
+                "score": 5
+            }
+        ],
+        "aiReviewsSummary": null,
+        "whatsAppRedirectUrl": null,
+        "photos": [
+            "https://media-cdn.tripadvisor.com/media/photo-o/27/aa/9b/24/exterior-view.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/27/b1/d0/9d/safelocker.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/27/b1/cd/82/24hrs-front-desk.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/27/b1/ca/db/multi-cuisine-restaurant.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/27/b1/ca/a0/coffee-maker.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/27/b1/ca/76/welcome-kit.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/27/b1/a8/1f/twin-bed-executive-room.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/27/b1/a5/77/hotel-lahari-international.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/27/b1/a2/d9/queen-bed-luxury-room.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/27/aa/f4/19/twin-bed-luxury-room.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/27/aa/9b/08/multi-cuisine-restaurant.jpg"
+        ],
+        "travelerChoiceAward": null,
+        "input": "Telangana"
+    },
+    {
+        "reviewTags": [],
+        "id": "27468652",
+        "type": "HOTEL",
+        "category": "hotel",
+        "subcategories": [
+            "Hotel"
+        ],
+        "name": "Hotel Landridge - Hitech City",
+        "locationString": "Hyderabad, Hyderabad District, Telangana",
+        "description": null,
+        "image": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/2d/8b/11/bd/hotel-landridge-hitec.jpg",
+        "photoCount": 1,
+        "rankingPosition": 164,
+        "rating": 5,
+        "rawRanking": 3.079430341720581,
+        "phone": "+91 73374 76662",
+        "address": "Plot No. 48, Avenue 1 Kavuri Hills, Guttala Begumpet, Hyderabad 500033 India",
+        "addressObj": {
+            "street1": "Plot No. 48, Avenue 1",
+            "street2": "Kavuri Hills, Guttala Begumpet",
+            "city": "Hyderabad",
+            "state": "Telangana",
+            "country": "India",
+            "postalcode": "500033"
+        },
+        "localName": "Hotel Landridge - Hitech City",
+        "localAddress": "Plot No. 48, Avenue 1, Kavuri Hills, Guttala Begumpet, 500033",
+        "localLangCode": "en-IN",
+        "email": "reservations@hotellandridge.com",
+        "latitude": 17.44062,
+        "longitude": 78.39593,
+        "webUrl": "https://www.tripadvisor.com/Hotel_Review-g297586-d27468652-Reviews-Hotel_Landridge_Hitech_City-Hyderabad_Hyderabad_District_Telangana.html",
+        "website": "https://hotellandridge.com/",
+        "rankingString": "#164 of 509 hotels in Hyderabad",
+        "rankingDenominator": "509",
+        "neighborhoodLocations": [],
+        "nearestMetroStations": [],
+        "ancestorLocations": [
+            {
+                "id": "297586",
+                "name": "Hyderabad",
+                "abbreviation": null,
+                "subcategory": "City"
+            },
+            {
+                "id": "12389092",
+                "name": "Hyderabad District",
+                "abbreviation": null,
+                "subcategory": "District"
+            },
+            {
+                "id": "7058854",
+                "name": "Telangana",
+                "abbreviation": null,
+                "subcategory": "State"
+            },
+            {
+                "id": "293860",
+                "name": "India",
+                "abbreviation": null,
+                "subcategory": "Country"
+            }
+        ],
+        "ratingHistogram": {
+            "count1": 0,
+            "count2": 0,
+            "count3": 0,
+            "count4": 0,
+            "count5": 2
+        },
+        "numberOfReviews": 2,
+        "hotelClass": "0.0",
+        "amenities": [],
+        "priceLevel": "$",
+        "priceRange": "$36 - $46",
+        "roomTips": [],
+        "isNearbyResult": false,
+        "checkInDate": "2024-10-26",
+        "checkOutDate": "2024-10-27",
+        "numberOfRooms": null,
+        "categoryReviewScores": [
+            {
+                "categoryName": "Location",
+                "score": 5
+            },
+            {
+                "categoryName": "Cleanliness",
+                "score": 5
+            },
+            {
+                "categoryName": "Service",
+                "score": 5
+            },
+            {
+                "categoryName": "Value",
+                "score": 5
+            }
+        ],
+        "aiReviewsSummary": null,
+        "whatsAppRedirectUrl": null,
+        "photos": [
+            "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/2d/8b/11/bd/hotel-landridge-hitec.jpg",
+            "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/2d/8b/11/be/hotel-landridge-hitec.jpg",
+            "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/2d/8b/11/bf/hotel-landridge-hitec.jpg",
+            "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/2d/8b/11/c0/hotel-landridge-hitec.jpg",
+            "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/2d/8b/11/bc/hotel-landridge-hitec.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/2c/3f/ea/fd/caption.jpg"
+        ],
+        "travelerChoiceAward": null,
+        "input": "Telangana"
+    },
+    {
+        "id": "7277524",
+        "type": "HOTEL",
+        "category": "hotel",
+        "subcategories": [
+            "Hotel"
+        ],
+        "name": "Oakwood Residence Kapil Hyderabad",
+        "locationString": "Hyderabad, Hyderabad District, Telangana",
+        "description": "Oakwood Residence Kapil Hyderabad: dazzling modernity in the City of Pearls. Oakwood Residence Kapil Hyderabad is in the technology & innovation hub of Financial District, Hyderabad. A 30-minute drive from the International Airport, it is also in close proximity to key business hubs like Gachibowli & HITEC City and international schools and hospitals. With 158 well-appointed residences, offering options of studios, one-bedroom, two-bedrooms & duplex, the prolific rooms come with a fully equipped state of the art kitchen and laundromat. With an array of modern facilities like a 24 hours restaurant-\"Oakleaf\", a coffee and snack bar-\"Cafe 115\", a 24 hours Business Centre, a 24 hours fitness centre, an indoor swimming pool and seamless banqueting space, making it an ideal property for today's corporate, MICE & leisure travelers, in the city of culture and culinary delight.",
+        "image": "https://media-cdn.tripadvisor.com/media/photo-w/2c/02/4e/da/studio-superior-kitchen.jpg",
+        "photoCount": 476,
+        "rankingPosition": 7,
+        "rating": 5,
+        "rawRanking": 4.845583915710449,
+        "phone": "+91 40 6635 9999",
+        "address": "Survey Number 115/1 Financial District, Hyderabad 500032 India",
+        "addressObj": {
+            "street1": "Survey Number 115/1",
+            "street2": "Financial District",
+            "city": "Hyderabad",
+            "state": "Telangana",
+            "country": "India",
+            "postalcode": "500032"
+        },
+        "localName": "Oakwood Residence Kapil Hyderabad",
+        "localAddress": "Survey Number 115/1, Financial District, 500032",
+        "localLangCode": "en-IN",
+        "email": "general.residence-hyderabad@oakwood.com",
+        "latitude": 17.421597,
+        "longitude": 78.33878,
+        "webUrl": "https://www.tripadvisor.com/Hotel_Review-g297586-d7277524-Reviews-Oakwood_Residence_Kapil_Hyderabad-Hyderabad_Hyderabad_District_Telangana.html",
+        "website": "http://www.oakwood.com/india/hyderabad/residence-hyderabad?utm_source=tripadvisor&medium=listing",
+        "rankingString": "#7 of 509 hotels in Hyderabad",
+        "rankingDenominator": "509",
+        "neighborhoodLocations": [],
+        "nearestMetroStations": [],
+        "ancestorLocations": [
+            {
+                "id": "297586",
+                "name": "Hyderabad",
+                "abbreviation": null,
+                "subcategory": "City"
+            },
+            {
+                "id": "12389092",
+                "name": "Hyderabad District",
+                "abbreviation": null,
+                "subcategory": "District"
+            },
+            {
+                "id": "7058854",
+                "name": "Telangana",
+                "abbreviation": null,
+                "subcategory": "State"
+            },
+            {
+                "id": "293860",
+                "name": "India",
+                "abbreviation": null,
+                "subcategory": "Country"
+            }
+        ],
+        "ratingHistogram": {
+            "count1": 7,
+            "count2": 3,
+            "count3": 19,
+            "count4": 148,
+            "count5": 941
+        },
+        "numberOfReviews": 1119,
+        "hotelClass": "5.0",
+        "hotelClassAttribution": "This property is classified according to Giata.",
+        "amenities": [
+            "Pool",
+            "Internet",
+            "Room service",
+            "Free Internet",
+            "Free parking",
+            "Wheelchair access",
+            "Restaurant",
+            "Bar/Lounge",
+            "Pets Allowed",
+            "Kitchenette",
+            "Airport transportation",
+            "Wifi",
+            "Public Wifi",
+            "Free Wifi",
+            "Breakfast included",
+            "Dry Cleaning",
+            "Meeting rooms",
+            "Non-smoking rooms",
+            "Fitness center",
+            "Laundry Service",
+            "Concierge",
+            "Banquet Room",
+            "Air conditioning",
+            "Family Rooms",
+            "Multilingual Staff",
+            "Self-Serve Laundry",
+            "Smoking rooms available",
+            "Microwave",
+            "Refrigerator in room",
+            "Conference Facilities",
+            "Safe",
+            "Flatscreen TV",
+            "Breakfast Buffet",
+            "Private Balcony",
+            "Indoor pool",
+            "Parking",
+            "Facilities for Disabled Guests",
+            "Housekeeping",
+            "Kids Stay Free",
+            "Allergy-free Room",
+            "Baggage Storage",
+            "Bath / Shower",
+            "Bathrobes",
+            "Blackout Curtains",
+            "Books, DVDs, Music for Children",
+            "Bottled Water",
+            "Breakfast in the Room",
+            "Car Hire",
+            "Clothes Dryer",
+            "Coffee Shop",
+            "Coffee / Tea Maker",
+            "Currency Exchange",
+            "Desk",
+            "Doorperson",
+            "English",
+            "Extra Long Beds",
+            "Fitness Classes",
+            "Complimentary Instant Coffee",
+            "Complimentary Toiletries",
+            "24-Hour Front Desk",
+            "Hair Dryer",
+            "Hindi",
+            "Interconnected room(s) available",
+            "Iron",
+            "Ironing Service",
+            "Kids' Meals",
+            "Kid-Friendly Buffet",
+            "Kitchenware",
+            "Newspaper",
+            "Outdoor Furniture",
+            "Parking Garage",
+            "Pool / Beach Towels",
+            "Seating Area",
+            "24-Hour Security",
+            "Secured Parking",
+            "Snack Bar",
+            "Special Diet Menus",
+            "Taxi Service",
+            "Telephone",
+            "Wake Up Service / Alarm Clock",
+            "Washing Machine",
+            "Breakfast Available",
+            "Cable / Satellite TV",
+            "Express Check-in / Check-out",
+            "Clothes Rack",
+            "Dining Area",
+            "Electric Kettle",
+            "Free Wifi in the Business Center",
+            "Free Wired Internet in the Business Center",
+            "Happy Hour",
+            "Highchairs Available",
+            "iPod Docking Station",
+            "Laptop Safe",
+            "On-Demand Movies",
+            "Outdoor Dining Area",
+            "Oven",
+            "Personal Trainer",
+            "Private Bathrooms",
+            "Separate Dining Area",
+            "Separate Living Room",
+            "Sofa",
+            "Stovetop",
+            "Swimming Pool Toys",
+            "Tamil",
+            "Tile / Marble Floor",
+            "Umbrella",
+            "Valet Parking",
+            "VIP Room Facilities",
+            "Wardrobe / Closet",
+            "Photo Copier / Fax In Business Center",
+            "Yoga Classes"
+        ],
+        "priceLevel": "$$",
+        "priceRange": "$80 - $210",
+        "roomTips": [
+            {
+                "user": null,
+                "type": "room_tip",
+                "text": "Best place to stay for work and travel",
+                "rating": "5",
+                "reviewId": "973531897",
+                "id": "973531897",
+                "createdTime": "2024-10-11T21:11:49-04:00"
+            },
+            {
+                "user": null,
+                "type": "room_tip",
+                "text": "The staff at the restaurant and front desk were simply amazing. They made it easier to live there for so long without missing home too much.",
+                "rating": "5",
+                "reviewId": "967928673",
+                "id": "967928673",
+                "createdTime": "2024-09-02T00:46:35-04:00"
+            },
+            {
+                "user": null,
+                "type": "room_tip",
+                "text": "If you are traveling with an infant, you don't need to worry, as they have a proper kitchen for all your needs.",
+                "rating": "5",
+                "reviewId": "966976622",
+                "id": "966976622",
+                "createdTime": "2024-08-27T00:17:25-04:00"
+            },
+            {
+                "user": null,
+                "type": "room_tip",
+                "text": "Try their duplex residences at the top floors (above 18th Floor). View is very good.",
+                "rating": "5",
+                "reviewId": "958988309",
+                "id": "958988309",
+                "createdTime": "2024-07-11T02:50:32-04:00"
+            },
+            {
+                "user": null,
+                "type": "room_tip",
+                "text": "Highly recommended place ",
+                "rating": "5",
+                "reviewId": "956547821",
+                "id": "956547821",
+                "createdTime": "2024-06-24T10:02:08-04:00"
+            }
+        ],
+        "isNearbyResult": false,
+        "reviewTags": [
+            {
+                "text": "washing machine",
+                "reviews": 35
+            },
+            {
+                "text": "financial district",
+                "reviews": 36
+            },
+            {
+                "text": "long stay",
+                "reviews": 29
+            },
+            {
+                "text": "home away from home",
+                "reviews": 27
+            },
+            {
+                "text": "great place to stay",
+                "reviews": 22
+            },
+            {
+                "text": "comfortable stay",
+                "reviews": 36
+            },
+            {
+                "text": "excellent stay",
+                "reviews": 34
+            },
+            {
+                "text": "spacious rooms",
+                "reviews": 22
+            },
+            {
+                "text": "excellent property",
+                "reviews": 13
+            },
+            {
+                "text": "excellent service",
+                "reviews": 41
+            },
+            {
+                "text": "room service",
+                "reviews": 38
+            },
+            {
+                "text": "special thanks",
+                "reviews": 35
+            },
+            {
+                "text": "house keeping",
+                "reviews": 29
+            },
+            {
+                "text": "great hospitality",
+                "reviews": 23
+            },
+            {
+                "text": "restaurant staff",
+                "reviews": 13
+            },
+            {
+                "text": "special mention",
+                "reviews": 22
+            },
+            {
+                "text": "front desk staff",
+                "reviews": 15
+            },
+            {
+                "text": "enjoyed my stay",
+                "reviews": 13
+            },
+            {
+                "text": "business trip",
+                "reviews": 27
+            },
+            {
+                "text": "wonderful experience",
+                "reviews": 20
+            },
+            {
+                "text": "breakfast buffet",
+                "reviews": 14
+            },
+            {
+                "text": "in room dining",
+                "reviews": 12
+            },
+            {
+                "text": "delicious food",
+                "reviews": 12
+            },
+            {
+                "text": "thank you so much",
+                "reviews": 10
+            },
+            {
+                "text": "front office",
+                "reviews": 13
+            },
+            {
+                "text": "apartment",
+                "reviews": 88
+            },
+            {
+                "text": "amenities",
+                "reviews": 89
+            },
+            {
+                "text": "kitchenette",
+                "reviews": 20
+            },
+            {
+                "text": "services",
+                "reviews": 94
+            },
+            {
+                "text": "team",
+                "reviews": 85
+            }
+        ],
+        "checkInDate": "2024-10-26",
+        "checkOutDate": "2024-10-27",
+        "numberOfRooms": 158,
+        "categoryReviewScores": [
+            {
+                "categoryName": "Location",
+                "score": 4.8
+            },
+            {
+                "categoryName": "Cleanliness",
+                "score": 4.9
+            },
+            {
+                "categoryName": "Service",
+                "score": 4.8
+            },
+            {
+                "categoryName": "Value",
+                "score": 4.8
+            }
+        ],
+        "aiReviewsSummary": null,
+        "whatsAppRedirectUrl": null,
+        "photos": [
+            "https://media-cdn.tripadvisor.com/media/photo-o/2c/02/4e/da/studio-superior-kitchen.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/0e/ad/bc/93/hotel-facade.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/0f/8c/52/fd/arrival-lobby.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/12/be/8d/8c/oakwood-residence-kapil.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/0e/ae/08/f5/one-bedroom-superior.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/0e/ae/08/d1/one-bedroom-superior.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/0e/ad/c5/8a/one-bedroom-executive.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/0e/ae/0d/12/one-bedroom-executive.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/16/9e/50/4a/one-bedroom-executive.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/16/9e/50/54/one-bedroom-executive.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/0e/ad/bc/c0/one-bedroom-deluxe-king.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/09/54/87/4d/oakwood-residence-kapil.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/08/d5/71/34/oakwood-residence-kapil.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/16/9e/50/f9/room-kitchen-area.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/16/9e/50/e0/room-balcony.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/0f/8c/47/4b/oakleaf-restaurant.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/16/9e/51/0a/oakleaf-bar.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/16/9e/51/15/oakleaf.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/16/9e/50/31/cafe-115.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/0e/d5/c6/ad/cafe-115.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/16/9e/50/8b/the-oak-banquet-hall.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/08/19/60/01/the-entry.jpg"
+        ],
+        "travelerChoiceAward": "REGULAR_AWARD",
+        "input": "Telangana"
+    },
+    {
+        "reviewTags": [],
+        "id": "23507190",
+        "type": "HOTEL",
+        "category": "hotel",
+        "subcategories": [
+            "Specialty Lodging"
+        ],
+        "name": "Hotel Mango Leaves",
+        "locationString": "Hyderabad, Hyderabad District, Telangana",
+        "description": "If you\u2019re looking for the perfect place to stay in Hyderabad, Stay at Hotel Mango Leaves! Hotel Mango Leaves has a variety of accommodations best suited for budget travels \u2014 whether you\u2019re looking for a family-friendly suite, friends are looking to stay in a deluxe room or a business traveller looking to stay in a standard room. It is located in the heart of Vanasthalipuram, on the main road within short walk distance to all sites and is surrounded by the shopping malls, food outlets, electronic showrooms, and public transport. Hotel Mango Leaves offers guests an array of room amenities including a Flat screen TV, Air Conditioning, Laundry service. Given the close proximity of popular landmarks, such as RFC (Ramoji Film City), Mount Opera, Hotel Mango Leaves can easily experience some of Hyderabad's most well-known attractions. The hotel offers a comfortable stay in cozy rooms and excellent services. It also offers a well-designed Banquet hall for 150 to 200 Pax, it\u2019s an ideal venue for hosting small weddings, receptions, pre-wedding ceremonies, birthday parties, anniversaries, reunions, family gatherings, social get-together, and corporate meetings. The management staff at the Hotel Mango Leaves will extend their complete assistance so that your event turns out to be a seamless one.",
+        "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1d/b5/f7/a9/deluxe-double.jpg",
+        "photoCount": 19,
+        "rankingPosition": 2,
+        "rating": 5,
+        "rawRanking": 3.0302045345306396,
+        "phone": "+91 93908 09594",
+        "address": "Abhyudaya Nagar Sy. No.68, Building No. H4 and H5, 3rd Floor, Hyderabad 500070 India",
+        "addressObj": {
+            "street1": "Abhyudaya Nagar",
+            "street2": "Sy. No.68, Building No. H4 and H5, 3rd Floor",
+            "city": "Hyderabad",
+            "state": "Telangana",
+            "country": "India",
+            "postalcode": "500070"
+        },
+        "localName": "Hotel Mango Leaves",
+        "localAddress": "Abhyudaya Nagar, Sy. No.68, Building No. H4 and H5, 3rd Floor, 500070",
+        "localLangCode": "en-IN",
+        "email": "hotelmangoleaves@gmail.com",
+        "latitude": 17.339018,
+        "longitude": 78.565765,
+        "webUrl": "https://www.tripadvisor.com/Hotel_Review-g297586-d23507190-Reviews-Hotel_Mango_Leaves-Hyderabad_Hyderabad_District_Telangana.html",
+        "website": null,
+        "rankingString": "#2 of 4 limited service properties in Hyderabad",
+        "rankingDenominator": "4",
+        "neighborhoodLocations": [],
+        "nearestMetroStations": [],
+        "ancestorLocations": [
+            {
+                "id": "297586",
+                "name": "Hyderabad",
+                "abbreviation": null,
+                "subcategory": "City"
+            },
+            {
+                "id": "12389092",
+                "name": "Hyderabad District",
+                "abbreviation": null,
+                "subcategory": "District"
+            },
+            {
+                "id": "7058854",
+                "name": "Telangana",
+                "abbreviation": null,
+                "subcategory": "State"
+            },
+            {
+                "id": "293860",
+                "name": "India",
+                "abbreviation": null,
+                "subcategory": "Country"
+            }
+        ],
+        "ratingHistogram": {
+            "count1": 0,
+            "count2": 0,
+            "count3": 0,
+            "count4": 0,
+            "count5": 1
+        },
+        "numberOfReviews": 1,
+        "hotelClass": "0.0",
+        "amenities": [
+            "Suites",
+            "Room service",
+            "Free parking",
+            "Airport transportation",
+            "Breakfast included",
+            "Laundry Service",
+            "Air conditioning",
+            "Family Rooms",
+            "Breakfast Available",
+            "Housekeeping",
+            "Kids Stay Free",
+            "Bottled Water",
+            "Cable / Satellite TV",
+            "Car Hire",
+            "24-Hour Check-in",
+            "Express Check-in / Check-out",
+            "Clothes Rack",
+            "English",
+            "24-Hour Front Desk",
+            "Hindi",
+            "Private Bathrooms",
+            "24-Hour Security",
+            "Secured Parking",
+            "Street Parking",
+            "Taxi Service",
+            "Telephone",
+            "Tile / Marble Floor",
+            "Wardrobe / Closet"
+        ],
+        "priceLevel": "$",
+        "priceRange": "$23 - $37",
+        "roomTips": [],
+        "isNearbyResult": false,
+        "checkInDate": "2024-10-26",
+        "checkOutDate": "2024-10-27",
+        "numberOfRooms": 25,
+        "categoryReviewScores": [
+            {
+                "categoryName": "Location",
+                "score": 5
+            },
+            {
+                "categoryName": "Service",
+                "score": 5
+            }
+        ],
+        "aiReviewsSummary": null,
+        "whatsAppRedirectUrl": null,
+        "photos": [
+            "https://media-cdn.tripadvisor.com/media/photo-o/1d/b5/f7/a9/deluxe-double.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/1d/49/bf/ae/hotel-mango-leaves.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/1e/c1/0f/ab/banquet-hall.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/1e/bf/51/46/banquet-hall.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/1e/bf/51/38/banquet-hall.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/1e/bf/51/2b/banquet-hall.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/1d/49/bf/d3/hotel-mango-leaves.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/1d/49/bf/d1/hotel-mango-leaves.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/1d/49/bf/cf/hotel-mango-leaves.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/1d/49/bf/ce/hotel-mango-leaves.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/1d/49/bf/cb/hotel-mango-leaves.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/1d/49/bf/c9/hotel-mango-leaves.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/1d/49/bf/c8/hotel-mango-leaves.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/1d/49/bf/c6/hotel-mango-leaves.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/1d/49/bf/bf/hotel-mango-leaves.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/1d/49/bf/be/hotel-mango-leaves.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/1d/49/bf/bd/hotel-mango-leaves.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/1d/49/bf/ba/hotel-mango-leaves.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-o/1d/49/be/72/hotel-front-view.jpg"
+        ],
+        "travelerChoiceAward": null,
+        "input": "Telangana"
+    }
+]

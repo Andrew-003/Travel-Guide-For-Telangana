@@ -1,0 +1,1204 @@
+[{
+  "reviewTags": [],
+  "id": "25165526",
+  "type": "ATTRACTION",
+  "category": "attraction",
+  "subcategories": [
+    "Nature & Parks"
+  ],
+  "name": "Kusrumpally Waterfalls",
+  "locationString": "Zaheerabad, Medak District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/27/03/9a/f8/water-falls.jpg",
+  "photoCount": 4,
+  "rankingPosition": 2,
+  "rating": 4,
+  "rawRanking": 2.7477469444274902,
+  "phone": null,
+  "address": "Gousabad, Zaheerabad India",
+  "addressObj": {
+    "street1": "Gousabad",
+    "street2": null,
+    "city": "Zaheerabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": null
+  },
+  "localName": "Kusrumpally Waterfalls",
+  "localAddress": "Gousabad",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.59245,
+  "longitude": 77.46446,
+  "webUrl": "https://www.tripadvisor.com/Attraction_Review-g12461499-d25165526-Reviews-Kusrumpally_Waterfalls-Zaheerabad_Medak_District_Telangana.html",
+  "website": null,
+  "rankingString": "#2 of 3 things to do in Zaheerabad",
+  "rankingDenominator": "3",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "12461499",
+      "name": "Zaheerabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389567",
+      "name": "Medak District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 1,
+    "count5": 0
+  },
+  "numberOfReviews": 1,
+  "booking": null,
+  "offerGroup": null,
+  "subtype": [
+    "Waterfalls"
+  ],
+  "isNearbyResult": false,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/27/03/9a/e5/water-falls.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/27/03/9a/ed/water-falls.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/27/03/9a/de/water-falls.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/27/03/9a/f8/water-falls.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Medak District,attractions"
+},
+{
+  "reviewTags": [],
+  "id": "19419603",
+  "type": "ATTRACTION",
+  "category": "attraction",
+  "subcategories": [
+    "Sights & Landmarks"
+  ],
+  "name": "Hazrath Multani Baba Dargah",
+  "locationString": "Metalkunta, Medak District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/1a/17/f8/27/the-outside-view.jpg",
+  "photoCount": 3,
+  "rankingPosition": 1,
+  "rating": 4,
+  "rawRanking": 2.741811513900757,
+  "phone": null,
+  "address": "Sh 14, Metalkunta 502249 India",
+  "addressObj": {
+    "street1": "Sh 14",
+    "street2": null,
+    "city": "Metalkunta",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "502249"
+  },
+  "localName": "Hazrath Multani Baba Dargah",
+  "localAddress": "Sh 14, 502249",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.790237,
+  "longitude": 77.578735,
+  "webUrl": "https://www.tripadvisor.com/Attraction_Review-g19419661-d19419603-Reviews-Hazrath_Multani_Baba_Dargah-Metalkunta_Medak_District_Telangana.html",
+  "website": null,
+  "rankingString": "#1 of 1 things to do in Metalkunta",
+  "rankingDenominator": "1",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "19419661",
+      "name": "Metalkunta",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389567",
+      "name": "Medak District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 1,
+    "count5": 0
+  },
+  "numberOfReviews": 1,
+  "booking": null,
+  "offerGroup": null,
+  "subtype": [
+    "Sacred & Religious Sites",
+    "Points of Interest & Landmarks"
+  ],
+  "isNearbyResult": false,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/1a/17/f8/27/the-outside-view.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1a/17/f8/2a/we-went-by-bike-and-took.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1a/17/f8/2c/we-went-by-bike-and-took.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Medak District,attractions"
+},
+{
+  "reviewTags": [],
+  "id": "12963092",
+  "type": "ATTRACTION",
+  "category": "attraction",
+  "subcategories": [
+    "Sights & Landmarks"
+  ],
+  "name": "Sri Kethaki Sangameshwar Temple",
+  "locationString": "Medak, Medak District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/11/a1/1d/35/inside-the-sangameshwar.jpg",
+  "photoCount": 6,
+  "rankingPosition": 5,
+  "rating": 4.5,
+  "rawRanking": 2.7777328491210938,
+  "phone": null,
+  "address": "Jharasangam Village, Medak India",
+  "addressObj": {
+    "street1": null,
+    "street2": "Jharasangam Village",
+    "city": "Medak",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": null
+  },
+  "localName": "Sri Kethaki Sangameshwar Temple",
+  "localAddress": "Jharasangam Village",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": null,
+  "longitude": null,
+  "webUrl": "https://www.tripadvisor.com/Attraction_Review-g2285320-d12963092-Reviews-Sri_Kethaki_Sangameshwar_Temple-Medak_Medak_District_Telangana.html",
+  "website": null,
+  "rankingString": "#5 of 5 things to do in Medak",
+  "rankingDenominator": "5",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2285320",
+      "name": "Medak",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389567",
+      "name": "Medak District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 1,
+    "count5": 2
+  },
+  "numberOfReviews": 3,
+  "booking": null,
+  "offerGroup": null,
+  "subtype": [
+    "Points of Interest & Landmarks",
+    "Sacred & Religious Sites"
+  ],
+  "isNearbyResult": false,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/a1/1d/35/inside-the-sangameshwar.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/a1/1d/17/at-temple-pushkarini.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/16/a8/c7/80/waiting-in-q-line.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/16/a8/9f/8f/sri-kethaki-sangameshwar.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/16/a8/9f/14/sri-kethaki-sangameshwar.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/a1/1d/27/me-and-my-friend-at-pond.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Medak District,attractions"
+},
+{
+  "id": "12945887",
+  "type": "ATTRACTION",
+  "category": "attraction",
+  "subcategories": [
+    "Sights & Landmarks"
+  ],
+  "name": "Sri Vidya Saraswathi Shani Temple",
+  "locationString": "Medak, Medak District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/10/d5/5a/0c/temple-view.jpg",
+  "photoCount": 8,
+  "rankingPosition": 4,
+  "rating": 5,
+  "rawRanking": 2.8042550086975098,
+  "phone": null,
+  "address": "Vargal, Medak India",
+  "addressObj": {
+    "street1": "Vargal",
+    "street2": null,
+    "city": "Medak",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": null
+  },
+  "localName": "Sri Vidya Saraswathi Shani Temple",
+  "localAddress": "Vargal",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": null,
+  "longitude": null,
+  "webUrl": "https://www.tripadvisor.com/Attraction_Review-g2285320-d12945887-Reviews-Sri_Vidya_Saraswathi_Shani_Temple-Medak_Medak_District_Telangana.html",
+  "website": "http://www.srivargalvidyasaraswathi.org/index.html",
+  "rankingString": "#4 of 5 things to do in Medak",
+  "rankingDenominator": "5",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2285320",
+      "name": "Medak",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389567",
+      "name": "Medak District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 1,
+    "count5": 4
+  },
+  "numberOfReviews": 5,
+  "booking": null,
+  "offerGroup": null,
+  "subtype": [
+    "Points of Interest & Landmarks",
+    "Sacred & Religious Sites"
+  ],
+  "isNearbyResult": false,
+  "reviewTags": [],
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/10/d5/5a/0c/temple-view.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/10/d5/59/ab/temple-premises.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/14/aa/e3/40/saraswathi-idol.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/14/aa/e3/3c/akshara-abyasam-material.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/10/d5/5a/23/temple-exit.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/10/d5/59/f4/view-of-the-temple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/10/d5/59/e6/in-the-temple-premises.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/10/d5/59/60/view-of-the-temple-from.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Medak District,attractions"
+},
+{
+  "id": "3498757",
+  "type": "ATTRACTION",
+  "category": "attraction",
+  "subcategories": [
+    "Sights & Landmarks"
+  ],
+  "name": "Medak Fort",
+  "locationString": "Medak, Medak District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0b/eb/87/d2/one-of-the-3-gates.jpg",
+  "photoCount": 60,
+  "rankingPosition": 2,
+  "rating": 4,
+  "rawRanking": 2.883817672729492,
+  "phone": null,
+  "address": "Medak India",
+  "addressObj": {
+    "street1": null,
+    "street2": null,
+    "city": "Medak",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": null
+  },
+  "localName": "Medak Fort",
+  "localAddress": null,
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 18.043333,
+  "longitude": 78.257324,
+  "webUrl": "https://www.tripadvisor.com/Attraction_Review-g2285320-d3498757-Reviews-Medak_Fort-Medak_Medak_District_Telangana.html",
+  "website": null,
+  "rankingString": "#2 of 5 things to do in Medak",
+  "rankingDenominator": "5",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2285320",
+      "name": "Medak",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389567",
+      "name": "Medak District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 11,
+    "count4": 13,
+    "count5": 6
+  },
+  "numberOfReviews": 30,
+  "booking": null,
+  "offerGroup": null,
+  "subtype": [
+    "Historic Sites"
+  ],
+  "isNearbyResult": false,
+  "reviewTags": [
+    {
+      "text": "century",
+      "reviews": 4
+    },
+    {
+      "text": "steps",
+      "reviews": 3
+    },
+    {
+      "text": "fort",
+      "reviews": 27
+    },
+    {
+      "text": "hill",
+      "reviews": 4
+    }
+  ],
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/0b/eb/87/d2/one-of-the-3-gates.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/05/40/a7/41/medak-fort.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0f/db/8a/2d/middle-of-the-hike.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0c/8a/4e/00/20160815-100335-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0b/eb/88/45/the-view-from-the-top.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/05/40/a7/46/medak-fort.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/05/40/a7/3b/medak-fort.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/05/40/a7/37/medak-fort.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/23/f2/27/75/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/23/f2/27/74/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/23/f2/27/73/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/22/19/ff/45/fort.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/22/19/ff/1c/fort.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/22/19/ff/12/fort.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/22/19/ff/06/fort.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/22/19/fe/fd/fort.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/22/19/fe/f0/fort.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/22/19/fe/c7/fort.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/22/19/fe/a5/fort.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/22/19/fe/7a/fort.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/19/17/ae/ad/img-20190622-114748-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/19/17/ae/ac/img-20190622-120506-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/19/17/ae/ab/img-20190622-083702-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/19/17/ae/aa/img-20190622-092256-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/19/17/ae/a9/img-20190622-061324-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/19/17/ae/a8/img-20190622-060945-886.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/19/17/ae/a7/img-20190622-090516-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/19/17/ae/a6/img-20190622-092731-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/13/cc/9c/9b/photo9jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/13/cc/9c/9a/photo8jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/13/cc/9c/99/photo7jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/13/cc/9c/97/photo6jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/13/cc/9c/96/photo5jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/13/cc/9c/95/photo4jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/13/cc/9c/93/photo3jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/13/cc/9c/92/photo2jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/13/cc/9c/91/photo1jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/13/cc/9c/8f/photo0jpg.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Medak District,attractions"
+},
+{
+  "id": "3705959",
+  "type": "ATTRACTION",
+  "category": "attraction",
+  "subcategories": [
+    "Nature & Parks"
+  ],
+  "name": "Pocharam Reservoir",
+  "locationString": "Medak, Medak District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0a/6b/67/e7/front-of-the-dam.jpg",
+  "photoCount": 28,
+  "rankingPosition": 3,
+  "rating": 3.5,
+  "rawRanking": 2.813819646835327,
+  "phone": null,
+  "address": "14.6 Km from Medak, Medak India",
+  "addressObj": {
+    "street1": "14.6 Km from Medak",
+    "street2": null,
+    "city": "Medak",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": null
+  },
+  "localName": "Pocharam Reservoir",
+  "localAddress": "14.6 Km from Medak",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 18.120737,
+  "longitude": 78.18144,
+  "webUrl": "https://www.tripadvisor.com/Attraction_Review-g2285320-d3705959-Reviews-Pocharam_Reservoir-Medak_Medak_District_Telangana.html",
+  "website": null,
+  "rankingString": "#3 of 5 things to do in Medak",
+  "rankingDenominator": "5",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2285320",
+      "name": "Medak",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389567",
+      "name": "Medak District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 1,
+    "count2": 4,
+    "count3": 7,
+    "count4": 11,
+    "count5": 7
+  },
+  "numberOfReviews": 30,
+  "booking": null,
+  "offerGroup": null,
+  "subtype": [
+    "Dams"
+  ],
+  "isNearbyResult": false,
+  "reviewTags": [],
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/0a/6b/67/e7/front-of-the-dam.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/10/0c/82/e0/pocharam.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/0d/68/9c/nizam-bunglow-at-pocharam.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/0d/68/9b/pocharam-lake.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/21/5e/d5/f8/pocharam-reservoir.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/21/5e/d5/dc/pocharam-reservoir.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/21/5e/d5/db/pocharam-reservoir.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/21/5e/d5/d9/pocharam-reservoir.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/21/5e/d5/d8/pocharam-reservoir.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/10/0c/83/01/pocharam.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/10/0c/82/c5/pocharam.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/10/0c/82/92/pocharam.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/10/0c/82/79/pocharam.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/10/0c/82/6f/pocharam.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/10/0c/82/5a/pocharam.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/10/0c/82/40/pocharam.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/10/0c/82/26/pocharam.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0e/41/aa/b3/the-main-view.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0c/f3/7e/c0/in-front-of-the-deserted.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Medak District,attractions"
+},
+{
+  "reviewTags": [
+    {
+      "text": "beautiful church",
+      "reviews": 5
+    },
+    {
+      "text": "largest church",
+      "reviews": 8
+    },
+    {
+      "text": "asia",
+      "reviews": 6
+    },
+    {
+      "text": "diocese",
+      "reviews": 4
+    },
+    {
+      "text": "visitors",
+      "reviews": 5
+    }
+  ],
+  "id": "7626730",
+  "type": "ATTRACTION",
+  "category": "attraction",
+  "subcategories": [
+    "Sights & Landmarks"
+  ],
+  "name": "Medak Cathedral",
+  "locationString": "Medak, Medak District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/11/e8/8f/53/side-view.jpg",
+  "photoCount": 54,
+  "rankingPosition": 1,
+  "rating": 4.5,
+  "rawRanking": 3.0778791904449463,
+  "phone": null,
+  "address": "Medak India",
+  "addressObj": {
+    "street1": null,
+    "street2": null,
+    "city": "Medak",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": null
+  },
+  "localName": "Medak Cathedral",
+  "localAddress": null,
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 18.05308,
+  "longitude": 78.26683,
+  "webUrl": "https://www.tripadvisor.com/Attraction_Review-g2285320-d7626730-Reviews-Medak_Cathedral-Medak_Medak_District_Telangana.html",
+  "website": null,
+  "rankingString": "#1 of 5 things to do in Medak",
+  "rankingDenominator": "5",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2285320",
+      "name": "Medak",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389567",
+      "name": "Medak District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 6,
+    "count4": 16,
+    "count5": 25
+  },
+  "numberOfReviews": 47,
+  "booking": null,
+  "offerGroup": null,
+  "subtype": [
+    "Churches & Cathedrals",
+    "Sacred & Religious Sites"
+  ],
+  "isNearbyResult": false,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/e8/8f/53/side-view.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/d1/c6/38/altar.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/d1/c6/21/church-model.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/10/0c/80/09/medak-church.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0f/e4/c7/e5/skyline-of-medak-from.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0f/7c/18/d6/entrance-of-the-cathedral.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0f/7c/18/8b/entrance-of-the-cathedral.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0e/1e/18/09/medak-cathedral.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0e/0a/ec/03/medak-cathedral.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0d/56/fb/a0/photo6jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0c/f3/7b/33/me-my-wife.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0c/8d/dc/d1/pict0011-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0b/eb/8b/22/the-church.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0a/56/1b/0b/medak-cathedral.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0a/56/1a/eb/medak-cathedral.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0a/2f/ac/09/medak-church.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0a/2f/ab/eb/medak-church.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/b3/b1/6a/medak-cathedral.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/23/f2/25/85/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/23/f2/25/84/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/13/cc/99/f4/photo5jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/13/cc/99/f2/photo4jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/13/cc/99/f0/photo3jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/13/cc/99/ef/photo2jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/13/cc/99/ee/photo1jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/13/cc/99/ed/photo0jpg.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Medak District,attractions"
+},{
+  "id": "3243406",
+  "type": "ATTRACTION",
+  "category": "attraction",
+  "subcategories": [
+    "Sights & Landmarks"
+  ],
+  "name": "Triveni Sangam  Prayagraj",
+  "locationString": "Allahabad, Allahabad District, Uttar Pradesh",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/16/8f/b0/a3/photo2jpg.jpg",
+  "photoCount": 787,
+  "rankingPosition": 1,
+  "rating": 4.5,
+  "rawRanking": 3.985276699066162,
+  "phone": null,
+  "address": "Ganges, Yamuna, and Saraswati Rivers, Allahabad India",
+  "addressObj": {
+    "street1": null,
+    "street2": "Ganges, Yamuna, and Saraswati Rivers",
+    "city": "Allahabad",
+    "state": "Uttar Pradesh",
+    "country": "India",
+    "postalcode": null
+  },
+  "localName": "Triveni Sangam  Prayagraj",
+  "localAddress": "Ganges, Yamuna, and Saraswati Rivers",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 25.423304,
+  "longitude": 81.88969,
+  "webUrl": "https://www.tripadvisor.com/Attraction_Review-g1162488-d3243406-Reviews-Triveni_Sangam_Prayagraj-Allahabad_Allahabad_District_Uttar_Pradesh.html",
+  "website": null,
+  "rankingString": "#1 of 57 things to do in Allahabad",
+  "rankingDenominator": "57",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "1162488",
+      "name": "Allahabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12396703",
+      "name": "Allahabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "297682",
+      "name": "Uttar Pradesh",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 7,
+    "count2": 14,
+    "count3": 76,
+    "count4": 216,
+    "count5": 392
+  },
+  "numberOfReviews": 705,
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAllahabad%2FPrivate-Custom-Tour-Allahabad-Sightseeing-with-Guide%2Fd50898-5832P125%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=02aed840ae2f0e4d5&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=3243406&clt=TD&from=api&nt=true"
+  },
+  "offerGroup": {
+    "lowestPrice": "₹64.12",
+    "offerList": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAllahabad%2FPrivate-Custom-Tour-Allahabad-Sightseeing-with-Guide%2Fd50898-5832P125%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=02aed840ae2f0e4d5&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=3243406&clt=TD&from=api&nt=true",
+        "price": "₹6,384.07",
+        "roundedUpPrice": "₹6,385",
+        "offerType": null,
+        "title": "Private Custom Tour: Allahabad Sightseeing with Guide",
+        "productCode": "5832P125",
+        "partner": "Viator",
+        "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-360x240/07/be/de/77.jpg",
+        "description": null,
+        "primaryCategory": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FVaranasi%2FDay-Trip-to-Triveni-Sangam-Allahabad-from-Varanasi%2Fd22015-15255P96%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=c612f2534373d51d7&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=3243406&clt=TD&from=api&nt=true",
+        "price": "₹25,763.72",
+        "roundedUpPrice": "₹25,764",
+        "offerType": null,
+        "title": "Day Trip to Triveni Sangam Allahabad from Varanasi",
+        "productCode": "15255P96",
+        "partner": "Viator",
+        "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/6b/6e/56.jpg",
+        "description": null,
+        "primaryCategory": "Day Trips"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FVaranasi%2FVARANASI-ALLAHABAD-GAYA-TOUR-4N5D%2Fd22015-188698P5%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=94f44df70118c6bf1&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=3243406&clt=TD&from=api&nt=true",
+        "price": "₹31,733.34",
+        "roundedUpPrice": "₹31,734",
+        "offerType": null,
+        "title": "Varanasi - Allahabad - Gaya Tour - 4n5d",
+        "productCode": "188698P5",
+        "partner": "Viator",
+        "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-360x240/09/55/e1/ff.jpg",
+        "description": null,
+        "primaryCategory": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FVaranasi%2FPrayagraj-and-Varanasi-cradle-of-Indian-Civilisation%2Fd22015-76234P181%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=3fec5669f1eece4b4&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=3243406&clt=TD&from=api&nt=true",
+        "price": "₹7,980.31",
+        "roundedUpPrice": "₹7,981",
+        "offerType": null,
+        "title": "Prayagraj and Varanasi cradle of Indian Civilisation",
+        "productCode": "76234P181",
+        "partner": "Viator",
+        "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-360x240/07/08/43/0d.jpg",
+        "description": null,
+        "primaryCategory": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FVaranasi%2FKumbh-mela-2019-budget-tour-package%2Fd22015-15255P138%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=01417d8f565f7479f&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=3243406&clt=TD&from=api&nt=true",
+        "price": "₹102,596.62",
+        "roundedUpPrice": "₹102,597",
+        "offerType": null,
+        "title": "Kumbh Mela 2025 budget tour package",
+        "productCode": "15255P138",
+        "partner": "Viator",
+        "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/6b/6c/cf.jpg",
+        "description": null,
+        "primaryCategory": "Multi-day Tours"
+      }
+    ]
+  },
+  "subtype": [
+    "Points of Interest & Landmarks"
+  ],
+  "isNearbyResult": false,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/0a/4f/70/df/p-20160212-115847-hdr.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1a/e6/04/8b/triveni-sangam-allahabad.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/16/8f/b0/a3/photo2jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/15/cb/83/6b/sangam.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/15/78/aa/61/prayag-divine-kumbh-camp.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/13/51/ca/2f/winter-evening-with-visitors.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/13/47/fc/01/img-20180127-170446-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/09/84/bb/88/photo1jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/12/37/90/c9/dsc-0063-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/d6/0c/37/jai-guru-dev-kamlesh.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0f/ae/b4/fe/water-colour-changes.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0f/ae/b4/68/fort-on-the-side.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0f/07/3f/ea/img-20170415-125034689.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0e/b9/3c/fb/triveni-sangam-allahabad.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0e/13/90/06/sangam.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0d/f2/16/0b/triveni-sangam-allahabad.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0d/f2/15/f5/holy-rivers-meeting-point.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0c/d1/75/5b/shops-under-tents.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0a/0c/d9/9c/triveni-sangam-allahabad.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0a/05/b3/40/triveni-sangam-allahabad.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2d/35/14/e7/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2d/35/14/e6/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/f8/dc/c4/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/f8/dc/c3/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/c9/17/05/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2a/e2/5c/93/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2a/e2/5c/92/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2a/e2/5c/91/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2a/e2/5c/90/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2a/e2/5c/8f/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2a/e2/5c/8d/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2a/e2/5c/8c/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2a/e2/5c/8b/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2a/e2/5c/8a/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2a/e2/5c/89/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2a/e2/5c/88/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2a/e2/5c/87/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2a/e2/5c/86/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2a/e2/5c/85/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2a/e2/5c/84/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2a/e2/5c/83/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2a/e2/5c/82/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2a/e2/5c/81/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2a/e2/5c/80/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2a/e2/5c/7f/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2a/e2/5c/7e/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2a/e2/5c/7d/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2a/e2/5c/7c/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2a/e2/5c/7b/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2a/e2/5c/79/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2a/e2/5c/78/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2a/e2/5c/77/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2a/e2/5c/76/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2a/e2/5c/75/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2a/e2/5c/74/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2a/e2/5c/73/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2a/e2/5c/72/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2a/e2/5c/71/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2a/e2/5c/70/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2a/e2/5c/6f/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2a/e2/5c/6e/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2a/e2/5c/6d/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2a/e2/5c/6c/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2a/e2/5c/6b/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2a/e2/5c/6a/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2a/e2/5c/69/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2a/e2/5c/67/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2a/e2/5c/65/caption.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Medak District,attractions"
+},
+{
+  "reviewTags": [],
+  "id": "25312262",
+  "type": "ATTRACTION",
+  "category": "attraction",
+  "subcategories": [
+    "Sights & Landmarks"
+  ],
+  "name": "Saraswathi Devi Temple",
+  "locationString": "Wargal, Medak District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/28/27/f3/8e/u-can-reach-here-from.jpg",
+  "photoCount": 4,
+  "rankingPosition": 1,
+  "rating": 5,
+  "rawRanking": 2.763471841812134,
+  "phone": null,
+  "address": "Near Bus Stand, Wargal 502279 India",
+  "addressObj": {
+    "street1": "Near Bus Stand",
+    "street2": null,
+    "city": "Wargal",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "502279"
+  },
+  "localName": "Saraswathi Devi Temple",
+  "localAddress": "Near Bus Stand, 502279",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.771517,
+  "longitude": 78.62525,
+  "webUrl": "https://www.tripadvisor.com/Attraction_Review-g15349808-d25312262-Reviews-Saraswathi_Devi_Temple-Wargal_Medak_District_Telangana.html",
+  "website": null,
+  "rankingString": "#1 of 2 things to do in Wargal",
+  "rankingDenominator": "2",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "15349808",
+      "name": "Wargal",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389567",
+      "name": "Medak District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 1
+  },
+  "numberOfReviews": 1,
+  "booking": null,
+  "offerGroup": null,
+  "subtype": [
+    "Architectural Buildings"
+  ],
+  "isNearbyResult": false,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/27/f3/8d/u-can-reach-here-from.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/27/f3/8c/u-can-reach-here-from.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/27/f3/8b/u-can-reach-here-from.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/27/f3/8e/u-can-reach-here-from.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Medak District,attractions"
+},
+
+{
+  "id": "25165529",
+  "type": "ATTRACTION",
+  "category": "attraction",
+  "subcategories": [
+    "Nature & Parks"
+  ],
+  "name": "Ethipotala Waterfalls",
+  "locationString": "Zaheerabad, Medak District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/27/03/a2/ff/water-falls.jpg",
+  "photoCount": 3,
+  "rankingPosition": 1,
+  "rating": 4,
+  "rawRanking": 2.747753381729126,
+  "phone": null,
+  "address": "Mogudampally, Zaheerabad India",
+  "addressObj": {
+    "street1": "Mogudampally",
+    "street2": null,
+    "city": "Zaheerabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": null
+  },
+  "localName": "Ethipotala Waterfalls",
+  "localAddress": "Mogudampally",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.61654,
+  "longitude": 77.50031,
+  "webUrl": "https://www.tripadvisor.com/Attraction_Review-g12461499-d25165529-Reviews-Ethipotala_Waterfalls-Zaheerabad_Medak_District_Telangana.html",
+  "website": null,
+  "rankingString": "#1 of 3 things to do in Zaheerabad",
+  "rankingDenominator": "3",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "12461499",
+      "name": "Zaheerabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389567",
+      "name": "Medak District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 1,
+    "count5": 0
+  },
+  "numberOfReviews": 1,
+  "booking": null,
+  "offerGroup": null,
+  "subtype": [
+    "Waterfalls"
+  ],
+  "isNearbyResult": false,
+  "reviewTags": [],
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/27/03/a2/e8/water-falls.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/27/03/a2/f4/water-falls.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/27/03/a2/ff/water-falls.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Medak District,attractions"
+},
+{
+  "id": "23935816",
+  "type": "ATTRACTION",
+  "category": "attraction",
+  "subcategories": [
+    "Sights & Landmarks"
+  ],
+  "name": "Ketaki Sangameswara Temple",
+  "locationString": "Zaheerabad, Medak District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/22/6d/89/92/temple.jpg",
+  "photoCount": 4,
+  "rankingPosition": 3,
+  "rating": 3,
+  "rawRanking": 2.7300000190734863,
+  "phone": null,
+  "address": "Jarasangam, Zaheerabad India",
+  "addressObj": {
+    "street1": "Jarasangam",
+    "street2": null,
+    "city": "Zaheerabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": null
+  },
+  "localName": "Ketaki Sangameswara Temple",
+  "localAddress": "Jarasangam",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.763794,
+  "longitude": 77.7123,
+  "webUrl": "https://www.tripadvisor.com/Attraction_Review-g12461499-d23935816-Reviews-Ketaki_Sangameswara_Temple-Zaheerabad_Medak_District_Telangana.html",
+  "website": null,
+  "rankingString": "#3 of 3 things to do in Zaheerabad",
+  "rankingDenominator": "3",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "12461499",
+      "name": "Zaheerabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389567",
+      "name": "Medak District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 1,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 1,
+  "booking": null,
+  "offerGroup": null,
+  "subtype": [
+    "Sacred & Religious Sites"
+  ],
+  "isNearbyResult": false,
+  "reviewTags": [],
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/22/6d/89/92/temple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/22/6d/89/91/temple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/22/6d/89/90/temple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/22/6d/89/8e/temple.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Medak District,attractions"
+}]

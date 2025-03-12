@@ -1,0 +1,2687 @@
+[{
+  "reviewTags": [],
+  "id": "4025615",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Specialty Lodging"
+  ],
+  "name": "SAI Priya Hotel",
+  "locationString": "Adilabad, Adilabad District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": 6,
+  "rating": 4,
+  "rawRanking": 3.010380983352661,
+  "phone": "+91 99891 69901",
+  "address": "Shivaji Chowk Nirmal, Adilabad India",
+  "addressObj": {
+    "street1": "Shivaji Chowk",
+    "street2": "Nirmal",
+    "city": "Adilabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": null
+  },
+  "localName": "SAI Priya Hotel",
+  "localAddress": "Shivaji Chowk, Nirmal",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 19.6776,
+  "longitude": 78.53548,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g2282894-d4025615-Reviews-SAI_Priya_Hotel-Adilabad_Adilabad_District_Telangana.html",
+  "website": null,
+  "rankingString": "#6 of 10 lodges in Adilabad",
+  "rankingDenominator": "10",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2282894",
+      "name": "Adilabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389049",
+      "name": "Adilabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 1,
+    "count5": 0
+  },
+  "numberOfReviews": 1,
+  "hotelClass": "0.0",
+  "amenities": [
+    "Kids Activities"
+  ],
+  "priceLevel": null,
+  "priceRange": null,
+  "roomTips": [],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-01",
+  "checkOutDate": "2024-11-02",
+  "numberOfRooms": null,
+  "categoryReviewScores": [],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/4f/dd/4b/number-of-falls-vary.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Adilabad,hotels"
+},
+{
+  "reviewTags": [],
+  "id": "4025736",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Specialty Lodging"
+  ],
+  "name": "Siddartha Hotel",
+  "locationString": "Adilabad, Adilabad District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/14/90/62/a2/vijaya.jpg",
+  "photoCount": 1,
+  "rankingPosition": 2,
+  "rating": 4.5,
+  "rawRanking": 3.0458176136016846,
+  "phone": "+91 99488 83977",
+  "address": "Opp: Bus Stand Nirmal, Adilabad India",
+  "addressObj": {
+    "street1": "Opp: Bus Stand",
+    "street2": "Nirmal",
+    "city": "Adilabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": null
+  },
+  "localName": "Siddartha Hotel",
+  "localAddress": "Opp: Bus Stand, Nirmal",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 19.67009,
+  "longitude": 78.53036,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g2282894-d4025736-Reviews-Siddartha_Hotel-Adilabad_Adilabad_District_Telangana.html",
+  "website": null,
+  "rankingString": "#2 of 10 lodges in Adilabad",
+  "rankingDenominator": "10",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2282894",
+      "name": "Adilabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389049",
+      "name": "Adilabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 1,
+    "count4": 0,
+    "count5": 3
+  },
+  "numberOfReviews": 4,
+  "hotelClass": "0.0",
+  "amenities": [],
+  "priceLevel": null,
+  "priceRange": null,
+  "roomTips": [],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-01",
+  "checkOutDate": "2024-11-02",
+  "numberOfRooms": null,
+  "categoryReviewScores": [
+    {
+      "categoryName": "Location",
+      "score": 5
+    },
+    {
+      "categoryName": "Value",
+      "score": 4
+    },
+    {
+      "categoryName": "Service",
+      "score": 5
+    }
+  ],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/14/90/62/a2/vijaya.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Adilabad,hotels"
+},
+{
+  "id": "5031064",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Hotel"
+  ],
+  "name": "Indraprastha Basara Resort Hotel",
+  "locationString": "Adilabad, Adilabad District, Telangana",
+  "description": "The well-appointed rooms and stately suites at Indraprastha at Basara offer all the style of the star hotels and even more comfort. The exceptional interiors cater to each and every desire of the elite guests for whom the resort hotel has been crafted. The contemporary amenities have been planned to make every visit a truly satisfying one.",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/05/51/af/06/indraprastha-basara-resort.jpg",
+  "photoCount": 5,
+  "rankingPosition": 1,
+  "rating": 3.5,
+  "rawRanking": 3.0420100688934326,
+  "phone": "+(91)919032122007",
+  "address": "Basara Survey No:, Adilabad 504001 India",
+  "addressObj": {
+    "street1": "Basara Survey No:",
+    "street2": null,
+    "city": "Adilabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "504001"
+  },
+  "localName": "Indraprastha Basara Resort Hotel",
+  "localAddress": "Basara Survey No:, 504001",
+  "localLangCode": "en-IN",
+  "email": "marketing@indraprasthabasara.com",
+  "latitude": 18.86598,
+  "longitude": 77.94808,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g2282894-d5031064-Reviews-Indraprastha_Basara_Resort_Hotel-Adilabad_Adilabad_District_Telangana.html",
+  "website": "http://www.indraprasthabasara.com",
+  "rankingString": "#1 of 3 hotels in Adilabad",
+  "rankingDenominator": "3",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2282894",
+      "name": "Adilabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389049",
+      "name": "Adilabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 3,
+    "count2": 2,
+    "count3": 4,
+    "count4": 3,
+    "count5": 7
+  },
+  "numberOfReviews": 19,
+  "hotelClass": "0.0",
+  "amenities": [
+    "Restaurant",
+    "Internet",
+    "Room service",
+    "Wifi",
+    "Public Wifi",
+    "Breakfast included",
+    "Laundry Service",
+    "Air conditioning"
+  ],
+  "priceLevel": "₹",
+  "priceRange": "₹2,186 - ₹3,532",
+  "roomTips": [
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "south side rooms are good for stay",
+      "rating": "5",
+      "reviewId": "350973354",
+      "id": "350973354",
+      "createdTime": "2016-02-25T20:46:08-05:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Do not go, worst service staff",
+      "rating": "1",
+      "reviewId": "336560052",
+      "id": "336560052",
+      "createdTime": "2016-01-01T21:33:04-05:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "First Floor Roms",
+      "rating": "3",
+      "reviewId": "284242952",
+      "id": "284242952",
+      "createdTime": "2015-06-30T07:19:41-04:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "top floor rooms have good view",
+      "rating": "5",
+      "reviewId": "268528272",
+      "id": "268528272",
+      "createdTime": "2015-04-28T05:48:24-04:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Their regular suits are great. But if one can afford the presidential suit is Fantabulous !!",
+      "rating": "5",
+      "reviewId": "181946624",
+      "id": "181946624",
+      "createdTime": "2013-10-22T07:47:42-04:00"
+    }
+  ],
+  "isNearbyResult": false,
+  "reviewTags": [],
+  "checkInDate": "2024-11-01",
+  "checkOutDate": "2024-11-02",
+  "numberOfRooms": 43,
+  "categoryReviewScores": [
+    {
+      "categoryName": "Location",
+      "score": 4
+    },
+    {
+      "categoryName": "Rooms",
+      "score": 3.9
+    },
+    {
+      "categoryName": "Value",
+      "score": 3.7
+    },
+    {
+      "categoryName": "Cleanliness",
+      "score": 3.1
+    },
+    {
+      "categoryName": "Service",
+      "score": 3.3
+    },
+    {
+      "categoryName": "Sleep Quality",
+      "score": 3.9
+    }
+  ],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/05/51/af/07/indraprastha-basara-resort.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/05/51/af/06/indraprastha-basara-resort.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/19/71/d7/46/screenshot-2019-09-30.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/05/51/af/03/indraprastha-basara-resort.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/05/51/af/01/indraprastha-basara-resort.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Adilabad,hotels"
+},
+{
+  "reviewTags": [],
+  "id": "4025614",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Specialty Lodging"
+  ],
+  "name": "New Sri Geetha Bhavan Udupi Hotel",
+  "locationString": "Adilabad, Adilabad District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1d/6c/e6/5b/caption.jpg",
+  "photoCount": 6,
+  "rankingPosition": 3,
+  "rating": 5,
+  "rawRanking": 3.0302672386169434,
+  "phone": "+91 93470 94710",
+  "address": "7 - 323/1 New Sri Geetha Bhavan Udupi Hotel Nh No Opp Toys Emporium, Nirmal, Adilabad 504001 India",
+  "addressObj": {
+    "street1": "7 - 323/1 New Sri Geetha Bhavan Udupi Hotel Nh No",
+    "street2": "Opp Toys Emporium, Nirmal",
+    "city": "Adilabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "504001"
+  },
+  "localName": "New Sri Geetha Bhavan Udupi Hotel",
+  "localAddress": "7 - 323/1 New Sri Geetha Bhavan Udupi Hotel Nh No, Opp Toys Emporium, Nirmal, 504001",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": null,
+  "longitude": null,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g2282894-d4025614-Reviews-New_Sri_Geetha_Bhavan_Udupi_Hotel-Adilabad_Adilabad_District_Telangana.html",
+  "website": null,
+  "rankingString": "#3 of 10 lodges in Adilabad",
+  "rankingDenominator": "10",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2282894",
+      "name": "Adilabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389049",
+      "name": "Adilabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 1
+  },
+  "numberOfReviews": 1,
+  "hotelClass": "0.0",
+  "amenities": [],
+  "priceLevel": null,
+  "priceRange": null,
+  "roomTips": [],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-01",
+  "checkOutDate": "2024-11-02",
+  "numberOfRooms": null,
+  "categoryReviewScores": [],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/1d/6c/e6/5a/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1d/6c/e6/5b/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1d/6c/e6/59/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1d/6c/e6/58/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1d/6c/e6/57/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1d/6c/e6/56/caption.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Adilabad,hotels"
+},
+{
+  "reviewTags": [],
+  "id": "21209075",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Specialty Lodging"
+  ],
+  "name": "Hotel Adilabad Lodge",
+  "locationString": "Adilabad, Adilabad District, Telangana",
+  "description": "Free WiFi, Room service, Hot water, mineral water, Free parking,city guide and help,taxi service, doctor on call,Travel tickets bookings, Walk able to bus stand, homely stay with good and friendly stay",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/1b/cb/06/eb/hotel-adilabad-lodge.jpg",
+  "photoCount": 22,
+  "rankingPosition": 1,
+  "rating": 5,
+  "rawRanking": 3.063889980316162,
+  "phone": "+91 81219 22768",
+  "address": "Beside Punjab National Bank Near Bus Stand, Adilabad 504001 India",
+  "addressObj": {
+    "street1": "Beside Punjab National Bank Near Bus Stand",
+    "street2": null,
+    "city": "Adilabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "504001"
+  },
+  "localName": "Hotel Adilabad Lodge",
+  "localAddress": "Beside Punjab National Bank Near Bus Stand, 504001",
+  "localLangCode": "en-IN",
+  "email": "adilabadlodge@gmail.com",
+  "latitude": 19.67102,
+  "longitude": 78.52779,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g2282894-d21209075-Reviews-Hotel_Adilabad_Lodge-Adilabad_Adilabad_District_Telangana.html",
+  "website": null,
+  "rankingString": "#1 of 1 limited service property in Adilabad",
+  "rankingDenominator": "1",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2282894",
+      "name": "Adilabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389049",
+      "name": "Adilabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 2
+  },
+  "numberOfReviews": 2,
+  "hotelClass": "0.0",
+  "amenities": [
+    "Internet",
+    "Suites",
+    "Room service",
+    "Free Internet",
+    "Free parking",
+    "Restaurant",
+    "Airport transportation",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Air conditioning",
+    "Family Rooms",
+    "Smoking rooms available",
+    "Private Balcony",
+    "Parking",
+    "Housekeeping",
+    "Additional Bathroom",
+    "Arabic",
+    "ATM On Site",
+    "Cable / Satellite TV",
+    "Car Hire",
+    "24-Hour Check-in",
+    "Express Check-in / Check-out",
+    "English",
+    "Extra Long Beds",
+    "Free Private Parking Nearby",
+    "24-Hour Front Desk",
+    "Hindi",
+    "Ironing Service",
+    "Parking Garage",
+    "Picnic Area",
+    "Private Bathrooms",
+    "Private Check-in / Check-out",
+    "Seating Area",
+    "24-Hour Security",
+    "Shared Bathroom",
+    "Sofa",
+    "Taxi Service",
+    "Valet Parking",
+    "Wake Up Service / Alarm Clock",
+    "Photo Copier / Fax In Business Center"
+  ],
+  "priceLevel": null,
+  "priceRange": null,
+  "roomTips": [
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Budget friendly nice stuff and nice people",
+      "rating": "5",
+      "reviewId": "942254450",
+      "id": "942254450",
+      "createdTime": "2024-03-14T00:42:38-04:00"
+    }
+  ],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-01",
+  "checkOutDate": "2024-11-02",
+  "numberOfRooms": null,
+  "categoryReviewScores": [
+    {
+      "categoryName": "Location",
+      "score": 5
+    },
+    {
+      "categoryName": "Value",
+      "score": 5
+    },
+    {
+      "categoryName": "Service",
+      "score": 5
+    }
+  ],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/1b/cb/06/eb/hotel-adilabad-lodge.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1b/e0/8e/30/deluxe-single-room.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1b/e0/8d/68/deluxe-room-ac.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1b/e0/8c/b9/family-triple-room-ac.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1b/e0/8b/99/triple-family-room-with.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1b/cb/07/35/hotel-adilabad-lodge.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1b/cb/07/02/hotel-adilabad-lodge.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1b/cb/06/f7/hotel-adilabad-lodge.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1b/cb/06/f5/hotel-adilabad-lodge.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1b/cb/06/f1/hotel-adilabad-lodge.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1b/cb/06/ed/hotel-adilabad-lodge.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1b/cb/06/e9/hotel-adilabad-lodge.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1b/cb/06/e7/hotel-adilabad-lodge.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1b/cb/06/e5/hotel-adilabad-lodge.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1b/cb/06/e4/hotel-adilabad-lodge.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1b/cb/06/e3/hotel-adilabad-lodge.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1b/cb/06/d3/hotel-adilabad-lodge.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1b/cb/06/bf/hotel-adilabad-lodge.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/a0/15/b0/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/a0/15/af/caption.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Adilabad,hotels"
+},
+{
+  "id": "2006723",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Bed and Breakfast"
+  ],
+  "name": "Hotel Kamadhenu",
+  "locationString": "Adilabad, Adilabad District, Telangana",
+  "description": "Hotel Kamadhenu is an exclusive luxury hotel in the temple town, Basara. This is a well-known hotel in Basara for its warm hospitality and lavish services. The hotel has spacious neat and clean guest rooms with modern day conveniences for its discerning clienteles. In snappy terms, Hotel Kamadhenu is a perfect place to stay for travelers seeking utmost comfort and privacy on a visit to Basar. Hotel Kamadhenu is located right opposite to Sri. Gnana Saraswati Temple. It is just few meters walk to reach temple. Hotel Kamadhenu is only hotel in the entire Basara town-- with elevator facility. Elevator is operated round the clock, especially for the convenience of old-age people.",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-s/02/3a/b5/b3/hotel-kamadhenu.jpg",
+  "photoCount": 4,
+  "rankingPosition": 1,
+  "rating": 2,
+  "rawRanking": 2.9345364570617676,
+  "phone": null,
+  "address": "Opp: Sri Gnana Saraswathi Temple,, Adilabad 504101 India",
+  "addressObj": {
+    "street1": "Opp: Sri Gnana Saraswathi Temple,",
+    "street2": "",
+    "city": "Adilabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "504101"
+  },
+  "localName": "Hotel Kamadhenu",
+  "localAddress": "Opp: Sri Gnana Saraswathi Temple,, 504101",
+  "localLangCode": "en-IN",
+  "email": "hotelkamadhenu@yahoo.com",
+  "latitude": null,
+  "longitude": null,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g2282894-d2006723-Reviews-Hotel_Kamadhenu-Adilabad_Adilabad_District_Telangana.html",
+  "website": null,
+  "rankingString": "#1 of 2 small hotels in Adilabad",
+  "rankingDenominator": "2",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2282894",
+      "name": "Adilabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389049",
+      "name": "Adilabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 1,
+    "count2": 0,
+    "count3": 1,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 2,
+  "hotelClass": "0.0",
+  "amenities": [
+    "Room service",
+    "Free parking",
+    "Wheelchair access",
+    "Restaurant"
+  ],
+  "priceLevel": null,
+  "priceRange": "₹589 - ₹1,177",
+  "roomTips": [],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-01",
+  "checkOutDate": "2024-11-02",
+  "numberOfRooms": 26,
+  "categoryReviewScores": [
+    {
+      "categoryName": "Location",
+      "score": 4
+    },
+    {
+      "categoryName": "Rooms",
+      "score": 2
+    },
+    {
+      "categoryName": "Value",
+      "score": 1
+    },
+    {
+      "categoryName": "Cleanliness",
+      "score": 1
+    },
+    {
+      "categoryName": "Service",
+      "score": 1
+    },
+    {
+      "categoryName": "Sleep Quality",
+      "score": 1
+    }
+  ],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/02/3a/b5/b3/hotel-kamadhenu.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/02/3a/b3/af/hotel-kamadhenu.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/02/3a/bd/0b/hotel-kamadhenu.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/02/3a/b4/ae/hotel-kamadhenu.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "reviewTags": [],
+  "input": "Telangana,Adilabad,hotels"
+},
+{
+  "id": "1156398",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Hotel"
+  ],
+  "name": "Punnami Basara",
+  "locationString": "Adilabad, Adilabad District, Telangana",
+  "description": "If you’re looking for a budget friendly hotel in Adilabad, look no further than Punnami Basara.\nAs your “home away from home,” the hotel rooms offer air conditioning.\nGuests have access to room service while staying at Punnami Basara. In addition, Punnami Basara offers an on-site restaurant, which will help make your Adilabad trip additionally gratifying. And, as an added convenience, there is free parking available to guests.\nDuring your visit, be sure to check out Basar Saraswati Temple (0.0 mi), which is a popular attraction within walking distance of the hotel.\nThe staff at Punnami Basara looks forward to serving you during your upcoming visit.\n",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-w/0a/61/7f/64/p-20160220-064208-1-p.jpg",
+  "photoCount": 4,
+  "rankingPosition": 2,
+  "rating": 3,
+  "rawRanking": 3.009787082672119,
+  "phone": null,
+  "address": "Adilabad India",
+  "addressObj": {
+    "street1": null,
+    "street2": null,
+    "city": "Adilabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": ""
+  },
+  "localName": "Punnami Basara",
+  "localAddress": null,
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 18.877777,
+  "longitude": 77.95639,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g2282894-d1156398-Reviews-Punnami_Basara-Adilabad_Adilabad_District_Telangana.html",
+  "website": null,
+  "rankingString": "#2 of 3 hotels in Adilabad",
+  "rankingDenominator": "3",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2282894",
+      "name": "Adilabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389049",
+      "name": "Adilabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 3,
+    "count2": 6,
+    "count3": 4,
+    "count4": 0,
+    "count5": 4
+  },
+  "numberOfReviews": 17,
+  "hotelClass": "0.0",
+  "amenities": [
+    "Free parking",
+    "Room service",
+    "Restaurant"
+  ],
+  "priceLevel": null,
+  "priceRange": null,
+  "roomTips": [
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "first floor rooms have balconies and sit outside.",
+      "rating": "2",
+      "reviewId": "253301245",
+      "id": "253301245",
+      "createdTime": "2015-02-08T23:34:32-05:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Never eat food at Punnami ( Haritha ) hotel in Basara.",
+      "rating": "2",
+      "reviewId": "183875714",
+      "id": "183875714",
+      "createdTime": "2013-11-07T01:09:00-05:00"
+    }
+  ],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-01",
+  "checkOutDate": "2024-11-02",
+  "numberOfRooms": null,
+  "categoryReviewScores": [
+    {
+      "categoryName": "Location",
+      "score": 3.1
+    },
+    {
+      "categoryName": "Rooms",
+      "score": 2.4
+    },
+    {
+      "categoryName": "Value",
+      "score": 2
+    },
+    {
+      "categoryName": "Cleanliness",
+      "score": 2
+    },
+    {
+      "categoryName": "Service",
+      "score": 1.8
+    },
+    {
+      "categoryName": "Sleep Quality",
+      "score": 2.1
+    }
+  ],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/0a/61/7f/64/p-20160220-064208-1-p.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/50/e2/c4/punnami-basara.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0a/61/7f/63/p-20160219-174157-p-1.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/50/e2/c0/punnami-basara.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "reviewTags": [
+    {
+      "text": "pm",
+      "reviews": 2
+    },
+    {
+      "text": "tea",
+      "reviews": 2
+    },
+    {
+      "text": "temple",
+      "reviews": 7
+    }
+  ],
+  "input": "Telangana,Adilabad,hotels"
+},
+{
+  "reviewTags": [],
+  "id": "3948568",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Specialty Lodging"
+  ],
+  "name": "Hotel Ravi Teja",
+  "locationString": "Adilabad, Adilabad District, Telangana",
+  "description": "Hotel Ravi Teja is located at heart of city Adilabad, from here you can reach any part of town within 10 minutes. it is very near to Bus Stand, Main Business Center. We are also having a restaurant and service to the room. Our Hotel Ravi Teja also equipped with two halls with 250 PAX and 100 PAX, which is suitable for all events from personal such as birthdays, get together etc to business meetings. Total we have 29 rooms with 3 Suite Rooms, 5 AC Delux Rooms, 3 Triple AC Rooms,10 AC standard Rooms, 5 Non AC Rooms.",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/07/9f/ea/7e/raviteja-hotels.jpg",
+  "photoCount": 20,
+  "rankingPosition": 9,
+  "rating": 3,
+  "rawRanking": 2.9963722229003906,
+  "phone": null,
+  "address": "NH-7 Highway Road Near Main Bus Stand, Adilabad 504001 India",
+  "addressObj": {
+    "street1": "NH-7 Highway Road",
+    "street2": "Near Main Bus Stand",
+    "city": "Adilabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "504001"
+  },
+  "localName": "Hotel Ravi Teja",
+  "localAddress": "NH-7 Highway Road, Near Main Bus Stand, 504001",
+  "localLangCode": "en-IN",
+  "email": "hotelraviteja@gmail.com",
+  "latitude": 19.667574,
+  "longitude": 78.52894,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g2282894-d3948568-Reviews-Hotel_Ravi_Teja-Adilabad_Adilabad_District_Telangana.html",
+  "website": null,
+  "rankingString": "#9 of 10 lodges in Adilabad",
+  "rankingDenominator": "10",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2282894",
+      "name": "Adilabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389049",
+      "name": "Adilabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 4,
+    "count2": 4,
+    "count3": 2,
+    "count4": 5,
+    "count5": 2
+  },
+  "numberOfReviews": 17,
+  "hotelClass": "3.0",
+  "hotelClassAttribution": "This property is classified according to Giata.",
+  "amenities": [
+    "Suites",
+    "Free parking",
+    "Wheelchair access",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Business center",
+    "Laundry Service",
+    "Banquet Room",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Accessible rooms",
+    "Conference Facilities",
+    "Kids Activities",
+    "Shuttle Bus Service",
+    "Room service",
+    "Restaurant",
+    "Wifi",
+    "Dry Cleaning",
+    "Air conditioning",
+    "Smoking rooms available",
+    "Babysitting",
+    "Butler Service",
+    "Breakfast Available",
+    "Parking",
+    "Housekeeping",
+    "Baggage Storage",
+    "Bridal Suite",
+    "Car Hire",
+    "24-Hour Check-in",
+    "Express Check-in / Check-out",
+    "Clothes Rack",
+    "Convenience Store",
+    "Desk",
+    "Dining Area",
+    "English",
+    "Executive Lounge Access",
+    "24-Hour Front Desk",
+    "Hindi",
+    "Ironing Service",
+    "Mountain View",
+    "Newspaper",
+    "Outdoor Dining Area",
+    "Parking Garage",
+    "Private Bathrooms",
+    "Private Check-in / Check-out",
+    "24-Hour Security",
+    "Shops",
+    "Sofa",
+    "Sun Terrace",
+    "Tamil",
+    "Taxi Service",
+    "Telephone",
+    "Tile / Marble Floor",
+    "Wake Up Service / Alarm Clock",
+    "Wardrobe / Closet",
+    "Photo Copier / Fax In Business Center"
+  ],
+  "priceLevel": "₹",
+  "priceRange": "₹1,261 - ₹1,430",
+  "roomTips": [
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Avoid at all times.",
+      "rating": "1",
+      "reviewId": "496412854",
+      "id": "496412854",
+      "createdTime": "2017-06-26T23:55:22-04:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "look for some other hotel in this city",
+      "rating": "1",
+      "reviewId": "381168830",
+      "id": "381168830",
+      "createdTime": "2016-06-09T09:43:44-04:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Have a look at the rooms first and then select, they have some good rooms and some average as well.",
+      "rating": "4",
+      "reviewId": "187233642",
+      "id": "187233642",
+      "createdTime": "2013-12-09T20:44:21-05:00"
+    }
+  ],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-01",
+  "checkOutDate": "2024-11-02",
+  "numberOfRooms": 29,
+  "categoryReviewScores": [
+    {
+      "categoryName": "Location",
+      "score": 3.6
+    },
+    {
+      "categoryName": "Rooms",
+      "score": 3.3
+    },
+    {
+      "categoryName": "Value",
+      "score": 3.3
+    },
+    {
+      "categoryName": "Cleanliness",
+      "score": 1.8
+    },
+    {
+      "categoryName": "Service",
+      "score": 2.8
+    },
+    {
+      "categoryName": "Sleep Quality",
+      "score": 2.8
+    }
+  ],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/9f/ea/7e/raviteja-hotels.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/9f/ea/f4/raviteja-hotels.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/9f/ea/c3/raviteja-hotels.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/9f/ea/3f/raviteja-hotels.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/9f/e9/ef/raviteja-hotels.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/9f/e9/d8/raviteja-hotels.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/9f/e9/81/raviteja-hotels.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/9f/e6/4d/raviteja-hotels.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/9f/e6/2b/raviteja-hotels.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/9f/e5/f2/raviteja-hotels.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/9f/e5/cd/raviteja-hotels.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/9f/e5/ab/raviteja-hotels.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/9f/e5/83/raviteja-hotels.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/9f/e5/69/raviteja-hotels.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/9f/e5/52/raviteja-hotels.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/9f/e5/2a/raviteja-hotels.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0f/b1/f6/43/raviteja-hotels.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0f/b1/f6/1d/raviteja-hotels.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/09/0d/42/b8/raviteja-hotels.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/09/0d/42/b5/raviteja-hotels.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Adilabad,hotels"
+},
+{
+  "reviewTags": [],
+  "id": "4025796",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Specialty Lodging"
+  ],
+  "name": "Arfa Hotel",
+  "locationString": "Adilabad, Adilabad District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": 8,
+  "rating": 3,
+  "rawRanking": 3,
+  "phone": "+91 98668 86609",
+  "address": "Bus Stand Nirmal, Adilabad India",
+  "addressObj": {
+    "street1": "Bus Stand",
+    "street2": "Nirmal",
+    "city": "Adilabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": null
+  },
+  "localName": "Arfa Hotel",
+  "localAddress": "Bus Stand, Nirmal",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 19.67009,
+  "longitude": 78.53036,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g2282894-d4025796-Reviews-Arfa_Hotel-Adilabad_Adilabad_District_Telangana.html",
+  "website": null,
+  "rankingString": "#8 of 10 lodges in Adilabad",
+  "rankingDenominator": "10",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2282894",
+      "name": "Adilabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389049",
+      "name": "Adilabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 1,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 1,
+  "hotelClass": "0.0",
+  "amenities": [],
+  "priceLevel": null,
+  "priceRange": null,
+  "roomTips": [],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-01",
+  "checkOutDate": "2024-11-02",
+  "numberOfRooms": null,
+  "categoryReviewScores": [],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/4f/dd/4b/number-of-falls-vary.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Adilabad,hotels"
+},
+{
+  "reviewTags": [],
+  "id": "6495054",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Bed and Breakfast"
+  ],
+  "name": "Basara Hotels' Wisdom Resorts & Cottages",
+  "locationString": "Adilabad, Adilabad District, Telangana",
+  "description": "Basara Hotels'Wisdom Hotels & Cottages are exclusive luxury cottages in the temple town, Basara. This is a well-known cottage-cluster in Basara for its warmth hospitality and services. The hotel has spacious neat and clean guest rooms with modern day conveniences for its discerning clientele. In snappy terms, Wisdom Resorts Cottages is a perfect place to stay for travelers seeking utmost comfort and privacy on a visit to Basar.",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/06/d1/5a/ff/basara-hotels-hari-hara.jpg",
+  "photoCount": 5,
+  "rankingPosition": 2,
+  "rating": 2.5,
+  "rawRanking": 2.8155651092529297,
+  "phone": "+91 70320 60901",
+  "address": "Godavari Pushkar Ghat, Basara Village, Mudhole Mandal, Adilabad 504101 India",
+  "addressObj": {
+    "street1": null,
+    "street2": "Godavari Pushkar Ghat, Basara Village, Mudhole Mandal",
+    "city": "Adilabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "504101"
+  },
+  "localName": "Basara Hotels' Wisdom Resorts & Cottages",
+  "localAddress": "Godavari Pushkar Ghat, Basara Village, Mudhole Mandal, 504101",
+  "localLangCode": "en-IN",
+  "email": "basarahotels@gmail.com",
+  "latitude": null,
+  "longitude": null,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g2282894-d6495054-Reviews-Basara_Hotels_Wisdom_Resorts_Cottages-Adilabad_Adilabad_District_Telangana.html",
+  "website": "http://www.basarahotels.com",
+  "rankingString": "#2 of 2 small hotels in Adilabad",
+  "rankingDenominator": "2",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2282894",
+      "name": "Adilabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389049",
+      "name": "Adilabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 1,
+    "count2": 4,
+    "count3": 2,
+    "count4": 1,
+    "count5": 0
+  },
+  "numberOfReviews": 8,
+  "hotelClass": "0.0",
+  "amenities": [
+    "Suites",
+    "Room service",
+    "Free parking",
+    "Kitchenette",
+    "Kids Activities",
+    "Airport transportation",
+    "Laundry Service",
+    "Air conditioning"
+  ],
+  "priceLevel": "₹",
+  "priceRange": "₹1,514",
+  "roomTips": [
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Take devastanams rooms instead of spending your hardearned money in these type of cottages",
+      "rating": "1",
+      "reviewId": "291005280",
+      "id": "291005280",
+      "createdTime": "2015-07-21T03:11:42-04:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Ask for the rooms with UPS/Invertor.",
+      "rating": "4",
+      "reviewId": "237178070",
+      "id": "237178070",
+      "createdTime": "2014-10-30T14:40:45-04:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "There are other rooms in basara with less cost and generators.",
+      "rating": "2",
+      "reviewId": "208720529",
+      "id": "208720529",
+      "createdTime": "2014-06-03T09:17:02-04:00"
+    }
+  ],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-01",
+  "checkOutDate": "2024-11-02",
+  "numberOfRooms": 12,
+  "categoryReviewScores": [
+    {
+      "categoryName": "Location",
+      "score": 2.7
+    },
+    {
+      "categoryName": "Rooms",
+      "score": 2.3
+    },
+    {
+      "categoryName": "Value",
+      "score": 1.5
+    },
+    {
+      "categoryName": "Cleanliness",
+      "score": 3.2
+    },
+    {
+      "categoryName": "Service",
+      "score": 2.5
+    },
+    {
+      "categoryName": "Sleep Quality",
+      "score": 2.3
+    }
+  ],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/08/d0/9e/70/basara-hotels-wisdom.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/08/d0/9e/e1/basara-hotels-wisdom.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/06/d1/5a/ff/basara-hotels-hari-hara.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/06/d1/5a/95/basara-hotels-hari-hara.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/06/d1/5a/2c/basara-hotels-hari-hara.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Adilabad,hotels"
+},
+{
+  "reviewTags": [],
+  "id": "12627453",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Specialty Lodging"
+  ],
+  "name": "Haritha Hotel kadam",
+  "locationString": "Adilabad, Adilabad District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0f/d5/44/5a/haritha-hotel-kadam.jpg",
+  "photoCount": 22,
+  "rankingPosition": 1,
+  "rating": 4,
+  "rawRanking": 3.020177125930786,
+  "phone": "+91 87302 52525",
+  "address": "Dam Road, Adilabad 504202 India",
+  "addressObj": {
+    "street1": "Dam Road",
+    "street2": null,
+    "city": "Adilabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "504202"
+  },
+  "localName": "Haritha Hotel kadam",
+  "localAddress": "Dam Road, 504202",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": null,
+  "longitude": null,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g2282894-d12627453-Reviews-Haritha_Hotel_kadam-Adilabad_Adilabad_District_Telangana.html",
+  "website": "http://www.telanganatourism.gov.in/partials/stay/adilabad/haritha-hotel-kaddam.html",
+  "rankingString": "#1 of 2 special hotels in Adilabad",
+  "rankingDenominator": "2",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2282894",
+      "name": "Adilabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389049",
+      "name": "Adilabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 1,
+    "count3": 0,
+    "count4": 3,
+    "count5": 1
+  },
+  "numberOfReviews": 5,
+  "hotelClass": "0.0",
+  "amenities": [
+    "Kids Activities",
+    "Restaurant"
+  ],
+  "priceLevel": null,
+  "priceRange": null,
+  "roomTips": [
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Avoid travelling during Summer, make your food arrangement especially if you have Vegetarian food preferences.\nConfirm on boating availability before visit",
+      "rating": "2",
+      "reviewId": "953721125",
+      "id": "953721125",
+      "createdTime": "2024-06-04T06:44:02-04:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "best view, beautiful location",
+      "rating": "4",
+      "reviewId": "558977266",
+      "id": "558977266",
+      "createdTime": "2018-02-07T01:30:19-05:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "awesome view",
+      "rating": "4",
+      "reviewId": "504637061",
+      "id": "504637061",
+      "createdTime": "2017-07-22T21:40:27-04:00"
+    }
+  ],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-01",
+  "checkOutDate": "2024-11-02",
+  "numberOfRooms": null,
+  "categoryReviewScores": [
+    {
+      "categoryName": "Location",
+      "score": 4
+    },
+    {
+      "categoryName": "Rooms",
+      "score": 3.7
+    },
+    {
+      "categoryName": "Cleanliness",
+      "score": 5
+    },
+    {
+      "categoryName": "Service",
+      "score": 4.5
+    },
+    {
+      "categoryName": "Sleep Quality",
+      "score": 4.7
+    }
+  ],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/fc/7d/ab/haritha-hotel-kadam.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0f/d5/44/5a/haritha-hotel-kadam.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/7b/00/51/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/7b/00/50/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/7b/00/4f/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/7b/00/4e/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/7b/00/4d/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/7b/00/4c/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/7b/00/4b/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/fc/7d/40/haritha-hotel-kadam.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/fc/7d/22/haritha-hotel-kadam.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/fc/7c/fd/haritha-hotel-kadam.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/fc/7c/e7/haritha-hotel-kadam.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/fc/7c/d8/haritha-hotel-kadam.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/fc/7c/bd/haritha-hotel-kadam.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/fc/7c/a2/haritha-hotel-kadam.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0f/d5/44/98/haritha-hotel-kadam.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0f/d5/44/7e/haritha-hotel-kadam.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0f/d5/44/45/haritha-hotel-kadam.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0f/d5/44/24/haritha-hotel-kadam.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Adilabad,hotels"
+},
+{
+  "id": "25434213",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Specialty Lodging"
+  ],
+  "name": "Mangalamurthy Hotels",
+  "locationString": "Adilabad, Adilabad District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/28/d3/e7/bb/mangalamurthy-hotels.jpg",
+  "photoCount": 10,
+  "rankingPosition": 1,
+  "rating": 5,
+  "rawRanking": 3.0384461879730225,
+  "phone": "+91 87322 25444",
+  "address": "Maheshwari theatre, lane 4-2-198/2/10, Cinema Rd Maheshwari theatre, lane 4-2-198/2/10, Cinema Rd, Mahalaxmiwada, Adilabad 504001 India",
+  "addressObj": {
+    "street1": "Maheshwari theatre, lane 4-2-198/2/10, Cinema Rd",
+    "street2": "Maheshwari theatre, lane 4-2-198/2/10, Cinema Rd, Mahalaxmiwada",
+    "city": "Adilabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "504001"
+  },
+  "localName": "Mangalamurthy Hotels",
+  "localAddress": "Maheshwari theatre, lane 4-2-198/2/10, Cinema Rd, Maheshwari theatre, lane 4-2-198/2/10, Cinema Rd, Mahalaxmiwada, 504001",
+  "localLangCode": "en-IN",
+  "email": "hotelmangalmurthy@gmail.com",
+  "latitude": 19.67394,
+  "longitude": 78.53355,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g2282894-d25434213-Reviews-Mangalamurthy_Hotels-Adilabad_Adilabad_District_Telangana.html",
+  "website": "https://mangalamurthyhotels.com",
+  "rankingString": "#1 of 1 hostel in Adilabad",
+  "rankingDenominator": "1",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2282894",
+      "name": "Adilabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389049",
+      "name": "Adilabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 1
+  },
+  "numberOfReviews": 1,
+  "hotelClass": "0.0",
+  "amenities": [
+    "Suites",
+    "Free parking",
+    "Free Wifi",
+    "Breakfast included",
+    "Meeting rooms",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Conference Facilities",
+    "Flatscreen TV",
+    "English",
+    "Hindi"
+  ],
+  "priceLevel": "₹",
+  "priceRange": "₹2,859 - ₹3,448",
+  "roomTips": [],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-01",
+  "checkOutDate": "2024-11-02",
+  "numberOfRooms": 17,
+  "categoryReviewScores": [
+    {
+      "categoryName": "Location",
+      "score": 5
+    },
+    {
+      "categoryName": "Value",
+      "score": 5
+    },
+    {
+      "categoryName": "Service",
+      "score": 5
+    }
+  ],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/d3/e7/bb/mangalamurthy-hotels.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/d4/34/cc/mangalamurthy-hotels.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/d3/fa/40/mangalamurthy-hotels.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/d3/fa/13/mangalamurthy-hotels.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/d3/f9/dd/mangalamurthy-hotels.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/d3/f9/b2/mangalamurthy-hotels.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/d3/f9/8e/mangalamurthy-hotels.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/d3/f9/5c/mangalamurthy-hotels.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/d3/f9/44/mangalamurthy-hotels.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/d3/f7/28/reception.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "reviewTags": [],
+  "input": "Telangana,Adilabad,hotels"
+},
+{
+  "reviewTags": [],
+  "checkInDate": "2024-11-01",
+  "checkOutDate": "2024-11-02",
+  "numberOfRooms": null,
+  "categoryReviewScores": [],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/4f/dd/4b/number-of-falls-vary.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "rankingPosition": 14,
+  "rankingDenominator": "23",
+  "rankingString": "#14 of 23 Specialty lodging in Adilabad",
+  "id": "17532920",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Specialty Lodging"
+  ],
+  "name": "Hotel Sai Panchvati",
+  "locationString": "Adilabad, Adilabad District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rating": 2.5,
+  "rawRanking": 2.8573129177093506,
+  "phone": null,
+  "address": "Jagadamba Towers Opp Gandhi Printing Press Lane Cinema Road, Adilabad 504001 India",
+  "addressObj": {
+    "street1": "Jagadamba Towers Opp Gandhi Printing Press Lane Cinema Road",
+    "street2": null,
+    "city": "Adilabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "504001"
+  },
+  "localName": "Hotel Sai Panchvati",
+  "localAddress": "Jagadamba Towers Opp Gandhi Printing Press Lane Cinema Road, 504001",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 19.67366,
+  "longitude": 78.53359,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g2282894-d17532920-Reviews-Hotel_Sai_Panchvati-Adilabad_Adilabad_District_Telangana.html",
+  "website": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2282894",
+      "name": "Adilabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389049",
+      "name": "Adilabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 1,
+    "count3": 1,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 2,
+  "hotelClass": "0.0",
+  "amenities": [
+    "Kids Activities",
+    "Restaurant",
+    "Laundry Service"
+  ],
+  "priceLevel": "₹",
+  "priceRange": "₹2,775 - ₹3,027",
+  "roomTips": [
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Parking is available ",
+      "rating": "3",
+      "reviewId": "916357636",
+      "id": "916357636",
+      "createdTime": "2023-09-13T04:29:53-04:00"
+    }
+  ],
+  "isNearbyResult": false,
+  "input": "Telangana,Adilabad,hotels"
+},
+{
+  "id": "4007430",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Specialty Lodging"
+  ],
+  "name": "Haritha Hotel",
+  "locationString": "Adilabad, Adilabad District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/11/9d/cc/9c/img-20171228-095639467.jpg",
+  "photoCount": 4,
+  "rankingPosition": 10,
+  "rating": 3,
+  "rawRanking": 2.9602081775665283,
+  "phone": "+91 87522 43691",
+  "address": "D No Near Temple, Opposite Police Station, Basar, Adilabad 504001 India",
+  "addressObj": {
+    "street1": "D No",
+    "street2": "Near Temple, Opposite Police Station, Basar",
+    "city": "Adilabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "504001"
+  },
+  "localName": "Haritha Hotel",
+  "localAddress": "D No, Near Temple, Opposite Police Station, Basar, 504001",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": null,
+  "longitude": null,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g2282894-d4007430-Reviews-Haritha_Hotel-Adilabad_Adilabad_District_Telangana.html",
+  "website": null,
+  "rankingString": "#10 of 10 lodges in Adilabad",
+  "rankingDenominator": "10",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2282894",
+      "name": "Adilabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389049",
+      "name": "Adilabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 1,
+    "count3": 4,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 5,
+  "hotelClass": "0.0",
+  "amenities": [
+    "Kids Activities",
+    "Room service"
+  ],
+  "priceLevel": null,
+  "priceRange": null,
+  "roomTips": [],
+  "isNearbyResult": false,
+  "reviewTags": [],
+  "checkInDate": "2024-11-01",
+  "checkOutDate": "2024-11-02",
+  "numberOfRooms": null,
+  "categoryReviewScores": [
+    {
+      "categoryName": "Rooms",
+      "score": 2
+    },
+    {
+      "categoryName": "Cleanliness",
+      "score": 2
+    },
+    {
+      "categoryName": "Service",
+      "score": 3
+    }
+  ],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/9d/cc/9c/img-20171228-095639467.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/9d/cc/9e/img-20171228-095542446.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/9d/cc/9d/img-20171228-095616906.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/9d/cc/9b/img-20171228-095857872.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Adilabad,hotels"
+},
+{
+  "id": "5888743",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Specialty Lodging"
+  ],
+  "name": "Laxmi Nivas Lodge",
+  "locationString": "Adilabad, Adilabad District, Telangana",
+  "description": "It is a tourist hotel near Goddess Saraswati temple in Basar, Telangana. This hotel is constructed newly with all modern facilities (2 star rated). Worthy to stay with reasonable rates.Recently we have started a restaurant also for our customers.",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/2a/db/46/de/caption.jpg",
+  "photoCount": 34,
+  "rankingPosition": 1,
+  "rating": 4.5,
+  "rawRanking": 3.249647617340088,
+  "phone": null,
+  "address": "Opposite Shankary Vidyalayam Laxmi Nivas Lodge Opposite Shankary Vidyalayam Basar, Adilabad 504101 India",
+  "addressObj": {
+    "street1": "Opposite Shankary Vidyalayam Laxmi Nivas Lodge Opposite Shankary Vidyalayam",
+    "street2": "Basar",
+    "city": "Adilabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "504101"
+  },
+  "localName": "Laxmi Nivas Lodge",
+  "localAddress": "Opposite Shankary Vidyalayam Laxmi Nivas Lodge Opposite Shankary Vidyalayam, Basar, 504101",
+  "localLangCode": "en-IN",
+  "email": "praveenkumar1043@gmail.com",
+  "latitude": 18.87687,
+  "longitude": 77.95773,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g2282894-d5888743-Reviews-Laxmi_Nivas_Lodge-Adilabad_Adilabad_District_Telangana.html",
+  "website": null,
+  "rankingString": "#1 of 10 lodges in Adilabad",
+  "rankingDenominator": "10",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2282894",
+      "name": "Adilabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389049",
+      "name": "Adilabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 1,
+    "count3": 6,
+    "count4": 10,
+    "count5": 21
+  },
+  "numberOfReviews": 38,
+  "hotelClass": "0.0",
+  "amenities": [
+    "Free Internet",
+    "Free parking",
+    "Public Wifi",
+    "Air conditioning",
+    "Flatscreen TV",
+    "Kids Activities",
+    "Room service",
+    "Non-smoking rooms",
+    "Family Rooms",
+    "Breakfast in the Room",
+    "Car Hire",
+    "24-Hour Front Desk"
+  ],
+  "priceLevel": "₹",
+  "priceRange": "₹925 - ₹1,177",
+  "roomTips": [
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "ALL rooms a good",
+      "rating": "5",
+      "reviewId": "463103574",
+      "id": "463103574",
+      "createdTime": "2017-02-26T21:53:04-05:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "all are the same type rooms, but ac rooms having TV facility.",
+      "rating": "5",
+      "reviewId": "315303761",
+      "id": "315303761",
+      "createdTime": "2015-10-01T03:23:41-04:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "It is good budget hotel in season time, i'm not found any issues",
+      "rating": "4",
+      "reviewId": "251557593",
+      "id": "251557593",
+      "createdTime": "2015-01-28T18:38:05-05:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "room no 101 103 104  are too good ..",
+      "rating": "4",
+      "reviewId": "244359457",
+      "id": "244359457",
+      "createdTime": "2014-12-13T23:18:44-05:00"
+    }
+  ],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-01",
+  "checkOutDate": "2024-11-02",
+  "numberOfRooms": 24,
+  "categoryReviewScores": [
+    {
+      "categoryName": "Location",
+      "score": 4.3
+    },
+    {
+      "categoryName": "Rooms",
+      "score": 4.5
+    },
+    {
+      "categoryName": "Value",
+      "score": 4.6
+    },
+    {
+      "categoryName": "Cleanliness",
+      "score": 4.5
+    },
+    {
+      "categoryName": "Service",
+      "score": 4.3
+    },
+    {
+      "categoryName": "Sleep Quality",
+      "score": 4.7
+    }
+  ],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/2a/db/46/de/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/02/98/18/laxmi-nivas-lodge.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/06/46/aa/de/laxmi-nivas-lodge.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/06/46/a8/d4/exterior-view.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/06/46/a8/d8/bath-room-type-1.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2a/db/46/e1/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/47/80/5d/laxmi-nivas-lodge.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/47/80/56/laxmi-nivas-lodge.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/47/80/51/laxmi-nivas-lodge.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/47/80/4d/laxmi-nivas-lodge.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/47/80/49/laxmi-nivas-lodge.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/47/80/44/laxmi-nivas-lodge.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/47/80/40/laxmi-nivas-lodge.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/47/80/3c/laxmi-nivas-lodge.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/47/80/33/laxmi-nivas-lodge.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/47/80/2e/laxmi-nivas-lodge.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/02/98/b5/laxmi-nivas-lodge.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/02/98/3b/laxmi-nivas-lodge.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/06/46/a8/d9/bath-room-tupe-2.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/0a/3e/bb/laxmi-nivas-lodge.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/18/be/96/ab/img-20190811-073122-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/a7/94/2b/img-20171231-153134-largejpg.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "reviewTags": [],
+  "input": "Telangana,Adilabad,hotels"
+},
+{
+  "id": "10105951",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Specialty Lodging"
+  ],
+  "name": "Hotel Vaibhav",
+  "locationString": "Adilabad, Adilabad District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": null,
+  "address": "Main Road, Gangareddy Road, MOR Market, Adilabad 504208 India",
+  "addressObj": {
+    "street1": "Main Road, Gangareddy Road, MOR Market",
+    "street2": null,
+    "city": "Adilabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "504208"
+  },
+  "localName": "Hotel Vaibhav",
+  "localAddress": "Main Road, Gangareddy Road, MOR Market, 504208",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 18.87546,
+  "longitude": 79.44579,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g2282894-d10105951-Reviews-Hotel_Vaibhav-Adilabad_Adilabad_District_Telangana.html",
+  "website": null,
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2282894",
+      "name": "Adilabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389049",
+      "name": "Adilabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "hotelClass": "3.0",
+  "hotelClassAttribution": "This property is classified according to Giata.",
+  "amenities": [
+    "Kids Activities",
+    "Restaurant",
+    "Laundry Service"
+  ],
+  "priceLevel": "₹",
+  "priceRange": "₹1,009 - ₹1,177",
+  "roomTips": [],
+  "isNearbyResult": false,
+  "reviewTags": [],
+  "checkInDate": "2024-11-01",
+  "checkOutDate": "2024-11-02",
+  "numberOfRooms": null,
+  "categoryReviewScores": [],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/4f/dd/4b/number-of-falls-vary.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Adilabad,hotels"
+},
+{
+  "id": "23893318",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Bed and Breakfast"
+  ],
+  "name": "KAKAKU The Guest House",
+  "locationString": "Adilabad, Adilabad District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-w/23/3b/b5/3c/logo.jpg",
+  "photoCount": 46,
+  "rankingPosition": 1,
+  "rating": 5,
+  "rawRanking": 3.063685655593872,
+  "phone": "+91 81794 75753",
+  "address": "KAKAKU The Guest House 7 - 1 - 33 5 Dwaraka Nagar 1st Floor NTR Square, Adilabad 504001 India",
+  "addressObj": {
+    "street1": "KAKAKU The Guest House 7 - 1 - 33 5 Dwaraka Nagar 1st Floor NTR Square",
+    "street2": null,
+    "city": "Adilabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "504001"
+  },
+  "localName": "KAKAKU The Guest House",
+  "localAddress": "KAKAKU The Guest House 7 - 1 - 33 5 Dwaraka Nagar 1st Floor NTR Square, 504001",
+  "localLangCode": "en-IN",
+  "email": "kakakutheguesthouse@gmail.com",
+  "latitude": 19.666859,
+  "longitude": 78.530304,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g2282894-d23893318-Reviews-KAKAKU_The_Guest_House-Adilabad_Adilabad_District_Telangana.html",
+  "website": "http://kakakutheguesthouse.com/",
+  "rankingString": "#1 of 1 guest house in Adilabad",
+  "rankingDenominator": "1",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2282894",
+      "name": "Adilabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389049",
+      "name": "Adilabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 2
+  },
+  "numberOfReviews": 2,
+  "hotelClass": "3.0",
+  "hotelClassAttribution": "This property is classified according to Giata.",
+  "amenities": [
+    "Room service",
+    "Restaurant",
+    "Pets Allowed",
+    "Airport transportation",
+    "Free Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Microwave",
+    "Refrigerator in room",
+    "Conference Facilities",
+    "Non-smoking hotel",
+    "Safe",
+    "Flatscreen TV",
+    "Breakfast Available",
+    "Parking",
+    "Housekeeping",
+    "Kids Stay Free",
+    "Bathrobes",
+    "BBQ Facilities",
+    "Bicycles Available",
+    "Bottled Water",
+    "Breakfast in the Room",
+    "Cable / Satellite TV",
+    "Car Hire",
+    "24-Hour Check-in",
+    "Children's Television Networks",
+    "Clothes Dryer",
+    "Clothes Rack",
+    "Coffee / Tea Maker",
+    "Desk",
+    "Electric Kettle",
+    "English",
+    "Extra Long Beds",
+    "First Aid Kit",
+    "Free Public Parking Nearby",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Hindi",
+    "Iron",
+    "Ironing Service",
+    "Kids' Meals",
+    "Kitchenware",
+    "Laptop Safe",
+    "Newspaper",
+    "Outdoor Furniture",
+    "Private Bathrooms",
+    "Private Check-in / Check-out",
+    "Radio",
+    "Seating Area",
+    "24-Hour Security",
+    "Separate Dining Area",
+    "Shared Kitchen",
+    "Shared Lounge / TV Area",
+    "Shoeshine",
+    "Special Diet Menus",
+    "Stovetop",
+    "Sun Terrace",
+    "Taxi Service",
+    "Telephone",
+    "Tile / Marble Floor",
+    "Umbrella",
+    "Urdu",
+    "VIP Room Facilities",
+    "Wake Up Service / Alarm Clock",
+    "Walk-in Shower",
+    "Wardrobe / Closet"
+  ],
+  "priceLevel": "₹",
+  "priceRange": "₹2,691 - ₹3,448",
+  "roomTips": [
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "The property isn’t easy to find so look for the blue maternity hospital sign (white writing) and the property is in the slip road below.",
+      "rating": "5",
+      "reviewId": "864214040",
+      "id": "864214040",
+      "createdTime": "2022-10-12T03:14:31-04:00"
+    }
+  ],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-01",
+  "checkOutDate": "2024-11-02",
+  "numberOfRooms": 5,
+  "categoryReviewScores": [],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/23/3b/b5/3c/logo.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/23/3b/b6/e0/sitting-area.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/23/3b/b6/c9/interior.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/23/3b/b6/ab/sitout.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/23/3b/b6/99/interior.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/23/3b/b6/81/business.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/23/3b/b5/23/kakaku-the-guest-house.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/23/3b/b5/05/kakaku-the-guest-house.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/23/3b/b4/81/exterior.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/23/3b/b4/60/lounge.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/23/3b/b3/bb/lounge.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/23/3b/b1/62/executive-triple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/23/3b/b1/4b/executive-triple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/23/3b/b1/2f/executive-triple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/23/3b/b1/19/executive-triple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/23/3b/b1/03/executive-triple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/23/3b/b0/6c/executive-double.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/23/3b/b0/2e/executive-double.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/23/3b/b0/19/executive-double.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/23/3b/af/fd/executive-double.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/26/7a/09/99/caption.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "reviewTags": [],
+  "input": "Telangana,Adilabad,hotels"
+},
+{
+  "id": "4007433",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Specialty Lodging"
+  ],
+  "name": "Rajarajeshwar Hotel",
+  "locationString": "Adilabad, Adilabad District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": 5,
+  "rating": 3.5,
+  "rawRanking": 3.0112478733062744,
+  "phone": "+91 87512 51604",
+  "address": "Ichoda, Subashnagar, Adilabad India",
+  "addressObj": {
+    "street1": "Ichoda, Subashnagar",
+    "street2": null,
+    "city": "Adilabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": null
+  },
+  "localName": "Rajarajeshwar Hotel",
+  "localAddress": "Ichoda, Subashnagar",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": null,
+  "longitude": null,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g2282894-d4007433-Reviews-Rajarajeshwar_Hotel-Adilabad_Adilabad_District_Telangana.html",
+  "website": null,
+  "rankingString": "#5 of 10 lodges in Adilabad",
+  "rankingDenominator": "10",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2282894",
+      "name": "Adilabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389049",
+      "name": "Adilabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 1,
+    "count4": 1,
+    "count5": 0
+  },
+  "numberOfReviews": 2,
+  "hotelClass": "0.0",
+  "amenities": [],
+  "priceLevel": null,
+  "priceRange": null,
+  "roomTips": [
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "can choose another one",
+      "rating": "3",
+      "reviewId": "165534543",
+      "id": "165534543",
+      "createdTime": "2013-06-28T04:09:09-04:00"
+    }
+  ],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-01",
+  "checkOutDate": "2024-11-02",
+  "numberOfRooms": null,
+  "categoryReviewScores": [
+    {
+      "categoryName": "Location",
+      "score": 3
+    },
+    {
+      "categoryName": "Rooms",
+      "score": 3
+    },
+    {
+      "categoryName": "Value",
+      "score": 3
+    },
+    {
+      "categoryName": "Cleanliness",
+      "score": 3
+    },
+    {
+      "categoryName": "Service",
+      "score": 3
+    },
+    {
+      "categoryName": "Sleep Quality",
+      "score": 3
+    }
+  ],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/4f/dd/4b/number-of-falls-vary.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "reviewTags": [],
+  "input": "Telangana,Adilabad,hotels"
+},
+{
+  "id": "4023459",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Specialty Lodging"
+  ],
+  "name": "Hotel Kalpana",
+  "locationString": "Adilabad, Adilabad District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 90104 88410",
+  "address": "Bus Stand Road Mancherial, Adilabad India",
+  "addressObj": {
+    "street1": "Bus Stand Road",
+    "street2": "Mancherial",
+    "city": "Adilabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": null
+  },
+  "localName": "Hotel Kalpana",
+  "localAddress": "Bus Stand Road, Mancherial",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 19.67009,
+  "longitude": 78.53036,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g2282894-d4023459-Reviews-Hotel_Kalpana-Adilabad_Adilabad_District_Telangana.html",
+  "website": null,
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2282894",
+      "name": "Adilabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389049",
+      "name": "Adilabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "hotelClass": "0.0",
+  "amenities": [],
+  "priceLevel": null,
+  "priceRange": null,
+  "roomTips": [],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-01",
+  "checkOutDate": "2024-11-02",
+  "numberOfRooms": null,
+  "categoryReviewScores": [],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/4f/dd/4b/number-of-falls-vary.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "reviewTags": [],
+  "input": "Telangana,Adilabad,hotels"
+},
+{
+  "id": "12657199",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Hotel"
+  ],
+  "name": "Haritha Hotel",
+  "locationString": "Adilabad, Adilabad District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0f/f4/61/e9/haritha-hotel.jpg",
+  "photoCount": 7,
+  "rankingPosition": 3,
+  "rating": 3.5,
+  "rawRanking": 3.009431838989258,
+  "phone": "+91 76808 27292",
+  "address": "Kaddam, Adilabad 504205 India",
+  "addressObj": {
+    "street1": null,
+    "street2": "Kaddam",
+    "city": "Adilabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "504205"
+  },
+  "localName": "Haritha Hotel",
+  "localAddress": "Kaddam, 504205",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": null,
+  "longitude": null,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g2282894-d12657199-Reviews-Haritha_Hotel-Adilabad_Adilabad_District_Telangana.html",
+  "website": "http://www.telanganatourism.gov.in/partials/stay/mancherial/haritha-hotel-jannaram.html",
+  "rankingString": "#3 of 3 hotels in Adilabad",
+  "rankingDenominator": "3",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2282894",
+      "name": "Adilabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389049",
+      "name": "Adilabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 1,
+    "count4": 1,
+    "count5": 0
+  },
+  "numberOfReviews": 2,
+  "hotelClass": "0.0",
+  "amenities": [],
+  "priceLevel": null,
+  "priceRange": null,
+  "roomTips": [],
+  "isNearbyResult": false,
+  "reviewTags": [],
+  "checkInDate": "2024-11-01",
+  "checkOutDate": "2024-11-02",
+  "numberOfRooms": null,
+  "categoryReviewScores": [
+    {
+      "categoryName": "Location",
+      "score": 3.5
+    },
+    {
+      "categoryName": "Value",
+      "score": 4
+    },
+    {
+      "categoryName": "Cleanliness",
+      "score": 3
+    },
+    {
+      "categoryName": "Service",
+      "score": 4
+    }
+  ],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/0f/f7/ee/c6/haritha-hotel.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0f/f4/61/e9/haritha-hotel.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0f/f7/ee/fe/haritha-hotel.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0f/f7/ee/de/haritha-hotel.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0f/f7/ee/d5/haritha-hotel.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0f/f7/ee/be/haritha-hotel.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0f/f7/ee/a0/haritha-hotel.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Adilabad,hotels"
+}]

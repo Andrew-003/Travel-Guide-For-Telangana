@@ -1,0 +1,1316 @@
+[
+  {
+    "id": 1,
+    "name": "Adilabad",
+    "longitude": 78.5311,
+    "latitude": 19.6633,
+    "sub_description": "A district in the northern region, known for its forest cover and waterfalls.",
+    "main_description": "Adilabad, known as the Gateway to South India,is rich in cultural and natural beauty. It is home to the Basar Saraswathi Temple, one of the only two Saraswati temples in India, and the Jainath Shiva Temple, known for its Hemadpanthi architecture. The district also features the stunning Kuntala and Pochera waterfalls. Adilabad showcases tribal heritage through Gond paintings and celebrates vibrant local festivals. With its spiritual landmarks, scenic landscapes, and cultural richness, Adilabad offers a unique experience for history lovers, pilgrims, and nature enthusiasts alike.",
+    "imageurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm1p4ygTdn3zd628a236vCYoiqps8cQLDUIoy6SNof0iMJsc2WPywjWJN5&s=10",
+    "bgimageurl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/37/79/1a/images-13-largejpg.jpg?w=600&h=-1&s=1",
+    "how_to_reach": {
+      "by_bus": {
+        "description": "Adilabad is well-connected by TSRTC and private bus services.",
+        "from_hyderabad": {
+          "operator": "TSRTC",
+          "pickup_points": [
+            "MGBS",
+            "JBS"
+          ],
+          "journey_time": "6-7 hours"
+        },
+        "from_nearby_cities": [
+          "Nizamabad",
+          "Karimnagar",
+          "Warangal"
+        ],
+        "online_booking": "https://www.tsrtconline.in"
+      },
+      "by_train": {
+        "description": "Adilabad has a railway station on the Nanded-Hyderabad line.",
+        "station_name": "Adilabad Railway Station (ADB)",
+        "direct_trains": [
+          "Hyderabad",
+          "Nanded",
+          "Nagpur"
+        ],
+        "nearest_major_station": "Nizamabad",
+        "online_booking": "https://www.irctc.co.in"
+      }
+    }
+  },
+  {
+    "id": 2,
+    "name": "Bhadradri Kothagudem",
+    "longitude": 80.6479,
+    "latitude": 17.5567,
+    "sub_description": "Famous for coal reserves and the Kothagudem Thermal Power Station.",
+    "main_description": "Bhadradri Kothagudem is renowned for its historical and cultural significance. The Bhadrachalam Temple, dedicated to Lord Rama, is a major spiritual attraction and draws numerous pilgrims. The district celebrates vibrant tribal cultures and festivals, with traditional dance forms like Lambadi highlighting its rich heritage. Surrounded by lush forests and natural beauty, including Pochera Falls, Bhadradri Kothagudem offers a blend of divine sites, nature, and cultural traditions, making it a unique and sacred destination in Telangana.",
+    "imageurl": "https://2.bp.blogspot.com/-ZWi4PzN0_zc/WXyO29TdQEI/AAAAAAAAEeQ/YYKcjipaM0MOHdWKSpkiZNgVSv9FG-GxQCLcBGAs/s400/jhg.jpg",
+    "bgimageurl": "https://1.bp.blogspot.com/-Kx71e5iCLrY/XeIBPV-qdQI/AAAAAAAABqs/YnE8EXGQxAYD2QLGW_Ert_3eUs7Ij9eLQCLcBGAsYHQ/s1600/BHADRACHALAM.jpg",
+    "transport": {
+      "by_bus": {
+        "description": "Bhadradri Kothagudem is well-connected by TSRTC buses and private operators.",
+        "from_hyderabad": {
+          "operator": "TSRTC",
+          "pickup_points": [
+            "MGBS",
+            "JBS"
+          ],
+          "journey_time": "6-7 hours"
+        },
+        "from_nearby_cities": [
+          "Khammam",
+          "Warangal",
+          "Vijayawada"
+        ],
+        "online_booking": "https://www.tsrtconline.in"
+      },
+      "by_train": {
+        "description": "The district is accessible via the rail network, with major stations connecting to it.",
+        "station_name": "Kothagudem Railway Station (KMT)",
+        "direct_trains": [
+          "Hyderabad",
+          "Khammam",
+          "Vijayawada"
+        ],
+        "nearest_major_station": "Khammam",
+        "online_booking": "https://www.irctc.co.in"
+      }
+    }
+  },
+  {
+    "id": 3,
+    "name": "Hyderabad",
+    "longitude": 78.4867,
+    "latitude": 17.385,
+    "sub_description": "The bustling capital city, known for its rich history and modern tech industry.",
+    "main_description": "Hyderabad, the capital of Telangana, is a city rich in history, culture, and heritage. Known for its iconic landmarks like the Charminar and Golkonda Fort, the city boasts a fascinating blend of Mughal and Nizam architecture. Hyderabad is also famous for its divine sites, including the Birla Mandir and the Hussain Sagar Lake, home to the large Buddha statue. With its vibrant festivals, rich cuisine, and traditional bazaars like Laad Bazaar, Hyderabad offers a unique mix of history, culture, and spirituality.",
+    "imageurl": "https://th.bing.com/th/id/OIP.WEaQekn60tBUvgiNTxYkKwHaE8?w=233&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7",
+    "bgimageurl": "https://www.hyderabadtourism.travel/images/v2/header-places/golconda-fort-hyderabad-tourism-attraction-entryfee-timings-reviews-header.jpg",
+    "transport": {
+      "by_bus": {
+        "description": "Hyderabad is a major hub with excellent connectivity via TSRTC and private buses.",
+        "from_major_cities": [
+          "Bangalore",
+          "Chennai",
+          "Mumbai",
+          "Pune",
+          "Vijayawada"
+        ],
+        "pickup_points": [
+          "MGBS (Mahatma Gandhi Bus Station)",
+          "JBS (Jubilee Bus Station)",
+          "Kukatpally"
+        ],
+        "online_booking": "https://www.tsrtconline.in"
+      },
+      "by_train": {
+        "description": "Hyderabad is served by multiple railway stations connecting it to all major cities in India.",
+        "major_stations": [
+          "Hyderabad Deccan (HYB)",
+          "Secunderabad Junction (SC)",
+          "Kacheguda (KCG)"
+        ],
+        "direct_trains": [
+          "Delhi",
+          "Mumbai",
+          "Chennai",
+          "Bangalore",
+          "Kolkata"
+        ],
+        "online_booking": "https://www.irctc.co.in"
+      }
+    }
+  },
+  {
+    "id": 4,
+    "name": "Jagtial",
+    "longitude": 78.9038,
+    "latitude": 18.7944,
+    "sub_description": "Known for its agricultural output, particularly rice and mangoes.",
+    "main_description": "Jagtial, located in Telangana, is known for its historical significance and cultural heritage. The district is home to the Sri Rajarajeswari Temple, an important spiritual site. The region celebrates various traditional festivals, reflecting its rich cultural diversity. Jagtial’s scenic beauty is enhanced by natural attractions like the Lower Manair Dam and the surrounding forests. The district also has a thriving agricultural base, with paddy and cotton being major crops, making it a blend of divine heritage, natural beauty, and rural charm.",
+    "imageurl": "https://www.earthtrip.in/gallery/cityImage/1459842082_Jagtial.jpg",
+    "bgimageurl": "https://th.bing.com/th/id/R.603dbe088c3728edf51177910d297bc4?rik=UZG96kCrjl%2bYSw&riu=http%3a%2f%2fwww.greaterkarimnagar.com%2fsites%2fdefault%2ffiles%2fstyles%2fmax_650x650%2fpublic%2f2021-07%2framagiri-fort-in-karimnagar-10.jpg%3fitok%3d5hCtL4Fr&ehk=Mzx5HOJJj8cdjMoqvfWuhNwdrz%2bEKfEqUqDBMYANDao%3d&risl=&pid=ImgRaw&r=0",
+    "transport": {
+      "by_bus": {
+        "description": "Jagtial is well-connected by TSRTC buses from nearby towns and major cities.",
+        "from_hyderabad": {
+          "operator": "TSRTC",
+          "pickup_points": [
+            "MGBS",
+            "JBS"
+          ],
+          "journey_time": "4-5 hours"
+        },
+        "from_nearby_cities": [
+          "Karimnagar",
+          "Warangal",
+          "Nizamabad"
+        ],
+        "online_booking": "https://www.tsrtconline.in"
+      },
+      "by_train": {
+        "description": "Jagtial is served by its local railway station, connecting it to nearby cities.",
+        "station_name": "Jagtial Railway Station (LPJL)",
+        "direct_trains": [
+          "Hyderabad",
+          "Karimnagar",
+          "Nizamabad"
+        ],
+        "nearest_major_station": "Kazipet Junction",
+        "online_booking": "https://www.irctc.co.in"
+      }
+    }
+  },
+  {
+    "id": 5,
+    "name": "Jangaon",
+    "longitude": 79.1609,
+    "latitude": 17.7217,
+    "sub_description": "A developing district with a mix of urban and rural areas.",
+    "main_description": "Jangaon, located in the Telangana region, is known for its historical landmarks and cultural heritage. The town is home to the famous Bhongir Fort, which stands as a symbol of the region's medieval history. Jangaon also hosts several temples, including the Sri Lakshmi Narasimha Swamy Temple, which attracts devotees year-round. The town’s traditional festivals, local crafts, and agricultural base, primarily focused on crops like paddy and cotton, contribute to its vibrant cultural identity. Jangaon combines historical richness, spirituality, and natural beauty.",
+    "imageurl": "https://th.bing.com/th/id/OIP.nZHgsmof6pf1IsHnR9HcnwAAAA?w=228&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7",
+    "bgimageurl": "https://chaloghumane.com/wp-content/uploads/2021/09/Jangaon-768x423.jpg",
+    "transport": {
+      "by_bus": {
+        "description": "Jangaon is easily accessible via TSRTC buses from major cities and nearby districts.",
+        "from_hyderabad": {
+          "operator": "TSRTC",
+          "pickup_points": [
+            "MGBS",
+            "JBS"
+          ],
+          "journey_time": "2-3 hours"
+        },
+        "from_nearby_cities": [
+          "Warangal",
+          "Siddipet",
+          "Yadadri Bhuvanagiri"
+        ],
+        "online_booking": "https://www.tsrtconline.in"
+      },
+      "by_train": {
+        "description": "Jangaon has a railway station on the Hyderabad-Warangal line, offering convenient rail connectivity.",
+        "station_name": "Jangaon Railway Station (ZN)",
+        "direct_trains": [
+          "Hyderabad",
+          "Warangal",
+          "Kazipet"
+        ],
+        "nearest_major_station": "Secunderabad Junction",
+        "online_booking": "https://www.irctc.co.in"
+      }
+    }
+  },
+  {
+    "id": 6,
+    "name": "Jayashankar Bhupalpally",
+    "longitude": 79.8397,
+    "latitude": 18.2914,
+    "sub_description": "Rich in forests and wildlife, with the Godavari River flowing through.",
+    "main_description": "Jayashankar Bhupalpally, located in Telangana, is known for its rich cultural heritage and natural beauty. The district is home to the famous Sri Gnana Saraswati Temple in Basar, one of the two Saraswati temples in India, which attracts countless pilgrims. The region’s lush forests, wildlife, and scenic spots like the Kaleshwaram Temple and the Pochera Waterfalls make it a haven for nature lovers. Jayashankar Bhupalpally is also culturally vibrant, celebrating traditional festivals and showcasing the tribal art and heritage of the area.",
+    "imageurl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgip3ZCr6ZYChq3noAi8bYM3ve9ilFSmg2SqkzNgWGyhkiB5TYA1Ur3J0yeZ3t43rbyirc58zC7k0QuyunGJZaPtxZjN8Z1T29A7BAcROpCbee8BNXcZ4Wdmkf7VxgdfbHyS-Z6G8dZzLckVWrSvTUrxNWgiesXd3CYbFrOzXuu3z1Mc1w1gWX5acMTwA/w400-h225/Kotagullu%20in%20Jayashankar%20Bhupalpally.jpg",
+    "bgimageurl": "https://chaloghumane.com/wp-content/uploads/2021/09/Jayashankar-Bhupalpally.jpeg",
+    "transport": {
+      "by_bus": {
+        "description": "Jayashankar Bhupalpally is accessible via TSRTC buses from major towns and cities in Telangana.",
+        "from_hyderabad": {
+          "operator": "TSRTC",
+          "pickup_points": [
+            "MGBS",
+            "JBS"
+          ],
+          "journey_time": "6-7 hours"
+        },
+        "from_nearby_cities": [
+          "Warangal",
+          "Karimnagar",
+          "Mancherial"
+        ],
+        "online_booking": "https://www.tsrtconline.in"
+      },
+      "by_train": {
+        "description": "Though Jayashankar Bhupalpally lacks a major railway station, it is accessible via nearby stations.",
+        "nearest_station": "Warangal Railway Station (WL)",
+        "direct_trains": [
+          "Hyderabad",
+          "Kazipet",
+          "Khammam"
+        ],
+        "online_booking": "https://www.irctc.co.in"
+      }
+    }
+  },
+  {
+    "id": 7,
+    "name": "Jogulamba Gadwal",
+    "longitude": 77.7966,
+    "latitude": 16.236,
+    "sub_description": "Named after the Jogulamba temple, a significant pilgrimage site.",
+    "main_description": "Jogulamba Gadwal, located in Telangana, is renowned for its historical significance and spiritual importance. The district is home to the famous Jogulamba Temple, dedicated to the goddess Jogulamba, a revered deity in the region, attracting pilgrims throughout the year. The Gadwal Fort, an architectural marvel, reflects the district's rich heritage. The region also boasts a vibrant culture, celebrated through traditional festivals and folk art. With its beautiful landscapes, including the Munneru River, Jogulamba Gadwal offers a unique combination of spirituality, history, and natural beauty. ",
+    "imageurl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/f9/da/30/photo1jpg.jpg?w=1200&h=1200&s=1",
+    "bgimageurl": "https://i.ytimg.com/vi/xdtQd2CPIhM/maxresdefault.jpg",
+    "transport": {
+      "by_bus": {
+        "description": "Jogulamba Gadwal is well-connected by TSRTC buses to major towns and cities.",
+        "from_hyderabad": {
+          "operator": "TSRTC",
+          "pickup_points": [
+            "MGBS",
+            "JBS"
+          ],
+          "journey_time": "3-4 hours"
+        },
+        "from_nearby_cities": [
+          "Kurnool",
+          "Mahbubnagar",
+          "Raichur"
+        ],
+        "online_booking": "https://www.tsrtconline.in"
+      },
+      "by_train": {
+        "description": "Jogulamba Gadwal has a railway station offering good connectivity to nearby regions.",
+        "station_name": "Gadwal Railway Station (GWD)",
+        "direct_trains": [
+          "Hyderabad",
+          "Kurnool",
+          "Raichur"
+        ],
+        "nearest_major_station": "Kurnool Town",
+        "online_booking": "https://www.irctc.co.in"
+      }
+    }
+  },
+  {
+    "id": 8,
+    "name": "Kamareddy",
+    "longitude": 78.341,
+    "latitude": 18.3209,
+    "sub_description": "Known for its agricultural produce and traditional crafts.",
+    "main_description": "Kamareddy, located in Telangana, is a district known for its historical and cultural significance. The region is home to several ancient temples, including the Sri Lakshmi Narayana Swamy Temple, a prominent spiritual site. Kamareddy is also famous for its vibrant local festivals and traditional arts. The district’s rural charm is complemented by its agricultural base, with crops like cotton and paddy being key to its economy. With picturesque landscapes and rich cultural heritage, Kamareddy offers a blend of spirituality, history, and natural beauty.",
+    "imageurl": "https://historyglow.net/wp-content/uploads/2021/09/800px-Domakonda_Temple_Side_View-1.jpg",
+    "bgimageurl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/6f/39/1c/fort.jpg?w=1000&h=-1&s=1",
+    "transport": {
+      "by_bus": {
+        "description": "Kamareddy is well-connected by TSRTC buses to various cities and towns.",
+        "from_hyderabad": {
+          "operator": "TSRTC",
+          "pickup_points": [
+            "MGBS",
+            "JBS"
+          ],
+          "journey_time": "2-3 hours"
+        },
+        "from_nearby_cities": [
+          "Nizamabad",
+          "Medak",
+          "Karimnagar"
+        ],
+        "online_booking": "https://www.tsrtconline.in"
+      },
+      "by_train": {
+        "description": "Kamareddy has a railway station that connects it to nearby towns and major cities.",
+        "station_name": "Kamareddi Railway Station (KMC)",
+        "direct_trains": [
+          "Hyderabad",
+          "Nizamabad",
+          "Secunderabad"
+        ],
+        "nearest_major_station": "Secunderabad Junction",
+        "online_booking": "https://www.irctc.co.in"
+      }
+    }
+  },
+  {
+    "id": 9,
+    "name": "Karimnagar",
+    "longitude": 79.1288,
+    "latitude": 18.4386,
+    "sub_description": "A major center for granite and agro-based industries.",
+    "main_description": "Karimnagar, a prominent city in Telangana, is rich in history, culture, and spirituality. It is home to the famous Sri Raja Rajeshwara Temple, dedicated to Lord Shiva, which draws numerous devotees. Karimnagar also boasts historical landmarks like the Elgandal Fort and the Kaleshwaram Temple, known for its divine significance. The city is culturally vibrant, with traditional festivals and local handicrafts, such as Pochampally sarees, adding to its charm. Surrounded by lush landscapes and rich agricultural fields, Karimnagar offers a blend of spirituality, history, and natural beauty.",
+    "imageurl": "https://hblimg.mmtcdn.com/content/hubble/img/ttd_images/mmt/activities/m_Karimnagar_Ramagiri_fort_1_l_552_599.jpg",
+    "bgimageurl": "https://th.bing.com/th/id/R.0816cb84beba74f6fdd859bd430eb629?rik=b0i9H6YUl7FigQ&riu=http%3a%2f%2ftravelguide.easemytrip.com%2fVisitUploadImages%2fKarimnagar1.jpg&ehk=HkEPYzVnVPrQm%2fVlYopOguSVJxfAOQACRFNL2YpSflk%3d&risl=&pid=ImgRaw&r=0",
+    "transport": {
+      "by_bus": {
+        "description": "Karimnagar is well-connected by TSRTC buses to Hyderabad and other towns.",
+        "from_hyderabad": {
+          "operator": "TSRTC",
+          "pickup_points": [
+            "MGBS",
+            "JBS"
+          ],
+          "journey_time": "3-4 hours"
+        },
+        "from_nearby_cities": [
+          "Warangal",
+          "Nizamabad",
+          "Ramagundam"
+        ],
+        "online_booking": "https://www.tsrtconline.in"
+      },
+      "by_train": {
+        "description": "Though Karimnagar doesn’t have a major railway station, it is accessible via nearby stations.",
+        "nearest_station": "Peddapalli Railway Station (PDPL)",
+        "direct_trains": [
+          "Hyderabad",
+          "Warangal",
+          "Kazipet"
+        ],
+        "online_booking": "https://www.irctc.co.in"
+      }
+    }
+  },
+  {
+    "id": 10,
+    "name": "Khammam",
+    "longitude": 80.1514,
+    "latitude": 17.2473,
+    "sub_description": "A historical district with significant archaeological sites.",
+    "main_description": "Khammam, located in Telangana, is a city known for its rich historical and cultural heritage. The district is home to the famous Khammam Fort, which offers a glimpse into its medieval history. The Kaleswaram Temple, dedicated to Lord Shiva, is a significant religious site. Khammam is also known for its natural beauty, with scenic spots like the Pochera Waterfalls and the Kinnerasani Wildlife Sanctuary. The city’s vibrant festivals and traditional arts, combined with its agricultural base, make Khammam a harmonious blend of spirituality, history, and nature.",
+    "imageurl": "https://www.go2india.in/ap/images/khammam.JPG",
+    "bgimageurl": "https://www.tripguyde.in/wp-content/uploads/2018/12/khammam-fort1-1.jpg",
+    "transport": {
+      "by_bus": {
+        "description": "Khammam is well-connected by TSRTC buses to nearby towns and major cities.",
+        "from_hyderabad": {
+          "operator": "TSRTC",
+          "pickup_points": [
+            "MGBS",
+            "JBS"
+          ],
+          "journey_time": "4-5 hours"
+        },
+        "from_nearby_cities": [
+          "Warangal",
+          "Vijayawada",
+          "Khammam"
+        ],
+        "online_booking": "https://www.tsrtconline.in"
+      },
+      "by_train": {
+        "description": "Khammam is served by its own railway station with connectivity to major cities in the region.",
+        "station_name": "Khammam Railway Station (KMT)",
+        "direct_trains": [
+          "Hyderabad",
+          "Vijayawada",
+          "Warangal"
+        ],
+        "nearest_major_station": "Secunderabad Junction",
+        "online_booking": "https://www.irctc.co.in"
+      }
+    }
+  },
+  {
+    "id": 11,
+    "name": "Kumuram Bheem Asifabad",
+    "longitude": 79.2743,
+    "latitude": 19.3587,
+    "sub_description": "Named after a tribal leader, known for its lush green forests.",
+    "main_description": "Kumuram Bheem Asifabad, located in Telangana, is known for its rich tribal heritage and natural beauty. The district is named after the tribal leader Kumuram Bheem and is home to the serene Kadem Reservoir and dense forests. The region is famous for its spiritual significance, particularly the presence of the Sri Rajarajeswari Temple. Kumuram Bheem Asifabad also celebrates various tribal festivals, showcasing its vibrant culture. Surrounded by lush green landscapes, the district offers a peaceful blend of nature, culture, and history, making it a unique destination.",
+    "imageurl": "https://th.bing.com/th/id/OIP.p2c0AmCniOgwiASztdzmsAHaEc?rs=1&pid=ImgDetMain",
+    "bgimageurl": "https://chaloghumane.com/wp-content/uploads/2021/09/Asifabad-890x530.jpeg",
+    "transport": {
+      "by_bus": {
+        "description": "Kumuram Bheem Asifabad is well-connected by TSRTC buses from various cities in Telangana.",
+        "from_hyderabad": {
+          "operator": "TSRTC",
+          "pickup_points": [
+            "MGBS",
+            "LB Nagar",
+            "Ameerpet"
+          ],
+          "journey_time": "5-6 hours"
+        },
+        "from_nearby_cities": [
+          "Adilabad",
+          "Nirmal",
+          "Bhimnagar"
+        ],
+        "online_booking": "https://www.tsrtconline.in"
+      },
+      "by_train": {
+        "description": "The nearest major railway station to Kumuram Bheem Asifabad is Adilabad, with good rail connectivity.",
+        "station_name": "Adilabad Railway Station (ADB)",
+        "direct_trains": [
+          "Hyderabad",
+          "Nagpur",
+          "Bhopal"
+        ],
+        "nearest_major_station": "Secunderabad Junction",
+        "online_booking": "https://www.irctc.co.in"
+      }
+    }
+  },
+  {
+    "id": 12,
+    "name": "Mahabubabad",
+    "longitude": 80.0067,
+    "latitude": 17.5979,
+    "sub_description": "Known for its rich cultural heritage and tribal communities.",
+    "main_description": "Mahabubabad, located in Telangana, is a region rich in historical and cultural significance. The district is home to the famous Laknavaram Lake, known for its picturesque beauty and serene surroundings. Mahabubabad also houses several ancient temples, such as the Sri Lakshmi Narasimha Swamy Temple, a significant religious site for locals. The region celebrates a variety of traditional festivals, highlighting its vibrant cultural heritage. Surrounded by lush forests and natural landscapes, Mahabubabad offers a unique mix of spirituality, history, and natural beauty, making it an attractive destination for visitors. ",
+    "imageurl": "https://i.ytimg.com/vi/ZzcmihjjN-w/hqdefault.jpg",
+    "bgimageurl": "https://xploreall.com/wp-content/uploads/2022/10/Mahabubada-1-jpg.webp",
+    "transport": {
+      "by_bus": {
+        "description": "Mahabubabad is connected by TSRTC buses from several cities in Telangana.",
+        "from_hyderabad": {
+          "operator": "TSRTC",
+          "pickup_points": [
+            "MGBS",
+            "JBS"
+          ],
+          "journey_time": "4-5 hours"
+        },
+        "from_nearby_cities": [
+          "Warangal",
+          "Khammam",
+          "Bhopalapatnam"
+        ],
+        "online_booking": "https://www.tsrtconline.in"
+      },
+      "by_train": {
+        "description": "Mahabubabad has a railway station with good connectivity to major cities in Telangana.",
+        "station_name": "Mahabubabad Railway Station (MBBD)",
+        "direct_trains": [
+          "Hyderabad",
+          "Warangal",
+          "Secunderabad"
+        ],
+        "nearest_major_station": "Warangal",
+        "online_booking": "https://www.irctc.co.in"
+      }
+    }
+  },
+  {
+    "id": 13,
+    "name": "Mahabubnagar",
+    "longitude": 78.029,
+    "latitude": 16.7432,
+    "sub_description": "An agriculturally rich district, often called the 'Rice Bowl of Telangana'.",
+    "main_description": " Mahabubnagar, located in Telangana, is a district known for its rich history, cultural diversity, and religious significance. The district is home to the famous Pillalamarri Temple, dedicated to Lord Venkateshwara, and the historic Alampur Temple, which attracts devotees with its ancient architecture. Mahabubnagar also features the serene Peddamma Lake and the scenic Nagarjuna Sagar Dam, offering a mix of nature and spirituality. The region celebrates various traditional festivals and is known for its agricultural heritage. With its divine places, historical landmarks, and natural beauty, Mahabubnagar is a fascinating blend of culture and history.",
+    "imageurl": "https://th.bing.com/th/id/R.17fb282816b01bf81e7e589311a8deb0?rik=Xu3THTOfNTWBAw&riu=http%3a%2f%2fs3.india.com%2ftravel%2fwp-content%2fuploads%2f2015%2f01%2fMahabubnagar.jpg&ehk=nbY66lgofVjxLEPbaekS2kO5J0L1gqRJaA3RkB7RC84%3d&risl=&pid=ImgRaw&r=0",
+    "bgimageurl": "https://i.ytimg.com/vi/TqII7IsFeEs/maxresdefault.jpg",
+    "transport": {
+      "by_bus": {
+        "description": "Mahabubnagar is well-connected by TSRTC buses to major cities and towns.",
+        "from_hyderabad": {
+          "operator": "TSRTC",
+          "pickup_points": [
+            "MGBS",
+            "JBS"
+          ],
+          "journey_time": "2-3 hours"
+        },
+        "from_nearby_cities": [
+          "Nagarkurnool",
+          "Wanaparthy",
+          "Raichur"
+        ],
+        "online_booking": "https://www.tsrtconline.in"
+      },
+      "by_train": {
+        "description": "Mahabubnagar is served by its own railway station, with connectivity to several major cities.",
+        "station_name": "Mahabubnagar Railway Station (MBNR)",
+        "direct_trains": [
+          "Hyderabad",
+          "Bangalore",
+          "Secunderabad"
+        ],
+        "nearest_major_station": "Secunderabad Junction",
+        "online_booking": "https://www.irctc.co.in"
+      }
+    }
+  },
+  {
+    "id": 14,
+    "name": "Mancherial",
+    "longitude": 79.4622,
+    "latitude": 18.8826,
+    "sub_description": "Industrial and commercial hub, known for coal mining.",
+    "main_description": "Mancherial, located in the northern part of Telangana, is known for its rich cultural heritage and natural beauty. The district is home to several temples, including the Sri Mallela Theertham Temple, which is nestled in a scenic location near waterfalls. Mancherial is also famous for its lush forests, wildlife sanctuaries, and the picturesque Peddavagu River. The region celebrates various traditional festivals, reflecting its vibrant culture. With its combination of divine sites, natural landscapes, and historical significance, Mancherial offers a unique blend of spirituality and scenic beauty.",
+    "imageurl": "https://1.bp.blogspot.com/-_uHuPfNBsHU/YCT0JlH_82I/AAAAAAAAIMs/5tqTh2mHARIobUzIrQnGMC5FVYHlxqg3ACPcBGAsYHg/s4000/20200706_161042.jpg",
+    "bgimageurl": "https://xploreall.com/wp-content/uploads/2022/10/mancherialedit2-1-jpg.webp",
+    "transport": {
+      "by_bus": {
+        "description": "Mancherial is well-connected by TSRTC buses to nearby cities and towns.",
+        "from_hyderabad": {
+          "operator": "TSRTC",
+          "pickup_points": [
+            "MGBS",
+            "JBS"
+          ],
+          "journey_time": "5-6 hours"
+        },
+        "from_nearby_cities": [
+          "Adilabad",
+          "Karimnagar",
+          "Nizamabad"
+        ],
+        "online_booking": "https://www.tsrtconline.in"
+      },
+      "by_train": {
+        "description": "Mancherial has a railway station with good connectivity to major cities in the region.",
+        "station_name": "Mancherial Railway Station (MCI)",
+        "direct_trains": [
+          "Hyderabad",
+          "Kazipet",
+          "Nagpur"
+        ],
+        "nearest_major_station": "Secunderabad Junction",
+        "online_booking": "https://www.irctc.co.in"
+      }
+    }
+  },
+  {
+    "id": 15,
+    "name": "Medak",
+    "longitude": 78.2608,
+    "latitude": 18.0458,
+    "sub_description": "Famous for its churches and historical architecture.",
+    "main_description": "Medak, located in Telangana, is known for its historical significance and spiritual landmarks. The district is home to the majestic Medak Cathedral, one of the largest churches in India, which is a symbol of architectural beauty. Medak also boasts several ancient temples, such as the Sri Venkateshwara Swamy Temple and the Pocharam Dam, known for its scenic beauty. The region celebrates vibrant festivals and has a rich agricultural base, with cotton and groundnut being key crops. With its blend of history, spirituality, and nature, Medak is a captivating destination.",
+    "imageurl": "https://www.transindiatravels.com/wp-content/uploads/medak-cathedral.jpg",
+    "bgimageurl": "https://2.bp.blogspot.com/-5sIyuXXxc74/UlxrvZ1gVkI/AAAAAAAADRo/jl_pCE0FzRQ/s1600/fort.jpg",
+    "transport": {
+      "by_bus": {
+        "description": "Medak is connected by TSRTC buses from various towns and cities.",
+        "from_hyderabad": {
+          "operator": "TSRTC",
+          "pickup_points": [
+            "MGBS",
+            "JBS"
+          ],
+          "journey_time": "2-3 hours"
+        },
+        "from_nearby_cities": [
+          "Sangareddy",
+          "Zaheerabad",
+          "Peddapalli"
+        ],
+        "online_booking": "https://www.tsrtconline.in"
+      },
+      "by_train": {
+        "description": "Medak is served by a railway station with good connectivity to nearby cities.",
+        "station_name": "Medak Railway Station (MDK)",
+        "direct_trains": [
+          "Hyderabad",
+          "Nizamabad",
+          "Secunderabad"
+        ],
+        "nearest_major_station": "Secunderabad Junction",
+        "online_booking": "https://www.irctc.co.in"
+      }
+    }
+  },
+  {
+    "id": 16,
+    "name": "Medchal Malkajgiri",
+    "longitude": 78.5247,
+    "latitude": 17.5182,
+    "sub_description": "A rapidly developing suburban district of Hyderabad.",
+    "main_description": "Medchal-Malkajgiri, located in Telangana, is a dynamic district known for its mix of urban growth and natural beauty. The district is home to the serene Peddamma Temple and the picturesque Nagasamudram Lake, which are key spiritual and recreational spots. Medchal-Malkajgiri offers a perfect blend of modern infrastructure with traditional cultural practices, as seen in its vibrant festivals and local markets. It also benefits from its proximity to Hyderabad, making it a rapidly developing area. With its cultural richness, historical sites, and natural attractions, Medchal-Malkajgiri is a unique fusion of the old and new.",
+    "imageurl": "https://www.hlimg.com/images/places2see/738X538/s_1535611894m.JPG",
+    "bgimageurl": "https://media.istockphoto.com/id/1463163549/photo/gurupriya-bridge-malkangiri.jpg?s=170667a&w=0&k=20&c=6bNRQZca2CV2XooONK0F7s8HDTBjNe4tpVLxJXS6W7A=",
+    "transport": {
+      "by_bus": {
+        "description": "Medchal-Malkajgiri is well-connected by TSRTC buses to Hyderabad and surrounding areas.",
+        "from_hyderabad": {
+          "operator": "TSRTC",
+          "pickup_points": [
+            "MGBS",
+            "JBS"
+          ],
+          "journey_time": "30-45 minutes"
+        },
+        "from_nearby_cities": [
+          "Sangareddy",
+          "Medak",
+          "Komurambheem Asifabad"
+        ],
+        "online_booking": "https://www.tsrtconline.in"
+      },
+      "by_train": {
+        "description": "Medchal-Malkajgiri has a railway station with good connectivity to Hyderabad and other cities.",
+        "station_name": "Medchal Railway Station (MDC)",
+        "direct_trains": [
+          "Hyderabad",
+          "Secunderabad",
+          "Kazipet"
+        ],
+        "nearest_major_station": "Secunderabad Junction",
+        "online_booking": "https://www.irctc.co.in"
+      }
+    }
+  },
+  {
+    "id": 17,
+    "name": "Mulugu",
+    "longitude": 79.9419,
+    "latitude": 18.1903,
+    "sub_description": "Home to scenic spots and ancient temples.",
+    "main_description": "Mulugu, located in Telangana, is a district rich in natural beauty and cultural heritage. It is home to the famous Sammakka Saralamma Temple in Medaram, which attracts thousands of devotees during the biennial tribal festival, the Sammakka Saralamma Jatara. The district also boasts lush forests, waterfalls like the Bogatha Waterfall, and wildlife sanctuaries, offering a haven for nature lovers. Mulugu is known for its tribal culture, traditional art forms, and vibrant festivals, making it a unique blend of spirituality, nature, and cultural heritage.",
+    "imageurl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/60/a4/f1/muthyamdhara-waterfalls.jpg?w=1000&h=-1&s=1",
+    "bgimageurl": "https://assets.thehansindia.com/h-upload/2020/08/24/993695-mulugu.jpg",
+    "transport": {
+      "by_bus": {
+        "description": "Mulugu is well-connected by TSRTC buses to nearby towns and cities.",
+        "from_hyderabad": {
+          "operator": "TSRTC",
+          "pickup_points": [
+            "MGBS",
+            "JBS"
+          ],
+          "journey_time": "4-5 hours"
+        },
+        "from_nearby_cities": [
+          "Warangal",
+          "Khammam",
+          "Bhadrachalam"
+        ],
+        "online_booking": "https://www.tsrtconline.in"
+      },
+      "by_train": {
+        "description": "Mulugu is served by a nearby railway station, and the closest major station is Warangal.",
+        "nearest_station": "Mulugu Railway Station (MLU)",
+        "direct_trains": [
+          "Hyderabad",
+          "Warangal",
+          "Secunderabad"
+        ],
+        "nearest_major_station": "Warangal Junction",
+        "online_booking": "https://www.irctc.co.in"
+      }
+    }
+  },
+  {
+    "id": 18,
+    "name": "Nagarkurnool",
+    "longitude": 78.3125,
+    "latitude": 16.4785,
+    "sub_description": "Known for its picturesque landscapes and cultural heritage.",
+    "main_description": "Nagarkurnool, located in Telangana, is known for its rich historical and cultural heritage. The district is home to the famous Bhongir Fort, an architectural marvel that stands as a symbol of the region’s medieval history. Nagarkurnool also boasts several temples, such as the Sri Laxmi Narasimha Swamy Temple, attracting many devotees. The region is surrounded by lush landscapes, with scenic spots like the Peddagattu Waterfalls. Nagarkurnool celebrates traditional festivals with great fervor, showcasing its vibrant cultural heritage, making it a blend of history, spirituality, and natural beauty.",
+    "imageurl": "https://static.javatpoint.com/tourist-places/images/tourist-places-in-nagarkurnool-5.png",
+    "bgimageurl": "https://2.bp.blogspot.com/-y8breLlL1cQ/WlnJm6U82II/AAAAAAAAdpU/PON1OrpzXJQ8k6Hi0Cwtqsi5zrBs520lgCLcBGAs/s1600/01%2BPanagal%2BChaya%2BSomeshwara%2BDevalaya.jpg",
+    "transport": {
+      "by_bus": {
+        "description": "Nagarkurnool is well-connected by TSRTC buses from nearby cities and towns.",
+        "from_hyderabad": {
+          "operator": "TSRTC",
+          "pickup_points": [
+            "MGBS",
+            "JBS"
+          ],
+          "journey_time": "3-4 hours"
+        },
+        "from_nearby_cities": [
+          "Mahabubnagar",
+          "Wanaparthy",
+          "Raichur"
+        ],
+        "online_booking": "https://www.tsrtconline.in"
+      },
+      "by_train": {
+        "description": "Nagarkurnool is served by a nearby railway station with good connectivity to major cities.",
+        "station_name": "Nagarkurnool Railway Station (NGK)",
+        "direct_trains": [
+          "Hyderabad",
+          "Secunderabad",
+          "Raichur"
+        ],
+        "nearest_major_station": "Mahabubnagar Junction",
+        "online_booking": "https://www.irctc.co.in"
+      }
+    }
+  },
+  {
+    "id": 19,
+    "name": "Nalgonda",
+    "longitude": 79.2675,
+    "latitude": 17.0575,
+    "sub_description": "A district with rich historical significance and vibrant culture.",
+    "main_description": "Nalgonda, located in Telangana, is a district known for its historical importance and natural beauty. The district is home to several ancient temples, including the Sri Raghunath Swamy Temple in Panagal, which holds religious significance. Nalgonda is also famous for its scenic spots like the Nagarjuna Sagar Dam, one of the largest reservoirs in India. The region celebrates vibrant traditional festivals and is an agricultural hub, particularly known for its production of paddy and maize. With its divine sites, historical landmarks, and picturesque landscapes, Nalgonda offers a blend of spirituality and nature.",
+    "imageurl": "https://th.bing.com/th/id/OIP.WggrbdL1IKSI0utr4HBOvgFNC7?pid=ImgDet&w=474&h=266&rs=1",
+    "bgimageurl": "https://www.holidify.com/images/compressed/9803.jpg",
+    "transport": {
+      "by_bus": {
+        "description": "Nalgonda is well-connected by TSRTC buses from various cities and towns.",
+        "from_hyderabad": {
+          "operator": "TSRTC",
+          "pickup_points": [
+            "MGBS",
+            "JBS"
+          ],
+          "journey_time": "2-3 hours"
+        },
+        "from_nearby_cities": [
+          "Suryapet",
+          "Miryalaguda",
+          "Nalgonda Rural"
+        ],
+        "online_booking": "https://www.tsrtconline.in"
+      },
+      "by_train": {
+        "description": "Nalgonda is served by a nearby railway station, and the closest major station is Nalgonda Railway Station.",
+        "station_name": "Nalgonda Railway Station (NLU)",
+        "direct_trains": [
+          "Hyderabad",
+          "Secunderabad",
+          "Warangal"
+        ],
+        "nearest_major_station": "Secunderabad Junction",
+        "online_booking": "https://www.irctc.co.in"
+      }
+    }
+  },
+  {
+    "id": 20,
+    "name": "Narayanpet",
+    "longitude": 77.4956,
+    "latitude": 16.7486,
+    "sub_description": "Famous for its handloom industry and vibrant local culture.",
+    "main_description": "Narayanpet, located in Telangana, is a district known for its rich cultural heritage and historical significance. It is famous for its handloom industry, particularly the Narayanpet sarees, which are known for their intricate designs and vibrant colors. The district also houses several temples, including the Sri Narayanapet Swamy Temple, which holds spiritual importance. Narayanpet’s natural beauty is showcased through its scenic landscapes, lakes, and the nearby Peddavagu River. With its blend of traditional craftsmanship, historical landmarks, and religious significance, Narayanpet offers a unique cultural experience.",
+    "imageurl": "https://th.bing.com/th/id/OIP.n5NZujWhrEHPNHADBaYVKAHaE8?rs=1&pid=ImgDetMain",
+    "bgimageurl": "https://4.bp.blogspot.com/-kBTTDeL0k_8/Ta51lvc2JcI/AAAAAAAACBE/2KrHZWx7bo0/s1600/Narayanpet++Sriram+Mandir.JPG",
+    "transport": {
+      "by_bus": {
+        "description": "Narayanpet is well-connected by TSRTC buses to nearby towns and cities.",
+        "from_hyderabad": {
+          "operator": "TSRTC",
+          "pickup_points": [
+            "MGBS",
+            "JBS"
+          ],
+          "journey_time": "4-5 hours"
+        },
+        "from_nearby_cities": [
+          "Mahabubnagar",
+          "Raichur",
+          "Kodangal"
+        ],
+        "online_booking": "https://www.tsrtconline.in"
+      },
+      "by_train": {
+        "description": "Narayanpet is served by a nearby railway station, and the closest major station is Mahabubnagar.",
+        "station_name": "Narayanpet Railway Station (NPET)",
+        "direct_trains": [
+          "Hyderabad",
+          "Secunderabad",
+          "Raichur"
+        ],
+        "nearest_major_station": "Mahabubnagar Junction",
+        "online_booking": "https://www.irctc.co.in"
+      }
+    }
+  },
+  {
+    "id": 21,
+    "name": "Nirmal",
+    "longitude": 78.3507,
+    "latitude": 19.0968,
+    "sub_description": "Known for its handmade wooden toys and crafts.",
+    "main_description": "Nirmal, located in Telangana, is renowned for its vibrant culture and unique handicrafts. The district is famous for Nirmal paintings and Nirmal toys, which are a significant part of its cultural heritage. Nirmal is also known for the Sri Lakshmi Narayana Swamy Temple, attracting many devotees. The region's lush forests and scenic landscapes, including the Kuntala Waterfalls, add to its natural beauty. With its rich traditions, historical sites, and beautiful surroundings, Nirmal offers a blend of culture, spirituality, and nature.",
+    "imageurl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/d7/c6/f6/chowmahalla-palace-khilwat.jpg?w=1000&h=-1&s=1",
+    "bgimageurl": "https://1.bp.blogspot.com/-tTtecRj2Pi4/X1jZmo--3jI/AAAAAAAAEj8/TqPcDzp2ZqQwaOsNNtkD3O-LX0oDoK6ZgCLcBGAsYHQ/w640-h318/1.png",
+    "transport": {
+      "by_bus": {
+        "description": "Nirmal is accessible by TSRTC buses from major cities like Hyderabad and Adilabad.",
+        "from_hyderabad": {
+          "operator": "TSRTC",
+          "pickup_points": [
+            "MGBS",
+            "JBS"
+          ],
+          "journey_time": "5-6 hours"
+        },
+        "from_nearby_cities": [
+          "Adilabad",
+          "Mancherial"
+        ],
+        "online_booking": "https://www.tsrtconline.in"
+      },
+      "by_train": {
+        "description": "The nearest railway station is Nirmal Railway Station (NRM).",
+        "station_name": "Nirmal Railway Station",
+        "direct_trains": [
+          "Hyderabad",
+          "Secunderabad",
+          "Warangal"
+        ],
+        "online_booking": "https://www.irctc.co.in"
+      }
+    }
+  },
+  {
+    "id": 22,
+    "name": "Nizamabad",
+    "longitude": 78.0941,
+    "latitude": 18.6725,
+    "sub_description": "A major hub for rice and sugar industries.",
+    "main_description": "Nizamabad, located in Telangana, is known for its historical landmarks and agricultural significance. The district is home to the famous Nizamabad Fort, which reflects the region’s medieval history. Nizamabad also boasts the Sri Neelakanteshwara Swamy Temple, a popular spiritual site. The district is known for its vast agricultural fields, especially for crops like paddy, maize, and sunflower. Nizamabad’s vibrant festivals and cultural traditions, combined with its scenic beauty and historical importance, make it a unique blend of nature, spirituality, and heritage.",
+    "imageurl": "https://www.transindiatravels.com/wp-content/uploads/nizamabad-fort.jpg",
+    "bgimageurl": "https://www.exploreouting.com/images/m_images/NZB_1505199371_1.jpg",
+    "transport": {
+      "by_bus": {
+        "description": "Nizamabad is well-connected by TSRTC buses from Hyderabad and other cities in Telangana.",
+        "from_hyderabad": {
+          "operator": "TSRTC",
+          "pickup_points": [
+            "MGBS",
+            "JBS"
+          ],
+          "journey_time": "3-4 hours"
+        },
+        "from_nearby_cities": [
+          "Nirmal",
+          "Adilabad",
+          "Kamareddy"
+        ],
+        "online_booking": "https://www.tsrtconline.in"
+      },
+      "by_train": {
+        "description": "Nizamabad has its own railway station with good connectivity to Hyderabad and other cities.",
+        "station_name": "Nizamabad Railway Station",
+        "direct_trains": [
+          "Hyderabad",
+          "Secunderabad",
+          "Kazipet"
+        ],
+        "online_booking": "https://www.irctc.co.in"
+      }
+    }
+  },
+  {
+    "id": 23,
+    "name": "Peddapalli",
+    "longitude": 79.3745,
+    "latitude": 18.6094,
+    "sub_description": "Industrial town known for coal mining and thermal power stations.",
+    "main_description": "Peddapalli, located in Telangana, is known for its rich history, culture, and natural beauty. The district is home to the famous Sri Raja Rajeshwara Temple, a significant religious site for devotees. Peddapalli is also known for its scenic spots like the Peddapalli Reservoir and the nearby Kaleshwaram Project, which are major attractions for nature lovers. The district has a thriving agricultural base, particularly for crops like rice and cotton. With its combination of spiritual sites, natural landscapes, and agricultural importance, Peddapalli offers a unique cultural experience.",
+    "imageurl": "https://www.gosahin.com/go/d/1549049807_Peddapalli-Telangana.jpg",
+    "bgimageurl": "https://static2.tripoto.com/media/filter/nl/img/90875/SpotDocument/1563028137_1563028037164.jpg",
+    "transport": {
+      "by_bus": {
+        "description": "Peddapalli is connected by TSRTC buses from nearby towns like Karimnagar and Warangal.",
+        "from_hyderabad": {
+          "operator": "TSRTC",
+          "pickup_points": [
+            "MGBS",
+            "JBS"
+          ],
+          "journey_time": "5 hours"
+        },
+        "from_nearby_cities": [
+          "Karimnagar",
+          "Warangal"
+        ],
+        "online_booking": "https://www.tsrtconline.in"
+      },
+      "by_train": {
+        "description": "Peddapalli has a railway station that is connected to major cities in Telangana.",
+        "station_name": "Peddapalli Railway Station",
+        "direct_trains": [
+          "Hyderabad",
+          "Warangal",
+          "Karimnagar"
+        ],
+        "online_booking": "https://www.irctc.co.in"
+      }
+    }
+  },
+  {
+    "id": 24,
+    "name": "Rajanna Sircilla",
+    "longitude": 78.8941,
+    "latitude": 18.3816,
+    "sub_description": "Famous for its textile industry, especially handloom weaving.",
+    "main_description": "Rajanna Sircilla, located in Telangana, is known for its historical significance and vibrant textile industry. The district is famous for Sircilla silk and cotton fabrics, renowned for their intricate designs and craftsmanship. Rajanna Sircilla is home to several temples, including the Sri Raja Rajeshwari Temple, which draws many devotees. The district's natural beauty is highlighted by the picturesque Kondagattu Anjaneya Swamy Temple, perched on a hilltop. With its blend of cultural heritage, spiritual landmarks, and thriving textile industry, Rajanna Sircilla offers a unique experience of tradition and history.",
+    "imageurl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/9d/e5/4a/screenshot-2019-10-13.jpg?w=500&h=400&s=1",
+    "bgimageurl": "https://media-cdn.tripadvisor.com/media/photo-s/13/27/81/f1/img-20180602-145329-largejpg.jpg",
+    "transport": {
+      "by_bus": {
+        "description": "Rajanna Sircilla is accessible by buses from Karimnagar and Warangal.",
+        "from_hyderabad": {
+          "operator": "TSRTC",
+          "pickup_points": [
+            "MGBS",
+            "JBS"
+          ],
+          "journey_time": "4-5 hours"
+        },
+        "from_nearby_cities": [
+          "Karimnagar",
+          "Warangal"
+        ],
+        "online_booking": "https://www.tsrtconline.in"
+      },
+      "by_train": {
+        "description": "The nearest major station is Karimnagar, and Rajanna Sircilla is connected by local trains.",
+        "station_name": "Karimnagar Railway Station",
+        "direct_trains": [
+          "Hyderabad",
+          "Warangal"
+        ],
+        "online_booking": "https://www.irctc.co.in"
+      }
+    }
+  },
+  {
+    "id": 25,
+    "name": "Rangareddy",
+    "longitude": 78.4333,
+    "latitude": 17.2985,
+    "sub_description": "Surrounds Hyderabad and is known for rapid urban development.",
+    "main_description": "Rangareddy, located in Telangana, is a district known for its mix of urban growth and natural beauty. The district is part of the Hyderabad Metropolitan Region, making it an important hub for commerce and development. Rangareddy is home to several historical and cultural landmarks, including the Pochampally village, famous for its traditional Ikat weaving. The district also has a number of temples, such as the Sri Kotla Vijayabhaskara Reddy Temple. With its blend of rural charm, cultural heritage, and proximity to Hyderabad, Rangareddy offers a dynamic and diverse experience.",
+    "imageurl": "https://th.bing.com/th/id/R.a94a7a52f7da893cc77a2087c3ccd3ae?rik=9yrzInmVTO0M7w&riu=http%3a%2f%2fwww.transindiatravels.com%2fwp-content%2fuploads%2fkeesaragutta-temple.jpg&ehk=bTj902jpVbTgyk4z%2brRiKwzMaDq1QCVVfvxqo3t%2fc%2fY%3d&risl=&pid=ImgRaw&r=0",
+    "bgimageurl": "https://th.bing.com/th/id/R.fd19bfd0e82b38a9f3b833a14dedd27a?rik=zDtiYJJamwhliw&riu=http%3a%2f%2ftravelguide.easemytrip.com%2fVisitUploadImages%2fRangareddy2.jpg&ehk=keoXQI61mBxzKY0uJYRtLmuPicahzkRtNF%2bSgsWPjS8%3d&risl=&pid=ImgRaw&r=0",
+    "transport": {
+      "by_bus": {
+        "description": "Rangareddy is well-connected by TSRTC buses from Hyderabad and other cities.",
+        "from_hyderabad": {
+          "operator": "TSRTC",
+          "pickup_points": [
+            "MGBS",
+            "JBS"
+          ],
+          "journey_time": "1-2 hours"
+        },
+        "from_nearby_cities": [
+          "Hyderabad",
+          "Medchal",
+          "Sangareddy"
+        ],
+        "online_booking": "https://www.tsrtconline.in"
+      },
+      "by_train": {
+        "description": "Rangareddy is connected by a number of trains through Secunderabad and Hyderabad.",
+        "station_name": "Secunderabad Junction",
+        "direct_trains": [
+          "Hyderabad",
+          "Secunderabad",
+          "Vikarabad"
+        ],
+        "online_booking": "https://www.irctc.co.in"
+      }
+    }
+  },
+  {
+    "id": 26,
+    "name": "Sangareddy",
+    "longitude": 78.082,
+    "latitude": 17.6249,
+    "sub_description": "An industrially developed district with historical sites.",
+    "main_description": "Sangareddy, located in Telangana, is known for its historical significance and rapidly developing infrastructure. The district is home to the historic Sangareddy Fort, which offers a glimpse into the region’s past. Sangareddy is also famous for its religious sites, including the Koulas Fort Temple and the Sri Lakshmi Narayana Swamy Temple, which attract devotees. The district’s proximity to Hyderabad has made it a growing hub for industry and commerce. With a mix of history, spirituality, and modern growth, Sangareddy presents a unique blend of tradition and development.",
+    "imageurl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/32/14/76/temple.jpg?w=1200&h=1200&s=1",
+    "bgimageurl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/32/1b/1b/temple.jpg?w=1000&h=-1&s=1",
+    "transport": {
+      "by_bus": {
+        "description": "Sangareddy is connected to Hyderabad and other cities by TSRTC buses.",
+        "from_hyderabad": {
+          "operator": "TSRTC",
+          "pickup_points": [
+            "MGBS",
+            "JBS"
+          ],
+          "journey_time": "2-3 hours"
+        },
+        "from_nearby_cities": [
+          "Hyderabad",
+          "Medchal"
+        ],
+        "online_booking": "https://www.tsrtconline.in"
+      },
+      "by_train": {
+        "description": "Sangareddy is connected to major cities by local trains through Hyderabad.",
+        "station_name": "Sangareddy Railway Station",
+        "direct_trains": [
+          "Hyderabad",
+          "Secunderabad"
+        ],
+        "online_booking": "https://www.irctc.co.in"
+      }
+    }
+  },
+  {
+    "id": 27,
+    "name": "Siddipet",
+    "longitude": 78.8487,
+    "latitude": 18.1048,
+    "sub_description": "A fast-growing district known for agricultural produce and development.",
+    "main_description": "Siddipet, located in Telangana, is known for its rich cultural heritage and historical significance. The district is home to the famous Siddipet Temple, dedicated to Lord Siddeshwara, which attracts numerous pilgrims. Siddipet is also renowned for its agricultural importance, particularly its paddy cultivation, and is often referred to as the Rice Bowl of Telangana. The region celebrates vibrant festivals, including the annual Jatara, reflecting its cultural traditions. With its combination of spiritual landmarks, agricultural heritage, and historical sites, Siddipet offers a unique blend of culture, history, and natural beauty.",
+    "imageurl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/8d/46/27/main-castle.jpg?w=800&h=600&s=1",
+    "bgimageurl": "https://i.ytimg.com/vi/LhvAUjGQHWg/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgYChVMA8=&rs=AOn4CLClXIJmBV2gTX2UMRZSUMGhXQ6s4g",
+    "transport": {
+      "by_bus": {
+        "description": "Siddipet is accessible by buses from Hyderabad and Warangal.",
+        "from_hyderabad": {
+          "operator": "TSRTC",
+          "pickup_points": [
+            "MGBS",
+            "JBS"
+          ],
+          "journey_time": "3-4 hours"
+        },
+        "from_nearby_cities": [
+          "Warangal",
+          "Hyderabad"
+        ],
+        "online_booking": "https://www.tsrtconline.in"
+      },
+      "by_train": {
+        "description": "Siddipet is served by nearby stations like Kazipet and Warangal.",
+        "station_name": "Kazipet Junction",
+        "direct_trains": [
+          "Hyderabad",
+          "Warangal",
+          "Secunderabad"
+        ],
+        "online_booking": "https://www.irctc.co.in"
+      }
+    }
+  },
+  {
+    "id": 28,
+    "name": "Suryapet",
+    "longitude": 79.6151,
+    "latitude": 17.1401,
+    "sub_description": "Agriculture is a major occupation, with rice being a staple crop.",
+    "main_description": "Suryapet, located in Telangana, is known for its agricultural significance and historical importance. The district is famous for its fertile lands, producing a variety of crops, including rice, cotton, and groundnuts. Suryapet is also home to the Sri Lakshmi Narasimha Swamy Temple, a prominent religious site attracting many devotees. The district has a rich cultural heritage, celebrated through local festivals and traditional arts. With its peaceful landscapes, spiritual landmarks, and agricultural richness, Suryapet offers a unique blend of nature, culture, and history.",
+    "imageurl": "https://www.gosahin.com/go/d/1588420810_Pillala-marri-temple-Suryapet.jpg",
+    "bgimageurl": "https://2.bp.blogspot.com/-GrkWEQ8mi-M/WE4GBM3AGxI/AAAAAAAACVc/yXWoGe2AoOQopWvspJKyKP-ICQB0IoabQCLcB/s1600/pillalamarr_temple_suryapet.jpg",
+    "transport": {
+      "by_bus": {
+        "description": "Suryapet is a major stop on the Hyderabad-Vijayawada highway, with frequent TSRTC buses.",
+        "from_hyderabad": {
+          "operator": "TSRTC",
+          "pickup_points": [
+            "MGBS",
+            "LB Nagar"
+          ],
+          "journey_time": "1.5-2 hours"
+        },
+        "from_nearby_cities": [
+          "Nalgonda",
+          "Kodad",
+          "Vijayawada"
+        ],
+        "online_booking": "https://www.tsrtconline.in"
+      },
+      "by_train": {
+        "description": "Although Suryapet does not have a major railway station, nearby Nalgonda serves as the closest rail hub.",
+        "station_name": "Nalgonda Railway Station (NLDA)",
+        "direct_trains": [
+          "Hyderabad",
+          "Vijayawada",
+          "Guntur"
+        ],
+        "nearest_major_station": "Secunderabad Junction",
+        "online_booking": "https://www.irctc.co.in"
+      }
+    }
+  },
+  {
+    "id": 29,
+    "name": "Vikarabad",
+    "longitude": 77.9048,
+    "latitude": 17.3361,
+    "sub_description": "Known for the scenic Ananthagiri Hills and a pleasant climate.",
+    "main_description": "Vikarabad, located in Telangana, is known for its scenic beauty and pleasant climate. The district is famous for the Ananthagiri Hills, which offer lush greenery, trekking opportunities, and a serene environment. Vikarabad is also home to the Ananthagiri Temple, a significant religious site for devotees. The region celebrates several local festivals and is known for its agricultural base, particularly the cultivation of fruits and vegetables. With its combination of natural beauty, spirituality, and cultural heritage, Vikarabad is a peaceful and attractive destination for nature lovers and history enthusiasts alike.",
+    "imageurl": "https://cdn1.tripoto.com/media/filter/tst/img/1797322/SpotDocument/1574252775_1574252771085.jpg",
+    "bgimageurl": "https://mediaim.expedia.com/destination/2/ac2f9031f1a7e576650131f83c209104.jpg",
+    "transport": {
+      "by_bus": {
+        "description": "Vikarabad is well-connected by TSRTC buses from Hyderabad and other nearby towns.",
+        "from_hyderabad": {
+          "operator": "TSRTC",
+          "pickup_points": [
+            "MGBS",
+            "Mehdipatnam",
+            "Lingampally"
+          ],
+          "journey_time": "1.5-2 hours"
+        },
+        "from_nearby_cities": [
+          "Tandur",
+          "Parigi",
+          "Mahbubnagar"
+        ],
+        "online_booking": "https://www.tsrtconline.in"
+      },
+      "by_train": {
+        "description": "Vikarabad has a well-connected railway station with frequent trains.",
+        "station_name": "Vikarabad Junction (VKB)",
+        "direct_trains": [
+          "Hyderabad",
+          "Tandur",
+          "Bidar",
+          "Mumbai"
+        ],
+        "nearest_major_station": "Secunderabad Junction",
+        "online_booking": "https://www.irctc.co.in"
+      }
+    }
+  },
+  {
+    "id": 30,
+    "name": "Wanaparthy",
+    "longitude": 78.0667,
+    "latitude": 16.3667,
+    "sub_description": "Has historical significance and is known for its temples.",
+    "main_description": "Wanaparthy, located in Telangana, is known for its historical significance and cultural heritage. The district is famous for the ancient Wanaparthy Fort, which offers a glimpse into its medieval past. Wanaparthy is also home to several temples, including the Sri Ranganatha Swamy Temple, attracting devotees from the region. The district’s natural beauty is showcased through picturesque lakes and scenic landscapes. With its rich history, spiritual landmarks, and vibrant traditions, Wanaparthy offers a unique blend of culture, heritage, and natural beauty, making it a notable destination in Telangana.",
+    "imageurl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Wanaparthy_palace.JPG/500px-Wanaparthy_palace.JPG",
+    "bgimageurl": "https://www.trawell.in/admin/images/upload/144418468Mahabubnagar_Wanaparthy_Palace_Main.jpg",
+    "transport": {
+      "by_bus": {
+        "description": "Wanaparthy is well-connected by TSRTC buses to Hyderabad and nearby towns.",
+        "from_hyderabad": {
+          "operator": "TSRTC",
+          "pickup_points": [
+            "MGBS",
+            "Mehdipatnam"
+          ],
+          "journey_time": "2.5-3 hours"
+        },
+        "from_nearby_cities": [
+          "Mahbubnagar",
+          "Gadwal",
+          "Kurnool"
+        ],
+        "online_booking": "https://www.tsrtconline.in"
+      },
+      "by_train": {
+        "description": "Wanaparthy is served by a nearby railway station with good connectivity.",
+        "station_name": "Wanaparthy Road Railway Station (WPR)",
+        "direct_trains": [
+          "Hyderabad",
+          "Kurnool",
+          "Gadwal"
+        ],
+        "nearest_major_station": "Mahbubnagar Junction",
+        "online_booking": "https://www.irctc.co.in"
+      }
+    }
+  },
+  {
+    "id": 31,
+    "name": "Hanumakonda",
+    "longitude": 79.6022,
+    "latitude": 17.997,
+    "sub_description": "Known for its historical and cultural heritage.",
+    "main_description": "Hanumakonda, located in Telangana, is known for its historical significance and vibrant cultural heritage. The district is home to the famous Thousand Pillar Temple, an architectural marvel dedicated to Lord Shiva, Vishnu, and Surya. Hanumakonda is also known for the Warangal Fort and its iconic gates, which are symbols of the region’s rich medieval history. The district celebrates various traditional festivals with great enthusiasm. With its blend of ancient temples, historical landmarks, and rich cultural traditions, Hanumakonda offers a unique experience of history, spirituality, and local culture.",
+    "imageurl": "https://warangaltourism.in/images/places-to-visit-warangal/thousand-1000-pillar-temple-warangal-hanamkonda/thousand-1000-pillar-temple-warangal-hanamkonda-india-tourism-history.jpg",
+    "bgimageurl": "https://www.touristplaces.net.in/images/pp/6/p128307.jpg",
+    "transport": {
+      "by_bus": {
+        "description": "Hanumakonda is easily accessible via TSRTC buses from Hyderabad and surrounding cities.",
+        "from_hyderabad": {
+          "operator": "TSRTC",
+          "pickup_points": [
+            "MGBS",
+            "JBS",
+            "LB Nagar"
+          ],
+          "journey_time": "3-4 hours"
+        },
+        "from_nearby_cities": [
+          "Warangal",
+          "Karimnagar",
+          "Khammam"
+        ],
+        "online_booking": "https://www.tsrtconline.in"
+      },
+      "by_train": {
+        "description": "Hanumakonda is served by nearby major railway stations and has excellent rail connectivity.",
+        "station_name": "Kazipet Junction (KZJ)",
+        "direct_trains": [
+          "Hyderabad",
+          "Delhi",
+          "Chennai",
+          "Bengaluru"
+        ],
+        "nearest_major_station": "Warangal Railway Station",
+        "online_booking": "https://www.irctc.co.in"
+      }
+    }
+  },
+  {
+    "id": 32,
+    "name": "Warangal",
+    "longitude": 79.5975,
+    "latitude": 17.9784,
+    "sub_description": "A major city known for its heritage sites and rapid development.",
+    "main_description": "Warangal, located in Telangana, is a city of great historical and cultural significance. It was once the capital of the Kakatiya dynasty and is home to several architectural wonders, including the famous Warangal Fort, the Thousand Pillar Temple, and the Ramappa Temple, a UNESCO World Heritage site. The city is known for its stunning stone carvings, intricate sculptures, and rich heritage. Warangal is also a spiritual hub, with temples like the Bhadrakali Temple attracting numerous devotees. With its blend of history, culture, and divine landmarks, Warangal is a must-visit destination in Telangana.",
+    "imageurl": "https://assets.traveltriangle.com/blog/wp-content/uploads/2018/05/Bhadrakali-Temple.jpg",
+    "bgimageurl": "https://assets.traveltriangle.com/blog/wp-content/uploads/2020/01/Kulpakji-Jain-Mandir.jpg",
+    "transport": {
+      "by_bus": {
+        "description": "Warangal is well-connected by TSRTC buses to Hyderabad and other cities in Telangana.",
+        "from_hyderabad": {
+          "operator": "TSRTC",
+          "pickup_points": [
+            "MGBS",
+            "JBS"
+          ],
+          "journey_time": "2.5-3 hours"
+        },
+        "from_nearby_cities": [
+          "Khammam",
+          "Karimnagar",
+          "Nalgonda"
+        ],
+        "online_booking": "https://www.tsrtconline.in"
+      },
+      "by_train": {
+        "description": "Warangal is a major railway hub with frequent trains from major cities across India.",
+        "station_name": "Warangal Railway Station (WL)",
+        "direct_trains": [
+          "Hyderabad",
+          "Chennai",
+          "Delhi",
+          "Mumbai"
+        ],
+        "nearest_major_station": "Kazipet Junction",
+        "online_booking": "https://www.irctc.co.in"
+      }
+    }
+  },
+  {
+    "id": 33,
+    "name": "Yadadri Bhuvanagiri",
+    "longitude": 79.1018,
+    "latitude": 17.3072,
+    "sub_description": "Named after the famous Yadadri temple, a significant pilgrimage spot.",
+    "main_description": "Yadadri Bhuvanagiri, located in Telangana, is a significant spiritual and cultural destination. It is renowned for the Yadagirigutta Temple, dedicated to Lord Lakshmi Narasimha, which attracts thousands of devotees every year. The temple is situated on a hill, offering a scenic view of the surrounding area. Yadadri Bhuvanagiri is also known for its lush greenery, tranquil lakes, and rich cultural traditions. The district celebrates various festivals with great zeal, and its historical and religious significance makes it an important pilgrimage site in Telangana.",
+    "imageurl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/4b/e7/be/surendrapuri.jpg?w=1000&h=800&s=1",
+    "bgimageurl": "https://www.tourslanka.com/wp-content/uploads/2019/07/Manavari-Ramayana-Sri-Lanka.jpg",
+    "transport": {
+      "by_bus": {
+        "description": "Yadadri Bhuvanagiri is well-connected by TSRTC buses from Hyderabad and nearby towns.",
+        "from_hyderabad": {
+          "operator": "TSRTC",
+          "pickup_points": [
+            "MGBS",
+            "LB Nagar"
+          ],
+          "journey_time": "1.5-2 hours"
+        },
+        "from_nearby_cities": [
+          "Nalgonda",
+          "Bhongir",
+          "Suryapet"
+        ],
+        "online_booking": "https://www.tsrtconline.in"
+      },
+      "by_train": {
+        "description": "The town has a railway station, making it accessible by train from major cities.",
+        "station_name": "Bhongir Railway Station (BG)",
+        "direct_trains": [
+          "Hyderabad",
+          "Secunderabad",
+          "Warangal"
+        ],
+        "nearest_major_station": "Secunderabad Junction",
+        "online_booking": "https://www.irctc.co.in"
+      }
+    }
+  }
+]

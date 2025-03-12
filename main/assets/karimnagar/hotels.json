@@ -1,0 +1,3332 @@
+[{
+  "id": "22640956",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Bed and Breakfast"
+  ],
+  "name": "Hotel V Park",
+  "locationString": "Karimnagar, Karimnagar District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/21/ab/92/f1/caption.jpg",
+  "photoCount": 14,
+  "rankingPosition": 2,
+  "rating": 5,
+  "rawRanking": 3.0318853855133057,
+  "phone": "+91 93339 24365",
+  "address": "Jagityal Road H.No: 2-239/3/A Near By RTC Work Shop, Karimnagar 505001 India",
+  "addressObj": {
+    "street1": "Jagityal Road",
+    "street2": "H.No: 2-239/3/A Near By RTC Work Shop",
+    "city": "Karimnagar",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "505001"
+  },
+  "localName": "Hotel V Park",
+  "localAddress": "Jagityal Road, H.No: 2-239/3/A Near By RTC Work Shop, 505001",
+  "localLangCode": "en-IN",
+  "email": "hotelvpark@gmail.com",
+  "latitude": 18.458258,
+  "longitude": 79.11571,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g2295103-d22640956-Reviews-Hotel_V_Park-Karimnagar_Karimnagar_District_Telangana.html",
+  "website": "http://www.hotelvpark.com/",
+  "rankingString": "#2 of 3 small hotels in Karimnagar",
+  "rankingDenominator": "3",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295103",
+      "name": "Karimnagar",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389542",
+      "name": "Karimnagar District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 1
+  },
+  "numberOfReviews": 1,
+  "hotelClass": "0.0",
+  "amenities": [
+    "Suites",
+    "Room service",
+    "Free Internet",
+    "Free parking",
+    "Restaurant",
+    "Free Wifi",
+    "Non-smoking rooms",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Refrigerator in room",
+    "Minibar",
+    "Breakfast Buffet",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Kids Stay Free",
+    "Air Purifier",
+    "Allergy-free Room",
+    "Bath / Shower",
+    "Bathrobes",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Breakfast in the Room",
+    "Cable / Satellite TV",
+    "Car Hire",
+    "24-Hour Check-in",
+    "Express Check-in / Check-out",
+    "Children's Television Networks",
+    "Clothes Rack",
+    "Coffee / Tea Maker",
+    "Desk",
+    "Electric Kettle",
+    "English",
+    "Extra Long Beds",
+    "First Aid Kit",
+    "24-Hour Front Desk",
+    "Iron",
+    "Landmark View",
+    "Parking Garage",
+    "Private Bathrooms",
+    "Seating Area",
+    "Separate Living Room",
+    "Sofa",
+    "Soundproof Rooms",
+    "Street Parking",
+    "Tamil",
+    "Telephone",
+    "Tile / Marble Floor",
+    "Umbrella",
+    "VIP Room Facilities",
+    "Wake Up Service / Alarm Clock",
+    "Wardrobe / Closet"
+  ],
+  "priceLevel": "₹",
+  "priceRange": "₹2,943 - ₹3,027",
+  "roomTips": [],
+  "isNearbyResult": false,
+  "reviewTags": [],
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "numberOfRooms": null,
+  "categoryReviewScores": [],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/25/b8/6c/19/deluxe-room.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/25/b8/70/4a/room.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/25/b8/70/49/room.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/25/b8/70/48/room.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/25/b8/6f/3d/hotel-out-view.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/25/b8/6f/13/lobby.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/25/b8/6e/95/facade.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/25/b8/6e/62/pdr.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/25/b8/6e/1c/restaurant.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/25/b8/6c/d9/banquet-hall.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/25/b8/6c/b9/banquet-entrance.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/25/b8/6c/47/corridor.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/21/ab/92/f2/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/21/ab/92/f1/caption.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Karimnagar,hotels"
+},
+{
+  "reviewTags": [],
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "numberOfRooms": null,
+  "categoryReviewScores": [],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/13/c9/df/26/photo3jpg.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "rankingPosition": 10,
+  "rankingDenominator": "32",
+  "rankingString": "#10 of 32 Specialty lodging in Karimnagar",
+  "id": "4023278",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Specialty Lodging"
+  ],
+  "name": "Hotel Shiva SAI Residency",
+  "locationString": "Karimnagar, Karimnagar District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rating": 3,
+  "rawRanking": 3,
+  "phone": "0878-222235",
+  "address": "Koundinya Complex Tahasil Chowrasta, Market Road, Karimnagar India",
+  "addressObj": {
+    "street1": "Koundinya Complex",
+    "street2": "Tahasil Chowrasta, Market Road",
+    "city": "Karimnagar",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": null
+  },
+  "localName": "Hotel Shiva SAI Residency",
+  "localAddress": "Koundinya Complex, Tahasil Chowrasta, Market Road",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 18.38645,
+  "longitude": 78.80867,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g2295103-d4023278-Reviews-Hotel_Shiva_SAI_Residency-Karimnagar_Karimnagar_District_Telangana.html",
+  "website": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295103",
+      "name": "Karimnagar",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389542",
+      "name": "Karimnagar District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 1,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 1,
+  "hotelClass": "0.0",
+  "amenities": [],
+  "priceLevel": null,
+  "priceRange": null,
+  "roomTips": [],
+  "isNearbyResult": false,
+  "input": "Telangana,Karimnagar,hotels"
+},
+{
+  "reviewTags": [],
+  "id": "4023072",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Specialty Lodging"
+  ],
+  "name": "Laxami Suprabath Hotel",
+  "locationString": "Karimnagar, Karimnagar District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 93923 21822",
+  "address": "Main Road, Old Bus Stand Area Sircilla, Karimnagar India",
+  "addressObj": {
+    "street1": "Main Road, Old Bus Stand Area",
+    "street2": "Sircilla",
+    "city": "Karimnagar",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": null
+  },
+  "localName": "Laxami Suprabath Hotel",
+  "localAddress": "Main Road, Old Bus Stand Area, Sircilla",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 18.39148,
+  "longitude": 78.81042,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g2295103-d4023072-Reviews-Laxami_Suprabath_Hotel-Karimnagar_Karimnagar_District_Telangana.html",
+  "website": null,
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295103",
+      "name": "Karimnagar",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389542",
+      "name": "Karimnagar District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "hotelClass": "0.0",
+  "amenities": [
+    "Kids Activities",
+    "Restaurant"
+  ],
+  "priceLevel": null,
+  "priceRange": null,
+  "roomTips": [],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "numberOfRooms": null,
+  "categoryReviewScores": [],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/13/c9/df/26/photo3jpg.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Karimnagar,hotels"
+},
+{
+  "reviewTags": [],
+  "id": "3671205",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Hotel"
+  ],
+  "name": "Srinath Residency",
+  "locationString": "Karimnagar, Karimnagar District, Telangana",
+  "description": "A/C,NON A/C & DELUXE ROOMS AND ALSO BANQUET HALL IN ROOMS WITH T.V, SOLAR SYSTEM HOT WATER, DOUBLE COT BEDS,NEWS PAPER Our hotel is very near to holy Tempel Anjanaya Swamy",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0a/a9/ac/e8/srinath-residency.jpg",
+  "photoCount": 15,
+  "rankingPosition": 2,
+  "rating": 4.5,
+  "rawRanking": 3.0716419219970703,
+  "phone": "+91 90306 41393",
+  "address": "Door No 375/B Muthyampet Shivar, Kondagattu, Mallial Mandal, Karimnagar India",
+  "addressObj": {
+    "street1": "Door No 375/B",
+    "street2": "Muthyampet Shivar, Kondagattu, Mallial Mandal",
+    "city": "Karimnagar",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": null
+  },
+  "localName": "Srinath Residency",
+  "localAddress": "Door No 375/B, Muthyampet Shivar, Kondagattu, Mallial Mandal",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 18.674938,
+  "longitude": 78.93341,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g2295103-d3671205-Reviews-Srinath_Residency-Karimnagar_Karimnagar_District_Telangana.html",
+  "website": null,
+  "rankingString": "#2 of 4 hotels in Karimnagar",
+  "rankingDenominator": "4",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295103",
+      "name": "Karimnagar",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389542",
+      "name": "Karimnagar District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 1,
+    "count4": 2,
+    "count5": 3
+  },
+  "numberOfReviews": 6,
+  "hotelClass": "0.0",
+  "amenities": [
+    "Kids Activities",
+    "Free parking",
+    "Family Rooms",
+    "English",
+    "24-Hour Front Desk",
+    "Hindi"
+  ],
+  "priceLevel": null,
+  "priceRange": null,
+  "roomTips": [],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "numberOfRooms": 19,
+  "categoryReviewScores": [],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/0f/de/bd/c8/waiting-hall.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/12/54/f7/98/srinath-residency.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/12/54/f7/08/room-with-tv-dressing.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/12/07/89/2f/srinath-residency.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/12/07/89/16/front-elevation.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0a/a9/ac/e8/srinath-residency.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0f/de/c0/5f/srinath-residency.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0f/de/be/be/rooms-in-srinath-residency.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0f/de/be/6f/function-hall-of-srinath.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0f/de/be/69/function-hall-of-srinath.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0f/de/be/2b/main-entrance.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0f/de/be/27/main-entrance.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0a/a9/9b/6d/srinath-residency.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0a/a9/97/4e/srinath-residency.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0a/a9/96/e4/srinath-residency.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Karimnagar,hotels"
+},
+{
+  "reviewTags": [],
+  "id": "4025999",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Specialty Lodging"
+  ],
+  "name": "Taj Baba Hotel",
+  "locationString": "Karimnagar, Karimnagar District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/1a/0b/4e/a9/screenshot-2019-11-16.jpg",
+  "photoCount": 1,
+  "rankingPosition": 5,
+  "rating": 4,
+  "rawRanking": 3.0129940509796143,
+  "phone": "+91 96033 48828",
+  "address": "Bustand Road Near A Power House, Ramagundam, Karimnagar India",
+  "addressObj": {
+    "street1": "Bustand Road",
+    "street2": "Near A Power House, Ramagundam",
+    "city": "Karimnagar",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": null
+  },
+  "localName": "Taj Baba Hotel",
+  "localAddress": "Bustand Road, Near A Power House, Ramagundam",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 18.43537,
+  "longitude": 79.12651,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g2295103-d4025999-Reviews-Taj_Baba_Hotel-Karimnagar_Karimnagar_District_Telangana.html",
+  "website": null,
+  "rankingString": "#5 of 10 lodges in Karimnagar",
+  "rankingDenominator": "10",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295103",
+      "name": "Karimnagar",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389542",
+      "name": "Karimnagar District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 1,
+    "count5": 0
+  },
+  "numberOfReviews": 1,
+  "hotelClass": "0.0",
+  "amenities": [],
+  "priceLevel": null,
+  "priceRange": null,
+  "roomTips": [],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "numberOfRooms": null,
+  "categoryReviewScores": [],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/1a/0b/4e/a9/screenshot-2019-11-16.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Karimnagar,hotels"
+},
+{
+  "id": "28170148",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Specialty Lodging"
+  ],
+  "name": "Hotel Taraka",
+  "locationString": "Karimnagar, Karimnagar District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": null,
+  "address": "2-7-203, Beside Ricemill Association, Near Bus Stand, Karimnagar 505001 India",
+  "addressObj": {
+    "street1": "2-7-203, Beside Ricemill Association, Near Bus Stand",
+    "street2": null,
+    "city": "Karimnagar",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "505001"
+  },
+  "localName": "Hotel Taraka",
+  "localAddress": "2-7-203, Beside Ricemill Association, Near Bus Stand, 505001",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": null,
+  "longitude": null,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g2295103-d28170148-Reviews-Hotel_Taraka-Karimnagar_Karimnagar_District_Telangana.html",
+  "website": "https://www.instagram.com/hotel_taraka_restaurant/",
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295103",
+      "name": "Karimnagar",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389542",
+      "name": "Karimnagar District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "hotelClass": "0.0",
+  "amenities": [],
+  "priceLevel": "₹",
+  "priceRange": "₹2,102 - ₹2,775",
+  "roomTips": [],
+  "isNearbyResult": false,
+  "reviewTags": [],
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "numberOfRooms": null,
+  "categoryReviewScores": [],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/13/c9/df/26/photo3jpg.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Karimnagar,hotels"
+},
+{
+  "reviewTags": [],
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "numberOfRooms": null,
+  "categoryReviewScores": [],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/13/c9/df/26/photo3jpg.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "id": "4023048",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Specialty Lodging"
+  ],
+  "name": "Hotel Manair",
+  "locationString": "Karimnagar, Karimnagar District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 878 224 5879",
+  "address": "I B Road Mukarampura, Karimnagar India",
+  "addressObj": {
+    "street1": "I B Road",
+    "street2": "Mukarampura",
+    "city": "Karimnagar",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": null
+  },
+  "localName": "Hotel Manair",
+  "localAddress": "I B Road, Mukarampura",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 18.44297,
+  "longitude": 79.10992,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g2295103-d4023048-Reviews-Hotel_Manair-Karimnagar_Karimnagar_District_Telangana.html",
+  "website": null,
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295103",
+      "name": "Karimnagar",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389542",
+      "name": "Karimnagar District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "hotelClass": "0.0",
+  "amenities": [],
+  "priceLevel": null,
+  "priceRange": null,
+  "roomTips": [],
+  "isNearbyResult": false,
+  "input": "Telangana,Karimnagar,hotels"
+},
+{
+  "id": "10295678",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Bed and Breakfast"
+  ],
+  "name": "Hotel Prashanth",
+  "locationString": "Karimnagar, Karimnagar District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": 3,
+  "rating": 4,
+  "rawRanking": 3.0090975761413574,
+  "phone": null,
+  "address": "Mukarampura Bus Stand Road, Karimnagar 505001 India",
+  "addressObj": {
+    "street1": "Mukarampura Bus Stand Road",
+    "street2": null,
+    "city": "Karimnagar",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "505001"
+  },
+  "localName": "Hotel Prashanth",
+  "localAddress": "Mukarampura Bus Stand Road, 505001",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 18.43537,
+  "longitude": 79.12651,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g2295103-d10295678-Reviews-Hotel_Prashanth-Karimnagar_Karimnagar_District_Telangana.html",
+  "website": null,
+  "rankingString": "#3 of 3 small hotels in Karimnagar",
+  "rankingDenominator": "3",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295103",
+      "name": "Karimnagar",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389542",
+      "name": "Karimnagar District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 1,
+    "count5": 0
+  },
+  "numberOfReviews": 1,
+  "hotelClass": "0.0",
+  "amenities": [
+    "Kids Activities",
+    "Room service",
+    "Free parking",
+    "Airport transportation",
+    "Free Wifi",
+    "Laundry Service",
+    "Air conditioning"
+  ],
+  "priceLevel": null,
+  "priceRange": null,
+  "roomTips": [],
+  "isNearbyResult": false,
+  "reviewTags": [],
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "numberOfRooms": 12,
+  "categoryReviewScores": [],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/13/c9/df/26/photo3jpg.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Karimnagar,hotels"
+},
+{
+  "reviewTags": [],
+  "id": "2478519",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Specialty Lodging"
+  ],
+  "name": "Abhilasha Hotel",
+  "locationString": "Karimnagar, Karimnagar District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": 9,
+  "rating": 2,
+  "rawRanking": 2.9367265701293945,
+  "phone": "0878-272099",
+  "address": "13-27/10/A Jyothinagar Ramagundam, Karimnagar 505215 India",
+  "addressObj": {
+    "street1": "13-27/10/A Jyothinagar",
+    "street2": "Ramagundam",
+    "city": "Karimnagar",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "505215"
+  },
+  "localName": "Abhilasha Hotel",
+  "localAddress": "13-27/10/A Jyothinagar, Ramagundam, 505215",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": null,
+  "longitude": null,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g2295103-d2478519-Reviews-Abhilasha_Hotel-Karimnagar_Karimnagar_District_Telangana.html",
+  "website": null,
+  "rankingString": "#9 of 10 lodges in Karimnagar",
+  "rankingDenominator": "10",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295103",
+      "name": "Karimnagar",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389542",
+      "name": "Karimnagar District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 1,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 1,
+  "hotelClass": "0.0",
+  "amenities": [],
+  "priceLevel": null,
+  "priceRange": null,
+  "roomTips": [],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "numberOfRooms": null,
+  "categoryReviewScores": [],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/13/c9/df/26/photo3jpg.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Karimnagar,hotels"
+},
+{
+  "reviewTags": [],
+  "id": "26728255",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Bed and Breakfast"
+  ],
+  "name": "K Loft Hotel",
+  "locationString": "Karimnagar, Karimnagar District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 90001 69996",
+  "address": "8-5-424/1, Raghavendra Nagar, Karimnagar 505001 India",
+  "addressObj": {
+    "street1": "8-5-424/1, Raghavendra Nagar",
+    "street2": null,
+    "city": "Karimnagar",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "505001"
+  },
+  "localName": "K Loft Hotel",
+  "localAddress": "8-5-424/1, Raghavendra Nagar, 505001",
+  "localLangCode": "en-IN",
+  "email": "support@klofthotel.com",
+  "latitude": 18.42723,
+  "longitude": 79.13682,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g2295103-d26728255-Reviews-K_Loft_Hotel-Karimnagar_Karimnagar_District_Telangana.html",
+  "website": "https://klofthotel.com/",
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295103",
+      "name": "Karimnagar",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389542",
+      "name": "Karimnagar District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "hotelClass": "0.0",
+  "amenities": [],
+  "priceLevel": null,
+  "priceRange": null,
+  "roomTips": [],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "numberOfRooms": null,
+  "categoryReviewScores": [],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/13/c9/df/26/photo3jpg.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Karimnagar,hotels"
+},
+{
+  "id": "21423073",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Hotel"
+  ],
+  "name": "OYO 27664 Hotel Nawab's",
+  "locationString": "Karimnagar, Karimnagar District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": null,
+  "address": "Near Government Civil Hospital, Karimnagar 505001 India",
+  "addressObj": {
+    "street1": "Near Government Civil Hospital",
+    "street2": null,
+    "city": "Karimnagar",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "505001"
+  },
+  "localName": "OYO 27664 Hotel Nawab's",
+  "localAddress": "Near Government Civil Hospital, 505001",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 18.44238,
+  "longitude": 79.12913,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g2295103-d21423073-Reviews-OYO_27664_Hotel_Nawab_s-Karimnagar_Karimnagar_District_Telangana.html",
+  "website": "https://www.oyorooms.com/48358-oyo-rooms-oyo-27664-hotel-nawab's-karimnagar/",
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295103",
+      "name": "Karimnagar",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389542",
+      "name": "Karimnagar District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "hotelClass": "0.0",
+  "amenities": [],
+  "priceLevel": null,
+  "priceRange": null,
+  "roomTips": [],
+  "isNearbyResult": false,
+  "reviewTags": [],
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "numberOfRooms": null,
+  "categoryReviewScores": [],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/13/c9/df/26/photo3jpg.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Karimnagar,hotels"
+},
+{
+  "reviewTags": [],
+  "id": "28988884",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Hotel"
+  ],
+  "name": "Hotel O Sri Vishnu Residency",
+  "locationString": "Karimnagar, Karimnagar District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": null,
+  "address": "11-2-224/1Road Number 2 Hindupuri Colony, Karimnagar 505001 India",
+  "addressObj": {
+    "street1": "11-2-224/1Road Number 2",
+    "street2": "Hindupuri Colony",
+    "city": "Karimnagar",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "505001"
+  },
+  "localName": "Hotel O Sri Vishnu Residency",
+  "localAddress": "11-2-224/1Road Number 2, Hindupuri Colony, 505001",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": null,
+  "longitude": null,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g2295103-d28988884-Reviews-Hotel_O_Sri_Vishnu_Residency-Karimnagar_Karimnagar_District_Telangana.html",
+  "website": "https://www.oyorooms.com/252893/?checkin=29%2F10%2F2024&checkout=30%2F10%2F2024&rooms=1&guests=1&rooms_config=1-1_0",
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295103",
+      "name": "Karimnagar",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389542",
+      "name": "Karimnagar District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "hotelClass": "0.0",
+  "amenities": [],
+  "priceLevel": null,
+  "priceRange": null,
+  "roomTips": [],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "numberOfRooms": null,
+  "categoryReviewScores": [],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/13/c9/df/26/photo3jpg.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Karimnagar,hotels"
+},
+{
+  "reviewTags": [],
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "numberOfRooms": 10,
+  "categoryReviewScores": [],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/18/0f/7c/f7/oyo-27664-hotel-nawab.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/18/0f/7d/b7/oyo-27664-hotel-nawab.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/18/0f/7d/b3/oyo-27664-hotel-nawab.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/18/0f/7d/af/oyo-27664-hotel-nawab.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/18/0f/7d/a7/oyo-27664-hotel-nawab.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/18/0f/7d/a3/oyo-27664-hotel-nawab.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/18/0f/7d/9d/oyo-27664-hotel-nawab.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/18/0f/7d/98/oyo-27664-hotel-nawab.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/18/0f/7d/94/oyo-27664-hotel-nawab.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/18/0f/7d/8f/oyo-27664-hotel-nawab.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/18/0f/7d/89/oyo-27664-hotel-nawab.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/18/0f/7d/87/oyo-27664-hotel-nawab.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/18/0f/7d/86/oyo-27664-hotel-nawab.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/18/0f/7d/73/oyo-27664-hotel-nawab.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/18/0f/7d/6f/oyo-27664-hotel-nawab.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/18/0f/7d/6b/oyo-27664-hotel-nawab.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/18/0f/7d/68/oyo-27664-hotel-nawab.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/18/0f/7d/52/oyo-27664-hotel-nawab.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/18/0f/7d/4e/oyo-27664-hotel-nawab.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/18/0f/7d/48/oyo-27664-hotel-nawab.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "rankingPosition": 1,
+  "rankingDenominator": "10",
+  "rankingString": "#1 of 10 B&Bs / Inns in Karimnagar",
+  "id": "10180725",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Bed and Breakfast"
+  ],
+  "name": "Hotel Nawab's",
+  "locationString": "Karimnagar, Karimnagar District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/18/0f/7c/f7/oyo-27664-hotel-nawab.jpg",
+  "photoCount": 29,
+  "rating": 4.5,
+  "rawRanking": 3.097801923751831,
+  "phone": "+91 124 620 1184",
+  "address": "3-3-126, Doctors Street, Hospital St Civil Hospital Road, Karimnagar 505001 India",
+  "addressObj": {
+    "street1": "3-3-126, Doctors Street, Hospital St",
+    "street2": "Civil Hospital Road",
+    "city": "Karimnagar",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "505001"
+  },
+  "localName": "Hotel Nawab's",
+  "localAddress": "3-3-126, Doctors Street, Hospital St, Civil Hospital Road, 505001",
+  "localLangCode": "en-IN",
+  "email": "talistings@oyorooms.com",
+  "latitude": 18.439995,
+  "longitude": 79.13166,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g2295103-d10180725-Reviews-Hotel_Nawab_s-Karimnagar_Karimnagar_District_Telangana.html",
+  "website": "http://www.hotelnawabs.com/contact.html",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295103",
+      "name": "Karimnagar",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389542",
+      "name": "Karimnagar District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 1,
+    "count4": 1,
+    "count5": 4
+  },
+  "numberOfReviews": 6,
+  "hotelClass": "3.0",
+  "hotelClassAttribution": "This property is classified according to Giata.",
+  "amenities": [
+    "Internet",
+    "Room service",
+    "Free Internet",
+    "Free parking",
+    "Kitchenette",
+    "Wifi",
+    "Free Wifi",
+    "Breakfast included",
+    "Kids Activities",
+    "Air conditioning"
+  ],
+  "priceLevel": "₹",
+  "priceRange": "₹4,961 - ₹10,007",
+  "roomTips": [],
+  "isNearbyResult": false,
+  "input": "Telangana,Karimnagar,hotels"
+},
+{
+  "reviewTags": [],
+  "id": "4023078",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Specialty Lodging"
+  ],
+  "name": "New Geetha Bavan Hotel",
+  "locationString": "Karimnagar, Karimnagar District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": 3,
+  "rating": 5,
+  "rawRanking": 3.0441951751708984,
+  "phone": "+91 878 650 3000",
+  "address": "Manchirail Chourasta, Karimnagar India",
+  "addressObj": {
+    "street1": "Manchirail Chourasta",
+    "street2": null,
+    "city": "Karimnagar",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": null
+  },
+  "localName": "New Geetha Bavan Hotel",
+  "localAddress": "Manchirail Chourasta",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 18.44335,
+  "longitude": 79.13259,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g2295103-d4023078-Reviews-New_Geetha_Bavan_Hotel-Karimnagar_Karimnagar_District_Telangana.html",
+  "website": null,
+  "rankingString": "#3 of 10 lodges in Karimnagar",
+  "rankingDenominator": "10",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295103",
+      "name": "Karimnagar",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389542",
+      "name": "Karimnagar District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 3
+  },
+  "numberOfReviews": 3,
+  "hotelClass": "0.0",
+  "amenities": [],
+  "priceLevel": null,
+  "priceRange": null,
+  "roomTips": [],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "numberOfRooms": null,
+  "categoryReviewScores": [
+    {
+      "categoryName": "Value",
+      "score": 5
+    },
+    {
+      "categoryName": "Service",
+      "score": 5
+    },
+    {
+      "categoryName": "Sleep Quality",
+      "score": 5
+    }
+  ],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/13/c9/df/26/photo3jpg.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Karimnagar,hotels"
+},
+{
+  "id": "27514162",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Specialty Lodging"
+  ],
+  "name": "Hotel Shubhamangala",
+  "locationString": "Karimnagar, Karimnagar District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 878 293 6677",
+  "address": "Hyderabad Rd IDBI Bank Complex, Karimnagar 505001 India",
+  "addressObj": {
+    "street1": "Hyderabad Rd",
+    "street2": "IDBI Bank Complex",
+    "city": "Karimnagar",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "505001"
+  },
+  "localName": "Hotel Shubhamangala",
+  "localAddress": "Hyderabad Rd, IDBI Bank Complex, 505001",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": null,
+  "longitude": null,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g2295103-d27514162-Reviews-Hotel_Shubhamangala-Karimnagar_Karimnagar_District_Telangana.html",
+  "website": null,
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295103",
+      "name": "Karimnagar",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389542",
+      "name": "Karimnagar District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "hotelClass": "0.0",
+  "amenities": [],
+  "priceLevel": "₹",
+  "priceRange": "₹1,766 - ₹2,355",
+  "roomTips": [],
+  "isNearbyResult": false,
+  "reviewTags": [],
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "numberOfRooms": null,
+  "categoryReviewScores": [],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/13/c9/df/26/photo3jpg.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Karimnagar,hotels"
+},
+{
+  "reviewTags": [],
+  "id": "4023402",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Specialty Lodging"
+  ],
+  "name": "Geetha Bhavan Hotel",
+  "locationString": "Karimnagar, Karimnagar District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": 2,
+  "rating": 4,
+  "rawRanking": 3.0683281421661377,
+  "phone": "+91 94413 12713",
+  "address": "1-1-1254/5/6, Main Road Beside Kinnera Theatre, Koratla, Karimnagar India",
+  "addressObj": {
+    "street1": "1-1-1254/5/6, Main Road",
+    "street2": "Beside Kinnera Theatre, Koratla",
+    "city": "Karimnagar",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": null
+  },
+  "localName": "Geetha Bhavan Hotel",
+  "localAddress": "1-1-1254/5/6, Main Road, Beside Kinnera Theatre, Koratla",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": null,
+  "longitude": null,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g2295103-d4023402-Reviews-Geetha_Bhavan_Hotel-Karimnagar_Karimnagar_District_Telangana.html",
+  "website": null,
+  "rankingString": "#2 of 10 lodges in Karimnagar",
+  "rankingDenominator": "10",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295103",
+      "name": "Karimnagar",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389542",
+      "name": "Karimnagar District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 1,
+    "count4": 4,
+    "count5": 2
+  },
+  "numberOfReviews": 7,
+  "hotelClass": "0.0",
+  "amenities": [],
+  "priceLevel": null,
+  "priceRange": null,
+  "roomTips": [
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "not sure whether they have Rooms to stay as we were here for Tea / coffee.",
+      "rating": "4",
+      "reviewId": "648081501",
+      "id": "648081501",
+      "createdTime": "2019-01-24T22:14:50-05:00"
+    }
+  ],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "numberOfRooms": null,
+  "categoryReviewScores": [
+    {
+      "categoryName": "Location",
+      "score": 4.3
+    },
+    {
+      "categoryName": "Value",
+      "score": 5
+    },
+    {
+      "categoryName": "Cleanliness",
+      "score": 2.5
+    },
+    {
+      "categoryName": "Service",
+      "score": 3.8
+    },
+    {
+      "categoryName": "Sleep Quality",
+      "score": 4
+    }
+  ],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/13/c9/df/26/photo3jpg.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Karimnagar,hotels"
+},
+{
+  "id": "4023064",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Specialty Lodging"
+  ],
+  "name": "Hotel Prathima Regency",
+  "locationString": "Karimnagar, Karimnagar District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/16/92/34/97/hotel-prathima-regency.jpg",
+  "photoCount": 5,
+  "rankingPosition": 1,
+  "rating": 4,
+  "rawRanking": 3.1068170070648193,
+  "phone": "+91 878 223 3666",
+  "address": "Bus Stand Road Opp Police Parade Ground, Karimnagar 505001 India",
+  "addressObj": {
+    "street1": "Bus Stand Road",
+    "street2": "Opp Police Parade Ground",
+    "city": "Karimnagar",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "505001"
+  },
+  "localName": "Hotel Prathima Regency",
+  "localAddress": "Bus Stand Road, Opp Police Parade Ground, 505001",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 18.434448,
+  "longitude": 79.12774,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g2295103-d4023064-Reviews-Hotel_Prathima_Regency-Karimnagar_Karimnagar_District_Telangana.html",
+  "website": null,
+  "rankingString": "#1 of 10 lodges in Karimnagar",
+  "rankingDenominator": "10",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295103",
+      "name": "Karimnagar",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389542",
+      "name": "Karimnagar District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 2,
+    "count2": 0,
+    "count3": 4,
+    "count4": 4,
+    "count5": 9
+  },
+  "numberOfReviews": 19,
+  "hotelClass": "0.0",
+  "amenities": [
+    "Room service",
+    "Restaurant",
+    "Air conditioning",
+    "Kids Activities",
+    "Free Wifi",
+    "Business center"
+  ],
+  "priceLevel": null,
+  "priceRange": null,
+  "roomTips": [
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "go for road side view rooms",
+      "rating": "4",
+      "reviewId": "424336218",
+      "id": "424336218",
+      "createdTime": "2016-10-02T04:21:39-04:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Road Side View Rooms are very good.",
+      "rating": "5",
+      "reviewId": "159531191",
+      "id": "159531191",
+      "createdTime": "2013-05-03T05:54:16-04:00"
+    }
+  ],
+  "isNearbyResult": false,
+  "reviewTags": [],
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "numberOfRooms": null,
+  "categoryReviewScores": [
+    {
+      "categoryName": "Location",
+      "score": 4.3
+    },
+    {
+      "categoryName": "Rooms",
+      "score": 3.3
+    },
+    {
+      "categoryName": "Value",
+      "score": 3.3
+    },
+    {
+      "categoryName": "Cleanliness",
+      "score": 3.6
+    },
+    {
+      "categoryName": "Service",
+      "score": 3.4
+    },
+    {
+      "categoryName": "Sleep Quality",
+      "score": 3.7
+    }
+  ],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/16/92/34/97/hotel-prathima-regency.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0f/be/7b/76/img-20170628-074519847.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0f/be/7b/75/img-20170628-074505855.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0f/be/7b/73/img-20170628-074445204.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0f/be/7b/72/img-20170628-074425271.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Karimnagar,hotels"
+},
+{
+  "reviewTags": [
+    {
+      "text": "complimentary breakfast",
+      "reviews": 2
+    },
+    {
+      "text": "peacocks",
+      "reviews": 2
+    },
+    {
+      "text": "location",
+      "reviews": 2
+    }
+  ],
+  "id": "24160575",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Specialty Lodging"
+  ],
+  "name": "Hotel Peacock Pride",
+  "locationString": "Karimnagar, Karimnagar District, Telangana",
+  "description": "Luxury Rooms, Banquet Halls and Restaurant",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/24/b5/93/92/caption.jpg",
+  "photoCount": 16,
+  "rankingPosition": 1,
+  "rating": 4.5,
+  "rawRanking": 3.0654773712158203,
+  "phone": "+91 81252 90905",
+  "address": "#8 - 5 - 411/1 - 8 - 5 - 412/1 Hyderabad Road Ganesh Nagar, Karimnagar 505001 India",
+  "addressObj": {
+    "street1": "#8 - 5 - 411/1 - 8 - 5 - 412/1 Hyderabad Road",
+    "street2": "Ganesh Nagar",
+    "city": "Karimnagar",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "505001"
+  },
+  "localName": "Hotel Peacock Pride",
+  "localAddress": "#8 - 5 - 411/1 - 8 - 5 - 412/1 Hyderabad Road, Ganesh Nagar, 505001",
+  "localLangCode": "en-IN",
+  "email": "hotelpeacockpride@gmail.com",
+  "latitude": 18.416159,
+  "longitude": 79.13659,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g2295103-d24160575-Reviews-Hotel_Peacock_Pride-Karimnagar_Karimnagar_District_Telangana.html",
+  "website": "https://www.facebook.com/HotelPeacockPride/",
+  "rankingString": "#1 of 2 special hotels in Karimnagar",
+  "rankingDenominator": "2",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295103",
+      "name": "Karimnagar",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389542",
+      "name": "Karimnagar District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 1,
+    "count4": 0,
+    "count5": 3
+  },
+  "numberOfReviews": 4,
+  "hotelClass": "0.0",
+  "amenities": [],
+  "priceLevel": "₹",
+  "priceRange": "₹2,355 - ₹3,027",
+  "roomTips": [
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "hotel as good as any other hotels for value for money in Karimnagar.",
+      "rating": "5",
+      "reviewId": "889312994",
+      "id": "889312994",
+      "createdTime": "2023-05-07T00:50:31-04:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "The service we received was so amazing and we will definitely be back again. They made as feel welcomed 🎉 and gave us an amazing👍😍🤩 experience..! ",
+      "rating": "5",
+      "reviewId": "848057087",
+      "id": "848057087",
+      "createdTime": "2022-07-15T09:55:28-04:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "24 hrs check in and check out\nUnmarried and unrelated guests are not allowed.",
+      "rating": "5",
+      "reviewId": "847999885",
+      "id": "847999885",
+      "createdTime": "2022-07-15T03:42:08-04:00"
+    }
+  ],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "numberOfRooms": 25,
+  "categoryReviewScores": [
+    {
+      "categoryName": "Location",
+      "score": 5
+    },
+    {
+      "categoryName": "Value",
+      "score": 5
+    },
+    {
+      "categoryName": "Service",
+      "score": 5
+    }
+  ],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/24/b5/93/8a/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/29/05/70/fd/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/29/05/70/fc/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/29/05/70/fb/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/29/05/70/fa/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/29/05/70/33/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/25/3b/f0/69/peacock-sirf-naam-hi.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/24/ba/b3/d2/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/24/b5/93/93/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/24/b5/93/92/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/24/b5/93/91/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/24/b5/93/8f/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/24/b5/93/8e/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/24/b5/93/8d/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/24/b5/93/8c/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/24/85/1f/d3/best-hotel-to-stay-in.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Karimnagar,hotels"
+},
+{
+  "reviewTags": [],
+  "id": "4023295",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Specialty Lodging"
+  ],
+  "name": "Yadhav Hotel",
+  "locationString": "Karimnagar, Karimnagar District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 78932 31594",
+  "address": "Vill:malyala, Malyala X Road Mdl Malyala, Karimnagar India",
+  "addressObj": {
+    "street1": "Vill:malyala, Malyala X Road",
+    "street2": "Mdl Malyala",
+    "city": "Karimnagar",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": null
+  },
+  "localName": "Yadhav Hotel",
+  "localAddress": "Vill:malyala, Malyala X Road, Mdl Malyala",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": null,
+  "longitude": null,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g2295103-d4023295-Reviews-Yadhav_Hotel-Karimnagar_Karimnagar_District_Telangana.html",
+  "website": null,
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295103",
+      "name": "Karimnagar",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389542",
+      "name": "Karimnagar District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "hotelClass": "0.0",
+  "amenities": [],
+  "priceLevel": null,
+  "priceRange": null,
+  "roomTips": [],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "numberOfRooms": null,
+  "categoryReviewScores": [],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/13/c9/df/26/photo3jpg.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Karimnagar,hotels"
+},
+{
+  "reviewTags": [],
+  "id": "4023287",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Specialty Lodging"
+  ],
+  "name": "Rajasthan Hotel",
+  "locationString": "Karimnagar, Karimnagar District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 97045 55505",
+  "address": "Rajasthan Hotel Building Sri Chaitanya Degree College, Mankammathota, Karimnagar India",
+  "addressObj": {
+    "street1": "Rajasthan Hotel Building",
+    "street2": "Sri Chaitanya Degree College, Mankammathota",
+    "city": "Karimnagar",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": null
+  },
+  "localName": "Rajasthan Hotel",
+  "localAddress": "Rajasthan Hotel Building, Sri Chaitanya Degree College, Mankammathota",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": null,
+  "longitude": null,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g2295103-d4023287-Reviews-Rajasthan_Hotel-Karimnagar_Karimnagar_District_Telangana.html",
+  "website": null,
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295103",
+      "name": "Karimnagar",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389542",
+      "name": "Karimnagar District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "hotelClass": "0.0",
+  "amenities": [],
+  "priceLevel": null,
+  "priceRange": null,
+  "roomTips": [],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "numberOfRooms": null,
+  "categoryReviewScores": [],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/13/c9/df/26/photo3jpg.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Karimnagar,hotels"
+},
+{
+  "id": "14029728",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Specialty Lodging"
+  ],
+  "name": "Budget Hotel",
+  "locationString": "Karimnagar, Karimnagar District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/15/00/ca/de/budget-hotel.jpg",
+  "photoCount": 1,
+  "rankingPosition": 2,
+  "rating": 4,
+  "rawRanking": 3.032057046890259,
+  "phone": "+91 99891 13555",
+  "address": "Shastri Road Municipal Shopping Complex, Karimnagar 505001 India",
+  "addressObj": {
+    "street1": "Shastri Road",
+    "street2": "Municipal Shopping Complex",
+    "city": "Karimnagar",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "505001"
+  },
+  "localName": "Budget Hotel",
+  "localAddress": "Shastri Road, Municipal Shopping Complex, 505001",
+  "localLangCode": "en-IN",
+  "email": "karimnagarbudget@gmail.com",
+  "latitude": 18.43269,
+  "longitude": 79.13463,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g2295103-d14029728-Reviews-Budget_Hotel-Karimnagar_Karimnagar_District_Telangana.html",
+  "website": "https://www.facebook.com/StayatBudget/",
+  "rankingString": "#2 of 2 special hotels in Karimnagar",
+  "rankingDenominator": "2",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295103",
+      "name": "Karimnagar",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389542",
+      "name": "Karimnagar District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 1,
+    "count4": 3,
+    "count5": 0
+  },
+  "numberOfReviews": 4,
+  "hotelClass": "3.0",
+  "hotelClassAttribution": "This property is classified according to Giata.",
+  "amenities": [
+    "Kids Activities",
+    "Restaurant",
+    "Laundry Service"
+  ],
+  "priceLevel": "₹",
+  "priceRange": "₹2,186 - ₹2,691",
+  "roomTips": [],
+  "isNearbyResult": false,
+  "reviewTags": [],
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "numberOfRooms": null,
+  "categoryReviewScores": [
+    {
+      "categoryName": "Rooms",
+      "score": 3
+    },
+    {
+      "categoryName": "Service",
+      "score": 4
+    },
+    {
+      "categoryName": "Sleep Quality",
+      "score": 3.5
+    }
+  ],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/15/00/ca/de/budget-hotel.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Karimnagar,hotels"
+},
+{
+  "reviewTags": [
+    {
+      "text": "the heart of the city",
+      "reviews": 2
+    },
+    {
+      "text": "business",
+      "reviews": 5
+    },
+    {
+      "text": "option",
+      "reviews": 4
+    },
+    {
+      "text": "ambience",
+      "reviews": 2
+    }
+  ],
+  "id": "1733523",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Hotel"
+  ],
+  "name": "Hotel Swetha",
+  "locationString": "Karimnagar, Karimnagar District, Telangana",
+  "description": "Finding an ideal budget friendly hotel in Karimnagar does not have to be difficult. Welcome to Hotel Swetha, a nice option for travelers like you.\nThe rooms offer a minibar and air conditioning, and getting online is possible, as free internet access is available, allowing you to rest and refresh with ease.\nHotel Swetha features a concierge and room service. In addition, as a valued Hotel Swetha guest, you can enjoy a fitness center and free breakfast that are available on-site. Guests arriving by vehicle have access to free parking.\nPlus, during your trip, don't forget to check out a castle, such as Elgandal Fort.\nHotel Swetha puts the best of Karimnagar at your fingertips, making your stay both relaxing and enjoyable.\n",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/2a/db/42/d7/caption.jpg",
+  "photoCount": 35,
+  "rankingPosition": 1,
+  "rating": 3.5,
+  "rawRanking": 3.199824571609497,
+  "phone": null,
+  "address": "H-No 2-7-205 Opposite: Muncipal Corporation Office, Beside Bus Stand Circle, Mukarampura, Karimnagar 505001 India",
+  "addressObj": {
+    "street1": "H-No 2-7-205",
+    "street2": "Opposite: Muncipal Corporation Office, Beside Bus Stand Circle, Mukarampura",
+    "city": "Karimnagar",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "505001"
+  },
+  "localName": "Hotel Swetha",
+  "localAddress": "H-No 2-7-205, Opposite: Muncipal Corporation Office, Beside Bus Stand Circle, Mukarampura, 505001",
+  "localLangCode": "en-IN",
+  "email": "reservations@hotelswetha.com",
+  "latitude": 18.431684,
+  "longitude": 79.12761,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g2295103-d1733523-Reviews-Hotel_Swetha-Karimnagar_Karimnagar_District_Telangana.html",
+  "website": "http://www.hotelswetha.com/",
+  "rankingString": "#1 of 4 hotels in Karimnagar",
+  "rankingDenominator": "4",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295103",
+      "name": "Karimnagar",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389542",
+      "name": "Karimnagar District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 4,
+    "count2": 0,
+    "count3": 16,
+    "count4": 26,
+    "count5": 12
+  },
+  "numberOfReviews": 58,
+  "hotelClass": "3.0",
+  "hotelClassAttribution": "This property is classified according to Giata.",
+  "amenities": [
+    "Restaurant",
+    "Suites",
+    "Room service",
+    "Dry Cleaning",
+    "Laundry Service",
+    "Kids Activities",
+    "Free Internet",
+    "Free parking",
+    "Wheelchair access",
+    "Bar/Lounge",
+    "Spa",
+    "Airport transportation",
+    "Breakfast included",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Concierge",
+    "Air conditioning",
+    "Family Rooms",
+    "Minibar",
+    "Non-smoking hotel",
+    "Breakfast Buffet"
+  ],
+  "priceLevel": "₹",
+  "priceRange": "₹3,027 - ₹3,448",
+  "roomTips": [
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Ask for rooms away from the road and the adjacent bus station!",
+      "rating": "4",
+      "reviewId": "588116041",
+      "id": "588116041",
+      "createdTime": "2018-06-17T10:57:51-04:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "No specific view",
+      "rating": "3",
+      "reviewId": "423751735",
+      "id": "423751735",
+      "createdTime": "2016-09-30T02:42:13-04:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Choose a room closer to wifi router",
+      "rating": "3",
+      "reviewId": "380187665",
+      "id": "380187665",
+      "createdTime": "2016-06-06T03:27:56-04:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Do not take a room towards the main road as it is highly traffic road and you tend to get disturbed during the nights. Do ask a room near a WIFI router as there network is very poor, Prefer on lower floors to avoid heat",
+      "rating": "3",
+      "reviewId": "203810487",
+      "id": "203810487",
+      "createdTime": "2014-05-03T01:28:24-04:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Choose Executive Room if possible",
+      "rating": "4",
+      "reviewId": "168404966",
+      "id": "168404966",
+      "createdTime": "2013-07-21T06:29:05-04:00"
+    }
+  ],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "numberOfRooms": 60,
+  "categoryReviewScores": [
+    {
+      "categoryName": "Location",
+      "score": 4
+    },
+    {
+      "categoryName": "Rooms",
+      "score": 3.8
+    },
+    {
+      "categoryName": "Value",
+      "score": 3.6
+    },
+    {
+      "categoryName": "Cleanliness",
+      "score": 3.8
+    },
+    {
+      "categoryName": "Service",
+      "score": 3.5
+    },
+    {
+      "categoryName": "Sleep Quality",
+      "score": 3.7
+    }
+  ],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/2a/db/42/d7/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2a/db/42/bf/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2a/db/42/be/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2a/db/42/bd/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2a/db/42/bc/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/01/e4/7e/75/hotel-swetha.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/01/e4/79/7d/hotel-swetha.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/01/e4/78/ea/hotel-swetha.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/01/e4/7e/95/hotel-swetha.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/01/e4/78/85/hotel-swetha.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/01/e4/78/23/hotel-swetha.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/19/7e/26/63/screenshot-2019-10-05.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0f/4a/45/ea/photo2jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0f/4a/45/e9/photo1jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0f/4a/45/e8/photo0jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0a/25/85/bb/img-20160122-124746-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0a/25/85/ba/img-20160122-124749-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0a/25/85/b9/img-20160122-124756-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0a/25/85/b8/img-20160122-125414-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0a/25/85/b7/img-20160122-125421-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0a/14/98/0c/hotel-swetha.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Karimnagar,hotels"
+},
+{
+  "reviewTags": [],
+  "id": "4023399",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Specialty Lodging"
+  ],
+  "name": "Mayuri Hotel",
+  "locationString": "Karimnagar, Karimnagar District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 98484 82341",
+  "address": "H.No: 1-3-349 Metpally Road, Koratla, Karimnagar India",
+  "addressObj": {
+    "street1": "H.No: 1-3-349",
+    "street2": "Metpally Road, Koratla",
+    "city": "Karimnagar",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": null
+  },
+  "localName": "Mayuri Hotel",
+  "localAddress": "H.No: 1-3-349, Metpally Road, Koratla",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": null,
+  "longitude": null,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g2295103-d4023399-Reviews-Mayuri_Hotel-Karimnagar_Karimnagar_District_Telangana.html",
+  "website": null,
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295103",
+      "name": "Karimnagar",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389542",
+      "name": "Karimnagar District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "hotelClass": "0.0",
+  "amenities": [],
+  "priceLevel": null,
+  "priceRange": null,
+  "roomTips": [],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "numberOfRooms": null,
+  "categoryReviewScores": [],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/13/c9/df/26/photo3jpg.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Karimnagar,hotels"
+},
+{
+  "reviewTags": [],
+  "id": "27001203",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Specialty Lodging"
+  ],
+  "name": "Hotel Swagath",
+  "locationString": "Karimnagar, Karimnagar District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": null,
+  "address": "H.No, 2-7-128, Busstand Rd Opp. Kalabharathi, Karimnagar 505001 India",
+  "addressObj": {
+    "street1": "H.No, 2-7-128, Busstand Rd",
+    "street2": "Opp. Kalabharathi",
+    "city": "Karimnagar",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "505001"
+  },
+  "localName": "Hotel Swagath",
+  "localAddress": "H.No, 2-7-128, Busstand Rd, Opp. Kalabharathi, 505001",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": null,
+  "longitude": null,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g2295103-d27001203-Reviews-Hotel_Swagath-Karimnagar_Karimnagar_District_Telangana.html",
+  "website": null,
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295103",
+      "name": "Karimnagar",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389542",
+      "name": "Karimnagar District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "hotelClass": "0.0",
+  "amenities": [],
+  "priceLevel": "₹",
+  "priceRange": "₹2,439 - ₹2,775",
+  "roomTips": [],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "numberOfRooms": null,
+  "categoryReviewScores": [],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/13/c9/df/26/photo3jpg.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Karimnagar,hotels"
+},
+{
+  "reviewTags": [],
+  "id": "4023410",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Specialty Lodging"
+  ],
+  "name": "Ganesh Hotel",
+  "locationString": "Karimnagar, Karimnagar District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 98857 41235",
+  "address": "H. No: 1-3-76 Opposite SBH, Koratla, Karimnagar India",
+  "addressObj": {
+    "street1": "H. No: 1-3-76",
+    "street2": "Opposite SBH, Koratla",
+    "city": "Karimnagar",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": null
+  },
+  "localName": "Ganesh Hotel",
+  "localAddress": "H. No: 1-3-76, Opposite SBH, Koratla",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 18.44302,
+  "longitude": 79.11063,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g2295103-d4023410-Reviews-Ganesh_Hotel-Karimnagar_Karimnagar_District_Telangana.html",
+  "website": null,
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295103",
+      "name": "Karimnagar",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389542",
+      "name": "Karimnagar District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "hotelClass": "0.0",
+  "amenities": [],
+  "priceLevel": null,
+  "priceRange": null,
+  "roomTips": [],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "numberOfRooms": null,
+  "categoryReviewScores": [],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/13/c9/df/26/photo3jpg.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Karimnagar,hotels"
+},
+{
+  "id": "4025984",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Specialty Lodging"
+  ],
+  "name": "City Hotel",
+  "locationString": "Karimnagar, Karimnagar District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 99497 48490",
+  "address": "Sivaji Nagar Opp. Railway Hospital, Ramagundam, Karimnagar India",
+  "addressObj": {
+    "street1": "Sivaji Nagar",
+    "street2": "Opp. Railway Hospital, Ramagundam",
+    "city": "Karimnagar",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": null
+  },
+  "localName": "City Hotel",
+  "localAddress": "Sivaji Nagar, Opp. Railway Hospital, Ramagundam",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": null,
+  "longitude": null,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g2295103-d4025984-Reviews-City_Hotel-Karimnagar_Karimnagar_District_Telangana.html",
+  "website": null,
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295103",
+      "name": "Karimnagar",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389542",
+      "name": "Karimnagar District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "hotelClass": "0.0",
+  "amenities": [],
+  "priceLevel": null,
+  "priceRange": null,
+  "roomTips": [],
+  "isNearbyResult": false,
+  "reviewTags": [],
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "numberOfRooms": null,
+  "categoryReviewScores": [],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/13/c9/df/26/photo3jpg.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Karimnagar,hotels"
+},
+{
+  "reviewTags": [],
+  "id": "7386210",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Hotel"
+  ],
+  "name": "Hotel Maitri Residency",
+  "locationString": "Karimnagar, Karimnagar District, Telangana",
+  "description": "Where Hospitality Meets Luxury & Comfort With unmatched hospitality and convenience of location, Maitri is the ideal choice for you. Whether it is a business trip or a family vacation, we put all our efforts in getting you the finest service so that you can enjoy your stay the most.",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/07/2b/b8/a1/maitri-residency.jpg",
+  "photoCount": 24,
+  "rankingPosition": 3,
+  "rating": 3.5,
+  "rawRanking": 3.068743944168091,
+  "phone": "+91 878 224 1666",
+  "address": "2-8-266 & 267, beside circus ground, Mukarampura, Karimnagar 500501 India",
+  "addressObj": {
+    "street1": "2-8-266 & 267, beside circus ground, Mukarampura",
+    "street2": null,
+    "city": "Karimnagar",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "500501"
+  },
+  "localName": "Hotel Maitri Residency",
+  "localAddress": "2-8-266 & 267, beside circus ground, Mukarampura, 500501",
+  "localLangCode": "en-IN",
+  "email": "maitrikarimnagar@gmail.com",
+  "latitude": 18.438375,
+  "longitude": 79.125984,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g2295103-d7386210-Reviews-Hotel_Maitri_Residency-Karimnagar_Karimnagar_District_Telangana.html",
+  "website": "http://www.maitriresidency.com",
+  "rankingString": "#3 of 4 hotels in Karimnagar",
+  "rankingDenominator": "4",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295103",
+      "name": "Karimnagar",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389542",
+      "name": "Karimnagar District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 1,
+    "count2": 1,
+    "count3": 6,
+    "count4": 11,
+    "count5": 3
+  },
+  "numberOfReviews": 22,
+  "hotelClass": "0.0",
+  "amenities": [
+    "Suites",
+    "Room service",
+    "Wheelchair access",
+    "Restaurant",
+    "Wifi",
+    "Breakfast included",
+    "Business center",
+    "Family Rooms",
+    "Smoking rooms available",
+    "Internet",
+    "Kids Activities",
+    "Free Internet",
+    "Free parking",
+    "Airport transportation",
+    "Free Wifi",
+    "Non-smoking rooms",
+    "Air conditioning",
+    "Refrigerator in room",
+    "Minibar",
+    "Non-smoking hotel",
+    "Flatscreen TV",
+    "Coffee / Tea Maker",
+    "Iron"
+  ],
+  "priceLevel": "₹",
+  "priceRange": "₹2,775 - ₹3,364",
+  "roomTips": [
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Rats inside the room, untidy, not a hygiene ",
+      "rating": "1",
+      "reviewId": "972746095",
+      "id": "972746095",
+      "createdTime": "2024-10-05T23:47:41-04:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Ask for rooms nearer to wifi router placed in lobby",
+      "rating": "3",
+      "reviewId": "561842720",
+      "id": "561842720",
+      "createdTime": "2018-02-20T20:53:38-05:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "If non-smoker, select the room which doesn't smell!!",
+      "rating": "2",
+      "reviewId": "544792173",
+      "id": "544792173",
+      "createdTime": "2017-12-03T04:39:28-05:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "All rooms seemed same. choosing a corner room would give you isolation from corridor noise.",
+      "rating": "3",
+      "reviewId": "271459057",
+      "id": "271459057",
+      "createdTime": "2015-05-11T21:16:21-04:00"
+    }
+  ],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "numberOfRooms": 38,
+  "categoryReviewScores": [
+    {
+      "categoryName": "Location",
+      "score": 4
+    },
+    {
+      "categoryName": "Rooms",
+      "score": 3.3
+    },
+    {
+      "categoryName": "Value",
+      "score": 4
+    },
+    {
+      "categoryName": "Cleanliness",
+      "score": 3.5
+    },
+    {
+      "categoryName": "Service",
+      "score": 3.7
+    },
+    {
+      "categoryName": "Sleep Quality",
+      "score": 2.5
+    }
+  ],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/32/1d/01/maitri-residency.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/2b/b8/a1/maitri-residency.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/2b/7d/b1/maitri-residency.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/2b/7c/d9/maitri-residency.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/2b/7b/6e/maitri-residency.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/32/1d/d9/maitri-residency.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/32/1d/c5/maitri-residency.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/32/1d/ac/maitri-residency.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/32/1d/9a/maitri-residency.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/32/1d/87/maitri-residency.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/32/1d/72/maitri-residency.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/32/1d/62/maitri-residency.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/32/1d/53/maitri-residency.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/32/1d/4a/maitri-residency.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/32/1d/3c/maitri-residency.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/32/1d/2f/maitri-residency.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/32/1d/17/maitri-residency.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/32/1c/e6/maitri-residency.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2d/b6/de/ba/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2d/b6/de/b9/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2d/b6/de/b6/caption.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Karimnagar,hotels"
+},
+{
+  "id": "4023392",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Specialty Lodging"
+  ],
+  "name": "Star Hotel",
+  "locationString": "Karimnagar, Karimnagar District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 99124 10716",
+  "address": "H.No: 5-2-379, Main Road Near Co Operative Bank, Koratla, Karimnagar India",
+  "addressObj": {
+    "street1": "H.No: 5-2-379, Main Road",
+    "street2": "Near Co Operative Bank, Koratla",
+    "city": "Karimnagar",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": null
+  },
+  "localName": "Star Hotel",
+  "localAddress": "H.No: 5-2-379, Main Road, Near Co Operative Bank, Koratla",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": null,
+  "longitude": null,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g2295103-d4023392-Reviews-Star_Hotel-Karimnagar_Karimnagar_District_Telangana.html",
+  "website": null,
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295103",
+      "name": "Karimnagar",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389542",
+      "name": "Karimnagar District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "hotelClass": "0.0",
+  "amenities": [],
+  "priceLevel": null,
+  "priceRange": null,
+  "roomTips": [],
+  "isNearbyResult": false,
+  "reviewTags": [],
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "numberOfRooms": null,
+  "categoryReviewScores": [],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/13/c9/df/26/photo3jpg.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Karimnagar,hotels"
+},
+{
+  "reviewTags": [],
+  "id": "4023252",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Specialty Lodging"
+  ],
+  "name": "Arjun Hotel",
+  "locationString": "Karimnagar, Karimnagar District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": 4,
+  "rating": 4.5,
+  "rawRanking": 3.033245325088501,
+  "phone": "+91 878 223 3108",
+  "address": "Bus Stand Road Beside Bus Stand, Karimnagar India",
+  "addressObj": {
+    "street1": "Bus Stand Road",
+    "street2": "Beside Bus Stand",
+    "city": "Karimnagar",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": null
+  },
+  "localName": "Arjun Hotel",
+  "localAddress": "Bus Stand Road, Beside Bus Stand",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 18.43537,
+  "longitude": 79.12651,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g2295103-d4023252-Reviews-Arjun_Hotel-Karimnagar_Karimnagar_District_Telangana.html",
+  "website": null,
+  "rankingString": "#4 of 10 lodges in Karimnagar",
+  "rankingDenominator": "10",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295103",
+      "name": "Karimnagar",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389542",
+      "name": "Karimnagar District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 1,
+    "count5": 1
+  },
+  "numberOfReviews": 2,
+  "hotelClass": "0.0",
+  "amenities": [
+    "Kids Activities",
+    "Restaurant"
+  ],
+  "priceLevel": null,
+  "priceRange": null,
+  "roomTips": [],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "numberOfRooms": null,
+  "categoryReviewScores": [],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/13/c9/df/26/photo3jpg.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Karimnagar,hotels"
+},
+{
+  "id": "2484481",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Specialty Lodging"
+  ],
+  "name": "Sai Leela Residency Hotel",
+  "locationString": "Karimnagar, Karimnagar District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": 10,
+  "rating": 2,
+  "rawRanking": 2.558375835418701,
+  "phone": null,
+  "address": "Godavarikhani Rajiv Highway Road Ramagundam Madalam, Karimnagar 505209 India",
+  "addressObj": {
+    "street1": "Godavarikhani Rajiv Highway Road",
+    "street2": "Ramagundam Madalam",
+    "city": "Karimnagar",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "505209"
+  },
+  "localName": "Sai Leela Residency Hotel",
+  "localAddress": "Godavarikhani Rajiv Highway Road, Ramagundam Madalam, 505209",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 18.759542,
+  "longitude": 79.481636,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g2295103-d2484481-Reviews-Sai_Leela_Residency_Hotel-Karimnagar_Karimnagar_District_Telangana.html",
+  "website": null,
+  "rankingString": "#10 of 10 lodges in Karimnagar",
+  "rankingDenominator": "10",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295103",
+      "name": "Karimnagar",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389542",
+      "name": "Karimnagar District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 4,
+    "count2": 5,
+    "count3": 1,
+    "count4": 1,
+    "count5": 0
+  },
+  "numberOfReviews": 11,
+  "hotelClass": "0.0",
+  "amenities": [
+    "Air conditioning",
+    "Restaurant"
+  ],
+  "priceLevel": "₹",
+  "priceRange": "₹841 - ₹1,430",
+  "roomTips": [
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Go to Karimnagar ,Hotel Swetha ,Excellent hotel like S Park in Khamam ,Great hotel",
+      "rating": "1",
+      "reviewId": "374843333",
+      "id": "374843333",
+      "createdTime": "2016-05-20T08:29:31-04:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "A/C rooms are only good rooms",
+      "rating": "2",
+      "reviewId": "371999220",
+      "id": "371999220",
+      "createdTime": "2016-05-11T02:16:40-04:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "2nd floor corner rooms are quite and comfortble",
+      "rating": "4",
+      "reviewId": "266355169",
+      "id": "266355169",
+      "createdTime": "2015-04-17T22:30:57-04:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "All rooms are same no choice for good room",
+      "rating": "2",
+      "reviewId": "192805224",
+      "id": "192805224",
+      "createdTime": "2014-02-01T16:37:07-05:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "no specific chice for room",
+      "rating": "3",
+      "reviewId": "190455867",
+      "id": "190455867",
+      "createdTime": "2014-01-10T18:52:14-05:00"
+    }
+  ],
+  "isNearbyResult": false,
+  "reviewTags": [],
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "numberOfRooms": null,
+  "categoryReviewScores": [
+    {
+      "categoryName": "Location",
+      "score": 2.7
+    },
+    {
+      "categoryName": "Rooms",
+      "score": 2
+    },
+    {
+      "categoryName": "Value",
+      "score": 2
+    },
+    {
+      "categoryName": "Cleanliness",
+      "score": 2
+    },
+    {
+      "categoryName": "Service",
+      "score": 2.1
+    },
+    {
+      "categoryName": "Sleep Quality",
+      "score": 2.4
+    }
+  ],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/13/c9/df/26/photo3jpg.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Karimnagar,hotels"
+}]

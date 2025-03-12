@@ -1,0 +1,2939 @@
+[{
+  "reviewTags": [
+    {
+      "text": "toilet",
+      "reviews": 2
+    }
+  ],
+  "id": "7101070",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Hotel"
+  ],
+  "name": "Hotel SM Deccan Park",
+  "locationString": "Shamshabad, Ranga Reddy District, Telangana",
+  "description": "Looking for a place to stay in Hyderabad? Then look no further than Hotel Deccan Park, a budget friendly hotel that brings the best of Hyderabad to your doorstep.\nYou’ll enjoy relaxing rooms that offer a refrigerator, air conditioning, and a sofa, and you can stay connected during your stay as Hotel Deccan Park offers guests free wifi.\nThe hotel features a 24 hour front desk, 24 hour check-in, and a concierge. Plus, Hotel Deccan Park offers breakfast, providing a pleasant respite from your busy day. For guests with a vehicle, free parking is available.\nTravelers looking for a place to eat close to Hotel Deccan Park can head to Sri Venkateshwara Bakers (0.2 mi), Deccan Spice (0.4 mi), or Food Land (0.1 mi), all of which are within walking distance.\nWe’re sure you’ll enjoy your stay at Hotel Deccan Park as you experience everything Hyderabad has to offer.\n",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/08/5a/76/e0/getlstd-property-photo.jpg",
+  "photoCount": 21,
+  "rankingPosition": 12,
+  "rating": 3,
+  "rawRanking": 2.8712620735168457,
+  "phone": "+91 73309 77077",
+  "address": "H. No. 23, 183/A, Main road Besides Royal Enfield Showroom, Madhura Nagar, Opp. Axis Bank, Near Airport, Shamshabad 501218 India",
+  "addressObj": {
+    "street1": "H. No. 23, 183/A, Main road",
+    "street2": "Besides Royal Enfield Showroom, Madhura Nagar, Opp. Axis Bank, Near Airport",
+    "city": "Shamshabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "501218"
+  },
+  "localName": "Hotel SM Deccan Park",
+  "localAddress": "H. No. 23, 183/A, Main road, Besides Royal Enfield Showroom, Madhura Nagar, Opp. Axis Bank, Near Airport, 501218",
+  "localLangCode": "en-IN",
+  "email": "Gm@smhotels.in",
+  "latitude": 17.260027,
+  "longitude": 78.3859,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g19872156-d7101070-Reviews-Hotel_SM_Deccan_Park-Shamshabad_Ranga_Reddy_District_Telangana.html",
+  "website": "http://smhotels.in/Hotel-Eagle-Grand/Default.aspx",
+  "rankingString": "#12 of 14 hotels in Shamshabad",
+  "rankingDenominator": "14",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "19872156",
+      "name": "Shamshabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389602",
+      "name": "Ranga Reddy District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 3,
+    "count2": 1,
+    "count3": 8,
+    "count4": 8,
+    "count5": 1
+  },
+  "numberOfReviews": 21,
+  "hotelClass": "0.0",
+  "amenities": [
+    "Wifi",
+    "Breakfast included",
+    "Internet",
+    "Kids Activities",
+    "Free Internet",
+    "Free parking",
+    "Restaurant",
+    "Airport transportation",
+    "Free Wifi",
+    "Dry Cleaning",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Refrigerator in room",
+    "Non-smoking hotel",
+    "Safe",
+    "Breakfast Available",
+    "Parking",
+    "Housekeeping",
+    "Air Purifier",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Blackout Curtains",
+    "Car Hire",
+    "24-Hour Check-in",
+    "Express Check-in / Check-out",
+    "Clothes Rack",
+    "Coffee / Tea Maker",
+    "Desk",
+    "Doorperson",
+    "English",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Hindi",
+    "Newspaper",
+    "Seating Area",
+    "24-Hour Security",
+    "Sofa",
+    "Soundproof Rooms",
+    "Taxi Service",
+    "Telephone",
+    "Wake Up Service / Alarm Clock"
+  ],
+  "priceLevel": "$",
+  "priceRange": "$24 - $38",
+  "roomTips": [
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Dont believe them",
+      "rating": "1",
+      "reviewId": "836128310",
+      "id": "836128310",
+      "createdTime": "2022-04-26T04:26:50-04:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Take the room towards highway side or backside...the center rooms have no ventilation.",
+      "rating": "3",
+      "reviewId": "656678906",
+      "id": "656678906",
+      "createdTime": "2019-03-05T20:31:21-05:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Take a suit room though it is costlier, you have lesser noise of main road through passing trucks all through night",
+      "rating": "4",
+      "reviewId": "651406347",
+      "id": "651406347",
+      "createdTime": "2019-02-10T23:37:03-05:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "room size is very big",
+      "rating": "3",
+      "reviewId": "411321172",
+      "id": "411321172",
+      "createdTime": "2016-08-27T01:50:15-04:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "More of a night stay or stop over on Hyderabad to Bangalore Highway or Airport.",
+      "rating": "3",
+      "reviewId": "286993326",
+      "id": "286993326",
+      "createdTime": "2015-07-08T16:15:35-04:00"
+    }
+  ],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-03",
+  "checkOutDate": "2024-11-04",
+  "numberOfRooms": 44,
+  "categoryReviewScores": [
+    {
+      "categoryName": "Location",
+      "score": 4
+    },
+    {
+      "categoryName": "Rooms",
+      "score": 3.4
+    },
+    {
+      "categoryName": "Value",
+      "score": 3.7
+    },
+    {
+      "categoryName": "Cleanliness",
+      "score": 2.3
+    },
+    {
+      "categoryName": "Service",
+      "score": 3.1
+    },
+    {
+      "categoryName": "Sleep Quality",
+      "score": 3
+    }
+  ],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/09/44/ca/6b/oyo-rooms-shamshabad.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/08/5a/76/e0/getlstd-property-photo.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/09/44/cb/61/oyo-rooms-shamshabad.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/09/44/cb/53/oyo-rooms-shamshabad.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/09/44/cb/35/oyo-rooms-shamshabad.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/09/44/cb/1c/oyo-rooms-shamshabad.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/09/44/cb/03/oyo-rooms-shamshabad.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/09/44/ca/d3/oyo-rooms-shamshabad.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/09/44/ca/af/oyo-rooms-shamshabad.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/09/44/ca/a3/oyo-rooms-shamshabad.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/09/44/ca/8c/oyo-rooms-shamshabad.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/09/44/ca/79/oyo-rooms-shamshabad.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/09/44/ca/66/oyo-rooms-shamshabad.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/09/44/ca/5c/oyo-rooms-shamshabad.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/09/44/ca/54/oyo-rooms-shamshabad.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/09/44/ca/4b/oyo-rooms-shamshabad.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/09/44/ca/3a/oyo-rooms-shamshabad.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/09/44/ca/2c/oyo-rooms-shamshabad.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/09/44/ca/21/oyo-rooms-shamshabad.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/09/44/ca/19/oyo-rooms-shamshabad.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Ranga Reddy District,hotels"
+},
+{
+  "reviewTags": [],
+  "id": "26805556",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Hotel"
+  ],
+  "name": "Hotel Rainbow Tower Shamshabad Airport Zone",
+  "locationString": "Shamshabad, Ranga Reddy District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-w/2c/bc/35/af/caption.jpg",
+  "photoCount": 21,
+  "rankingPosition": 7,
+  "rating": 5,
+  "rawRanking": 3.0436453819274902,
+  "phone": "+91 91000 23107",
+  "address": "1,8-27/2, International Airport Road Opposite:- Rajiv Gandhi International Police Station, Shamshabad 501218 India",
+  "addressObj": {
+    "street1": "1,8-27/2, International Airport Road",
+    "street2": "Opposite:- Rajiv Gandhi International Police Station",
+    "city": "Shamshabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "501218"
+  },
+  "localName": "Hotel Rainbow Tower Shamshabad Airport Zone",
+  "localAddress": "1,8-27/2, International Airport Road, Opposite:- Rajiv Gandhi International Police Station, 501218",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.265743,
+  "longitude": 78.393295,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g19872156-d26805556-Reviews-Hotel_Rainbow_Tower_Shamshabad_Airport_Zone-Shamshabad_Ranga_Reddy_District_Telanga.html",
+  "website": null,
+  "rankingString": "#7 of 14 hotels in Shamshabad",
+  "rankingDenominator": "14",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "19872156",
+      "name": "Shamshabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389602",
+      "name": "Ranga Reddy District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 1
+  },
+  "numberOfReviews": 1,
+  "hotelClass": "0.0",
+  "amenities": [],
+  "priceLevel": "$",
+  "priceRange": "$15 - $30",
+  "roomTips": [
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Excellent Hotel Room was Neat and Clean and Staff was very Friendly ",
+      "rating": "5",
+      "reviewId": "957815449",
+      "id": "957815449",
+      "createdTime": "2024-07-03T05:22:47-04:00"
+    }
+  ],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-03",
+  "checkOutDate": "2024-11-04",
+  "numberOfRooms": null,
+  "categoryReviewScores": [
+    {
+      "categoryName": "Location",
+      "score": 5
+    },
+    {
+      "categoryName": "Rooms",
+      "score": 5
+    },
+    {
+      "categoryName": "Value",
+      "score": 5
+    },
+    {
+      "categoryName": "Cleanliness",
+      "score": 5
+    },
+    {
+      "categoryName": "Service",
+      "score": 5
+    },
+    {
+      "categoryName": "Sleep Quality",
+      "score": 5
+    }
+  ],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/bc/35/af/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/bc/35/c4/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/bc/35/c3/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/bc/35/c2/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/bc/35/c1/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/bc/35/bd/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/bc/35/b9/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/bc/35/b5/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/bc/35/b3/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/bc/35/b2/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/bc/35/b1/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/bc/35/b0/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/bc/35/ae/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/bc/35/ad/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/bc/35/a9/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/bc/35/a5/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/bc/35/a0/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/bc/37/49/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/bc/37/48/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/bc/37/47/caption.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Ranga Reddy District,hotels"
+},
+{
+  "reviewTags": [],
+  "id": "27186180",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Hotel"
+  ],
+  "name": "Hotel KP Suites Airport",
+  "locationString": "Shamshabad, Ranga Reddy District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-w/2b/89/8d/6b/caption.jpg",
+  "photoCount": 1,
+  "rankingPosition": 9,
+  "rating": 5,
+  "rawRanking": 3.041857957839966,
+  "phone": null,
+  "address": "51, Rallaguda Rd, Shamshabad 501218 India",
+  "addressObj": {
+    "street1": "51, Rallaguda Rd",
+    "street2": null,
+    "city": "Shamshabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "501218"
+  },
+  "localName": "Hotel KP Suites Airport",
+  "localAddress": "51, Rallaguda Rd, 501218",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": null,
+  "longitude": null,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g19872156-d27186180-Reviews-Hotel_KP_Suites_Airport-Shamshabad_Ranga_Reddy_District_Telangana.html",
+  "website": null,
+  "rankingString": "#9 of 14 hotels in Shamshabad",
+  "rankingDenominator": "14",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "19872156",
+      "name": "Shamshabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389602",
+      "name": "Ranga Reddy District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 1
+  },
+  "numberOfReviews": 1,
+  "hotelClass": "0.0",
+  "amenities": [],
+  "priceLevel": "$",
+  "priceRange": "$20 - $24",
+  "roomTips": [
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Best Hotel at Shamshabad Airport. Budget friendly. Super friendly staff",
+      "rating": "5",
+      "reviewId": "940457109",
+      "id": "940457109",
+      "createdTime": "2024-03-01T08:16:56-05:00"
+    }
+  ],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-03",
+  "checkOutDate": "2024-11-04",
+  "numberOfRooms": null,
+  "categoryReviewScores": [
+    {
+      "categoryName": "Location",
+      "score": 5
+    },
+    {
+      "categoryName": "Value",
+      "score": 5
+    },
+    {
+      "categoryName": "Service",
+      "score": 5
+    }
+  ],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/89/8d/6b/caption.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Ranga Reddy District,hotels"
+},
+{
+  "reviewTags": [],
+  "id": "28201636",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Specialty Lodging"
+  ],
+  "name": "Hotel Atlas Stays @ DLF Gachibowli",
+  "locationString": "Gachibowli, Ranga Reddy District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": 1,
+  "rating": 5,
+  "rawRanking": 3.0450925827026367,
+  "phone": "+91 81218 33005",
+  "address": "Street No. 3 Opposite DLF Main Gate, Opposite Lane, APHB Colony, Jayabheri Enclave, Gachibowli 500032 India",
+  "addressObj": {
+    "street1": "Street No. 3",
+    "street2": "Opposite DLF Main Gate, Opposite Lane, APHB Colony, Jayabheri Enclave",
+    "city": "Gachibowli",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "500032"
+  },
+  "localName": "Hotel Atlas Stays @ DLF Gachibowli",
+  "localAddress": "Street No. 3, Opposite DLF Main Gate, Opposite Lane, APHB Colony, Jayabheri Enclave, 500032",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.45068,
+  "longitude": 78.35691,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g25347266-d28201636-Reviews-Hotel_Atlas_Stays_DLF_Gachibowli-Gachibowli_Ranga_Reddy_District_Telangana.html",
+  "website": null,
+  "rankingString": "#1 of 1 special hotel in Gachibowli",
+  "rankingDenominator": "1",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "25347266",
+      "name": "Gachibowli",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389602",
+      "name": "Ranga Reddy District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 1
+  },
+  "numberOfReviews": 1,
+  "hotelClass": "0.0",
+  "amenities": [],
+  "priceLevel": "$",
+  "priceRange": "$19 - $30",
+  "roomTips": [],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-03",
+  "checkOutDate": "2024-11-04",
+  "numberOfRooms": null,
+  "categoryReviewScores": [],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/12/3f/9a/ad/the-top-view-of-the-entrance.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Ranga Reddy District,hotels"
+},
+{
+  "id": "23519912",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Hotel"
+  ],
+  "name": "Hotel Sky park",
+  "locationString": "Shamshabad, Ranga Reddy District, Telangana",
+  "description": "Hotel Sky Park is a budget hotel and it is the nearest hotel from Hyderabad Airport (Approx 6Km). This property is an ideal place for both business as well as leisure travellers. The nearest Airport is Rajiv Gandhi International Airport. Hotel Sky Park is one of the best comfortable budget and modern hotels in Hyderabad near Hyderabad Airport that offers comfortable accommodation at an reasonable price. The hotel has 24 spacious rooms that are segmented into Executive room and Premium room. All the rooms are spacious and airy and complete with modern amenities and essential bath amenities and toiletries. Hotel Sky Park is very much suitable for families . solo traveller , Business Traveller and for the Students as well. This ensures our guests' enjoy their stay at the hotel. Hotel Sky Park offers you 24Hourrs check-in/Check-out",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/21/f4/d4/1c/hotel-sky-park.jpg",
+  "photoCount": 4,
+  "rankingPosition": 6,
+  "rating": 5,
+  "rawRanking": 3.0596282482147217,
+  "phone": "+91 87907 40851",
+  "address": "H.No: 23, 1-156/1, Shamshabad 501218 India",
+  "addressObj": {
+    "street1": "H.No: 23, 1-156/1",
+    "street2": null,
+    "city": "Shamshabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "501218"
+  },
+  "localName": "Hotel Sky park",
+  "localAddress": "H.No: 23, 1-156/1, 501218",
+  "localLangCode": "en-IN",
+  "email": "contact@Hotelskypark.in",
+  "latitude": 17.260883,
+  "longitude": 78.38567,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g19872156-d23519912-Reviews-Hotel_Sky_park-Shamshabad_Ranga_Reddy_District_Telangana.html",
+  "website": "https://hotelskypark.in/",
+  "rankingString": "#6 of 14 hotels in Shamshabad",
+  "rankingDenominator": "14",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "19872156",
+      "name": "Shamshabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389602",
+      "name": "Ranga Reddy District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 2
+  },
+  "numberOfReviews": 2,
+  "hotelClass": "0.0",
+  "amenities": [],
+  "priceLevel": "$",
+  "priceRange": "$23 - $39",
+  "roomTips": [],
+  "isNearbyResult": false,
+  "reviewTags": [],
+  "checkInDate": "2024-11-03",
+  "checkOutDate": "2024-11-04",
+  "numberOfRooms": null,
+  "categoryReviewScores": [],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/1d/50/7e/2f/prremium-room.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/21/f4/d4/1c/hotel-sky-park.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1d/50/7e/3f/lounge.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1d/50/7e/39/corridore.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Ranga Reddy District,hotels"
+},
+{
+  "reviewTags": [],
+  "id": "21047322",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Bed and Breakfast"
+  ],
+  "name": "Village Farmville - Farmhouse For Pool Parties",
+  "locationString": "Chinnashapur, Ranga Reddy District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1c/6e/fe/20/village-farmville-farmhouse.jpg",
+  "photoCount": 10,
+  "rankingPosition": 1,
+  "rating": 5,
+  "rawRanking": 3.0569422245025635,
+  "phone": null,
+  "address": "32/e, Chinnashapur 501504 India",
+  "addressObj": {
+    "street1": "32/e",
+    "street2": null,
+    "city": "Chinnashapur",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "501504"
+  },
+  "localName": "Village Farmville - Farmhouse For Pool Parties",
+  "localAddress": "32/e, 501504",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.321016,
+  "longitude": 78.24021,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g21047611-d21047322-Reviews-Village_Farmville_Farmhouse_For_Pool_Parties-Chinnashapur_Ranga_Reddy_District_Tela.html",
+  "website": null,
+  "rankingString": "#1 of 1 inn in Chinnashapur",
+  "rankingDenominator": "1",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "21047611",
+      "name": "Chinnashapur",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389602",
+      "name": "Ranga Reddy District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 2
+  },
+  "numberOfReviews": 2,
+  "hotelClass": "0.0",
+  "amenities": [],
+  "priceLevel": null,
+  "priceRange": null,
+  "roomTips": [],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-03",
+  "checkOutDate": "2024-11-04",
+  "numberOfRooms": null,
+  "categoryReviewScores": [
+    {
+      "categoryName": "Rooms",
+      "score": 5
+    },
+    {
+      "categoryName": "Service",
+      "score": 5
+    },
+    {
+      "categoryName": "Sleep Quality",
+      "score": 5
+    }
+  ],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/6e/fe/18/village-farmville-farmhouse.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/6e/fe/20/village-farmville-farmhouse.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/6e/fe/1b/village-farmville-farmhouse.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/6e/fe/1a/village-farmville-farmhouse.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/6e/fe/19/village-farmville-farmhouse.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/6e/fe/15/village-farmville-farmhouse.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/6e/fe/14/village-farmville-farmhouse.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/6e/fe/13/village-farmville-farmhouse.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/6e/fe/12/village-farmville-farmhouse.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/6e/fe/11/village-farmville-farmhouse.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Ranga Reddy District,hotels"
+},
+{
+  "reviewTags": [],
+  "id": "26370390",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Hotel"
+  ],
+  "name": "Hotel MN Grand",
+  "locationString": "Shamshabad, Ranga Reddy District, Telangana",
+  "description": "The Hotel MN Grand Airport Zone shamshabad Hyderabad, You have a choice of superbly done up 40 rooms, which are the ultimate in comfort and elegance. The 22 Grand Classic, 14 Grand Superior, 4 Grand triple are ultimate in comfort and elegance. Hotel MN Grand Airport Zone shamshabad Hyderabad is the right choice for who are searching for a combination of charm, peace and quiet, and a convenient position from which to explore Shamshabad Airport and Hyderabad. It is well-designed, comfortable hotel, situated at Shamshabad International Airport Zone. The Fortune hotel staff offer an attentive, personalised service and are always available to offer any help to guests.",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/2c/33/76/8c/caption.jpg",
+  "photoCount": 20,
+  "rankingPosition": 1,
+  "rating": 5,
+  "rawRanking": 3.1449122428894043,
+  "phone": null,
+  "address": "23-113, Airport Road Madhura Nagar, Beside Hotel Yes Bawarchi, Shamshabad 501218 India",
+  "addressObj": {
+    "street1": "23-113, Airport Road",
+    "street2": "Madhura Nagar, Beside Hotel Yes Bawarchi",
+    "city": "Shamshabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "501218"
+  },
+  "localName": "Hotel MN Grand",
+  "localAddress": "23-113, Airport Road, Madhura Nagar, Beside Hotel Yes Bawarchi, 501218",
+  "localLangCode": "en-IN",
+  "email": "can't verify email",
+  "latitude": 17.47106,
+  "longitude": 78.59992,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g19872156-d26370390-Reviews-Hotel_MN_Grand-Shamshabad_Ranga_Reddy_District_Telangana.html",
+  "website": null,
+  "rankingString": "#1 of 14 hotels in Shamshabad",
+  "rankingDenominator": "14",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "19872156",
+      "name": "Shamshabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389602",
+      "name": "Ranga Reddy District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 4
+  },
+  "numberOfReviews": 4,
+  "hotelClass": "2.0",
+  "hotelClassAttribution": "This property is classified according to Giata.",
+  "amenities": [
+    "Room service",
+    "Free Internet",
+    "Free parking",
+    "Wheelchair access",
+    "Restaurant",
+    "Airport transportation",
+    "Wifi",
+    "Free Wifi",
+    "Breakfast included",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Air conditioning",
+    "Family Rooms",
+    "Smoking rooms available",
+    "Safe",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Parking",
+    "Housekeeping",
+    "Allergy-free Room",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Cable / Satellite TV",
+    "Car Hire",
+    "24-Hour Check-in",
+    "Express Check-in / Check-out",
+    "Clothes Rack",
+    "Coffee / Tea Maker",
+    "Desk",
+    "Dining Area",
+    "Electric Blanket",
+    "Electric Kettle",
+    "English",
+    "Fireplace",
+    "First Aid Kit",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Hindi",
+    "Ironing Service",
+    "Private Bathrooms",
+    "Private Check-in / Check-out",
+    "Paid Private Parking Nearby",
+    "Seating Area",
+    "24-Hour Security",
+    "Secured Parking",
+    "Shared Lounge / TV Area",
+    "Sofa",
+    "Soundproof Rooms",
+    "Sun Umbrellas",
+    "Taxi Service",
+    "Telephone",
+    "Umbrella",
+    "Wake Up Service / Alarm Clock",
+    "Wardrobe / Closet"
+  ],
+  "priceLevel": "$",
+  "priceRange": "$24 - $40",
+  "roomTips": [
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Budget hotel good one",
+      "rating": "5",
+      "reviewId": "963597540",
+      "id": "963597540",
+      "createdTime": "2024-08-07T01:25:41-04:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Everything is good at hotel ",
+      "rating": "5",
+      "reviewId": "963454447",
+      "id": "963454447",
+      "createdTime": "2024-08-06T03:06:40-04:00"
+    }
+  ],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-03",
+  "checkOutDate": "2024-11-04",
+  "numberOfRooms": 40,
+  "categoryReviewScores": [
+    {
+      "categoryName": "Location",
+      "score": 5
+    },
+    {
+      "categoryName": "Rooms",
+      "score": 5
+    },
+    {
+      "categoryName": "Value",
+      "score": 5
+    },
+    {
+      "categoryName": "Cleanliness",
+      "score": 5
+    },
+    {
+      "categoryName": "Service",
+      "score": 5
+    },
+    {
+      "categoryName": "Sleep Quality",
+      "score": 5
+    }
+  ],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/33/76/94/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/33/83/bc/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/33/76/9b/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/33/76/9a/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/33/76/99/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/33/76/98/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/33/76/97/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/33/76/96/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/33/76/95/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/33/76/93/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/33/76/92/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/33/76/91/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/33/76/90/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/33/76/8f/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/33/76/8e/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/33/76/8d/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/33/76/8c/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/33/76/8a/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/33/76/89/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/33/76/88/caption.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Ranga Reddy District,hotels"
+},
+{
+  "id": "735832",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Hotel"
+  ],
+  "name": "Mount Opera Amusement Park and Resort",
+  "locationString": "Batasingaram, Ranga Reddy District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/01/c7/83/47/mount-opera-star-resort.jpg",
+  "photoCount": 9,
+  "rankingPosition": 1,
+  "rating": 3,
+  "rawRanking": 3.0111196041107178,
+  "phone": "+91 40 3041 2345",
+  "address": "Hyderabad -Vijayawada Highway, Batasingaram 501512 India",
+  "addressObj": {
+    "street1": "Hyderabad -Vijayawada Highway",
+    "street2": "",
+    "city": "Batasingaram",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "501512"
+  },
+  "localName": "Mount Opera Amusement Park and Resort",
+  "localAddress": "Hyderabad -Vijayawada Highway, 501512",
+  "localLangCode": "en-IN",
+  "email": "info@mountopera.in",
+  "latitude": 17.30687,
+  "longitude": 78.70911,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g12486856-d735832-Reviews-Mount_Opera_Amusement_Park_and_Resort-Batasingaram_Ranga_Reddy_District_Telangana.html",
+  "website": "http://mountopera.in/",
+  "rankingString": "#1 of 1 hotels in Batasingaram",
+  "rankingDenominator": "1",
+  "neighborhoodLocations": [
+    {
+      "id": "21002064",
+      "name": "Banjara Hills"
+    }
+  ],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "12486856",
+      "name": "Batasingaram",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389602",
+      "name": "Ranga Reddy District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 1,
+    "count2": 2,
+    "count3": 2,
+    "count4": 2,
+    "count5": 1
+  },
+  "numberOfReviews": 8,
+  "hotelClass": "0.0",
+  "amenities": [
+    "Restaurant",
+    "Bar/Lounge",
+    "Business center",
+    "Fitness center",
+    "Indoor Play Area for Children"
+  ],
+  "priceLevel": "$",
+  "priceRange": "$24 - $36",
+  "roomTips": [
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "be at top floor.",
+      "rating": "5",
+      "reviewId": "430048434",
+      "id": "430048434",
+      "createdTime": "2016-10-20T08:35:24-04:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Cottages and suite rooms are better and have openness around them.",
+      "rating": "4",
+      "reviewId": "125268104",
+      "id": "125268104",
+      "createdTime": "2012-02-26T22:44:06-05:00"
+    }
+  ],
+  "isNearbyResult": false,
+  "reviewTags": [],
+  "checkInDate": "2024-11-03",
+  "checkOutDate": "2024-11-04",
+  "numberOfRooms": 49,
+  "categoryReviewScores": [
+    {
+      "categoryName": "Location",
+      "score": 2.8
+    },
+    {
+      "categoryName": "Rooms",
+      "score": 3.5
+    },
+    {
+      "categoryName": "Value",
+      "score": 2.7
+    },
+    {
+      "categoryName": "Cleanliness",
+      "score": 2.3
+    },
+    {
+      "categoryName": "Service",
+      "score": 2.8
+    },
+    {
+      "categoryName": "Sleep Quality",
+      "score": 4
+    }
+  ],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/0d/5e/61/69/great-waves.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/01/c7/82/18/mount-opera-star-resort.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/01/c7/83/47/mount-opera-star-resort.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/01/c7/86/6c/mount-opera-star-resort.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0e/32/68/fd/photo4jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0e/32/68/fc/photo3jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0e/32/68/fb/photo2jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0e/32/68/fa/photo1jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0e/32/68/f9/photo0jpg.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Ranga Reddy District,hotels"
+},
+{
+  "reviewTags": [],
+  "id": "25268166",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Hotel"
+  ],
+  "name": "Hotel Park Airport Zone",
+  "locationString": "Shamshabad, Ranga Reddy District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-w/2b/d3/c0/b3/caption.jpg",
+  "photoCount": 1,
+  "rankingPosition": 5,
+  "rating": 5,
+  "rawRanking": 3.064967632293701,
+  "phone": "011919666212345",
+  "address": "11-28/1, Airport Road Bus Stand, Opp. RGIA Shamshabad, Shamshabad 501218 India",
+  "addressObj": {
+    "street1": "11-28/1, Airport Road",
+    "street2": "Bus Stand, Opp. RGIA Shamshabad",
+    "city": "Shamshabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "501218"
+  },
+  "localName": "Hotel Park Airport Zone",
+  "localAddress": "11-28/1, Airport Road, Bus Stand, Opp. RGIA Shamshabad, 501218",
+  "localLangCode": "en-IN",
+  "email": "info@hotelsignaturegroup.com",
+  "latitude": 17.260977,
+  "longitude": 78.38933,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g19872156-d25268166-Reviews-Hotel_Park_Airport_Zone-Shamshabad_Ranga_Reddy_District_Telangana.html",
+  "website": "http://www.hotelparkhyd.com",
+  "rankingString": "#5 of 14 hotels in Shamshabad",
+  "rankingDenominator": "14",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "19872156",
+      "name": "Shamshabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389602",
+      "name": "Ranga Reddy District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 2
+  },
+  "numberOfReviews": 2,
+  "hotelClass": "3.0",
+  "hotelClassAttribution": "This property is classified according to Giata.",
+  "amenities": [
+    "Free Internet",
+    "Free parking",
+    "Restaurant",
+    "Airport transportation",
+    "Wifi",
+    "Free Wifi",
+    "Breakfast included",
+    "Breakfast Available",
+    "Parking",
+    "Breakfast in the Room",
+    "Car Hire",
+    "24-Hour Check-in",
+    "Express Check-in / Check-out",
+    "Free Wifi in the Business Center",
+    "24-Hour Front Desk",
+    "Parking Garage",
+    "24-Hour Security",
+    "Taxi Service"
+  ],
+  "priceLevel": "$",
+  "priceRange": "$24 - $40",
+  "roomTips": [],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-03",
+  "checkOutDate": "2024-11-04",
+  "numberOfRooms": null,
+  "categoryReviewScores": [
+    {
+      "categoryName": "Location",
+      "score": 5
+    },
+    {
+      "categoryName": "Rooms",
+      "score": 5
+    },
+    {
+      "categoryName": "Value",
+      "score": 5
+    },
+    {
+      "categoryName": "Cleanliness",
+      "score": 5
+    },
+    {
+      "categoryName": "Service",
+      "score": 5
+    },
+    {
+      "categoryName": "Sleep Quality",
+      "score": 5
+    }
+  ],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/d3/c0/b3/caption.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Ranga Reddy District,hotels"
+},
+{
+  "reviewTags": [],
+  "id": "27687498",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Hotel"
+  ],
+  "name": "Hotel Fortune Hyderabad Airport Zone",
+  "locationString": "Shamshabad, Ranga Reddy District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": 4,
+  "rating": 4,
+  "rawRanking": 3.1003005504608154,
+  "phone": "+91 90326 20582",
+  "address": "1-11-62/1/2, International Airport Road Opposite Bajaj Electronics, Shamshabad 501218 India",
+  "addressObj": {
+    "street1": "1-11-62/1/2, International Airport Road",
+    "street2": "Opposite Bajaj Electronics",
+    "city": "Shamshabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "501218"
+  },
+  "localName": "Hotel Fortune Hyderabad Airport Zone",
+  "localAddress": "1-11-62/1/2, International Airport Road, Opposite Bajaj Electronics, 501218",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.263096,
+  "longitude": 78.3913,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g19872156-d27687498-Reviews-Hotel_Fortune_Hyderabad_Airport_Zone-Shamshabad_Ranga_Reddy_District_Telangana.html",
+  "website": null,
+  "rankingString": "#4 of 14 hotels in Shamshabad",
+  "rankingDenominator": "14",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "19872156",
+      "name": "Shamshabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389602",
+      "name": "Ranga Reddy District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 1,
+    "count2": 1,
+    "count3": 0,
+    "count4": 0,
+    "count5": 5
+  },
+  "numberOfReviews": 7,
+  "hotelClass": "0.0",
+  "amenities": [],
+  "priceLevel": "$",
+  "priceRange": "$28 - $38",
+  "roomTips": [
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Please do not book this hotel is a sincere request to all family going. Agoda app is one of the worst app as they do not resolve your issue.",
+      "rating": "1",
+      "reviewId": "954514250",
+      "id": "954514250",
+      "createdTime": "2024-06-10T04:43:59-04:00"
+    }
+  ],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-03",
+  "checkOutDate": "2024-11-04",
+  "numberOfRooms": null,
+  "categoryReviewScores": [
+    {
+      "categoryName": "Location",
+      "score": 4.2
+    },
+    {
+      "categoryName": "Rooms",
+      "score": 3.8
+    },
+    {
+      "categoryName": "Value",
+      "score": 3.8
+    },
+    {
+      "categoryName": "Cleanliness",
+      "score": 3.8
+    },
+    {
+      "categoryName": "Service",
+      "score": 3.8
+    },
+    {
+      "categoryName": "Sleep Quality",
+      "score": 4
+    }
+  ],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/2a/37/da/4b/exterior.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Ranga Reddy District,hotels"
+},
+{
+  "id": "968368",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Hotel"
+  ],
+  "name": "Ellaa Hotel",
+  "locationString": "Gachibowli, Ranga Reddy District, Telangana",
+  "description": "Ellaa Hotel is located in Hyderabad IT centre GACHIBOWLI, HITECH CITY, Financial business district and is well connected to Hyderabad International Convention Centre (HICC) and World class exhibition centre (HITEX). The hotel is 30 minutes drive from The Rajiv Gandhi International Airport. It has been designed to provide a comfortable and business-friendly environment for the business traveller. Key features are spacious rooms, Suits, Hi-speed internet, Wi-Fi enabled rooms, international restaurants namely Italia and Alchemy, Multicusine restaurant Indus, Speciality Restaurant-Kebab Pavilion, Rocks Bar, and 24 hours gym facilities.",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0d/e0/ab/43/ellaa-hotels.jpg",
+  "photoCount": 594,
+  "rankingPosition": 2,
+  "rating": 4.5,
+  "rawRanking": 4.6560587882995605,
+  "phone": "+91 40 6628 8488",
+  "address": "2-55, ISB Rd Hill Ridge Springs, Gachibowli 500032 India",
+  "addressObj": {
+    "street1": "2-55, ISB Rd",
+    "street2": "Hill Ridge Springs",
+    "city": "Gachibowli",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "500032"
+  },
+  "localName": "Ellaa Hotel",
+  "localAddress": "2-55, ISB Rd, Hill Ridge Springs, 500032",
+  "localLangCode": "en-IN",
+  "email": "info@ellaahotels.com",
+  "latitude": 17.441654,
+  "longitude": 78.344795,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g25347266-d968368-Reviews-Ellaa_Hotel-Gachibowli_Ranga_Reddy_District_Telangana.html",
+  "website": "https://www.facebook.com/ellaahotels/",
+  "rankingString": "#2 of 2 hotels in Gachibowli",
+  "rankingDenominator": "2",
+  "neighborhoodLocations": [
+    {
+      "id": "13087968",
+      "name": "Hi-tech City/Gachibowli"
+    }
+  ],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "25347266",
+      "name": "Gachibowli",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389602",
+      "name": "Ranga Reddy District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 34,
+    "count2": 36,
+    "count3": 89,
+    "count4": 245,
+    "count5": 977
+  },
+  "numberOfReviews": 1381,
+  "hotelClass": "5.0",
+  "hotelClassAttribution": "This property is classified according to Giata.",
+  "amenities": [
+    "Pool",
+    "Room service",
+    "Business center",
+    "Fitness center",
+    "Restaurant",
+    "Internet",
+    "Free Internet",
+    "Wifi",
+    "Free Wifi",
+    "Free parking",
+    "Bar/Lounge",
+    "Breakfast included",
+    "Suites",
+    "Wheelchair access",
+    "Kitchenette",
+    "Spa",
+    "Airport transportation",
+    "Public Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Hot Tub",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Self-Serve Laundry",
+    "Smoking rooms available",
+    "Refrigerator in room",
+    "Conference Facilities",
+    "Safe",
+    "Heated pool",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Indoor pool",
+    "Butler Service",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Stay Free",
+    "Baggage Storage",
+    "Breakfast in the Room",
+    "Car Hire",
+    "Currency Exchange",
+    "English",
+    "Fitness / Spa Locker Rooms",
+    "24-Hour Front Desk",
+    "Hindi",
+    "Ironing Service",
+    "Massage",
+    "Newspaper",
+    "Salon",
+    "24-Hour Security",
+    "Steam Room",
+    "Taxi Service",
+    "VIP Room Facilities",
+    "Minibar",
+    "Breakfast Available"
+  ],
+  "priceLevel": "$$",
+  "priceRange": "$70 - $180",
+  "roomTips": [
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Maintain more cleanliness and introduce magic pin for the the candlelight dinner.",
+      "rating": "5",
+      "reviewId": "950645851",
+      "id": "950645851",
+      "createdTime": "2024-05-13T00:11:48-04:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Keep expectations low and see if you really wanna pay a high price just for a good location. I paid 17k for 2 nights and it was total waste.",
+      "rating": "1",
+      "reviewId": "924809343",
+      "id": "924809343",
+      "createdTime": "2023-11-06T07:24:19-05:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Plz do avoid this hotel for sure",
+      "rating": "1",
+      "reviewId": "921664672",
+      "id": "921664672",
+      "createdTime": "2023-10-16T22:23:08-04:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Old things need to replace like shower, some door are not good",
+      "rating": "5",
+      "reviewId": "907914688",
+      "id": "907914688",
+      "createdTime": "2023-08-04T19:48:59-04:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "its good experience to visit this hotel the staff have very helpfull so they have good",
+      "rating": "5",
+      "reviewId": "896462004",
+      "id": "896462004",
+      "createdTime": "2023-06-21T05:58:45-04:00"
+    }
+  ],
+  "isNearbyResult": false,
+  "reviewTags": [
+    {
+      "text": "special thanks",
+      "reviews": 111
+    },
+    {
+      "text": "front office",
+      "reviews": 75
+    },
+    {
+      "text": "duty manager",
+      "reviews": 75
+    },
+    {
+      "text": "value for money",
+      "reviews": 54
+    },
+    {
+      "text": "room service",
+      "reviews": 55
+    },
+    {
+      "text": "swimming pool",
+      "reviews": 44
+    },
+    {
+      "text": "courteous staff",
+      "reviews": 20
+    },
+    {
+      "text": "thank you so much",
+      "reviews": 16
+    },
+    {
+      "text": "house keeping",
+      "reviews": 15
+    },
+    {
+      "text": "great experience",
+      "reviews": 20
+    },
+    {
+      "text": "very nice stay",
+      "reviews": 14
+    },
+    {
+      "text": "spacious rooms",
+      "reviews": 14
+    },
+    {
+      "text": "candle light dinner",
+      "reviews": 46
+    },
+    {
+      "text": "will visit again",
+      "reviews": 57
+    },
+    {
+      "text": "special mention",
+      "reviews": 38
+    },
+    {
+      "text": "excellent service",
+      "reviews": 34
+    },
+    {
+      "text": "indus restaurant",
+      "reviews": 31
+    },
+    {
+      "text": "kebab",
+      "reviews": 21
+    },
+    {
+      "text": "business hotel",
+      "reviews": 21
+    },
+    {
+      "text": "great hospitality",
+      "reviews": 20
+    },
+    {
+      "text": "living room",
+      "reviews": 17
+    },
+    {
+      "text": "friends and family",
+      "reviews": 14
+    },
+    {
+      "text": "hyderabad",
+      "reviews": 259
+    },
+    {
+      "text": "ambience",
+      "reviews": 165
+    },
+    {
+      "text": "services",
+      "reviews": 106
+    },
+    {
+      "text": "mr",
+      "reviews": 123
+    },
+    {
+      "text": "team",
+      "reviews": 98
+    },
+    {
+      "text": "requirements",
+      "reviews": 23
+    },
+    {
+      "text": "mark",
+      "reviews": 20
+    },
+    {
+      "text": "customers",
+      "reviews": 32
+    }
+  ],
+  "checkInDate": "2024-11-03",
+  "checkOutDate": "2024-11-04",
+  "numberOfRooms": 117,
+  "categoryReviewScores": [
+    {
+      "categoryName": "Location",
+      "score": 4.2
+    },
+    {
+      "categoryName": "Rooms",
+      "score": 4.2
+    },
+    {
+      "categoryName": "Value",
+      "score": 4.3
+    },
+    {
+      "categoryName": "Cleanliness",
+      "score": 4.1
+    },
+    {
+      "categoryName": "Service",
+      "score": 4.1
+    },
+    {
+      "categoryName": "Sleep Quality",
+      "score": 4.2
+    }
+  ],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/0d/e0/ac/2e/ellaa-hotels.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0d/e0/ab/43/ellaa-hotels.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0d/e0/aa/79/ellaa-hotels.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0d/e0/a9/2c/ellaa-hotels.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0d/e0/af/93/ellaa-hotels.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0d/e0/ae/8f/ellaa-hotels.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0d/e0/ae/70/ellaa-hotels.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/01/c3/ee/0d/ellaa-suites.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0d/e0/af/76/ellaa-hotels.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0d/e0/ae/f3/ellaa-hotels.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0d/e0/ae/d4/ellaa-hotels.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0d/e0/ae/af/ellaa-hotels.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0d/e0/ae/a3/ellaa-hotels.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0d/e0/ae/84/ellaa-hotels.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0d/e0/ae/7a/ellaa-hotels.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0d/e0/ad/3c/ellaa-hotels.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0d/e0/ad/2d/ellaa-hotels.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0d/e0/ad/0d/ellaa-hotels.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0d/e0/ac/fd/ellaa-hotels.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0d/e0/ac/56/ellaa-hotels.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0d/e0/ac/44/ellaa-hotels.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/c4/d8/2a/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/10/bc/a4/0b/ellaa-hotel.jpg"
+  ],
+  "travelerChoiceAward": "REGULAR_AWARD",
+  "input": "Telangana,Ranga Reddy District,hotels"
+},
+{
+  "reviewTags": [
+    {
+      "text": "big pool",
+      "reviews": 4
+    },
+    {
+      "text": "restaurant staff",
+      "reviews": 3
+    },
+    {
+      "text": "villa",
+      "reviews": 18
+    },
+    {
+      "text": "privacy",
+      "reviews": 8
+    },
+    {
+      "text": "mr",
+      "reviews": 8
+    }
+  ],
+  "id": "4563220",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Bed and Breakfast"
+  ],
+  "name": "Palm Exotica Resort and Convention Centre",
+  "locationString": "Parveda Khalsa, Ranga Reddy District, Telangana",
+  "description": "Palm Exotica Boutique Resort & Spa set on the Highlands of Shankarpally Hyderabad is an eco-friendly unique luxury holiday resort with elevated landscape, a bird's eye view of the 9 hole Golf course, Meditation pavilions, Ornamental pools and lush green gardens. The resort will charm you with its spectacular panoramic views, unparalleled choice of accommodation with privatized pools, dining experiences, recreational activities, adventure sports, Spa, banquets, international standard day night Cricket Stadium and a 9 hole golf course while maintaining idyllic refuges of relaxation to create the perfect balance for a holiday in paradise, perfect for families, honeymooners and Corporate alike. Palm Exotica is committed and emphasizes on offering our guests an experience that keeps all ages happy away from the hustle and bustle of the city life, yet not far off from the city making it easily accessible for a quick rejuvenating getaway. Our team, renowned for their warmth and heartfelt hospitality, look forward to welcoming you to Palm Exotica, a home away from home where you can arrive as a guest and leave as a friend.",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/05/42/09/8f/palm-exotica-boutique.jpg",
+  "photoCount": 272,
+  "rankingPosition": 1,
+  "rating": 3.5,
+  "rawRanking": 3.141589641571045,
+  "phone": "+91 40 4004 1111",
+  "address": "Sy. No. 125, Masaniguda Village, Parveda Khalsa 501203 India",
+  "addressObj": {
+    "street1": "Sy. No. 125, Masaniguda Village",
+    "street2": null,
+    "city": "Parveda Khalsa",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "501203"
+  },
+  "localName": "Palm Exotica Resort and Convention Centre",
+  "localAddress": "Sy. No. 125, Masaniguda Village, 501203",
+  "localLangCode": "en-IN",
+  "email": "reservations@palmexotica.com",
+  "latitude": 17.409163,
+  "longitude": 78.11171,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g27462946-d4563220-Reviews-Palm_Exotica_Resort_and_Convention_Centre-Parveda_Khalsa_Ranga_Reddy_District_Telang.html",
+  "website": "http://www.palmexotica.com/",
+  "rankingString": "#1 of 1 small hotel in Parveda Khalsa",
+  "rankingDenominator": "1",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "27462946",
+      "name": "Parveda Khalsa",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389602",
+      "name": "Ranga Reddy District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 51,
+    "count2": 11,
+    "count3": 33,
+    "count4": 59,
+    "count5": 82
+  },
+  "numberOfReviews": 236,
+  "hotelClass": "0.0",
+  "amenities": [
+    "Restaurant",
+    "Spa",
+    "Fitness center",
+    "Pool",
+    "Kids Activities",
+    "Suites",
+    "Room service",
+    "Free parking",
+    "Breakfast included",
+    "Air conditioning",
+    "Conference Facilities",
+    "Flatscreen TV",
+    "Water Park",
+    "Breakfast Buffet",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Wifi",
+    "Paid Wifi",
+    "Paid Internet",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Family Rooms",
+    "Refrigerator in room",
+    "Baggage Storage"
+  ],
+  "priceLevel": "$",
+  "priceRange": "$76 - $100",
+  "roomTips": [
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Must visit place for all age groups.",
+      "rating": "5",
+      "reviewId": "875796439",
+      "id": "875796439",
+      "createdTime": "2023-01-20T20:22:58-05:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Good parking facilities, Convention centre next door. Water park closeby. Book before hand. ",
+      "rating": "4",
+      "reviewId": "843988745",
+      "id": "843988745",
+      "createdTime": "2022-06-22T01:55:51-04:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Pls avoid this dilapidated place altogether!",
+      "rating": "1",
+      "reviewId": "822908212",
+      "id": "822908212",
+      "createdTime": "2021-12-24T02:28:10-05:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Pool side rooms and Tree house are best.",
+      "rating": "4",
+      "reviewId": "744769162",
+      "id": "744769162",
+      "createdTime": "2020-02-12T21:24:12-05:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Beautiful views, Supperb Ambiance and great food nd service",
+      "rating": "5",
+      "reviewId": "713085306",
+      "id": "713085306",
+      "createdTime": "2019-09-26T02:58:48-04:00"
+    }
+  ],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-03",
+  "checkOutDate": "2024-11-04",
+  "numberOfRooms": 56,
+  "categoryReviewScores": [
+    {
+      "categoryName": "Location",
+      "score": 3.8
+    },
+    {
+      "categoryName": "Rooms",
+      "score": 4.3
+    },
+    {
+      "categoryName": "Value",
+      "score": 3.4
+    },
+    {
+      "categoryName": "Cleanliness",
+      "score": 4.3
+    },
+    {
+      "categoryName": "Service",
+      "score": 3.7
+    },
+    {
+      "categoryName": "Sleep Quality",
+      "score": 4.3
+    }
+  ],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/05/ad/c0/df/palm-exotica-boutique.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/05/42/09/8f/palm-exotica-boutique.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/05/c2/12/80/palm-exotica-boutique.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/05/ae/26/47/palm-exotica-boutique.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/05/ae/26/44/palm-exotica-boutique.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/05/ad/ee/70/palm-exotica-boutique.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/05/ad/ed/df/palm-exotica-boutique.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/05/ad/eb/ac/palm-exotica-boutique.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/05/ad/eb/6c/palm-exotica-boutique.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/05/ad/c1/87/palm-exotica-boutique.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/05/ad/c1/73/palm-exotica-boutique.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/05/ad/c1/6b/palm-exotica-boutique.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/05/ad/c0/3f/palm-exotica-boutique.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/05/ad/c0/35/palm-exotica-boutique.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/05/42/09/8b/palm-exotica-boutique.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/05/1a/16/c0/palm-exotica-boutique.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/05/1a/15/fc/palm-exotica-boutique.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/05/1a/15/fb/palm-exotica-boutique.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/05/1a/15/f9/palm-exotica-boutique.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/05/42/09/7c/palm-exotica-boutique.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/05/d5/fc/c7/palm-exotica-boutique.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/4f/7a/a1/palm-exotica-boutique.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/15/db/d7/a3/playing-our-own-games.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Ranga Reddy District,hotels"
+},
+{
+  "reviewTags": [
+    {
+      "text": "excellent dinner",
+      "reviews": 7
+    },
+    {
+      "text": "rooftop restaurant",
+      "reviews": 24
+    },
+    {
+      "text": "pool side",
+      "reviews": 32
+    },
+    {
+      "text": "garden view",
+      "reviews": 9
+    },
+    {
+      "text": "washing machine",
+      "reviews": 7
+    },
+    {
+      "text": "special thanks",
+      "reviews": 34
+    },
+    {
+      "text": "special mention",
+      "reviews": 26
+    },
+    {
+      "text": "long stay",
+      "reviews": 10
+    },
+    {
+      "text": "wonderful hospitality",
+      "reviews": 9
+    },
+    {
+      "text": "great stay",
+      "reviews": 19
+    },
+    {
+      "text": "the entire staff",
+      "reviews": 10
+    },
+    {
+      "text": "amazing food",
+      "reviews": 12
+    },
+    {
+      "text": "home away from home",
+      "reviews": 12
+    },
+    {
+      "text": "front office team",
+      "reviews": 8
+    },
+    {
+      "text": "great ambience",
+      "reviews": 9
+    },
+    {
+      "text": "visit this place",
+      "reviews": 7
+    },
+    {
+      "text": "amazing experience",
+      "reviews": 9
+    },
+    {
+      "text": "thank you so much",
+      "reviews": 11
+    },
+    {
+      "text": "breakfast buffet",
+      "reviews": 10
+    },
+    {
+      "text": "excellent service",
+      "reviews": 19
+    },
+    {
+      "text": "his team",
+      "reviews": 9
+    },
+    {
+      "text": "keep up the good work",
+      "reviews": 7
+    },
+    {
+      "text": "housekeeping staff",
+      "reviews": 9
+    },
+    {
+      "text": "rooms are spacious",
+      "reviews": 8
+    },
+    {
+      "text": "taking care",
+      "reviews": 7
+    },
+    {
+      "text": "comfortable stay",
+      "reviews": 12
+    },
+    {
+      "text": "business trip",
+      "reviews": 9
+    },
+    {
+      "text": "janey",
+      "reviews": 25
+    },
+    {
+      "text": "chef",
+      "reviews": 102
+    },
+    {
+      "text": "mea",
+      "reviews": 15
+    }
+  ],
+  "id": "13451294",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Hotel"
+  ],
+  "name": "Marriott Executive Apartments Hyderabad",
+  "locationString": "Gachibowli, Ranga Reddy District, Telangana",
+  "description": "Rest easy at Marriott Executive Apartments Hyderabad. Our hotel in Hyderabad, India is located near the IT Hub and commercial district. After a busy day, unwind in our fitness center and rooftop pool, or enjoy on-site dining at Mazzo.",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/2c/c2/d0/22/exterior.jpg",
+  "photoCount": 570,
+  "rankingPosition": 1,
+  "rating": 5,
+  "rawRanking": 4.800753116607666,
+  "phone": "18446310595",
+  "address": "Survey No 133 Level 10, SLN Terminus, Beside Botanical Gardens, Gachibowli 500032 India",
+  "addressObj": {
+    "street1": "Survey No 133",
+    "street2": "Level 10, SLN Terminus, Beside Botanical Gardens",
+    "city": "Gachibowli",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "500032"
+  },
+  "localName": "Marriott Executive Apartments Hyderabad",
+  "localAddress": "Survey No 133, Level 10, SLN Terminus, Beside Botanical Gardens, 500032",
+  "localLangCode": "en-IN",
+  "email": "mea.hydhy.dutymanager@marriott.com",
+  "latitude": 17.452385,
+  "longitude": 78.36314,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g25347266-d13451294-Reviews-Marriott_Executive_Apartments_Hyderabad-Gachibowli_Ranga_Reddy_District_Telangana.html",
+  "website": "https://www.marriott.com/en-us/hotels/hydhy-marriott-executive-apartments-hyderabad/overview/",
+  "rankingString": "#1 of 2 hotels in Gachibowli",
+  "rankingDenominator": "2",
+  "neighborhoodLocations": [
+    {
+      "id": "13087968",
+      "name": "Hi-tech City/Gachibowli"
+    },
+    {
+      "id": "21002067",
+      "name": "Serilingampally"
+    }
+  ],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "25347266",
+      "name": "Gachibowli",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389602",
+      "name": "Ranga Reddy District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 13,
+    "count2": 6,
+    "count3": 9,
+    "count4": 56,
+    "count5": 837
+  },
+  "numberOfReviews": 921,
+  "hotelClass": "5.0",
+  "hotelClassAttribution": "This property is classified according to Giata.",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Suites",
+    "Room service",
+    "Free parking",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Kitchenette",
+    "Spa",
+    "Wifi",
+    "Public Wifi",
+    "Free Wifi",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Accessible rooms",
+    "Microwave",
+    "Refrigerator in room",
+    "Non-smoking hotel",
+    "Safe",
+    "Rooftop Pool",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Butler Service",
+    "Outdoor pool",
+    "Housekeeping",
+    "Kids Stay Free",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bathrobes",
+    "Breakfast in the Room",
+    "Coffee / Tea Maker",
+    "Complimentary Tea",
+    "Currency Exchange",
+    "Desk",
+    "Dishwasher",
+    "Doorperson",
+    "English",
+    "Complimentary Instant Coffee",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Iron",
+    "Kitchenware",
+    "Massage",
+    "Pool / Beach Towels",
+    "Pool with View",
+    "Seating Area",
+    "24-Hour Security",
+    "Secured Parking",
+    "Shoeshine",
+    "Special Diet Menus",
+    "Taxi Service",
+    "Telephone",
+    "Free Internet",
+    "Paid Internet",
+    "Family Rooms",
+    "Smoking rooms available",
+    "Kids pool",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "BBQ Facilities",
+    "Body Wrap",
+    "Cable / Satellite TV",
+    "Express Check-in / Check-out",
+    "Convenience Store",
+    "Couples Massage",
+    "Dining Area",
+    "Electric Kettle",
+    "First Aid Kit",
+    "Foot Massage",
+    "Full Body Massage",
+    "Gift Shop",
+    "Hair Dryer",
+    "Hand Massage",
+    "Head Massage",
+    "Hindi",
+    "Landmark View",
+    "Neck Massage",
+    "Newspaper",
+    "On-Demand Movies",
+    "Outdoor Dining Area",
+    "Personal Trainer",
+    "Picnic Area",
+    "Private Bathrooms",
+    "Separate Living Room",
+    "Sofa",
+    "Steam Room",
+    "Stovetop",
+    "Umbrella",
+    "Valet Parking",
+    "Wake Up Service / Alarm Clock",
+    "Wardrobe / Closet"
+  ],
+  "priceLevel": "$$$",
+  "priceRange": "$182 - $316",
+  "roomTips": [
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Ask for a room with a view of the botanical gardens.",
+      "rating": "5",
+      "reviewId": "971504118",
+      "id": "971504118",
+      "createdTime": "2024-09-26T17:01:22-04:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Thanks for lively place.",
+      "rating": "5",
+      "reviewId": "969169952",
+      "id": "969169952",
+      "createdTime": "2024-09-10T08:36:20-04:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Must visit",
+      "rating": "5",
+      "reviewId": "964926741",
+      "id": "964926741",
+      "createdTime": "2024-08-15T04:07:08-04:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Book in advance, due to the location, and service it gets booked very fast",
+      "rating": "5",
+      "reviewId": "947670788",
+      "id": "947670788",
+      "createdTime": "2024-04-21T02:19:02-04:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "you can visit spa whenever you come to marriott",
+      "rating": "4",
+      "reviewId": "946926299",
+      "id": "946926299",
+      "createdTime": "2024-04-16T03:51:19-04:00"
+    }
+  ],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-03",
+  "checkOutDate": "2024-11-04",
+  "numberOfRooms": 75,
+  "categoryReviewScores": [
+    {
+      "categoryName": "Location",
+      "score": 4.8
+    },
+    {
+      "categoryName": "Rooms",
+      "score": 4.8
+    },
+    {
+      "categoryName": "Value",
+      "score": 4.7
+    },
+    {
+      "categoryName": "Cleanliness",
+      "score": 4.8
+    },
+    {
+      "categoryName": "Service",
+      "score": 4.8
+    },
+    {
+      "categoryName": "Sleep Quality",
+      "score": 4.8
+    }
+  ],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/c2/d0/22/exterior.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/12/0f/8e/28/vew.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/12/03/03/81/marriott-executive-apartments.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/12/0f/8c/18/bedroom.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/12/0f/8d/8b/bedroom.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/12/03/03/6d/rooftop-pool-and-mazzo.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/17/84/2c/1c/marriott-executive-apartments.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/12/02/fb/24/marriott-executive-apartments.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/12/03/04/87/studio-apartment.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/16/1a/e4/90/photo1jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/15/d1/30/53/marriott-executive-apartments.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/15/ba/63/10/marriott-executive-apartments.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/15/68/11/ed/img-20181115-172932-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/16/ac/59/rooftop-outdoor-pool.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2d/49/2e/6d/altair-pre-function.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2d/49/2e/6b/altair.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2d/49/2e/6c/mazzo.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2d/49/2e/6a/studio-seatup.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2d/49/2e/68/mazzo.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2d/49/2e/69/altair-terrace.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/c2/d0/30/mazzo-pool-deck-area.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/c2/d0/2d/two-bedroom-deluxe-apartment.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/c2/d0/2f/one-bedroom-city-view.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/c2/d0/2b/studio-apartment.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/c2/d0/2c/one-bedroom-garden-view.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/c2/d0/2e/mazzo-dining-area.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/c2/d0/2a/one-bedroom-deluxe-apartment.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/c2/d0/28/king-apartment-master.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/c2/d0/29/one-bedroom-king-apartment.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/c2/d0/23/lobby-sitting-area.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/c2/d0/24/studio-king-suite.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/c2/d0/25/one-bedroom-king-apartment.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2d/95/44/0c/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/video-t/12/8e/1f/79/marriott-executive-apartments-1.jpg"
+  ],
+  "travelerChoiceAward": "REGULAR_AWARD",
+  "input": "Telangana,Ranga Reddy District,hotels"
+},
+{
+  "reviewTags": [],
+  "id": "26347032",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Hotel"
+  ],
+  "name": "Woodland Resort",
+  "locationString": "Moinabad, Ranga Reddy District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": 1,
+  "rating": 5,
+  "rawRanking": 3.0415902137756348,
+  "phone": "+91 99518 44444",
+  "address": "Aziznagar Village Road, Moinabad 500075 India",
+  "addressObj": {
+    "street1": "Aziznagar Village Road",
+    "street2": null,
+    "city": "Moinabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "500075"
+  },
+  "localName": "Woodland Resort",
+  "localAddress": "Aziznagar Village Road, 500075",
+  "localLangCode": "en-IN",
+  "email": "reservation@woodlandresorts.co.in",
+  "latitude": 17.342918,
+  "longitude": 78.33692,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g12461903-d26347032-Reviews-Woodland_Resort-Moinabad_Ranga_Reddy_District_Telangana.html",
+  "website": "https://woodlandresorts.co.in/",
+  "rankingString": "#1 of 1 hotels in Moinabad",
+  "rankingDenominator": "1",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "12461903",
+      "name": "Moinabad",
+      "abbreviation": null,
+      "subcategory": "Municipality"
+    },
+    {
+      "id": "12389602",
+      "name": "Ranga Reddy District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 1
+  },
+  "numberOfReviews": 1,
+  "hotelClass": "0.0",
+  "amenities": [],
+  "priceLevel": "$",
+  "priceRange": "$25 - $35",
+  "roomTips": [],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-03",
+  "checkOutDate": "2024-11-04",
+  "numberOfRooms": null,
+  "categoryReviewScores": [],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/42/5a/55/luxury-furnished-farm.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Ranga Reddy District,hotels"
+},
+{
+  "id": "21042821",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Hotel"
+  ],
+  "name": "Brown Town Resort & Spa",
+  "locationString": "Kanakamamidi, Ranga Reddy District, Telangana",
+  "description": "BROWNTOWN is a renowned Resort in Hyderabad. Be it for business or leisure, BROWNTOWN has a plethora of premium stay options, fun activities, ample amenities & delectable dining facilities. The Resort has trained staff who always help and guide their guests. With beautiful interiors & exteriors, this resort is a perfect place to dive in to celebrate your wedding day.",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1b/75/15/4a/brown-town-resort-spa.jpg",
+  "photoCount": 101,
+  "rankingPosition": 1,
+  "rating": 4.5,
+  "rawRanking": 3.658790349960327,
+  "phone": "+91 91547 93006",
+  "address": "Survey no 224/u, Kanakamamidi 501504 India",
+  "addressObj": {
+    "street1": "Survey no 224/u",
+    "street2": null,
+    "city": "Kanakamamidi",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "501504"
+  },
+  "localName": "Brown Town Resort & Spa",
+  "localAddress": "Survey no 224/u, 501504",
+  "localLangCode": "en-IN",
+  "email": "browntown.social@gmail.com",
+  "latitude": 17.290693,
+  "longitude": 78.24429,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g25151902-d21042821-Reviews-Brown_Town_Resort_Spa-Kanakamamidi_Ranga_Reddy_District_Telangana.html",
+  "website": "http://browntownresort.com",
+  "rankingString": "#1 of 1 resort in Kanakamamidi",
+  "rankingDenominator": "1",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "25151902",
+      "name": "Kanakamamidi",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389602",
+      "name": "Ranga Reddy District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 6,
+    "count2": 3,
+    "count3": 5,
+    "count4": 13,
+    "count5": 65
+  },
+  "numberOfReviews": 92,
+  "hotelClass": "0.0",
+  "amenities": [
+    "Pool",
+    "Kids Activities",
+    "Suites",
+    "Room service",
+    "Free parking",
+    "Restaurant",
+    "Free Wifi",
+    "Breakfast included",
+    "Breakfast Buffet",
+    "Street Parking",
+    "Shuttle Bus Service",
+    "Wheelchair access",
+    "Spa",
+    "Wifi",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Microwave",
+    "Refrigerator in room",
+    "Conference Facilities",
+    "Non-smoking hotel",
+    "Safe",
+    "Rooftop Terrace",
+    "Private Balcony",
+    "Butler Service",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Additional Bathroom",
+    "Allergy-free Room",
+    "Archery",
+    "Archery Off-site",
+    "Badminton",
+    "Baggage Storage",
+    "Bath / Shower",
+    "BBQ Facilities",
+    "Bicycle Rental",
+    "Bicycles Available",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Breakfast in the Room",
+    "Bridal Suite",
+    "Car Hire",
+    "24-Hour Check-in",
+    "Children's Playground",
+    "Clothes Dryer",
+    "Clothes Rack",
+    "Coffee / Tea Maker",
+    "Desk",
+    "Dining Area",
+    "Electric Kettle",
+    "English",
+    "Extra Long Beds",
+    "Fence Around Pool",
+    "First Aid Kit",
+    "Free Private Parking Nearby",
+    "Free Public Parking Nearby",
+    "Complimentary Instant Coffee",
+    "Complimentary Toiletries",
+    "Complimentary Welcome Drink",
+    "24-Hour Front Desk",
+    "Game Room",
+    "Hair Dryer",
+    "Hindi",
+    "Infirmary",
+    "Interconnected room(s) available",
+    "Iron",
+    "Ironing Service",
+    "Kitchenware",
+    "Landmark View",
+    "Laptop Safe",
+    "Mosquito Net",
+    "Outdoor Dining Area",
+    "Outdoor Fireplace",
+    "Outdoor Furniture",
+    "Oven",
+    "Parking Garage",
+    "Picnic Area",
+    "Pool / Beach Towels",
+    "Pool View",
+    "Pool with View",
+    "Private Bathrooms",
+    "Seating Area",
+    "24-Hour Security",
+    "Secured Parking",
+    "Separate Dining Area",
+    "Separate Living Room",
+    "Sofa",
+    "Soundproof Rooms",
+    "Stovetop",
+    "Sun Deck",
+    "Sun Loungers / Beach Chairs",
+    "Sun Umbrellas",
+    "Table Tennis",
+    "Taxi Service",
+    "Telephone",
+    "Tennis Court Off-site",
+    "Tile / Marble Floor",
+    "Umbrella",
+    "Valet Parking",
+    "VIP Room Facilities",
+    "Walk-in Shower",
+    "Walking Tours",
+    "Wardrobe / Closet"
+  ],
+  "priceLevel": "$",
+  "priceRange": "$55 - $74",
+  "roomTips": [
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Approach road is not in good condition but inside it's all maintained well.",
+      "rating": "5",
+      "reviewId": "945003299",
+      "id": "945003299",
+      "createdTime": "2024-04-02T18:39:25-04:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "A recommended place to chill out, relax, rejuvenate. ",
+      "rating": "5",
+      "reviewId": "944455220",
+      "id": "944455220",
+      "createdTime": "2024-03-29T18:02:02-04:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Pool area lighting needed to be upgraded",
+      "rating": "5",
+      "reviewId": "941727879",
+      "id": "941727879",
+      "createdTime": "2024-03-10T21:42:37-04:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Good for nri people expensive resort brown town. ",
+      "rating": "3",
+      "reviewId": "892426990",
+      "id": "892426990",
+      "createdTime": "2023-05-29T01:07:59-04:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Ask if there is any wedding party booked on the same day. If yes, then stay away",
+      "rating": "2",
+      "reviewId": "869636870",
+      "id": "869636870",
+      "createdTime": "2022-11-25T01:13:04-05:00"
+    }
+  ],
+  "isNearbyResult": false,
+  "reviewTags": [
+    {
+      "text": "indoor games",
+      "reviews": 3
+    },
+    {
+      "text": "family and friends",
+      "reviews": 4
+    },
+    {
+      "text": "different types",
+      "reviews": 2
+    },
+    {
+      "text": "close to nature",
+      "reviews": 2
+    },
+    {
+      "text": "enjoyed our stay",
+      "reviews": 2
+    },
+    {
+      "text": "special thanks",
+      "reviews": 5
+    },
+    {
+      "text": "wonderful experience",
+      "reviews": 3
+    },
+    {
+      "text": "his team",
+      "reviews": 2
+    },
+    {
+      "text": "delicious food",
+      "reviews": 2
+    },
+    {
+      "text": "comfortable stay",
+      "reviews": 3
+    },
+    {
+      "text": "value for money",
+      "reviews": 2
+    },
+    {
+      "text": "front office",
+      "reviews": 2
+    },
+    {
+      "text": "lush green",
+      "reviews": 2
+    },
+    {
+      "text": "wedding",
+      "reviews": 9
+    },
+    {
+      "text": "marriage",
+      "reviews": 4
+    },
+    {
+      "text": "outing",
+      "reviews": 4
+    },
+    {
+      "text": "mr",
+      "reviews": 16
+    },
+    {
+      "text": "guests",
+      "reviews": 7
+    },
+    {
+      "text": "ambience",
+      "reviews": 18
+    },
+    {
+      "text": "lawns",
+      "reviews": 3
+    },
+    {
+      "text": "hyderabad",
+      "reviews": 10
+    },
+    {
+      "text": "hangout",
+      "reviews": 2
+    },
+    {
+      "text": "weekday",
+      "reviews": 2
+    },
+    {
+      "text": "hospitality",
+      "reviews": 6
+    },
+    {
+      "text": "cricket",
+      "reviews": 2
+    },
+    {
+      "text": "taste",
+      "reviews": 4
+    },
+    {
+      "text": "arrangements",
+      "reviews": 3
+    },
+    {
+      "text": "pollution",
+      "reviews": 2
+    },
+    {
+      "text": "cleanliness",
+      "reviews": 3
+    },
+    {
+      "text": "privacy",
+      "reviews": 2
+    }
+  ],
+  "checkInDate": "2024-11-03",
+  "checkOutDate": "2024-11-04",
+  "numberOfRooms": 35,
+  "categoryReviewScores": [
+    {
+      "categoryName": "Location",
+      "score": 4.1
+    },
+    {
+      "categoryName": "Rooms",
+      "score": 4.6
+    },
+    {
+      "categoryName": "Value",
+      "score": 3.5
+    },
+    {
+      "categoryName": "Cleanliness",
+      "score": 5
+    },
+    {
+      "categoryName": "Service",
+      "score": 4.2
+    },
+    {
+      "categoryName": "Sleep Quality",
+      "score": 4.4
+    }
+  ],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/1b/75/15/4a/brown-town-resort-spa.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/96/e0/d1/spa.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/96/e0/8d/spa.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/96/e0/3f/mayna-villa.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/96/df/f7/mayna-villa.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/96/df/ac/spa.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/96/df/67/mayna-villa.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/96/df/04/mayna-villa.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/96/de/c1/mayna-villa.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/96/de/70/auro-villa.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/96/de/35/auro-villa.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/96/dd/ea/auro-villa.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/96/dd/b0/auro-villa.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/96/dd/7c/auro-villa.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1b/75/13/f4/brown-town-resort-spa.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1b/75/13/a7/brown-town-resort-spa.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1b/75/13/a5/brown-town-resort-spa.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1b/75/13/a4/brown-town-resort-spa.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1b/75/13/a3/brown-town-resort-spa.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1b/75/13/a2/brown-town-resort-spa.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/be/96/b9/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1b/75/13/9f/brown-town-resort-spa.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Ranga Reddy District,hotels"
+}]

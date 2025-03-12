@@ -1,0 +1,470 @@
+[{
+  "id": "23520795",
+  "type": "ATTRACTION",
+  "category": "attraction",
+  "subcategories": [
+    "Sights & Landmarks"
+  ],
+  "name": "Nagendragiri Ayyappa",
+  "locationString": "Kaleshwaram, Jayashankar Bhoopalpally District, Telangana",
+  "description": "Nagendragiri Ayyappa is a revered sacred site dedicated to Lord Ayyappa, drawing numerous pilgrims annually. Located near Mahadevpur, the temple is set amidst tranquil surroundings, providing a serene space for prayer and reflection. It is a spiritually enriching stop for devotees on their pilgrimage to Kaleshwaram.",
+
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 63038 59545",
+  "address": "Nagendragiri Ayyappa Temple, Mahadevpur 19 Kms Before Kaleswaram, Kaleshwaram 505504 India",
+  "addressObj": {
+    "street1": "Nagendragiri Ayyappa Temple, Mahadevpur",
+    "street2": "19 Kms Before Kaleswaram",
+    "city": "Kaleshwaram",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "505504"
+  },
+  "localName": "Nagendragiri Ayyappa",
+  "localAddress": "Nagendragiri Ayyappa Temple, Mahadevpur, 19 Kms Before Kaleswaram, 505504",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 18.81121,
+  "longitude": 79.90669,
+  "webUrl": "https://www.tripadvisor.com/Attraction_Review-g8459036-d23520795-Reviews-Nagendragiri_Ayyappa-Kaleshwaram_Jayashankar_Bhoopalpally_District_Telangana.html",
+  "website": null,
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "8459036",
+      "name": "Kaleshwaram",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389534",
+      "name": "Jayashankar Bhoopalpally District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "booking": null,
+  "offerGroup": null,
+  "subtype": [
+    "Sacred & Religious Sites"
+  ],
+  "reviewTags": [],
+  "photos": [],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Jayashankar Bhupalpally,attractions"
+},
+{
+  "reviewTags": [],
+  "id": "23642564",
+  "type": "ATTRACTION",
+  "category": "attraction",
+  "subcategories": [
+    "Nature & Parks"
+  ],
+  "name": "Black Berry Islands",
+  "locationString": "Mulugu, Jayashankar Bhoopalpally District, Telangana",
+  "description": "Black Berry Islands offer a peaceful getaway with scenic beauty and diverse wildlife. Located near Mulugu, this nature area is perfect for quiet reflection and exploration, ideal for nature enthusiasts and families alike. The islands provide a unique opportunity to experience Telangana's natural landscape up close.",
+
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": null,
+  "address": "7 Km To Pasra Towards Eturunagaram, Mulugu India",
+  "addressObj": {
+    "street1": "7 Km To Pasra Towards Eturunagaram",
+    "street2": null,
+    "city": "Mulugu",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": null
+  },
+  "localName": "Black Berry Islands",
+  "localAddress": "7 Km To Pasra Towards Eturunagaram",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 18.193851,
+  "longitude": 80.16658,
+  "webUrl": "https://www.tripadvisor.com/Attraction_Review-g12476602-d23642564-Reviews-Black_Berry_Islands-Mulugu_Jayashankar_Bhoopalpally_District_Telangana.html",
+  "website": null,
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "12476602",
+      "name": "Mulugu",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389534",
+      "name": "Jayashankar Bhoopalpally District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "booking": null,
+  "offerGroup": null,
+  "subtype": [
+    "Nature & Wildlife Areas"
+  ],
+  "photos": [],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Jayashankar Bhupalpally,attractions"
+},
+{
+  "reviewTags": [],
+  "id": "17700983",
+  "type": "ATTRACTION",
+  "category": "attraction",
+  "subcategories": [
+    "Nature & Parks"
+  ],
+  "name": "Mutyala Jalapatham",
+  "locationString": "Mulugu, Jayashankar Bhoopalpally District, Telangana",
+  "description": "Mutyala Jalapatham, a picturesque waterfall in Mulugu, is renowned for its breathtaking beauty, with cascading waters surrounded by lush greenery. This serene location is a must-visit for nature lovers, photographers, and anyone seeking a refreshing escape. The area offers a tranquil ambiance ideal for relaxation and exploration.",
+
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/21/60/a4/f1/muthyamdhara-waterfalls.jpg",
+  "photoCount": 7,
+  "rankingPosition": 1,
+  "rating": 4,
+  "rawRanking": 2.74711537361145,
+  "phone": null,
+  "address": "Mulugu India",
+  "addressObj": {
+    "street1": null,
+    "street2": null,
+    "city": "Mulugu",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": null
+  },
+  "localName": "Mutyala Jalapatham",
+  "localAddress": null,
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 18.292667,
+  "longitude": 80.645096,
+  "webUrl": "https://www.tripadvisor.com/Attraction_Review-g12476602-d17700983-Reviews-Mutyala_Jalapatham-Mulugu_Jayashankar_Bhoopalpally_District_Telangana.html",
+  "website": null,
+  "rankingString": "#1 of 2 things to do in Mulugu",
+  "rankingDenominator": "2",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "12476602",
+      "name": "Mulugu",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389534",
+      "name": "Jayashankar Bhoopalpally District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 1,
+    "count5": 0
+  },
+  "numberOfReviews": 1,
+  "booking": null,
+  "offerGroup": null,
+  "subtype": [
+    "Waterfalls"
+  ],
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/18/7b/17/f2/muthyala-jalapatham.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/25/42/ff/84/mutyala-jalapatham.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/25/42/ff/7a/mutyala-jalapatham.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/25/42/da/2e/mutyala-jalapatham.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/25/42/d6/20/mutyala-jalapatham.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/21/60/a4/f1/muthyamdhara-waterfalls.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/25/42/ff/d0/mutyala-jalapatham.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Jayashankar Bhupalpally,attractions"
+},
+{
+  "reviewTags": [],
+  "id": "7158406",
+  "type": "ATTRACTION",
+  "category": "attraction",
+  "subcategories": [
+    "Nature & Parks"
+  ],
+  "name": "Laknavaram Lake",
+  "locationString": "Jayashankar Bhoopalpally District, Telangana",
+  "description": "Laknavaram Lake, a popular destination, features a unique hanging bridge and scenic boat rides, making it a favorite among families and nature enthusiasts. Surrounded by green hills, this lake provides a refreshing escape and an ideal picnic spot. The lake is known for its scenic beauty and serene environment.",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/08/91/53/90/laknavaram-lake.jpg",
+  "photoCount": 77,
+  "rankingPosition": 1,
+  "rating": 4,
+  "rawRanking": 2.957754611968994,
+  "phone": null,
+  "address": "500081 India",
+  "addressObj": {
+    "street1": null,
+    "street2": null,
+    "city": null,
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "500081"
+  },
+  "localName": "Laknavaram Lake",
+  "localAddress": "500081",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 18.158295,
+  "longitude": 80.08054,
+  "webUrl": "https://www.tripadvisor.com/Attraction_Review-g12389534-d7158406-Reviews-Laknavaram_Lake-Jayashankar_Bhoopalpally_District_Telangana.html",
+  "website": null,
+  "rankingString": "#1 of 5 things to do in Jayashankar Bhoopalpally District",
+  "rankingDenominator": "5",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "12389534",
+      "name": "Jayashankar Bhoopalpally District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 2,
+    "count2": 2,
+    "count3": 3,
+    "count4": 20,
+    "count5": 21
+  },
+  "numberOfReviews": 48,
+  "booking": null,
+  "offerGroup": null,
+  "subtype": [
+    "Bodies of Water"
+  ],
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/0d/b3/6a/c0/hanging-bridge.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/14/4d/66/1c/huge-water-body.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/10/f6/a3/6a/boat-station.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/08/91/53/90/laknavaram-lake.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/93/bd/61/laknavaram-lake.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/93/bd/5b/laknavaram-lake.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/8d/16/71/laknavaram-lake.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/8d/16/4a/laknavaram-lake.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/8d/16/3f/laknavaram-lake.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/24/ac/c7/kids-on-the-hanging-bridge.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1b/e9/f3/79/amazing.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/e3/bd/60/2017-09-07-1-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/e3/bd/5f/2017-09-07-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/e3/bd/5e/2017-09-07-2-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/e3/bd/5d/2017-09-07-3-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/19/73/4f/img-20171019-110534-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/19/73/4e/img-20171019-095245-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/19/73/4d/img-20171019-083156-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/10/f6/a3/87/laknawaram-bridge.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/10/f6/a3/79/hand-painting.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Jayashankar Bhupalpally,attractions"
+},
+{
+  "id": "8456644",
+  "type": "ATTRACTION",
+  "category": "attraction",
+  "subcategories": [
+    "Sights & Landmarks"
+  ],
+  "name": "Kaleshwaram Temple",
+  "locationString": "Kaleshwaram, Jayashankar Bhoopalpally District, Telangana",
+  "description": "Kaleshwaram Temple, situated on the banks of the sacred Godavari River, is a significant religious site dedicated to Lord Shiva. This temple attracts devotees and tourists alike, who come to witness the temple's unique architecture and serene surroundings. It is a key stop on the spiritual circuit in Telangana.",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/09/f3/a6/85/20150906-175135-largejpg.jpg",
+  "photoCount": 25,
+  "rankingPosition": 1,
+  "rating": 4.5,
+  "rawRanking": 2.837223768234253,
+  "phone": null,
+  "address": "Gudi Rd, Kaleshwaram India",
+  "addressObj": {
+    "street1": "Gudi Rd",
+    "street2": null,
+    "city": "Kaleshwaram",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": null
+  },
+  "localName": "Kaleshwaram Temple",
+  "localAddress": "Gudi Rd",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": null,
+  "longitude": null,
+  "webUrl": "https://www.tripadvisor.com/Attraction_Review-g8459036-d8456644-Reviews-Kaleshwaram_Temple-Kaleshwaram_Jayashankar_Bhoopalpally_District_Telangana.html",
+  "website": "http://kaleshwaramtemple.in/temple.html",
+  "rankingString": "#1 of 2 things to do in Kaleshwaram",
+  "rankingDenominator": "2",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "8459036",
+      "name": "Kaleshwaram",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389534",
+      "name": "Jayashankar Bhoopalpally District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 3,
+    "count5": 6
+  },
+  "numberOfReviews": 9,
+  "booking": null,
+  "offerGroup": null,
+  "subtype": [
+    "Sacred & Religious Sites"
+  ],
+  "reviewTags": [
+    {
+      "text": "river godavari",
+      "reviews": 2
+    },
+    {
+      "text": "banks",
+      "reviews": 3
+    },
+    {
+      "text": "june",
+      "reviews": 2
+    }
+  ],
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/09/f3/a6/84/20150906-175209-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0e/29/59/86/p-20170115-094921-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0e/29/59/85/p-20170115-105257-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0c/e8/29/6c/kaleshwaram-temple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/09/f3/a6/85/20150906-175135-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/09/f3/a6/82/20150907-083737-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/09/f3/a6/80/20150907-082838-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1d/7f/25/da/it-s-in-vijay-reddy-tourist.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1d/7f/25/d5/it-s-in-vijay-reddy-tourist.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1d/7f/25/d4/it-s-in-vijay-reddy-tourist.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0e/29/59/87/p-20170115-115903-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0e/29/59/82/p-20170115-113433-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0e/29/59/81/p-20170115-124606-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0c/e8/29/4f/kaleshwaram-temple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0c/e8/29/48/kaleshwaram-temple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0c/e8/29/3a/kaleshwaram-temple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0c/e8/29/09/kaleshwaram-temple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/09/f3/a8/51/yamakonam.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/09/f3/a7/3e/galigopuram.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/09/f3/a6/87/20150906-164847-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/09/f3/a6/86/20150906-174633-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/09/f3/a6/83/20150907-074420-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/09/f3/a6/81/20150907-083225-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/09/f3/a6/7f/20150907-083140-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/09/f3/a6/7e/20150907-083152-largejpg.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Jayashankar Bhupalpally,attractions"
+}]

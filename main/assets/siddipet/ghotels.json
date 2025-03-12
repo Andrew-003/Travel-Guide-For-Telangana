@@ -1,0 +1,2915 @@
+[{
+  "searchString": "hotels",
+  "rank": 10,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@18.201497982985572,79.06932064428234,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "Susheel Luxary Rooms",
+  "subTitle": null,
+  "description": null,
+  "price": null,
+  "categoryName": "Hotel",
+  "address": "Housing Board Colony, Siddipet, Telangana 502103, India",
+  "neighborhood": "Housing Board Colony",
+  "street": null,
+  "city": "Siddipet",
+  "postalCode": "502103",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": null,
+  "phoneUnformatted": null,
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 18.089154,
+    "lng": 78.8546442
+  },
+  "locatedIn": null,
+  "plusCode": "3VQ3+MV Siddipet, Telangana, India",
+  "menu": null,
+  "totalScore": 4.3,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJs4bhvMCTzDsRFELMct1XNBM",
+  "categories": [
+    "Hotel"
+  ],
+  "fid": "0x3bcc93c0bce186b3:0x133457dd72cc4214",
+  "cid": "1383827594134962708",
+  "reviewsCount": 81,
+  "reviewsDistribution": {
+    "oneStar": 5,
+    "twoStar": 3,
+    "threeStar": 6,
+    "fourStar": 19,
+    "fiveStar": 48
+  },
+  "imagesCount": 75,
+  "imageCategories": [
+    "All",
+    "Rooms",
+    "Videos",
+    "Exterior",
+    "Amenities",
+    "Food & drink",
+    "From visitors",
+    "By owner",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T07:10:32.122Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": "2024-11-30",
+  "checkOutDate": "2024-12-01",
+  "similarHotelsNearby": [
+    {
+      "name": "Swarna Palace - Luxury Hotel in Siddipet",
+      "rating": 4.4,
+      "reviews": 52,
+      "description": null,
+      "price": "$42"
+    },
+    {
+      "name": "SAI KRUPA INN",
+      "rating": 4.3,
+      "reviews": 193,
+      "description": "Free Wi-Fi",
+      "price": null
+    },
+    {
+      "name": "sai varalaxmi delux lodge",
+      "rating": 3.5,
+      "reviews": 157,
+      "description": "Free Wi-Fi",
+      "price": null
+    },
+    {
+      "name": "Hotel Haritha Minerva",
+      "rating": 4.3,
+      "reviews": 17,
+      "description": null,
+      "price": null
+    }
+  ],
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [
+    {
+      "title": "banquet",
+      "count": 3
+    },
+    {
+      "title": "parking",
+      "count": 3
+    },
+    {
+      "title": "manager",
+      "count": 3
+    },
+    {
+      "title": "service",
+      "count": 2
+    }
+  ],
+  "additionalInfo": {},
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=Susheel%20Luxary%20Rooms&query_place_id=ChIJs4bhvMCTzDsRFELMct1XNBM",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMmGYlYkJenqBqfZ1p9DHsVhxh6Xnrw5p2b7xt-=w408-h612-k-no",
+  "kgmid": "/g/11pyc5525n",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMmGYlYkJenqBqfZ1p9DHsVhxh6Xnrw5p2b7xt-=w1920-h1080-k-no",
+      "authorName": "Susheel Luxary Rooms",
+      "authorUrl": "https://maps.google.com/maps/contrib/101664439955834950951",
+      "uploadedAt": "2022-06-20T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipMmGYlYkJenqBqfZ1p9DHsVhxh6Xnrw5p2b7xt-=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 7,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@18.136249855323715,78.86388683114352,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "Krishna Reddy Lodge",
+  "subTitle": "కృష్ణ రెడ్డి లాడ్జ్",
+  "description": null,
+  "price": null,
+  "categoryName": "Lodge",
+  "address": "5th floor, krishna reddy chambers, Hyderabad Rd, above bank of baroda, Siddipet, Telangana 502103, India",
+  "neighborhood": "Shivaji Nagar",
+  "street": "5th floor, krishna reddy chambers, Hyderabad Rd, above bank of baroda",
+  "city": "Siddipet",
+  "postalCode": "502103",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": "+91 99638 30948",
+  "phoneUnformatted": "+919963830948",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 18.0998559,
+    "lng": 78.8522686
+  },
+  "locatedIn": null,
+  "plusCode": "3VX2+WW Siddipet, Telangana, India",
+  "menu": null,
+  "totalScore": 3.3,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJYTg7PDKTzDsRWxCfbnWzRTY",
+  "categories": [
+    "Lodge",
+    "Banquet hall"
+  ],
+  "fid": "0x3bcc93323c3b3861:0x3645b3756e9f105b",
+  "cid": "3910729168389607515",
+  "reviewsCount": 19,
+  "reviewsDistribution": {
+    "oneStar": 6,
+    "twoStar": 1,
+    "threeStar": 1,
+    "fourStar": 3,
+    "fiveStar": 8
+  },
+  "imagesCount": 5,
+  "imageCategories": [
+    "All",
+    "Rooms",
+    "Exterior",
+    "Bed",
+    "From visitors",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T07:10:32.476Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": "2024-11-04",
+  "checkOutDate": "2024-11-05",
+  "similarHotelsNearby": [
+    {
+      "name": "Swarna Palace - Luxury Hotel in Siddipet",
+      "rating": 4.4,
+      "reviews": 52,
+      "description": "Higher guest rating",
+      "price": "$42"
+    },
+    {
+      "name": "sai varalaxmi delux lodge",
+      "rating": 3.5,
+      "reviews": 157,
+      "description": "Free Wi-Fi",
+      "price": null
+    },
+    {
+      "name": "OYO 49921 My Residency",
+      "rating": 3.5,
+      "reviews": 83,
+      "description": "Free Wi-Fi",
+      "price": null
+    },
+    {
+      "name": "sri balaji hotel",
+      "rating": 4.2,
+      "reviews": 63,
+      "description": "Higher guest rating",
+      "price": null
+    },
+    {
+      "name": "MURALIDHAR HOTEL",
+      "rating": 4.1,
+      "reviews": 68,
+      "description": "Higher guest rating",
+      "price": null
+    },
+    {
+      "name": "Susheel Luxary Rooms",
+      "rating": 4.3,
+      "reviews": 80,
+      "description": "Higher guest rating",
+      "price": null
+    },
+    {
+      "name": "SAI KRUPA INN",
+      "rating": 4.3,
+      "reviews": 193,
+      "description": "Free Wi-Fi",
+      "price": null
+    },
+    {
+      "name": "Highway Hotels",
+      "rating": 3.7,
+      "reviews": 61,
+      "description": null,
+      "price": null
+    },
+    {
+      "name": "Hotel Haritha Minerva",
+      "rating": 4.3,
+      "reviews": 17,
+      "description": "Higher guest rating",
+      "price": null
+    }
+  ],
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {},
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=Krishna%20Reddy%20Lodge&query_place_id=ChIJYTg7PDKTzDsRWxCfbnWzRTY",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPG35vgZKD38nBluLkfAoKLZNrPqqSWtidXP14O=w408-h616-k-no",
+  "kgmid": "/g/11h4_clz6n",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPG35vgZKD38nBluLkfAoKLZNrPqqSWtidXP14O=w1920-h1080-k-no",
+      "authorName": "support directindia",
+      "authorUrl": "https://maps.google.com/maps/contrib/107592564533095960405",
+      "uploadedAt": "2019-08-29T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipPG35vgZKD38nBluLkfAoKLZNrPqqSWtidXP14O=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 9,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@18.201497982985572,79.06932064428234,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "SRI LAXMI GRAND HIGH CLASS LODGE",
+  "subTitle": "SRI లక్ష్మి గ్రాండ్ HIGH క్లాసు లాడ్జ్",
+  "description": null,
+  "price": null,
+  "categoryName": "Hotel",
+  "address": "4V22+R96, SH 15, Azam Pura, Siddipet, Telangana 502103, India",
+  "neighborhood": "Azam Pura",
+  "street": "4V22+R96, SH 15",
+  "city": "Siddipet",
+  "postalCode": "502103",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": null,
+  "phoneUnformatted": null,
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 18.1020196,
+    "lng": 78.8508122
+  },
+  "locatedIn": null,
+  "plusCode": null,
+  "menu": null,
+  "totalScore": 4.3,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJPXuDuiyTzDsRdxM7QNy6INk",
+  "categories": [
+    "Hotel"
+  ],
+  "fid": "0x3bcc932cba837b3d:0xd920badc403b1377",
+  "cid": "15645710560618287991",
+  "reviewsCount": 7,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 2,
+    "fourStar": 1,
+    "fiveStar": 4
+  },
+  "imagesCount": 4,
+  "imageCategories": [
+    "All",
+    "Rooms",
+    "Exterior",
+    "From visitors",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T07:10:33.105Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "sai varalaxmi delux lodge",
+      "reviewsCount": 157,
+      "totalScore": 3.5
+    },
+    {
+      "category": "People also search for",
+      "title": "Deluxe Lodge",
+      "reviewsCount": 120,
+      "totalScore": 3.6
+    },
+    {
+      "category": "People also search for",
+      "title": "Mahalaxmi Lodge",
+      "reviewsCount": 12,
+      "totalScore": 4
+    },
+    {
+      "category": "People also search for",
+      "title": "BALDAVA LODGE A/C",
+      "reviewsCount": 11,
+      "totalScore": 4.3
+    },
+    {
+      "category": "People also search for",
+      "title": "GRAND HOTEL",
+      "reviewsCount": 48,
+      "totalScore": 4.4
+    }
+  ],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {},
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=SRI%20LAXMI%20GRAND%20HIGH%20CLASS%20LODGE&query_place_id=ChIJPXuDuiyTzDsRdxM7QNy6INk",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipONqT0hnJkHrXarfx7aBDtZgCVJQBkF6gbxQPqM=w408-h275-k-no",
+  "kgmid": "/g/11sd5cpxqy",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipONqT0hnJkHrXarfx7aBDtZgCVJQBkF6gbxQPqM=w1920-h1080-k-no",
+      "authorName": "Kannayya",
+      "authorUrl": "https://maps.google.com/maps/contrib/110092384556649193214",
+      "uploadedAt": "2023-06-24T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipONqT0hnJkHrXarfx7aBDtZgCVJQBkF6gbxQPqM=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 8,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@18.201497982985572,79.06932064428234,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "Akula Mallaiah Hotel",
+  "subTitle": "అకుల మల్లయ్య హోటల్",
+  "description": null,
+  "price": null,
+  "categoryName": "Hotel",
+  "address": "434Q+P9W, Nagasamudrala, Baswapur, Telangana 505467, India",
+  "neighborhood": null,
+  "street": "434Q+P9W",
+  "city": "Nagasamudrala, Baswapur",
+  "postalCode": "505467",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": null,
+  "phoneUnformatted": null,
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 18.1068592,
+    "lng": 79.0884452
+  },
+  "locatedIn": null,
+  "plusCode": null,
+  "menu": null,
+  "totalScore": null,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJOfl9QAC_zDsRShFx9DZ3NyQ",
+  "categories": [
+    "Hotel"
+  ],
+  "fid": "0x3bccbf00407df939:0x24377736f471114a",
+  "cid": "2609685586997481802",
+  "reviewsCount": 0,
+  "reviewsDistribution": null,
+  "imagesCount": 1,
+  "imageCategories": [
+    "All",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T07:10:41.928Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {},
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=Akula%20Mallaiah%20Hotel&query_place_id=ChIJOfl9QAC_zDsRShFx9DZ3NyQ",
+  "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ULMBe-dL_zHLvvNJGPjZQA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=21.303291&pitch=0&thumbfov=100",
+  "kgmid": "/g/11lvx_6fm3",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ULMBe-dL_zHLvvNJGPjZQA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=21.303291&pitch=0&thumbfov=100"
+    }
+  ],
+  "imageUrls": [
+    "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ULMBe-dL_zHLvvNJGPjZQA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=21.303291&pitch=0&thumbfov=100"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 7,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@18.201497982985572,79.06932064428234,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "HOTEL ONE",
+  "subTitle": "హోటల్ వన్",
+  "description": null,
+  "price": null,
+  "categoryName": "Hotel",
+  "address": "Hyderabad - Karimnagar - Ramagundam, Road, SH1, Kondapak, Telangana 502372, India",
+  "neighborhood": null,
+  "street": "Hyderabad - Karimnagar - Ramagundam, Road, SH1",
+  "city": "Kondapak",
+  "postalCode": "502372",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": "+91 81799 16189",
+  "phoneUnformatted": "+918179916189",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 17.9532756,
+    "lng": 78.8681819
+  },
+  "locatedIn": null,
+  "plusCode": "XV39+87 Kondapak, Telangana, India",
+  "menu": null,
+  "totalScore": 3.6,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJZYbLE0-QzDsR-D2lsUQP6Lo",
+  "categories": [
+    "Hotel",
+    "Biryani restaurant",
+    "Breakfast restaurant",
+    "Indian restaurant",
+    "Restaurant"
+  ],
+  "fid": "0x3bcc904f13cb8665:0xbae80f44b1a53df8",
+  "cid": "13468031473364057592",
+  "reviewsCount": 2463,
+  "reviewsDistribution": {
+    "oneStar": 303,
+    "twoStar": 194,
+    "threeStar": 519,
+    "fourStar": 691,
+    "fiveStar": 756
+  },
+  "imagesCount": 773,
+  "imageCategories": [
+    "All",
+    "Latest",
+    "Videos",
+    "Rooms",
+    "Exterior",
+    "Amenities",
+    "Food & drink",
+    "From visitors",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T07:10:45.517Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": "2024-11-04",
+  "checkOutDate": "2024-11-05",
+  "similarHotelsNearby": [
+    {
+      "name": "The Hidden Castle",
+      "rating": 4.3,
+      "reviews": 10898,
+      "description": "Free parking",
+      "price": null
+    },
+    {
+      "name": "The Hidden Castle Entrance",
+      "rating": 4.2,
+      "reviews": 116,
+      "description": "Higher guest rating",
+      "price": null
+    },
+    {
+      "name": "Hotel Haritha Minerva",
+      "rating": 4.3,
+      "reviews": 17,
+      "description": "Higher guest rating",
+      "price": null
+    },
+    {
+      "name": "V A R Rooms",
+      "rating": 4,
+      "reviews": 86,
+      "description": "Free parking",
+      "price": null
+    }
+  ],
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [
+    {
+      "title": "highway",
+      "count": 48
+    },
+    {
+      "title": "play area",
+      "count": 22
+    },
+    {
+      "title": "hygiene",
+      "count": 17
+    },
+    {
+      "title": "food quality",
+      "count": 13
+    },
+    {
+      "title": "puri",
+      "count": 12
+    },
+    {
+      "title": "tiffins",
+      "count": 11
+    },
+    {
+      "title": "parking space",
+      "count": 8
+    },
+    {
+      "title": "curry",
+      "count": 8
+    },
+    {
+      "title": "flies",
+      "count": 8
+    },
+    {
+      "title": "restrooms",
+      "count": 5
+    }
+  ],
+  "additionalInfo": {
+    "Amenities": [
+      {
+        "Free Wi-Fi": true
+      },
+      {
+        "Free breakfast": true
+      },
+      {
+        "Parking": true
+      },
+      {
+        "Pool": false
+      },
+      {
+        "Air-conditioned": true
+      },
+      {
+        "Laundry service": true
+      },
+      {
+        "Pet-friendly": false
+      },
+      {
+        "Room service": true
+      },
+      {
+        "Kid-friendly": true
+      },
+      {
+        "Restaurant": true
+      },
+      {
+        "Airport shuttle": false
+      },
+      {
+        "Fitness center": false
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=HOTEL%20ONE&query_place_id=ChIJZYbLE0-QzDsR-D2lsUQP6Lo",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPwhSn5wR-1S-bJd8NMvGIrb_PSsrwfd7_w_D3E=w408-h272-k-no",
+  "kgmid": "/g/11f2sgnx0x",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPwhSn5wR-1S-bJd8NMvGIrb_PSsrwfd7_w_D3E=w1920-h1080-k-no",
+      "authorName": "Dinesh Vuppalapu",
+      "authorUrl": "https://maps.google.com/maps/contrib/107904032092329073732",
+      "uploadedAt": "2019-08-04T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipPwhSn5wR-1S-bJd8NMvGIrb_PSsrwfd7_w_D3E=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 6,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@18.136249855323715,78.86388683114352,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "OYO 49921 My Residency",
+  "subTitle": "OYO 49921 మై రెసిడెన్సి",
+  "description": null,
+  "price": null,
+  "categoryName": "Hotel",
+  "address": "1, Hyderabad Rd, near Suraksha Hospital, beside HDFC Bank, Shivaji Nagar, Siddipet, Telangana 502103, India",
+  "neighborhood": "Shivaji Nagar",
+  "street": "1, Hyderabad Rd, near Suraksha Hospital, beside HDFC Bank",
+  "city": "Siddipet",
+  "postalCode": "502103",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": "https://www.oyorooms.com/h/80184?utm_source=Google&utm_medium=GMB",
+  "phone": "+91 124 620 1614",
+  "phoneUnformatted": "+911246201614",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 18.096987,
+    "lng": 78.852596
+  },
+  "locatedIn": null,
+  "plusCode": "3VW3+Q2 Siddipet, Telangana, India",
+  "menu": null,
+  "totalScore": 3.5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJvdaJLJ2TzDsRoOTsgOpGpEU",
+  "categories": [
+    "Hotel",
+    "Bed & breakfast",
+    "Guest house",
+    "Holiday home",
+    "Inn",
+    "Lodge",
+    "Motel",
+    "Serviced apartment",
+    "Villa"
+  ],
+  "fid": "0x3bcc939d2c89d6bd:0x45a446ea80ece4a0",
+  "cid": "5018213857796875424",
+  "reviewsCount": 83,
+  "reviewsDistribution": {
+    "oneStar": 14,
+    "twoStar": 9,
+    "threeStar": 13,
+    "fourStar": 14,
+    "fiveStar": 33
+  },
+  "imagesCount": 2,
+  "imageCategories": [
+    "All",
+    "Exterior",
+    "Videos",
+    "From visitors",
+    "By owner",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T07:10:46.938Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": "2024-11-04",
+  "checkOutDate": "2024-11-05",
+  "similarHotelsNearby": [
+    {
+      "name": "Swarna Palace - Luxury Hotel in Siddipet",
+      "rating": 4.4,
+      "reviews": 52,
+      "description": "Higher guest rating",
+      "price": "$42"
+    },
+    {
+      "name": "sai varalaxmi delux lodge",
+      "rating": 3.5,
+      "reviews": 157,
+      "description": null,
+      "price": null
+    },
+    {
+      "name": "SAI KRUPA INN",
+      "rating": 4.3,
+      "reviews": 193,
+      "description": "Higher guest rating",
+      "price": null
+    },
+    {
+      "name": "sri balaji hotel",
+      "rating": 4.2,
+      "reviews": 63,
+      "description": "Higher guest rating",
+      "price": null
+    },
+    {
+      "name": "MURALIDHAR HOTEL",
+      "rating": 4.1,
+      "reviews": 68,
+      "description": "Higher guest rating",
+      "price": null
+    },
+    {
+      "name": "Krishna Reddy Lodge",
+      "rating": 3.3,
+      "reviews": 19,
+      "description": null,
+      "price": null
+    },
+    {
+      "name": "Susheel Luxary Rooms",
+      "rating": 4.3,
+      "reviews": 80,
+      "description": "Higher guest rating",
+      "price": null
+    },
+    {
+      "name": "Highway Hotels",
+      "rating": 3.7,
+      "reviews": 61,
+      "description": null,
+      "price": null
+    },
+    {
+      "name": "Hotel Haritha Minerva",
+      "rating": 4.3,
+      "reviews": 17,
+      "description": "Higher guest rating",
+      "price": null
+    }
+  ],
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Amenities": [
+      {
+        "Free Wi-Fi": true
+      },
+      {
+        "Breakfast": true
+      },
+      {
+        "Parking": true
+      },
+      {
+        "Pool": true
+      },
+      {
+        "Air-conditioned": true
+      },
+      {
+        "Laundry service": true
+      },
+      {
+        "Pet-friendly": false
+      },
+      {
+        "Kitchens in some rooms": true
+      },
+      {
+        "Fitness center": false
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=OYO%2049921%20My%20Residency&query_place_id=ChIJvdaJLJ2TzDsRoOTsgOpGpEU",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipP3FkQjLL1rFhPpZNcYYBcjlUTQSPnaky5wq6sS=w408-h612-k-no",
+  "kgmid": "/g/11fnjn19n0",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipP3FkQjLL1rFhPpZNcYYBcjlUTQSPnaky5wq6sS=w1920-h1080-k-no",
+      "authorName": "OYO 49921 My Residency",
+      "authorUrl": "https://maps.google.com/maps/contrib/110788253570793387936",
+      "uploadedAt": "2023-10-06T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipP3FkQjLL1rFhPpZNcYYBcjlUTQSPnaky5wq6sS=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 5,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@18.136249855323715,78.86388683114352,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "Hotel Akshaya Grand",
+  "subTitle": "అక్షయ గ్రాండ్",
+  "description": null,
+  "price": null,
+  "categoryName": "Lodge",
+  "address": "Hyderabad Road, Housing Board Colony, Siddipet, Telangana 502103, India",
+  "neighborhood": "Kushal Nagar",
+  "street": "Hyderabad Road, Housing Board Colony",
+  "city": "Siddipet",
+  "postalCode": "502103",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": "+91 96660 30303",
+  "phoneUnformatted": "+919666030303",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 18.0885963,
+    "lng": 78.8553243
+  },
+  "locatedIn": null,
+  "plusCode": "3VQ4+C4 Siddipet, Telangana, India",
+  "menu": null,
+  "totalScore": 3.7,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ48RzKrqSzDsRLYKj6ZEoiSQ",
+  "categories": [
+    "Lodge"
+  ],
+  "fid": "0x3bcc92ba2a73c4e3:0x24892891e9a3822d",
+  "cid": "2632680064329941549",
+  "reviewsCount": 2611,
+  "reviewsDistribution": {
+    "oneStar": 304,
+    "twoStar": 159,
+    "threeStar": 483,
+    "fourStar": 714,
+    "fiveStar": 951
+  },
+  "imagesCount": 694,
+  "imageCategories": [
+    "All",
+    "Rooms",
+    "Videos",
+    "Exterior",
+    "Amenities",
+    "Food & drink",
+    "Food",
+    "From visitors",
+    "By owner",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T07:10:50.812Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": "2-star hotel",
+  "hotelDescription": null,
+  "checkInDate": "2024-11-04",
+  "checkOutDate": "2024-11-05",
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [
+    {
+      "title": "taste",
+      "count": 70
+    },
+    {
+      "title": "biryani",
+      "count": 55
+    },
+    {
+      "title": "dinner",
+      "count": 12
+    },
+    {
+      "title": "food quality",
+      "count": 11
+    },
+    {
+      "title": "quantity",
+      "count": 11
+    },
+    {
+      "title": "maintenance",
+      "count": 9
+    },
+    {
+      "title": "management",
+      "count": 8
+    },
+    {
+      "title": "spicy",
+      "count": 7
+    },
+    {
+      "title": "banquet hall",
+      "count": 6
+    },
+    {
+      "title": "birthday",
+      "count": 6
+    }
+  ],
+  "additionalInfo": {
+    "Amenities": [
+      {
+        "Free Wi-Fi": true
+      },
+      {
+        "Free breakfast": true
+      },
+      {
+        "Free parking": true
+      },
+      {
+        "Pool": false
+      },
+      {
+        "Air-conditioned": true
+      },
+      {
+        "Laundry service": true
+      },
+      {
+        "Pet-friendly": false
+      },
+      {
+        "Room service": true
+      },
+      {
+        "Child friendly": true
+      },
+      {
+        "Restaurant": true
+      },
+      {
+        "Airport shuttle": false
+      },
+      {
+        "Fitness centre": false
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=Hotel%20Akshaya%20Grand&query_place_id=ChIJ48RzKrqSzDsRLYKj6ZEoiSQ",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNk8HadhEH69HZFK1KVyBYc02A3YykPwALVNdg=w408-h431-k-no",
+  "kgmid": "/g/11b87m4wks",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNk8HadhEH69HZFK1KVyBYc02A3YykPwALVNdg=w1920-h1080-k-no",
+      "authorName": "Hotel Akshaya Grand",
+      "authorUrl": "https://maps.google.com/maps/contrib/113076798744905491284",
+      "uploadedAt": "2017-08-25T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipNk8HadhEH69HZFK1KVyBYc02A3YykPwALVNdg=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 6,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@18.201497982985572,79.06932064428234,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "Deluxe Lodge",
+  "subTitle": "డీలక్స్ లాడ్జ్",
+  "description": null,
+  "price": null,
+  "categoryName": "Hotel",
+  "address": "3VX2+WVQ, near Old Bus Stop, Shivaji Nagar, Siddipet, Telangana 502103, India",
+  "neighborhood": "Shivaji Nagar",
+  "street": "3VX2+WVQ, near Old Bus Stop",
+  "city": "Siddipet",
+  "postalCode": null,
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": "+91 98785 86453",
+  "phoneUnformatted": "+919878586453",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 18.0998435,
+    "lng": 78.8522357
+  },
+  "locatedIn": null,
+  "plusCode": null,
+  "menu": null,
+  "totalScore": 3.6,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJf1zGPTeTzDsRSi-SAXJ9vsc",
+  "categories": [
+    "Hotel"
+  ],
+  "fid": "0x3bcc93373dc65c7f:0xc7be7d7201922f4a",
+  "cid": "14393079387728785226",
+  "reviewsCount": 120,
+  "reviewsDistribution": {
+    "oneStar": 17,
+    "twoStar": 10,
+    "threeStar": 22,
+    "fourStar": 28,
+    "fiveStar": 43
+  },
+  "imagesCount": 4,
+  "imageCategories": [
+    "All",
+    "Rooms",
+    "Videos",
+    "Exterior",
+    "From visitors",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T07:10:55.936Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "BALDAVA LODGE A/C",
+      "reviewsCount": 11,
+      "totalScore": 4.3
+    },
+    {
+      "category": "People also search for",
+      "title": "Rajesh lodge",
+      "reviewsCount": 53,
+      "totalScore": 4.2
+    },
+    {
+      "category": "People also search for",
+      "title": "sai varalaxmi delux lodge",
+      "reviewsCount": 157,
+      "totalScore": 3.5
+    },
+    {
+      "category": "People also search for",
+      "title": "Mahalaxmi Lodge",
+      "reviewsCount": 12,
+      "totalScore": 4
+    },
+    {
+      "category": "People also search for",
+      "title": "My residence lodge",
+      "reviewsCount": 20,
+      "totalScore": 3.5
+    }
+  ],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {},
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=Deluxe%20Lodge&query_place_id=ChIJf1zGPTeTzDsRSi-SAXJ9vsc",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNueUWQOm1GwJqeL17t3oRxROLHo2HE9kfATUKj=w408-h905-k-no",
+  "kgmid": "/g/11gjxjh5w4",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNueUWQOm1GwJqeL17t3oRxROLHo2HE9kfATUKj=w1920-h1080-k-no",
+      "authorName": "Prem prabha",
+      "authorUrl": "https://maps.google.com/maps/contrib/102998669518721314716",
+      "uploadedAt": "2022-02-22T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipNueUWQOm1GwJqeL17t3oRxROLHo2HE9kfATUKj=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 5,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@18.201497982985572,79.06932064428234,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "Sri Renukamatha Tea And Tiffin Center",
+  "subTitle": "శ్రీ రేనుకమత టీ అండ్ టిఫిన్ సెంటర్",
+  "description": null,
+  "price": null,
+  "categoryName": "Hotel",
+  "address": "4-4T-42/A/1, Koheda Main Road, near by Busstop, Kurella, Telangana 505473, India",
+  "neighborhood": null,
+  "street": "4-4T-42/A/1, Koheda Main Road, near by Busstop",
+  "city": "Kurella",
+  "postalCode": "505473",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": "+91 91777 73623",
+  "phoneUnformatted": "+919177773623",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 18.1668216,
+    "lng": 79.08245
+  },
+  "locatedIn": null,
+  "plusCode": "538J+PX Kurella, Telangana, India",
+  "menu": null,
+  "totalScore": null,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJATqSqXXBzDsREUlJ7G2clnQ",
+  "categories": [
+    "Hotel"
+  ],
+  "fid": "0x3bccc175a9923a01:0x74969c6dec494911",
+  "cid": "8401074150835833105",
+  "reviewsCount": 0,
+  "reviewsDistribution": null,
+  "imagesCount": 1,
+  "imageCategories": [
+    "All",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T07:10:59.069Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Sri Renuka Matha Hotel",
+      "reviewsCount": 0,
+      "totalScore": 0
+    },
+    {
+      "category": "People also search for",
+      "title": "Renuka Matha Tea And Tiffin Center",
+      "reviewsCount": 0,
+      "totalScore": 0
+    },
+    {
+      "category": "People also search for",
+      "title": "Sri Renuka Matha Tiffin Center",
+      "reviewsCount": 1,
+      "totalScore": 5
+    },
+    {
+      "category": "People also search for",
+      "title": "Renukamatha Tiffin Center",
+      "reviewsCount": 1,
+      "totalScore": 1
+    }
+  ],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {},
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=Sri%20Renukamatha%20Tea%20And%20Tiffin%20Center&query_place_id=ChIJATqSqXXBzDsREUlJ7G2clnQ",
+  "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Mv5grr2KpPglHIn7WiD2aQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=191.24298&pitch=0&thumbfov=100",
+  "kgmid": "/g/11vl41r1dh",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Mv5grr2KpPglHIn7WiD2aQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=191.24298&pitch=0&thumbfov=100"
+    }
+  ],
+  "imageUrls": [
+    "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Mv5grr2KpPglHIn7WiD2aQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=191.24298&pitch=0&thumbfov=100"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 3,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@18.136249855323715,78.86388683114352,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "sri balaji hotel",
+  "subTitle": "శ్రీ బాలాజీ హోటల్",
+  "description": null,
+  "price": null,
+  "categoryName": "Hotel",
+  "address": "srinivas nagar beside balaji theater karminagar, Siddipet, Telangana 502103, India",
+  "neighborhood": "Srinivas Nagar",
+  "street": "srinivas nagar beside balaji theater karminagar",
+  "city": "Siddipet",
+  "postalCode": "502103",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": "+91 99590 03323",
+  "phoneUnformatted": "+919959003323",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 18.1038282,
+    "lng": 78.8566302
+  },
+  "locatedIn": null,
+  "plusCode": "4V34+GM Siddipet, Telangana, India",
+  "menu": null,
+  "totalScore": 4.2,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJd-0oHRDtzDsR2J2wGpiVGks",
+  "categories": [
+    "Hotel"
+  ],
+  "fid": "0x3bcced101d28ed77:0x4b1a95981ab09dd8",
+  "cid": "5411802382754422232",
+  "reviewsCount": 63,
+  "reviewsDistribution": {
+    "oneStar": 7,
+    "twoStar": 1,
+    "threeStar": 5,
+    "fourStar": 12,
+    "fiveStar": 38
+  },
+  "imagesCount": 5,
+  "imageCategories": [
+    "All",
+    "Rooms",
+    "Exterior",
+    "From visitors",
+    "By owner",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T07:11:04.997Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": "2024-11-04",
+  "checkOutDate": "2024-11-05",
+  "similarHotelsNearby": [
+    {
+      "name": "sai varalaxmi delux lodge",
+      "rating": 3.5,
+      "reviews": 157,
+      "description": "Free Wi-Fi",
+      "price": "$17"
+    },
+    {
+      "name": "Swarna Palace - Luxury Hotel in Siddipet",
+      "rating": 4.4,
+      "reviews": 52,
+      "description": null,
+      "price": "$42"
+    },
+    {
+      "name": "SAI KRUPA INN",
+      "rating": 4.3,
+      "reviews": 193,
+      "description": "Free Wi-Fi",
+      "price": null
+    },
+    {
+      "name": "OYO 49921 My Residency",
+      "rating": 3.5,
+      "reviews": 83,
+      "description": "Free Wi-Fi",
+      "price": null
+    },
+    {
+      "name": "MURALIDHAR HOTEL",
+      "rating": 4.1,
+      "reviews": 68,
+      "description": null,
+      "price": null
+    },
+    {
+      "name": "Krishna Reddy Lodge",
+      "rating": 3.3,
+      "reviews": 19,
+      "description": null,
+      "price": null
+    },
+    {
+      "name": "Susheel Luxary Rooms",
+      "rating": 4.3,
+      "reviews": 80,
+      "description": null,
+      "price": null
+    },
+    {
+      "name": "Highway Hotels",
+      "rating": 3.7,
+      "reviews": 61,
+      "description": null,
+      "price": null
+    },
+    {
+      "name": "Hotel Haritha Minerva",
+      "rating": 4.3,
+      "reviews": 17,
+      "description": null,
+      "price": null
+    }
+  ],
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [
+    {
+      "title": "service",
+      "count": 3
+    }
+  ],
+  "additionalInfo": {},
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=sri%20balaji%20hotel&query_place_id=ChIJd-0oHRDtzDsR2J2wGpiVGks",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOgbk7ta2GfF81GySoGmlH2vF6dxNqLj67uft7H=w408-h544-k-no",
+  "kgmid": "/g/11q88tqjq_",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOgbk7ta2GfF81GySoGmlH2vF6dxNqLj67uft7H=w1920-h1080-k-no",
+      "authorName": "sri balaji hotel",
+      "authorUrl": "https://maps.google.com/maps/contrib/103829200545266138885",
+      "uploadedAt": "2021-04-28T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipOgbk7ta2GfF81GySoGmlH2vF6dxNqLj67uft7H=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 4,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@18.136249855323715,78.86388683114352,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "MURALIDHAR HOTEL",
+  "subTitle": "మురళీధర్ హోటల్",
+  "description": null,
+  "price": null,
+  "categoryName": "Tea room",
+  "address": "Siddipet, 7-3-100/7, Subhash Rd, Siddipet, Telangana 502103, India",
+  "neighborhood": "Azam Pura",
+  "street": "Siddipet, 7-3-100/7, Subhash Rd",
+  "city": "Siddipet",
+  "postalCode": "502103",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": "+91 98859 15891",
+  "phoneUnformatted": "+919885915891",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 18.1055039,
+    "lng": 78.8509387
+  },
+  "locatedIn": null,
+  "plusCode": "4V42+69 Siddipet, Telangana, India",
+  "menu": null,
+  "totalScore": 4.1,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ32U0dE3tzDsR9QHVZJjRX7k",
+  "categories": [
+    "Tea room",
+    "Restaurant"
+  ],
+  "fid": "0x3bcced4d743465df:0xb95fd19864d501f5",
+  "cid": "13357625472261095925",
+  "reviewsCount": 68,
+  "reviewsDistribution": {
+    "oneStar": 6,
+    "twoStar": 3,
+    "threeStar": 5,
+    "fourStar": 17,
+    "fiveStar": 37
+  },
+  "imagesCount": 5,
+  "imageCategories": [
+    "All",
+    "Food & drink",
+    "Videos",
+    "Vibe",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T07:11:04.726Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": "2024-11-04",
+  "checkOutDate": "2024-11-05",
+  "similarHotelsNearby": [
+    {
+      "name": "sai varalaxmi delux lodge",
+      "rating": 3.5,
+      "reviews": 157,
+      "description": "Free Wi-Fi",
+      "price": "£16"
+    },
+    {
+      "name": "Swarna Palace - Luxury Hotel in Siddipet",
+      "rating": 4.4,
+      "reviews": 52,
+      "description": null,
+      "price": "£36"
+    },
+    {
+      "name": "SAI KRUPA INN",
+      "rating": 4.3,
+      "reviews": 193,
+      "description": "Free Wi-Fi",
+      "price": null
+    },
+    {
+      "name": "OYO 49921 My Residency",
+      "rating": 3.5,
+      "reviews": 83,
+      "description": "Free Wi-Fi",
+      "price": null
+    },
+    {
+      "name": "sri balaji hotel",
+      "rating": 4.2,
+      "reviews": 63,
+      "description": null,
+      "price": null
+    },
+    {
+      "name": "Krishna Reddy Lodge",
+      "rating": 3.3,
+      "reviews": 19,
+      "description": null,
+      "price": null
+    },
+    {
+      "name": "Susheel Luxary Rooms",
+      "rating": 4.3,
+      "reviews": 80,
+      "description": null,
+      "price": null
+    },
+    {
+      "name": "Highway Hotels",
+      "rating": 3.7,
+      "reviews": 61,
+      "description": null,
+      "price": null
+    },
+    {
+      "name": "Hotel Haritha Minerva",
+      "rating": 4.3,
+      "reviews": 17,
+      "description": null,
+      "price": null
+    }
+  ],
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "popularTimesLiveText": "Now: Usually not too busy",
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {
+    "Su": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 47
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 70
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 89
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 95
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 87
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 66
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 33
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 25
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 18
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 20
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 25
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 16
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 12
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 6
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 8
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "Mo": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 41
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 66
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 100
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 81
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 60
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 29
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 20
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 20
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 25
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 37
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 41
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 35
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 35
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 25
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 12
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "Tu": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 39
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 66
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 79
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 64
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 58
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 50
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 41
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 27
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 18
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 25
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 35
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 45
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 50
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 35
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 27
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "We": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 29
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 62
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 77
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 70
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 39
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 41
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 29
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 37
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 25
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 33
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 39
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 27
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 35
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 20
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 16
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "Th": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 37
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 62
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 81
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 79
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 62
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 45
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 35
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 35
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 31
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 20
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 18
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 25
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 25
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 25
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 12
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "Fr": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 22
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 43
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 50
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 50
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 52
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 43
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 25
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 18
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 29
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 37
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 39
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 29
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 33
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 18
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "Sa": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 16
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 39
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 43
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 35
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 33
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 25
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 31
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 29
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 27
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 20
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 22
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 33
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 35
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 39
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 18
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ]
+  },
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "7:30 AM to 9:30 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "7:30 AM to 9:30 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "7:30 AM to 9:30 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "7:30 AM to 9:30 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "7:30 AM to 9:30 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "7:30 AM to 9:30 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "7:30 AM to 9:30 PM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [
+    {
+      "title": "samosa",
+      "count": 3
+    },
+    {
+      "title": "chai",
+      "count": 2
+    }
+  ],
+  "additionalInfo": {
+    "Service options": [
+      {
+        "Takeaway": true
+      },
+      {
+        "Dine-in": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=MURALIDHAR%20HOTEL&query_place_id=ChIJ32U0dE3tzDsR9QHVZJjRX7k",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipP0J3wtEucbl3xfc8jxITXV6W9PjM5rrIHIgMwT=w408-h544-k-no",
+  "kgmid": "/g/11bx2kq7yd",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipP0J3wtEucbl3xfc8jxITXV6W9PjM5rrIHIgMwT=w1920-h1080-k-no",
+      "authorName": "Vishnu vardhan Challa",
+      "authorUrl": "https://maps.google.com/maps/contrib/111499493906176483275",
+      "uploadedAt": "2024-07-28T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipP0J3wtEucbl3xfc8jxITXV6W9PjM5rrIHIgMwT=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 3,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@18.201497982985572,79.06932064428234,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "Nyalelli muthyalamma nilayam",
+  "subTitle": "న్యాలేల్లి ముత్యాలమ్మ నిలయం",
+  "description": null,
+  "price": null,
+  "categoryName": "Hotel",
+  "address": "5293+FWF, Cherla Ankireddipally, Telangana 502267, India",
+  "neighborhood": null,
+  "street": "5293+FWF",
+  "city": "Cherla Ankireddipally",
+  "postalCode": "502267",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": null,
+  "phoneUnformatted": null,
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 18.1686852,
+    "lng": 79.0048103
+  },
+  "locatedIn": null,
+  "plusCode": null,
+  "menu": null,
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJvxzYW_jrzDsRjUS5RtBxh-I",
+  "categories": [
+    "Hotel"
+  ],
+  "fid": "0x3bccebf85bd81cbf:0xe28771d046b9448d",
+  "cid": "16323140513781335181",
+  "reviewsCount": 1,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 1
+  },
+  "imagesCount": 1,
+  "imageCategories": [
+    "All",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T07:11:09.116Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Namali",
+      "reviewsCount": 52,
+      "totalScore": 3.9
+    },
+    {
+      "category": "People also search for",
+      "title": "Ummadi's Nilayam",
+      "reviewsCount": 5,
+      "totalScore": 4
+    },
+    {
+      "category": "People also search for",
+      "title": "Myakala Manohar Guest House",
+      "reviewsCount": 0,
+      "totalScore": 0
+    }
+  ],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {},
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=Nyalelli%20muthyalamma%20nilayam&query_place_id=ChIJvxzYW_jrzDsRjUS5RtBxh-I",
+  "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=OU_kQvrtypx8TueEtHwpWw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=129.23721&pitch=0&thumbfov=100",
+  "kgmid": "/g/11ft67863g",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=OU_kQvrtypx8TueEtHwpWw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=129.23721&pitch=0&thumbfov=100"
+    }
+  ],
+  "imageUrls": [
+    "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=OU_kQvrtypx8TueEtHwpWw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=129.23721&pitch=0&thumbfov=100"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 2,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@18.201497982985572,79.06932064428234,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "Ani goud",
+  "subTitle": "అని గౌడ్",
+  "description": null,
+  "price": null,
+  "categoryName": "Hotel",
+  "address": "KARIM NAGAR, Vinjapally, Telangana 505528, India",
+  "neighborhood": "KARIM NAGAR",
+  "street": null,
+  "city": "Vinjapally",
+  "postalCode": "505528",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": null,
+  "phoneUnformatted": null,
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 18.1995753,
+    "lng": 79.08577
+  },
+  "locatedIn": null,
+  "plusCode": "53XP+R8 Vinjapally, Telangana, India",
+  "menu": null,
+  "totalScore": null,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJHXQ9dtzBzDsRdgrqgjnJu4s",
+  "categories": [
+    "Hotel"
+  ],
+  "fid": "0x3bccc1dc763d741d:0x8bbbc93982ea0a76",
+  "cid": "10068862640763570806",
+  "reviewsCount": 0,
+  "reviewsDistribution": null,
+  "imagesCount": null,
+  "imageCategories": [],
+  "scrapedAt": "2024-11-02T07:11:12.367Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Budagajangam Anjaneyulu",
+      "reviewsCount": 0,
+      "totalScore": 0
+    },
+    {
+      "category": "People also search for",
+      "title": "Gande sainath",
+      "reviewsCount": 0,
+      "totalScore": 0
+    },
+    {
+      "category": "People also search for",
+      "title": "Ummadi's Nilayam",
+      "reviewsCount": 5,
+      "totalScore": 4
+    },
+    {
+      "category": "People also search for",
+      "title": "ANAND REGENCY",
+      "reviewsCount": 3,
+      "totalScore": 2.7
+    }
+  ],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {},
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=Ani%20goud&query_place_id=ChIJHXQ9dtzBzDsRdgrqgjnJu4s",
+  "imageUrl": null,
+  "kgmid": "/g/11k9_8l4zh",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [],
+  "imageUrls": [],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 2,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@18.136249855323715,78.86388683114352,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "sai varalaxmi delux lodge",
+  "subTitle": "సాయి వరలక్ష్మి డీలక్స్ లాడ్జ్",
+  "description": null,
+  "price": "$19",
+  "categoryName": "Lodge",
+  "address": "H.No, 19-84, Hyderabad Rd, above DCCB Bank, Srinivas Nagar, Siddipet, Telangana 502103, India",
+  "neighborhood": "Srinivas Nagar",
+  "street": "H.No, 19-84, Hyderabad Rd, above DCCB Bank",
+  "city": "Siddipet",
+  "postalCode": "502103",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": "+91 94400 03954",
+  "phoneUnformatted": "+919440003954",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 18.0976032,
+    "lng": 78.8530387
+  },
+  "locatedIn": null,
+  "plusCode": "3VX3+26 Siddipet, Telangana, India",
+  "menu": null,
+  "totalScore": 3.5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJN4V8kYiTzDsRmxs8K8y4OTA",
+  "categories": [
+    "Lodge"
+  ],
+  "fid": "0x3bcc9388917c8537:0x3039b8cc2b3c1b9b",
+  "cid": "3475011774531247003",
+  "reviewsCount": 157,
+  "reviewsDistribution": {
+    "oneStar": 29,
+    "twoStar": 18,
+    "threeStar": 25,
+    "fourStar": 22,
+    "fiveStar": 63
+  },
+  "imagesCount": 4,
+  "imageCategories": [
+    "All",
+    "Rooms",
+    "Videos",
+    "Exterior",
+    "Food & drink",
+    "From visitors",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T07:11:18.342Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "similarHotelsNearby": [
+    {
+      "name": "SAI KRUPA INN",
+      "rating": 4.3,
+      "reviews": 193,
+      "description": "Higher guest rating",
+      "price": null
+    },
+    {
+      "name": "Susheel Luxary Rooms",
+      "rating": 4.3,
+      "reviews": 80,
+      "description": "Higher guest rating",
+      "price": null
+    }
+  ],
+  "hotelReviewSummary": null,
+  "hotelAds": [
+    {
+      "title": "MakeMyTrip.com",
+      "googleUrl": "http://www.google.com/travel/clk?pc=AA80OsxgouSegoRMuX4g6PSaIZ_I7t82l0X5kBYTmYiZC8tce00zGD3e0tGPShiul9HrT9wocnS-bFLBzFTcrEjgkhhJ4j4kOF2nKh2hAOjq78_rqNM_Y70z8OK63DxReZltIA&pcurl=https://www.makemytrip.com/hotels/hotel-listing/?topHtlId%3D202107091340388261%26city%3DCTSIDI%26country%3DIN%26checkin%3D11022024%26checkout%3D11032024%26rsc%3D1e2e%26roomStayQualifier%3D2e0e%26totalGuestCount%3D2%26roomCount%3D1%26cmp%3Dgooglehoteldfinder_DH_META_Free_default_US_mapresults_202107091340388261%26_uCurrency%3DUSD%26Campaign%3D%26locusId%3DCTSIDI%26locusType%3Dcity%26priceby%3DPNS%26mtkeys%3Ddf5e9616-4fc2-4bf7-8324-1c813c9097a8%26au%3D",
+      "isOfficialSite": false,
+      "price": "$21",
+      "url": "https://www.makemytrip.com/hotels/hotel-listing/?topHtlId=202107091340388261&city=CTSIDI&country=IN&checkin=11022024&checkout=11032024&rsc=1e2e&roomStayQualifier=2e0e&totalGuestCount=2&roomCount=1&cmp=googlehoteldfinder_DH_META_Free_default_US_mapresults_202107091340388261&_uCurrency=USD&Campaign=&locusId=CTSIDI&locusType=city&priceby=PNS&mtkeys=df5e9616-4fc2-4bf7-8324-1c813c9097a8&au="
+    }
+  ],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [
+    {
+      "title": "maintenance",
+      "count": 7
+    },
+    {
+      "title": "service",
+      "count": 5
+    },
+    {
+      "title": "toilets",
+      "count": 3
+    },
+    {
+      "title": "hot water",
+      "count": 3
+    },
+    {
+      "title": "budget",
+      "count": 2
+    },
+    {
+      "title": "bedsheets",
+      "count": 2
+    },
+    {
+      "title": "cleanliness",
+      "count": 2
+    },
+    {
+      "title": "boy",
+      "count": 2
+    },
+    {
+      "title": "door",
+      "count": 2
+    },
+    {
+      "title": "AC",
+      "count": 2
+    }
+  ],
+  "additionalInfo": {
+    "Amenities": [
+      {
+        "Free Wi-Fi": true
+      },
+      {
+        "Free breakfast": false
+      },
+      {
+        "Pool": false
+      },
+      {
+        "Air-conditioned": true
+      },
+      {
+        "Laundry service": true
+      },
+      {
+        "Kitchens in some rooms": true
+      },
+      {
+        "Fitness center": false
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": {
+    "postDate": "6 months ago",
+    "postedBy": {
+      "totalReviews": null
+    },
+    "media": []
+  },
+  "url": "https://www.google.com/maps/search/?api=1&query=sai%20varalaxmi%20delux%20lodge&query_place_id=ChIJN4V8kYiTzDsRmxs8K8y4OTA",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNPxehj7sU009NhfgxXN-kdT9ZLDx5YygnXgmXe=w408-h266-k-no",
+  "kgmid": "/g/11fd45280k",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNPxehj7sU009NhfgxXN-kdT9ZLDx5YygnXgmXe=w1920-h1080-k-no",
+      "authorName": "ENGU SHIVAKUMAR",
+      "authorUrl": "https://maps.google.com/maps/contrib/102354170424408366261",
+      "uploadedAt": "2020-12-21T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipNPxehj7sU009NhfgxXN-kdT9ZLDx5YygnXgmXe=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 1,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@18.201497982985572,79.06932064428234,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "मयूर फ़ैमिली ढाबा",
+  "subTitle": null,
+  "description": null,
+  "price": null,
+  "categoryName": "Dhaba",
+  "address": "SH1, Karimnagar, Telangana 505473, India",
+  "neighborhood": null,
+  "street": "SH1",
+  "city": "Karimnagar",
+  "postalCode": "505473",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": null,
+  "phoneUnformatted": null,
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 18.2182081,
+    "lng": 79.0365601
+  },
+  "locatedIn": null,
+  "plusCode": "629P+7J Karimnagar, Telangana, India",
+  "menu": null,
+  "totalScore": 4.3,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ53XX9IHDzDsRZWTsnNK1sNY",
+  "categories": [
+    "Dhaba",
+    "Hotel"
+  ],
+  "fid": "0x3bccc381f4d775e7:0xd6b0b5d29cec6465",
+  "cid": "15470064636198151269",
+  "reviewsCount": 15,
+  "reviewsDistribution": {
+    "oneStar": 1,
+    "twoStar": 0,
+    "threeStar": 3,
+    "fourStar": 1,
+    "fiveStar": 10
+  },
+  "imagesCount": 4,
+  "imageCategories": [
+    "All",
+    "By owner",
+    "Videos",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T07:11:18.366Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "New Mayuri Restaurant",
+      "reviewsCount": 16,
+      "totalScore": 4.2
+    },
+    {
+      "category": "People also search for",
+      "title": "Mayuri Family Dhaba And Restaurant",
+      "reviewsCount": 0,
+      "totalScore": 0
+    },
+    {
+      "category": "People also search for",
+      "title": "Mayuri dhaba family restaurant",
+      "reviewsCount": 124,
+      "totalScore": 4
+    }
+  ],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Service options": [
+      {
+        "Drive-through": true
+      },
+      {
+        "Takeout": true
+      },
+      {
+        "Dine-in": true
+      }
+    ],
+    "Offerings": [
+      {
+        "Small plates": true
+      }
+    ],
+    "Dining options": [
+      {
+        "Lunch": true
+      },
+      {
+        "Dinner": true
+      }
+    ],
+    "Atmosphere": [
+      {
+        "Casual": true
+      }
+    ],
+    "Crowd": [
+      {
+        "Groups": true
+      }
+    ],
+    "Children": [
+      {
+        "Good for kids": true
+      }
+    ],
+    "Parking": [
+      {
+        "Free street parking": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=%E0%A4%AE%E0%A4%AF%E0%A5%82%E0%A4%B0%20%E0%A4%AB%E0%A4%BC%E0%A5%88%E0%A4%AE%E0%A4%BF%E0%A4%B2%E0%A5%80%20%E0%A4%A2%E0%A4%BE%E0%A4%AC%E0%A4%BE&query_place_id=ChIJ53XX9IHDzDsRZWTsnNK1sNY",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNyPeml_JQfkrbCXt3nmcfvV0JAyGIyTu1U1rX8=w408-h544-k-no",
+  "kgmid": "/g/11n2wfd1_x",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNyPeml_JQfkrbCXt3nmcfvV0JAyGIyTu1U1rX8=w1920-h1080-k-no",
+      "authorName": "मयूर फ़ैमिली ढाबा",
+      "authorUrl": "https://maps.google.com/maps/contrib/101019882305732292129",
+      "uploadedAt": "2023-07-17T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipNyPeml_JQfkrbCXt3nmcfvV0JAyGIyTu1U1rX8=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 1,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@18.136249855323715,78.86388683114352,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "Swarna Palace - Luxury Hotel in Siddipet",
+  "subTitle": null,
+  "description": null,
+  "price": "$42",
+  "categoryName": "Hotel",
+  "address": "18-18-54, Santosh Towers, 5th floor, near New Bus Stand, Siddipet, Telangana 502103, India",
+  "neighborhood": "Housing Board Colony",
+  "street": "18-18-54, Santosh Towers, 5th floor, near New Bus Stand",
+  "city": "Siddipet",
+  "postalCode": "502103",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": "http://hotelswarnapalace.com/",
+  "phone": "+91 80197 12345",
+  "phoneUnformatted": "+918019712345",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 18.0952973,
+    "lng": 78.8530173
+  },
+  "locatedIn": null,
+  "plusCode": "3VW3+46 Siddipet, Telangana, India",
+  "menu": null,
+  "totalScore": 4.4,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJAQAAAEztzDsRhc3rURvk9lg",
+  "categories": [
+    "Hotel"
+  ],
+  "fid": "0x3bcced4c00000001:0x58f6e41b51ebcd85",
+  "cid": "6410561925598137733",
+  "reviewsCount": 53,
+  "reviewsDistribution": {
+    "oneStar": 3,
+    "twoStar": 2,
+    "threeStar": 4,
+    "fourStar": 8,
+    "fiveStar": 36
+  },
+  "imagesCount": 48,
+  "imageCategories": [
+    "All",
+    "Rooms",
+    "Videos",
+    "Exterior",
+    "From visitors",
+    "By owner",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T07:11:23.481Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "similarHotelsNearby": [
+    {
+      "name": "SAI KRUPA INN",
+      "rating": 4.3,
+      "reviews": 193,
+      "description": "Free Wi-Fi",
+      "price": null
+    },
+    {
+      "name": "Susheel Luxary Rooms",
+      "rating": 4.3,
+      "reviews": 80,
+      "description": null,
+      "price": null
+    },
+    {
+      "name": "Hotel Haritha Minerva",
+      "rating": 4.3,
+      "reviews": 17,
+      "description": null,
+      "price": null
+    }
+  ],
+  "hotelReviewSummary": null,
+  "hotelAds": [
+    {
+      "title": "Swarna Palace - Luxury Hotel in Siddipet",
+      "googleUrl": "http://www.google.com/travel/clk?pc=AA80Osx9qbS09r99OYvwicQ4uPfMUpiR1CPuaMuSOdYYZ81gC-1v4AxDd0-ZOY1waUPSf0asPf5nJtl3_Ld4CMAPzNimgqZ1qPjTvNErHcNDCnFd1GNJsAAVofGCE4xaE8-3B9ZBQg&pcurl=https://bookingengine.stayflexi.com/26435/?checkin%3D02-11-2024%26num_nights%3D1%26num_guests%3D2%26source%3Dgoogle%26hotel_id%3D26435",
+      "isOfficialSite": true,
+      "price": "$47",
+      "url": "https://bookingengine.stayflexi.com/26435/?checkin=02-11-2024&num_nights=1&num_guests=2&source=google&hotel_id=26435"
+    }
+  ],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [
+    {
+      "title": "service",
+      "count": 6
+    },
+    {
+      "title": "security",
+      "count": 2
+    },
+    {
+      "title": "parking",
+      "count": 2
+    }
+  ],
+  "additionalInfo": {},
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=Swarna%20Palace%20-%20Luxury%20Hotel%20in%20Siddipet&query_place_id=ChIJAQAAAEztzDsRhc3rURvk9lg",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNJ_D-hyh0Bsj1ser0SKhy5bt4zKZ0hPFKB9_Aj=w408-h326-k-no",
+  "kgmid": "/g/11fsp_kqcx",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNJ_D-hyh0Bsj1ser0SKhy5bt4zKZ0hPFKB9_Aj=w1920-h1080-k-no",
+      "authorName": "Swarna Palace - Luxury Hotel in Siddipet",
+      "authorUrl": "https://maps.google.com/maps/contrib/115372396001889067696",
+      "uploadedAt": "2020-06-27T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipNJ_D-hyh0Bsj1ser0SKhy5bt4zKZ0hPFKB9_Aj=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+}]

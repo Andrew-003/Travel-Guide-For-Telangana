@@ -1,0 +1,1391 @@
+[{
+  "id": "28166090",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Specialty Lodging"
+  ],
+  "name": "Hotel Sama Residency",
+  "locationString": "Mancherial, Mancherial District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/2d/b4/69/80/property-building.jpg",
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 85002 53777",
+  "address": "SBI Town Branch, Chowrasta, Near Bellampally, Mancherial 504208 India",
+  "addressObj": {
+    "street1": "SBI Town Branch, Chowrasta, Near Bellampally",
+    "street2": null,
+    "city": "Mancherial",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "504208"
+  },
+  "localName": "Hotel Sama Residency",
+  "localAddress": "SBI Town Branch, Chowrasta, Near Bellampally, 504208",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 18.882643,
+  "longitude": 79.443405,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g12435863-d28166090-Reviews-Hotel_Sama_Residency-Mancherial_Mancherial_District_Telangana.html",
+  "website": null,
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "12435863",
+      "name": "Mancherial",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389065",
+      "name": "Mancherial District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "hotelClass": "0.0",
+  "amenities": [],
+  "priceLevel": "₹",
+  "priceRange": "₹2,102 - ₹4,120",
+  "roomTips": [],
+  "isNearbyResult": false,
+  "reviewTags": [],
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "numberOfRooms": null,
+  "categoryReviewScores": [],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/2d/b4/69/80/property-building.jpg",
+    "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/2d/b4/69/7c/property-building.jpg",
+    "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/2d/b4/69/7d/property-building.jpg",
+    "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/2d/b4/69/7e/property-building.jpg",
+    "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/2d/b4/69/7f/property-building.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Mancherial,hotels"
+},
+{
+  "id": "27692048",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Hotel"
+  ],
+  "name": "Hotel North Inn",
+  "locationString": "Mancherial, Mancherial District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": null,
+  "address": "Station Rd Indra Nagar, Iqbal Ahmed Nagar, Mancherial 504208 India",
+  "addressObj": {
+    "street1": "Station Rd",
+    "street2": "Indra Nagar, Iqbal Ahmed Nagar",
+    "city": "Mancherial",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "504208"
+  },
+  "localName": "Hotel North Inn",
+  "localAddress": "Station Rd, Indra Nagar, Iqbal Ahmed Nagar, 504208",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 18.881447,
+  "longitude": 79.44337,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g12435863-d27692048-Reviews-Hotel_North_Inn-Mancherial_Mancherial_District_Telangana.html",
+  "website": "https://www.instagram.com/hotelnorthinns/",
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "12435863",
+      "name": "Mancherial",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389065",
+      "name": "Mancherial District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "hotelClass": "0.0",
+  "amenities": [],
+  "priceLevel": "₹",
+  "priceRange": "₹2,691 - ₹3,195",
+  "roomTips": [],
+  "isNearbyResult": false,
+  "reviewTags": [],
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "numberOfRooms": null,
+  "categoryReviewScores": [],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/f4/a4/12/private-dining-room.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Mancherial,hotels"
+},
+{
+  "reviewTags": [],
+  "id": "27512285",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Specialty Lodging"
+  ],
+  "name": "Surabhi Delux Lodge",
+  "locationString": "Mancherial, Mancherial District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": null,
+  "address": "4-62/5, Zafer Nagar Sai Nagar, Mancherial 504208 India",
+  "addressObj": {
+    "street1": "4-62/5, Zafer Nagar Sai Nagar",
+    "street2": null,
+    "city": "Mancherial",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "504208"
+  },
+  "localName": "Surabhi Delux Lodge",
+  "localAddress": "4-62/5, Zafer Nagar Sai Nagar, 504208",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": null,
+  "longitude": null,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g12435863-d27512285-Reviews-Surabhi_Delux_Lodge-Mancherial_Mancherial_District_Telangana.html",
+  "website": null,
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "12435863",
+      "name": "Mancherial",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389065",
+      "name": "Mancherial District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "hotelClass": "0.0",
+  "amenities": [],
+  "priceLevel": null,
+  "priceRange": null,
+  "roomTips": [],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "numberOfRooms": null,
+  "categoryReviewScores": [],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/f4/a4/12/private-dining-room.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Mancherial,hotels"
+},
+{
+  "reviewTags": [],
+  "id": "21870667",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Hotel"
+  ],
+  "name": "OYO 43678 Vishnu Residency",
+  "locationString": "Mancherial, Mancherial District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": null,
+  "address": "16923, Manchiryal, Station Rd, Mancherial 504208 India",
+  "addressObj": {
+    "street1": "16923, Manchiryal, Station Rd",
+    "street2": null,
+    "city": "Mancherial",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "504208"
+  },
+  "localName": "OYO 43678 Vishnu Residency",
+  "localAddress": "16923, Manchiryal, Station Rd, 504208",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 18.87846,
+  "longitude": 79.44811,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g12435863-d21870667-Reviews-OYO_43678_Vishnu_Residency-Mancherial_Mancherial_District_Telangana.html",
+  "website": null,
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "12435863",
+      "name": "Mancherial",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389065",
+      "name": "Mancherial District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "hotelClass": "0.0",
+  "amenities": [],
+  "priceLevel": "₹",
+  "priceRange": "₹1,009",
+  "roomTips": [],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "numberOfRooms": null,
+  "categoryReviewScores": [],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/f4/a4/12/private-dining-room.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Mancherial,hotels"
+},
+{
+  "reviewTags": [],
+  "id": "20091490",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Hotel"
+  ],
+  "name": "Hotel A 1",
+  "locationString": "Mancherial, Mancherial District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": 2,
+  "rating": 1,
+  "rawRanking": 2.719359874725342,
+  "phone": "+91 91820 83515",
+  "address": "Near Bus Stand Azad Road, Mancherial 504208 India",
+  "addressObj": {
+    "street1": "Near Bus Stand Azad Road",
+    "street2": null,
+    "city": "Mancherial",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "504208"
+  },
+  "localName": "Hotel A 1",
+  "localAddress": "Near Bus Stand Azad Road, 504208",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 18.881477,
+  "longitude": 79.445335,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g12435863-d20091490-Reviews-Hotel_A_1-Mancherial_Mancherial_District_Telangana.html",
+  "website": "https://hotel-a-1-hotel.business.site/?utm_source=gmb&utm_medium=referral",
+  "rankingString": "#2 of 2 hotels in Mancherial",
+  "rankingDenominator": "2",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "12435863",
+      "name": "Mancherial",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389065",
+      "name": "Mancherial District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 1,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 1,
+  "hotelClass": "3.0",
+  "hotelClassAttribution": "This property is classified according to Giata.",
+  "amenities": [],
+  "priceLevel": null,
+  "priceRange": null,
+  "roomTips": [],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "numberOfRooms": null,
+  "categoryReviewScores": [],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/f4/a4/12/private-dining-room.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Mancherial,hotels"
+},
+{
+  "id": "23292592",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Hotel"
+  ],
+  "name": "Vishnu Residency",
+  "locationString": "Mancherial, Mancherial District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/2d/8c/4f/75/bedroom.jpg",
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": null,
+  "address": "To 5 - 53 Vishnu Residency No 5-46 Beside Jama-Maszid, Station Road, Mancherial 504208 India",
+  "addressObj": {
+    "street1": "To 5 - 53 Vishnu Residency No 5-46",
+    "street2": "Beside Jama-Maszid, Station Road",
+    "city": "Mancherial",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "504208"
+  },
+  "localName": "Vishnu Residency",
+  "localAddress": "To 5 - 53 Vishnu Residency No 5-46, Beside Jama-Maszid, Station Road, 504208",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 18.87282,
+  "longitude": 79.44772,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g12435863-d23292592-Reviews-Vishnu_Residency-Mancherial_Mancherial_District_Telangana.html",
+  "website": null,
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "12435863",
+      "name": "Mancherial",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389065",
+      "name": "Mancherial District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "hotelClass": "0.0",
+  "amenities": [],
+  "priceLevel": "₹",
+  "priceRange": "₹1,093",
+  "roomTips": [],
+  "isNearbyResult": false,
+  "reviewTags": [],
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "numberOfRooms": null,
+  "categoryReviewScores": [],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/2d/8c/4f/75/bedroom.jpg",
+    "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/2d/f6/7f/19/bed.jpg",
+    "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/2d/8c/4f/79/property-building.jpg",
+    "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/2d/8c/4f/77/bed.jpg",
+    "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/2d/8c/4f/78/bed.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Mancherial,hotels"
+},
+{
+  "reviewTags": [],
+  "id": "26832953",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Specialty Lodging"
+  ],
+  "name": "ASR Conventon And Hotel Rooms",
+  "locationString": "Mancherial, Mancherial District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 90662 12345",
+  "address": "Mancherial Rd Police Station, Beside Naspur, Mancherial 504302 India",
+  "addressObj": {
+    "street1": "Mancherial Rd",
+    "street2": "Police Station, Beside Naspur",
+    "city": "Mancherial",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "504302"
+  },
+  "localName": "ASR Conventon And Hotel Rooms",
+  "localAddress": "Mancherial Rd, Police Station, Beside Naspur, 504302",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 18.8605,
+  "longitude": 79.46719,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g12435863-d26832953-Reviews-ASR_Conventon_And_Hotel_Rooms-Mancherial_Mancherial_District_Telangana.html",
+  "website": null,
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "12435863",
+      "name": "Mancherial",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389065",
+      "name": "Mancherial District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "hotelClass": "0.0",
+  "amenities": [],
+  "priceLevel": "₹",
+  "priceRange": "₹1,850 - ₹2,186",
+  "roomTips": [],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "numberOfRooms": null,
+  "categoryReviewScores": [],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/f4/a4/12/private-dining-room.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Mancherial,hotels"
+},
+{
+  "reviewTags": [],
+  "id": "25223212",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Hotel"
+  ],
+  "name": "Hylife - Hotels And Conventions",
+  "locationString": "Mancherial, Mancherial District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/27/9f/3d/19/hylife-hotels-and-conventions.jpg",
+  "photoCount": 50,
+  "rankingPosition": 1,
+  "rating": 5,
+  "rawRanking": 3.0794920921325684,
+  "phone": "+91 94406 94858",
+  "address": "Near Max Showroom, Mancherial India",
+  "addressObj": {
+    "street1": "Near Max Showroom",
+    "street2": null,
+    "city": "Mancherial",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": null
+  },
+  "localName": "Hylife - Hotels And Conventions",
+  "localAddress": "Near Max Showroom",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.422937,
+  "longitude": 78.57347,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g12435863-d25223212-Reviews-Hylife_Hotels_And_Conventions-Mancherial_Mancherial_District_Telangana.html",
+  "website": "https://hylifehotelsandconventions.com/",
+  "rankingString": "#1 of 2 hotels in Mancherial",
+  "rankingDenominator": "2",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "12435863",
+      "name": "Mancherial",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389065",
+      "name": "Mancherial District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 2
+  },
+  "numberOfReviews": 2,
+  "hotelClass": "0.0",
+  "amenities": [],
+  "priceLevel": "₹",
+  "priceRange": "₹2,355 - ₹3,952",
+  "roomTips": [],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "numberOfRooms": null,
+  "categoryReviewScores": [
+    {
+      "categoryName": "Location",
+      "score": 5
+    },
+    {
+      "categoryName": "Rooms",
+      "score": 5
+    },
+    {
+      "categoryName": "Value",
+      "score": 5
+    },
+    {
+      "categoryName": "Cleanliness",
+      "score": 5
+    },
+    {
+      "categoryName": "Service",
+      "score": 5
+    },
+    {
+      "categoryName": "Sleep Quality",
+      "score": 5
+    }
+  ],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/27/9f/3b/80/hylife-hotels-and-conventions.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/27/9f/3d/28/hylife-hotels-and-conventions.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/27/9f/3d/19/hylife-hotels-and-conventions.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/27/9f/3d/0c/hylife-hotels-and-conventions.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/27/9f/3c/f8/hylife-hotels-and-conventions.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/27/9f/3c/ed/hylife-hotels-and-conventions.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/27/9f/3c/d9/hylife-hotels-and-conventions.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/27/9f/3c/d3/hylife-hotels-and-conventions.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/27/9f/3c/d0/hylife-hotels-and-conventions.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/27/9f/3c/ca/hylife-hotels-and-conventions.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/27/9f/3c/c0/hylife-hotels-and-conventions.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/27/9f/3c/ba/hylife-hotels-and-conventions.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/27/9f/3c/ac/hylife-hotels-and-conventions.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/27/9f/3c/a7/hylife-hotels-and-conventions.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/27/9f/3c/a2/hylife-hotels-and-conventions.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/27/9f/3c/8f/hylife-hotels-and-conventions.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/27/9f/3c/7e/hylife-hotels-and-conventions.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/27/9f/3c/73/hylife-hotels-and-conventions.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/27/9f/3c/68/hylife-hotels-and-conventions.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/27/9f/3c/65/hylife-hotels-and-conventions.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/27/9f/3c/61/hylife-hotels-and-conventions.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/a6/cc/b1/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/27/9f/3c/43/hylife-hotels-and-conventions.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Mancherial,hotels"
+},
+{
+  "id": "2484481",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Specialty Lodging"
+  ],
+  "name": "Sai Leela Residency Hotel",
+  "locationString": "Karimnagar, Karimnagar District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": 10,
+  "rating": 2,
+  "rawRanking": 2.558375835418701,
+  "phone": null,
+  "address": "Godavarikhani Rajiv Highway Road Ramagundam Madalam, Karimnagar 505209 India",
+  "addressObj": {
+    "street1": "Godavarikhani Rajiv Highway Road",
+    "street2": "Ramagundam Madalam",
+    "city": "Karimnagar",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "505209"
+  },
+  "localName": "Sai Leela Residency Hotel",
+  "localAddress": "Godavarikhani Rajiv Highway Road, Ramagundam Madalam, 505209",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 18.759542,
+  "longitude": 79.481636,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g2295103-d2484481-Reviews-Sai_Leela_Residency_Hotel-Karimnagar_Karimnagar_District_Telangana.html",
+  "website": null,
+  "rankingString": "#10 of 10 lodges in Karimnagar",
+  "rankingDenominator": "10",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295103",
+      "name": "Karimnagar",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389542",
+      "name": "Karimnagar District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 4,
+    "count2": 5,
+    "count3": 1,
+    "count4": 1,
+    "count5": 0
+  },
+  "numberOfReviews": 11,
+  "hotelClass": "0.0",
+  "amenities": [
+    "Air conditioning",
+    "Restaurant"
+  ],
+  "priceLevel": "₹",
+  "priceRange": "₹841 - ₹1,430",
+  "roomTips": [
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "Go to Karimnagar ,Hotel Swetha ,Excellent hotel like S Park in Khamam ,Great hotel",
+      "rating": "1",
+      "reviewId": "374843333",
+      "id": "374843333",
+      "createdTime": "2016-05-20T08:29:31-04:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "A/C rooms are only good rooms",
+      "rating": "2",
+      "reviewId": "371999220",
+      "id": "371999220",
+      "createdTime": "2016-05-11T02:16:40-04:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "2nd floor corner rooms are quite and comfortble",
+      "rating": "4",
+      "reviewId": "266355169",
+      "id": "266355169",
+      "createdTime": "2015-04-17T22:30:57-04:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "All rooms are same no choice for good room",
+      "rating": "2",
+      "reviewId": "192805224",
+      "id": "192805224",
+      "createdTime": "2014-02-01T16:37:07-05:00"
+    },
+    {
+      "user": null,
+      "type": "room_tip",
+      "text": "no specific chice for room",
+      "rating": "3",
+      "reviewId": "190455867",
+      "id": "190455867",
+      "createdTime": "2014-01-10T18:52:14-05:00"
+    }
+  ],
+  "isNearbyResult": false,
+  "reviewTags": [],
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "numberOfRooms": null,
+  "categoryReviewScores": [
+    {
+      "categoryName": "Location",
+      "score": 2.7
+    },
+    {
+      "categoryName": "Rooms",
+      "score": 2
+    },
+    {
+      "categoryName": "Value",
+      "score": 2
+    },
+    {
+      "categoryName": "Cleanliness",
+      "score": 2
+    },
+    {
+      "categoryName": "Service",
+      "score": 2.1
+    },
+    {
+      "categoryName": "Sleep Quality",
+      "score": 2.4
+    }
+  ],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/13/c9/df/26/photo3jpg.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Mancherial,hotels"
+},
+{
+  "reviewTags": [],
+  "id": "26733107",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Hotel"
+  ],
+  "name": "hotel kundana",
+  "locationString": "Mancherial, Mancherial District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 91219 23452",
+  "address": "504, Sai Baba Temple Road, Station Road H No 4, Zaffernagar, Reddy Colony, Mancherial 504208 India",
+  "addressObj": {
+    "street1": "504, Sai Baba Temple Road, Station Road",
+    "street2": "H No 4, Zaffernagar, Reddy Colony",
+    "city": "Mancherial",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "504208"
+  },
+  "localName": "hotel kundana",
+  "localAddress": "504, Sai Baba Temple Road, Station Road, H No 4, Zaffernagar, Reddy Colony, 504208",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 29.472683,
+  "longitude": 77.70851,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g12435863-d26733107-Reviews-Hotel_kundana-Mancherial_Mancherial_District_Telangana.html",
+  "website": null,
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "12435863",
+      "name": "Mancherial",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389065",
+      "name": "Mancherial District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "hotelClass": "0.0",
+  "amenities": [],
+  "priceLevel": "₹",
+  "priceRange": "₹2,355 - ₹2,775",
+  "roomTips": [],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "numberOfRooms": 31,
+  "categoryReviewScores": [],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/f4/a4/12/private-dining-room.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Mancherial,hotels"
+},
+{
+  "id": "28190591",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Specialty Lodging"
+  ],
+  "name": "Sunshine Residency",
+  "locationString": "Mancherial, Mancherial District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 99666 44330",
+  "address": "7-68 to 72, Ganga Reddy Rd Opposite Venkateshwara Theater, Mancherial 504208 India",
+  "addressObj": {
+    "street1": "7-68 to 72, Ganga Reddy Rd",
+    "street2": "Opposite Venkateshwara Theater",
+    "city": "Mancherial",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "504208"
+  },
+  "localName": "Sunshine Residency",
+  "localAddress": "7-68 to 72, Ganga Reddy Rd, Opposite Venkateshwara Theater, 504208",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 18.875454,
+  "longitude": 79.4446,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g12435863-d28190591-Reviews-Sunshine_Residency-Mancherial_Mancherial_District_Telangana.html",
+  "website": null,
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "12435863",
+      "name": "Mancherial",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389065",
+      "name": "Mancherial District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "hotelClass": "0.0",
+  "amenities": [],
+  "priceLevel": "₹",
+  "priceRange": "₹2,102 - ₹2,523",
+  "roomTips": [],
+  "isNearbyResult": false,
+  "reviewTags": [],
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "numberOfRooms": null,
+  "categoryReviewScores": [],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/f4/a4/12/private-dining-room.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Mancherial,hotels"
+},
+{
+  "id": "25111427",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Hotel"
+  ],
+  "name": "Hylife Hotels And Conventions",
+  "locationString": "Mancherial, Mancherial District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 88975 08108",
+  "address": "NH563, Mancherial 504208 India",
+  "addressObj": {
+    "street1": "NH563",
+    "street2": null,
+    "city": "Mancherial",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "504208"
+  },
+  "localName": "Hylife Hotels And Conventions",
+  "localAddress": "NH563, 504208",
+  "localLangCode": "en-IN",
+  "email": "Hylifehotels@gmail.com",
+  "latitude": 18.873768,
+  "longitude": 79.43435,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g12435863-d25111427-Reviews-Hylife_Hotels_And_Conventions-Mancherial_Mancherial_District_Telangana.html",
+  "website": "https://www.facebook.com/hylifehotels/",
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "12435863",
+      "name": "Mancherial",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389065",
+      "name": "Mancherial District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "hotelClass": "2.0",
+  "hotelClassAttribution": "This property is classified according to Giata.",
+  "amenities": [],
+  "priceLevel": "₹",
+  "priceRange": "₹3,111",
+  "roomTips": [],
+  "isNearbyResult": false,
+  "reviewTags": [],
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "numberOfRooms": 23,
+  "categoryReviewScores": [],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/f4/a4/12/private-dining-room.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Mancherial,hotels"
+},
+{
+  "reviewTags": [],
+  "id": "27410606",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Specialty Lodging"
+  ],
+  "name": "Sri Vyshnavi Lodge",
+  "locationString": "Mancherial, Mancherial District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 99895 95769",
+  "address": "#5-281/4, Indira Nagar Rd Opp Geetha Bhavan, Beside Reddy Mess, Mancherial 504208 India",
+  "addressObj": {
+    "street1": "#5-281/4, Indira Nagar Rd",
+    "street2": "Opp Geetha Bhavan, Beside Reddy Mess",
+    "city": "Mancherial",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "504208"
+  },
+  "localName": "Sri Vyshnavi Lodge",
+  "localAddress": "#5-281/4, Indira Nagar Rd, Opp Geetha Bhavan, Beside Reddy Mess, 504208",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": null,
+  "longitude": null,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g12435863-d27410606-Reviews-Sri_Vyshnavi_Lodge-Mancherial_Mancherial_District_Telangana.html",
+  "website": "https://www.facebook.com/profile.php?id=100066806493230",
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "12435863",
+      "name": "Mancherial",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389065",
+      "name": "Mancherial District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "hotelClass": "0.0",
+  "amenities": [],
+  "priceLevel": "₹",
+  "priceRange": "₹2,607 - ₹2,775",
+  "roomTips": [],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "numberOfRooms": null,
+  "categoryReviewScores": [],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/f4/a4/12/private-dining-room.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Mancherial,hotels"
+},
+{
+  "reviewTags": [],
+  "id": "23523258",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Hotel"
+  ],
+  "name": "Meenakshi Lodge",
+  "locationString": "Mancherial, Mancherial District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": null,
+  "address": "Mancherial 504208 India",
+  "addressObj": {
+    "street1": null,
+    "street2": null,
+    "city": "Mancherial",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "504208"
+  },
+  "localName": "Meenakshi Lodge",
+  "localAddress": "504208",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 18.8825,
+  "longitude": 79.44322,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g12435863-d23523258-Reviews-Meenakshi_Lodge-Mancherial_Mancherial_District_Telangana.html",
+  "website": null,
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "12435863",
+      "name": "Mancherial",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389065",
+      "name": "Mancherial District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "hotelClass": "0.0",
+  "amenities": [],
+  "priceLevel": null,
+  "priceRange": null,
+  "roomTips": [],
+  "isNearbyResult": false,
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "numberOfRooms": null,
+  "categoryReviewScores": [],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/f4/a4/12/private-dining-room.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Mancherial,hotels"
+}]

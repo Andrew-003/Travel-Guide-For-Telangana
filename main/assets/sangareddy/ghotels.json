@@ -1,0 +1,4280 @@
+[{
+  "searchString": "hotels",
+  "rank": 22,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@17.770690190457174,78.15209927282906,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "Jodhpur Rajasthani Dhaba",
+  "subTitle": "జోధ్పూర్ రాజస్థానీ ధాబా",
+  "description": null,
+  "price": null,
+  "categoryName": "Rajasthani restaurant",
+  "address": "Sangareddy, Telangana 502001, India",
+  "neighborhood": null,
+  "street": null,
+  "city": "Sangareddy",
+  "postalCode": "502001",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": null,
+  "phoneUnformatted": null,
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 17.7485908,
+    "lng": 78.0947828
+  },
+  "locatedIn": null,
+  "plusCode": "P3XV+CW Choutkur, Telangana, India",
+  "menu": null,
+  "totalScore": 4,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJAeinY9_xyzsRIOfCnfUKL9M",
+  "categories": [
+    "Rajasthani restaurant"
+  ],
+  "fid": "0x3bcbf1df63a7e801:0xd32f0af59dc2e720",
+  "cid": "15217393715938256672",
+  "reviewsCount": 46,
+  "reviewsDistribution": {
+    "oneStar": 6,
+    "twoStar": 3,
+    "threeStar": 2,
+    "fourStar": 9,
+    "fiveStar": 26
+  },
+  "imagesCount": 5,
+  "imageCategories": [
+    "All",
+    "Food & drink",
+    "Vibe",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T06:57:55.697Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "popularTimesLiveText": "Now: Usually not too busy",
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {
+    "Su": [
+      {
+        "hour": 4,
+        "occupancyPercent": 15
+      },
+      {
+        "hour": 5,
+        "occupancyPercent": 26
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 25
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 25
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 27
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 25
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 26
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 22
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 18
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 22
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 17
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 20
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 20
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 23
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 31
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 42
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 57
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 80
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 81
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 75
+      },
+      {
+        "hour": 0,
+        "occupancyPercent": 48
+      },
+      {
+        "hour": 1,
+        "occupancyPercent": 26
+      },
+      {
+        "hour": 2,
+        "occupancyPercent": 15
+      },
+      {
+        "hour": 3,
+        "occupancyPercent": 16
+      }
+    ],
+    "Mo": [
+      {
+        "hour": 4,
+        "occupancyPercent": 18
+      },
+      {
+        "hour": 5,
+        "occupancyPercent": 18
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 25
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 32
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 36
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 25
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 23
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 25
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 33
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 31
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 27
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 36
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 37
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 43
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 42
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 41
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 40
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 48
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 52
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 48
+      },
+      {
+        "hour": 0,
+        "occupancyPercent": 31
+      },
+      {
+        "hour": 1,
+        "occupancyPercent": 26
+      },
+      {
+        "hour": 2,
+        "occupancyPercent": 22
+      },
+      {
+        "hour": 3,
+        "occupancyPercent": 21
+      }
+    ],
+    "Tu": [
+      {
+        "hour": 4,
+        "occupancyPercent": 22
+      },
+      {
+        "hour": 5,
+        "occupancyPercent": 28
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 27
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 25
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 13
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 8
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 11
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 15
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 13
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 12
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 15
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 20
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 23
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 25
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 31
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 41
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 50
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 67
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 80
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 76
+      },
+      {
+        "hour": 0,
+        "occupancyPercent": 41
+      },
+      {
+        "hour": 1,
+        "occupancyPercent": 17
+      },
+      {
+        "hour": 2,
+        "occupancyPercent": 8
+      },
+      {
+        "hour": 3,
+        "occupancyPercent": 12
+      }
+    ],
+    "We": [
+      {
+        "hour": 4,
+        "occupancyPercent": 15
+      },
+      {
+        "hour": 5,
+        "occupancyPercent": 13
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 16
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 16
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 10
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 8
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 10
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 20
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 15
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 16
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 15
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 25
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 30
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 36
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 45
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 65
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 85
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 100
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 98
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 83
+      },
+      {
+        "hour": 0,
+        "occupancyPercent": 50
+      },
+      {
+        "hour": 1,
+        "occupancyPercent": 35
+      },
+      {
+        "hour": 2,
+        "occupancyPercent": 23
+      },
+      {
+        "hour": 3,
+        "occupancyPercent": 21
+      }
+    ],
+    "Th": [
+      {
+        "hour": 4,
+        "occupancyPercent": 36
+      },
+      {
+        "hour": 5,
+        "occupancyPercent": 40
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 30
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 25
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 21
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 27
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 26
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 28
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 28
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 26
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 25
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 31
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 31
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 31
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 26
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 36
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 51
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 57
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 61
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 55
+      },
+      {
+        "hour": 0,
+        "occupancyPercent": 41
+      },
+      {
+        "hour": 1,
+        "occupancyPercent": 21
+      },
+      {
+        "hour": 2,
+        "occupancyPercent": 20
+      },
+      {
+        "hour": 3,
+        "occupancyPercent": 26
+      }
+    ],
+    "Fr": [
+      {
+        "hour": 4,
+        "occupancyPercent": 28
+      },
+      {
+        "hour": 5,
+        "occupancyPercent": 31
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 21
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 23
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 15
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 11
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 13
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 12
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 13
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 15
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 17
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 21
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 26
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 23
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 28
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 33
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 50
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 68
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 81
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 80
+      },
+      {
+        "hour": 0,
+        "occupancyPercent": 52
+      },
+      {
+        "hour": 1,
+        "occupancyPercent": 35
+      },
+      {
+        "hour": 2,
+        "occupancyPercent": 28
+      },
+      {
+        "hour": 3,
+        "occupancyPercent": 27
+      }
+    ],
+    "Sa": [
+      {
+        "hour": 4,
+        "occupancyPercent": 16
+      },
+      {
+        "hour": 5,
+        "occupancyPercent": 17
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 21
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 27
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 20
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 15
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 22
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 23
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 30
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 16
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 16
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 10
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 17
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 13
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 26
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 31
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 48
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 58
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 56
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 48
+      },
+      {
+        "hour": 0,
+        "occupancyPercent": 27
+      },
+      {
+        "hour": 1,
+        "occupancyPercent": 15
+      },
+      {
+        "hour": 2,
+        "occupancyPercent": 11
+      },
+      {
+        "hour": 3,
+        "occupancyPercent": 21
+      }
+    ]
+  },
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Thursday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Friday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Saturday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Open 24 hours"
+    }
+  ],
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Rajsthani Dhaba",
+      "reviewsCount": 23,
+      "totalScore": 4
+    },
+    {
+      "category": "People also search for",
+      "title": "Masala Darbaar Rajasthani Dhaba",
+      "reviewsCount": 79,
+      "totalScore": 4.1
+    },
+    {
+      "category": "People also search for",
+      "title": "Rajasthani dhaba ramdev",
+      "reviewsCount": 194,
+      "totalScore": 4.1
+    },
+    {
+      "category": "People also search for",
+      "title": "HPR Family Dhaba",
+      "reviewsCount": 132,
+      "totalScore": 3.8
+    },
+    {
+      "category": "People also search for",
+      "title": "Chaudhari rajasthani",
+      "reviewsCount": 23,
+      "totalScore": 4.5
+    }
+  ],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Service options": [
+      {
+        "Drive-through": true
+      },
+      {
+        "Takeout": true
+      },
+      {
+        "Dine-in": true
+      }
+    ],
+    "Accessibility": [
+      {
+        "Wheelchair accessible restroom": true
+      }
+    ],
+    "Offerings": [
+      {
+        "All you can eat": true
+      },
+      {
+        "Late-night food": true
+      },
+      {
+        "Small plates": true
+      },
+      {
+        "Vegan options": true
+      },
+      {
+        "Vegetarian options": true
+      },
+      null
+    ],
+    "Dining options": [
+      {
+        "Brunch": true
+      },
+      {
+        "Lunch": true
+      },
+      {
+        "Dinner": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Restroom": true
+      }
+    ],
+    "Atmosphere": [
+      {
+        "Casual": true
+      }
+    ],
+    "Crowd": [
+      {
+        "Groups": true
+      }
+    ],
+    "Payments": [
+      {
+        "NFC mobile payments": true
+      }
+    ],
+    "Children": [
+      {
+        "Good for kids": true
+      }
+    ],
+    "Parking": [
+      {
+        "Free parking lot": true
+      },
+      {
+        "Free street parking": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=Jodhpur%20Rajasthani%20Dhaba&query_place_id=ChIJAeinY9_xyzsRIOfCnfUKL9M",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMf2jNOR1Smp6YBDw9tkeCKoFha_uKF4pzE3Q9N=w426-h240-k-no",
+  "kgmid": "/g/11gjw_gmtj",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMf2jNOR1Smp6YBDw9tkeCKoFha_uKF4pzE3Q9N=w1920-h1080-k-no",
+      "authorName": "Choudhary Vineet",
+      "authorUrl": "https://maps.google.com/maps/contrib/110134525466864923185",
+      "uploadedAt": "2018-12-06T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipMf2jNOR1Smp6YBDw9tkeCKoFha_uKF4pzE3Q9N=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 11,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@17.640167577733415,77.67328976956125,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "OYO 26991 Stanza Luxurios Stay",
+  "subTitle": "చరణంలో విలాసవంతమైన స్టే",
+  "description": null,
+  "price": null,
+  "categoryName": "Lodging",
+  "address": "MJH5+V46, above syndicatebank, Zaheerabad, Telangana 502228, India",
+  "neighborhood": null,
+  "street": "MJH5+V46, above syndicatebank",
+  "city": "Zaheerabad",
+  "postalCode": "502228",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": "https://www.oyorooms.com/h/48160?utm_source=Google_gmb&utm_medium=Organic&utm_campaign=HYD746&latitude=17.67966&longitude=77.60766&locale=en",
+  "phone": null,
+  "phoneUnformatted": null,
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 17.6796515,
+    "lng": 77.607765
+  },
+  "locatedIn": null,
+  "plusCode": null,
+  "menu": null,
+  "totalScore": 4,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJXzC31x-1zjsRbHQNjfGNijs",
+  "categories": [
+    "Lodging"
+  ],
+  "fid": "0x3bceb51fd7b7305f:0x3b8a8df18d0d746c",
+  "cid": "4290397663616922732",
+  "reviewsCount": 228,
+  "reviewsDistribution": {
+    "oneStar": 17,
+    "twoStar": 10,
+    "threeStar": 29,
+    "fourStar": 66,
+    "fiveStar": 106
+  },
+  "imagesCount": 136,
+  "imageCategories": [
+    "All",
+    "Rooms",
+    "Videos",
+    "Exterior",
+    "From visitors",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T06:58:00.487Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": "2024-11-04",
+  "checkOutDate": "2024-11-05",
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [
+    {
+      "title": "hotel",
+      "count": 22
+    },
+    {
+      "title": "clean",
+      "count": 9
+    },
+    {
+      "title": "service",
+      "count": 8
+    },
+    {
+      "title": "budget",
+      "count": 4
+    },
+    {
+      "title": "comfortable",
+      "count": 4
+    },
+    {
+      "title": "parking",
+      "count": 3
+    }
+  ],
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": false
+      }
+    ],
+    "Amenities": [
+      {
+        "Air-conditioned": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=OYO%2026991%20Stanza%20Luxurios%20Stay&query_place_id=ChIJXzC31x-1zjsRbHQNjfGNijs",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMfAOORdpRCLfVOGgTsOaJo0Gi3TpfnK6GEtynO=w419-h240-k-no",
+  "kgmid": "/g/11c6pn44n4",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMfAOORdpRCLfVOGgTsOaJo0Gi3TpfnK6GEtynO=w1920-h1080-k-no",
+      "authorName": "kalva krishna kishore",
+      "authorUrl": "https://maps.google.com/maps/contrib/107740132414462450914",
+      "uploadedAt": "2017-10-08T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipMfAOORdpRCLfVOGgTsOaJo0Gi3TpfnK6GEtynO=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 9,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@17.640167577733415,77.67328976956125,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "Palace Lodge",
+  "subTitle": "ప్యాలస్ లాడ్జ్",
+  "description": null,
+  "price": null,
+  "categoryName": "Hotel",
+  "address": "Medak, NH-09, Mumbai Highway, Zaheerabad, Zaheerabad, Telangana 502220, India",
+  "neighborhood": "Dattagiri Colony",
+  "street": "Medak, NH-09, Mumbai Highway, Zaheerabad",
+  "city": "Zaheerabad",
+  "postalCode": "502220",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": "+91 98666 03813",
+  "phoneUnformatted": "+919866603813",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 17.6814027,
+    "lng": 77.6176857
+  },
+  "locatedIn": null,
+  "plusCode": "MJJ9+H3 Zaheerabad, Telangana, India",
+  "menu": null,
+  "totalScore": 3.8,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJfaiOSea0zjsRs0RmL2P7aac",
+  "categories": [
+    "Hotel"
+  ],
+  "fid": "0x3bceb4e6498ea87d:0xa769fb632f6644b3",
+  "cid": "12063449480304149683",
+  "reviewsCount": 122,
+  "reviewsDistribution": {
+    "oneStar": 14,
+    "twoStar": 7,
+    "threeStar": 23,
+    "fourStar": 27,
+    "fiveStar": 51
+  },
+  "imagesCount": 5,
+  "imageCategories": [
+    "All",
+    "Rooms",
+    "Exterior",
+    "From visitors",
+    "By owner",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T06:58:04.335Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": "2024-11-04",
+  "checkOutDate": "2024-11-05",
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [
+    {
+      "title": "service",
+      "count": 7
+    },
+    {
+      "title": "water scarcity",
+      "count": 2
+    },
+    {
+      "title": "toilet",
+      "count": 2
+    },
+    {
+      "title": "parking",
+      "count": 2
+    },
+    {
+      "title": "price",
+      "count": 2
+    }
+  ],
+  "additionalInfo": {},
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=Palace%20Lodge&query_place_id=ChIJfaiOSea0zjsRs0RmL2P7aac",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOSC6R0iHyoooxpajiamBAHZ1Q7m8CVrV7g8eW-=w408-h906-k-no",
+  "kgmid": "/g/11c70j4hym",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOSC6R0iHyoooxpajiamBAHZ1Q7m8CVrV7g8eW-=w1920-h1080-k-no",
+      "authorName": "Palace Lodge",
+      "authorUrl": "https://maps.google.com/maps/contrib/115845312604269370406",
+      "uploadedAt": "2022-01-08T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipOSC6R0iHyoooxpajiamBAHZ1Q7m8CVrV7g8eW-=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 8,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@17.640167577733415,77.67328976956125,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "Hotel Park Lane",
+  "subTitle": "హోటల్ పార్క్ లేన్",
+  "description": null,
+  "price": null,
+  "categoryName": "Hotel",
+  "address": "Zaheerabad Main Rd, Hyderabad, Telangana 502220, India",
+  "neighborhood": null,
+  "street": "Zaheerabad Main Rd",
+  "city": "Hyderabad",
+  "postalCode": "502220",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": "+91 91212 12784",
+  "phoneUnformatted": "+919121212784",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 17.6844808,
+    "lng": 77.5890219
+  },
+  "locatedIn": null,
+  "plusCode": "MHMQ+QJ Zaheerabad, Telangana, India",
+  "menu": null,
+  "totalScore": 4,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJr9V6_8O1zjsRDUBdhjGJsWY",
+  "categories": [
+    "Hotel"
+  ],
+  "fid": "0x3bceb5c3ff7ad5af:0x66b18931865d400d",
+  "cid": "7399846508547096589",
+  "reviewsCount": 374,
+  "reviewsDistribution": {
+    "oneStar": 37,
+    "twoStar": 17,
+    "threeStar": 46,
+    "fourStar": 78,
+    "fiveStar": 196
+  },
+  "imagesCount": 60,
+  "imageCategories": [
+    "All",
+    "Rooms",
+    "Videos",
+    "Exterior",
+    "Food & drink",
+    "From visitors",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T06:58:13.144Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": "2024-11-04",
+  "checkOutDate": "2024-11-05",
+  "similarHotelsNearby": [
+    {
+      "name": "Sai Ram Grand Lodge",
+      "rating": 3.6,
+      "reviews": 234,
+      "description": null,
+      "price": "£23"
+    },
+    {
+      "name": "OYO Flagship Milan Hotel",
+      "rating": 3.5,
+      "reviews": 1804,
+      "description": "Free breakfast and Wi-Fi",
+      "price": null
+    },
+    {
+      "name": "STANZA LUXURIOUS STAY",
+      "rating": 4.1,
+      "reviews": 84,
+      "description": null,
+      "price": null
+    },
+    {
+      "name": "Hotel Minerva international",
+      "rating": 3.2,
+      "reviews": 67,
+      "description": null,
+      "price": null
+    },
+    {
+      "name": "Sai Eswar Cassette the Luxury Hotel",
+      "rating": 3.9,
+      "reviews": 229,
+      "description": null,
+      "price": null
+    },
+    {
+      "name": "Hotel Siddhi International",
+      "rating": 3.9,
+      "reviews": 2085,
+      "description": "Free breakfast, Wi-Fi and parking",
+      "price": null
+    },
+    {
+      "name": "Hotel Athithi Inn",
+      "rating": 3.8,
+      "reviews": 1360,
+      "description": "Free breakfast and Wi-Fi",
+      "price": null
+    },
+    {
+      "name": "OYO 49626 Shivam Residency",
+      "rating": 3.6,
+      "reviews": 18,
+      "description": null,
+      "price": null
+    },
+    {
+      "name": "Hotel Mahindra Paradise",
+      "rating": 3,
+      "reviews": 4103,
+      "description": "Free breakfast and Wi-Fi",
+      "price": null
+    }
+  ],
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [
+    {
+      "title": "Services",
+      "count": 1
+    }
+  ],
+  "reviewsTags": [
+    {
+      "title": "highway",
+      "count": 9
+    },
+    {
+      "title": "service",
+      "count": 6
+    },
+    {
+      "title": "price",
+      "count": 5
+    },
+    {
+      "title": "journey",
+      "count": 4
+    },
+    {
+      "title": "property",
+      "count": 3
+    },
+    {
+      "title": "parking",
+      "count": 3
+    },
+    {
+      "title": "CCTV",
+      "count": 2
+    },
+    {
+      "title": "cooperative",
+      "count": 2
+    },
+    {
+      "title": "budget",
+      "count": 2
+    },
+    {
+      "title": "maintenance",
+      "count": 2
+    }
+  ],
+  "additionalInfo": {},
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": {
+    "postDate": "3 years ago",
+    "postedBy": {
+      "totalReviews": null
+    },
+    "media": []
+  },
+  "url": "https://www.google.com/maps/search/?api=1&query=Hotel%20Park%20Lane&query_place_id=ChIJr9V6_8O1zjsRDUBdhjGJsWY",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPC0kvdJi01bHOe3dnJEelurrhxLYjBKoXlzRKj=w408-h306-k-no",
+  "kgmid": "/g/11mvvk69rc",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPC0kvdJi01bHOe3dnJEelurrhxLYjBKoXlzRKj=w1920-h1080-k-no",
+      "authorName": "Sudip Sen",
+      "authorUrl": "https://maps.google.com/maps/contrib/112065375375400159604",
+      "uploadedAt": "2022-06-27T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipPC0kvdJi01bHOe3dnJEelurrhxLYjBKoXlzRKj=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 7,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@17.640167577733415,77.67328976956125,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "Supraja IRIS Resort",
+  "subTitle": "సుప్రజా IRIS రిసార్ట్",
+  "description": null,
+  "price": null,
+  "categoryName": "Resort hotel",
+  "address": "JRX3+J8, Kamkole, Telangana 500050, India",
+  "neighborhood": null,
+  "street": "JRX3+J8",
+  "city": "Kamkole",
+  "postalCode": "500050",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": null,
+  "phoneUnformatted": null,
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 17.6490817,
+    "lng": 77.8033143
+  },
+  "locatedIn": null,
+  "plusCode": null,
+  "menu": null,
+  "totalScore": 4.7,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJG2emfdpTyTsRsVzXVyX7GK4",
+  "categories": [
+    "Resort hotel"
+  ],
+  "fid": "0x3bc953da7da6671b:0xae18fb2557d75cb1",
+  "cid": "12545052899846610097",
+  "reviewsCount": 28,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 1,
+    "threeStar": 2,
+    "fourStar": 2,
+    "fiveStar": 23
+  },
+  "imagesCount": 47,
+  "imageCategories": [
+    "All",
+    "Exterior",
+    "Videos",
+    "Amenities",
+    "From visitors",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T06:58:13.974Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": "2024-11-04",
+  "checkOutDate": "2024-11-05",
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [
+    {
+      "title": "investment",
+      "count": 5
+    },
+    {
+      "title": "project",
+      "count": 3
+    }
+  ],
+  "additionalInfo": {},
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=Supraja%20IRIS%20Resort&query_place_id=ChIJG2emfdpTyTsRsVzXVyX7GK4",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMd5ZeG5AWFIhkSC2hxIr6GX47yqz4eXliN2xh5=w532-h240-k-no",
+  "kgmid": "/g/11tmhm06zx",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMd5ZeG5AWFIhkSC2hxIr6GX47yqz4eXliN2xh5=w1920-h1080-k-no",
+      "authorName": "Praveen Reddy",
+      "authorUrl": "https://maps.google.com/maps/contrib/118359728568912667255",
+      "uploadedAt": "2023-03-12T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipMd5ZeG5AWFIhkSC2hxIr6GX47yqz4eXliN2xh5=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 6,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@17.640167577733415,77.67328976956125,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "STANZA LUXURIOUS STAY",
+  "subTitle": null,
+  "description": null,
+  "price": null,
+  "categoryName": "Lodge",
+  "address": "Main road, beside canara bank, Zaheerabad, Telangana 502220, India",
+  "neighborhood": null,
+  "street": "Main road, beside canara bank",
+  "city": "Zaheerabad",
+  "postalCode": "502220",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": "+91 98496 66656",
+  "phoneUnformatted": "+919849666656",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 17.6796051,
+    "lng": 77.6076164
+  },
+  "locatedIn": null,
+  "plusCode": "MJH5+R2 Zaheerabad, Telangana, India",
+  "menu": null,
+  "totalScore": 4.1,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJL_ckf1i1zjsRSTdv9qXuszo",
+  "categories": [
+    "Lodge"
+  ],
+  "fid": "0x3bceb5587f24f72f:0x3ab3eea5f66f3749",
+  "cid": "4229986871602526025",
+  "reviewsCount": 84,
+  "reviewsDistribution": {
+    "oneStar": 6,
+    "twoStar": 8,
+    "threeStar": 5,
+    "fourStar": 20,
+    "fiveStar": 45
+  },
+  "imagesCount": 5,
+  "imageCategories": [
+    "All",
+    "Latest",
+    "Videos",
+    "Rooms",
+    "Exterior",
+    "Bed",
+    "From visitors",
+    "By owner",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T06:58:17.722Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": "2024-11-04",
+  "checkOutDate": "2024-11-05",
+  "similarHotelsNearby": [
+    {
+      "name": "OYO Flagship Milan Hotel",
+      "rating": 3.5,
+      "reviews": 1804,
+      "description": "Free breakfast and Wi-Fi",
+      "price": null
+    },
+    {
+      "name": "Hotel Athithi Inn",
+      "rating": 3.8,
+      "reviews": 1360,
+      "description": "Free breakfast and Wi-Fi",
+      "price": null
+    }
+  ],
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [
+    {
+      "title": "hospitality",
+      "count": 2
+    },
+    {
+      "title": "parking",
+      "count": 2
+    }
+  ],
+  "additionalInfo": {},
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=STANZA%20LUXURIOUS%20STAY&query_place_id=ChIJL_ckf1i1zjsRSTdv9qXuszo",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipO-SLl-0CO1Y7Yh4gsrW1477fzxrxDqiA4Ze00j=w408-h306-k-no",
+  "kgmid": "/g/11rn1yg69q",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipO-SLl-0CO1Y7Yh4gsrW1477fzxrxDqiA4Ze00j=w1920-h1080-k-no",
+      "authorName": "STANZA LUXURIOUS STAY",
+      "authorUrl": "https://maps.google.com/maps/contrib/116496601305679476943",
+      "uploadedAt": "2023-11-10T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipO-SLl-0CO1Y7Yh4gsrW1477fzxrxDqiA4Ze00j=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 5,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@17.640167577733415,77.67328976956125,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "Sai Eswar Cassette the Luxury Hotel",
+  "subTitle": "సాయి ఈశ్వర్ గృహం క్యాసెట్",
+  "description": null,
+  "price": null,
+  "categoryName": "Lodge",
+  "address": "Acharya Degree college Bank of India Bank, Mumbai main road, Dattagiri Colony, Zahirabad Rural, Zaheerabad, Telangana 502220, India",
+  "neighborhood": "Dattagiri Colony, Zahirabad Rural",
+  "street": "Acharya Degree college Bank of India Bank, Mumbai main road",
+  "city": "Zaheerabad",
+  "postalCode": "502220",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": null,
+  "phoneUnformatted": null,
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 17.6810504,
+    "lng": 77.6200547
+  },
+  "locatedIn": "VICTOR SHOPPING MALL",
+  "plusCode": "MJJC+C2 Zaheerabad, Telangana, India",
+  "menu": null,
+  "totalScore": 3.9,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJQVVVVdy0zjsR59h2daarhVM",
+  "categories": [
+    "Lodge"
+  ],
+  "fid": "0x3bceb4dc55555541:0x5385aba67576d8e7",
+  "cid": "6018405208474179815",
+  "reviewsCount": 229,
+  "reviewsDistribution": {
+    "oneStar": 18,
+    "twoStar": 9,
+    "threeStar": 45,
+    "fourStar": 74,
+    "fiveStar": 83
+  },
+  "imagesCount": 97,
+  "imageCategories": [
+    "All",
+    "Rooms",
+    "Videos",
+    "Exterior",
+    "Food & drink",
+    "Bed",
+    "From visitors",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T06:58:26.750Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": "2024-11-04",
+  "checkOutDate": "2024-11-05",
+  "similarHotelsNearby": [
+    {
+      "name": "Sai Ram Grand Lodge",
+      "rating": 3.6,
+      "reviews": 234,
+      "description": null,
+      "price": null
+    },
+    {
+      "name": "Hotel Siddhi International",
+      "rating": 3.9,
+      "reviews": 2085,
+      "description": "Free breakfast, Wi-Fi, and parking",
+      "price": null
+    },
+    {
+      "name": "Hotel Athithi Inn",
+      "rating": 3.8,
+      "reviews": 1360,
+      "description": "Free breakfast and Wi-Fi",
+      "price": null
+    },
+    {
+      "name": "Hotel Minerva international",
+      "rating": 3.2,
+      "reviews": 67,
+      "description": null,
+      "price": null
+    },
+    {
+      "name": "OYO 49626 Shivam Residency",
+      "rating": 3.6,
+      "reviews": 18,
+      "description": null,
+      "price": null
+    },
+    {
+      "name": "STANZA LUXURIOUS STAY",
+      "rating": 4.1,
+      "reviews": 84,
+      "description": null,
+      "price": null
+    },
+    {
+      "name": "OYO Flagship Milan Hotel",
+      "rating": 3.5,
+      "reviews": 1804,
+      "description": "Free breakfast and Wi-Fi",
+      "price": null
+    },
+    {
+      "name": "Hotel Park Lane",
+      "rating": 4,
+      "reviews": 374,
+      "description": null,
+      "price": null
+    },
+    {
+      "name": "Hotel Mahindra Paradise",
+      "rating": 3,
+      "reviews": 4103,
+      "description": "Free breakfast and Wi-Fi",
+      "price": null
+    }
+  ],
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [
+    {
+      "title": "service",
+      "count": 9
+    },
+    {
+      "title": "quality",
+      "count": 4
+    },
+    {
+      "title": "price",
+      "count": 3
+    },
+    {
+      "title": "clean rooms",
+      "count": 2
+    },
+    {
+      "title": "cleanliness",
+      "count": 2
+    }
+  ],
+  "additionalInfo": {},
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=Sai%20Eswar%20Cassette%20the%20Luxury%20Hotel&query_place_id=ChIJQVVVVdy0zjsR59h2daarhVM",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipP7ZetbiYZPeOAK4w45qbvx-896U0v26UVbyO2L=w408-h271-k-no",
+  "kgmid": "/g/11c54fhfx0",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipP7ZetbiYZPeOAK4w45qbvx-896U0v26UVbyO2L=w1920-h1080-k-no",
+      "authorName": "sandeep reddy",
+      "authorUrl": "https://maps.google.com/maps/contrib/109335104515789371463",
+      "uploadedAt": "2016-09-13T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipP7ZetbiYZPeOAK4w45qbvx-896U0v26UVbyO2L=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 3,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@17.640167577733415,77.67328976956125,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "Hotel Siddhi International",
+  "subTitle": "హోటల్ సిద్ధి ఇంటర్నేషనల్",
+  "description": null,
+  "price": null,
+  "categoryName": "Restaurant",
+  "address": "Main Rd, Opp. Sub Station, Dattagiri Colony, Shantinagar, Zahirabad Rural, Zaheerabad, Telangana 502220, India",
+  "neighborhood": "Opp. Sub Station, Dattagiri Colony, Shantinagar, Zahirabad Rural",
+  "street": "Main Rd",
+  "city": "Zaheerabad",
+  "postalCode": "502220",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": "+91 83673 91539",
+  "phoneUnformatted": "+918367391539",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 17.6816716,
+    "lng": 77.6223494
+  },
+  "locatedIn": null,
+  "plusCode": "MJJC+MW Zaheerabad, Telangana, India",
+  "menu": null,
+  "totalScore": 3.9,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJsUENA-m0zjsRMKaHdkUSCCw",
+  "categories": [
+    "Restaurant",
+    "Banquet hall",
+    "Hotel"
+  ],
+  "fid": "0x3bceb4e9030d41b1:0x2c0812457687a630",
+  "cid": "3172806027033159216",
+  "reviewsCount": 2087,
+  "reviewsDistribution": {
+    "oneStar": 185,
+    "twoStar": 120,
+    "threeStar": 316,
+    "fourStar": 561,
+    "fiveStar": 905
+  },
+  "imagesCount": 360,
+  "imageCategories": [
+    "All",
+    "Latest",
+    "Videos",
+    "Menu",
+    "Food & drink",
+    "Vibe",
+    "By owner",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T06:58:31.298Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": "3-star hotel",
+  "hotelDescription": null,
+  "checkInDate": "2024-11-04",
+  "checkOutDate": "2024-11-05",
+  "similarHotelsNearby": [
+    {
+      "name": "Hotel Athithi Inn",
+      "rating": 3.8,
+      "reviews": 1360,
+      "description": null,
+      "price": null
+    },
+    {
+      "name": "Sai Ram Grand Lodge",
+      "rating": 3.6,
+      "reviews": 234,
+      "description": null,
+      "price": null
+    },
+    {
+      "name": "Sai Eswar Cassette the Luxury Hotel",
+      "rating": 3.9,
+      "reviews": 229,
+      "description": null,
+      "price": null
+    },
+    {
+      "name": "Hotel Mahindra Paradise",
+      "rating": 3,
+      "reviews": 4103,
+      "description": null,
+      "price": null
+    },
+    {
+      "name": "OYO 49626 Shivam Residency",
+      "rating": 3.6,
+      "reviews": 18,
+      "description": null,
+      "price": null
+    },
+    {
+      "name": "Hotel Minerva international",
+      "rating": 3.2,
+      "reviews": 67,
+      "description": null,
+      "price": null
+    },
+    {
+      "name": "STANZA LUXURIOUS STAY",
+      "rating": 4.1,
+      "reviews": 84,
+      "description": null,
+      "price": null
+    },
+    {
+      "name": "OYO Flagship Milan Hotel",
+      "rating": 3.5,
+      "reviews": 1804,
+      "description": "Laid-back hotel with dining & parking",
+      "price": null
+    },
+    {
+      "name": "Hotel Park Lane",
+      "rating": 4,
+      "reviews": 374,
+      "description": null,
+      "price": null
+    }
+  ],
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [
+    {
+      "title": "Food & Drink",
+      "count": 1
+    },
+    {
+      "title": "Shopping",
+      "count": 1
+    },
+    {
+      "title": "Services",
+      "count": 1
+    }
+  ],
+  "reviewsTags": [
+    {
+      "title": "rooms",
+      "count": 44
+    },
+    {
+      "title": "vegetarian",
+      "count": 42
+    },
+    {
+      "title": "clean",
+      "count": 23
+    },
+    {
+      "title": "hygiene",
+      "count": 10
+    },
+    {
+      "title": "customer service",
+      "count": 8
+    },
+    {
+      "title": "food quality",
+      "count": 8
+    },
+    {
+      "title": "comfortable",
+      "count": 6
+    },
+    {
+      "title": "parties",
+      "count": 6
+    },
+    {
+      "title": "town",
+      "count": 6
+    },
+    {
+      "title": "AC",
+      "count": 5
+    }
+  ],
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      }
+    ],
+    "Atmosphere": [
+      {
+        "Casual": true
+      },
+      {
+        "Cozy": true
+      }
+    ],
+    "Payments": [
+      {
+        "Credit cards": true
+      },
+      {
+        "Debit cards": true
+      },
+      {
+        "NFC mobile payments": true
+      }
+    ],
+    "Children": [
+      {
+        "Good for kids": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Free Wi-Fi": true
+      },
+      {
+        "Free breakfast": true
+      },
+      {
+        "Free parking": true
+      },
+      {
+        "Pool": false
+      },
+      {
+        "Air-conditioned": true
+      },
+      {
+        "Laundry service": true
+      },
+      {
+        "Room service": true
+      },
+      {
+        "Kid-friendly": true
+      },
+      {
+        "Restaurant": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=Hotel%20Siddhi%20International&query_place_id=ChIJsUENA-m0zjsRMKaHdkUSCCw",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipP9z6R0_93iVqx6kDjF4pFL0UZiRKW-HPssJIZT=w408-h306-k-no",
+  "kgmid": "/g/11f1pdtvk8",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipP9z6R0_93iVqx6kDjF4pFL0UZiRKW-HPssJIZT=w1920-h1080-k-no",
+      "authorName": "Sudhir Nachane Clusterhead Malshiras",
+      "authorUrl": "https://maps.google.com/maps/contrib/115057892877529140681",
+      "uploadedAt": "2024-08-06T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipP9z6R0_93iVqx6kDjF4pFL0UZiRKW-HPssJIZT=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 12,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@17.640167577733415,77.67328976956125,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "OYO 49626 Shivam Residency",
+  "subTitle": "OYO 49626 శివం రెసిడెన్సి",
+  "description": null,
+  "price": null,
+  "categoryName": "Hotel",
+  "address": "1, Satwar Ln, Vema Reddy colony, Zahirabad Rural, Zaheerabad, Telangana 502318, India",
+  "neighborhood": "Vema Reddy colony, Zahirabad Rural",
+  "street": "1, Satwar Ln",
+  "city": "Zaheerabad",
+  "postalCode": "502318",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": "+91 124 620 1126",
+  "phoneUnformatted": "+911246201126",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 17.682911,
+    "lng": 77.632313
+  },
+  "locatedIn": null,
+  "plusCode": "MJMJ+5W Zaheerabad, Telangana, India",
+  "menu": null,
+  "totalScore": 3.5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJzWTR38-1zjsR8NgrW3smZA4",
+  "categories": [
+    "Hotel"
+  ],
+  "fid": "0x3bceb5cfdfd164cd:0xe64267b5b2bd8f0",
+  "cid": "1036996125454489840",
+  "reviewsCount": 19,
+  "reviewsDistribution": {
+    "oneStar": 4,
+    "twoStar": 3,
+    "threeStar": 1,
+    "fourStar": 2,
+    "fiveStar": 9
+  },
+  "imagesCount": 4,
+  "imageCategories": [
+    "All",
+    "Rooms",
+    "Exterior",
+    "From visitors",
+    "By owner"
+  ],
+  "scrapedAt": "2024-11-02T06:58:19.742Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": "2024-11-04",
+  "checkOutDate": "2024-11-05",
+  "similarHotelsNearby": [
+    {
+      "name": "Hotel Athithi Inn",
+      "rating": 3.8,
+      "reviews": 1360,
+      "description": "Free breakfast and Wi-Fi",
+      "price": null
+    },
+    {
+      "name": "Hotel Siddhi International",
+      "rating": 3.9,
+      "reviews": 2085,
+      "description": "Free breakfast, Wi-Fi, and parking",
+      "price": null
+    },
+    {
+      "name": "Sai Ram Grand Lodge",
+      "rating": 3.6,
+      "reviews": 234,
+      "description": null,
+      "price": null
+    },
+    {
+      "name": "Sai Eswar Cassette the Luxury Hotel",
+      "rating": 3.9,
+      "reviews": 229,
+      "description": null,
+      "price": null
+    },
+    {
+      "name": "Hotel Minerva international",
+      "rating": 3.2,
+      "reviews": 67,
+      "description": null,
+      "price": null
+    },
+    {
+      "name": "STANZA LUXURIOUS STAY",
+      "rating": 4.1,
+      "reviews": 84,
+      "description": "Higher guest rating",
+      "price": null
+    },
+    {
+      "name": "OYO Flagship Milan Hotel",
+      "rating": 3.5,
+      "reviews": 1804,
+      "description": "Free breakfast and Wi-Fi",
+      "price": null
+    },
+    {
+      "name": "Hotel Park Lane",
+      "rating": 4,
+      "reviews": 374,
+      "description": null,
+      "price": null
+    },
+    {
+      "name": "Hotel Mahindra Paradise",
+      "rating": 3,
+      "reviews": 4103,
+      "description": "Free breakfast and Wi-Fi",
+      "price": null
+    }
+  ],
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {},
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=OYO%2049626%20Shivam%20Residency&query_place_id=ChIJzWTR38-1zjsR8NgrW3smZA4",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPKw5tJOJQT8zFYQzY-0s3-ghPEVi0UrfphebNT=w408-h272-k-no",
+  "kgmid": "/g/11twkd137x",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPKw5tJOJQT8zFYQzY-0s3-ghPEVi0UrfphebNT=w1920-h1080-k-no",
+      "authorName": "OYO 49626 Shivam Residency",
+      "authorUrl": "https://maps.google.com/maps/contrib/113092746731477962825",
+      "uploadedAt": "2023-03-27T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipPKw5tJOJQT8zFYQzY-0s3-ghPEVi0UrfphebNT=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 2,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@17.640167577733415,77.67328976956125,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "Sai Ram Grand Lodge",
+  "subTitle": "సాయి రామ్ గ్రాండ్ లాడ్జ్",
+  "description": null,
+  "price": null,
+  "categoryName": "Indoor lodging",
+  "address": "National Highway 9, Dattagiri Colony, Zahirabad Rural, Zaheerabad, Telangana 502228, India",
+  "neighborhood": "Dattagiri Colony, Zahirabad Rural",
+  "street": "National Highway 9",
+  "city": "Zaheerabad",
+  "postalCode": "502228",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": "+91 84512 75785",
+  "phoneUnformatted": "+918451275785",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 17.6807478,
+    "lng": 77.6204021
+  },
+  "locatedIn": null,
+  "plusCode": "MJJC+75 Zaheerabad, Telangana, India",
+  "menu": null,
+  "totalScore": 3.6,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJb2g-Vei0zjsRvvt49CfEWGw",
+  "categories": [
+    "Indoor lodging"
+  ],
+  "fid": "0x3bceb4e8553e686f:0x6c58c427f478fbbe",
+  "cid": "7807205629931092926",
+  "reviewsCount": 234,
+  "reviewsDistribution": {
+    "oneStar": 22,
+    "twoStar": 26,
+    "threeStar": 46,
+    "fourStar": 59,
+    "fiveStar": 81
+  },
+  "imagesCount": 50,
+  "imageCategories": [
+    "All",
+    "Rooms",
+    "Videos",
+    "Exterior",
+    "Food & drink",
+    "From visitors",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T06:58:40.188Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": "2024-11-02",
+  "checkOutDate": "2024-11-03",
+  "similarHotelsNearby": [
+    {
+      "name": "Sai Eswar Cassette the Luxury Hotel",
+      "rating": 3.9,
+      "reviews": 229,
+      "description": null,
+      "price": null
+    },
+    {
+      "name": "Hotel Siddhi International",
+      "rating": 3.9,
+      "reviews": 2085,
+      "description": "Free breakfast, Wi-Fi, and parking",
+      "price": null
+    },
+    {
+      "name": "Hotel Athithi Inn",
+      "rating": 3.8,
+      "reviews": 1360,
+      "description": "Free breakfast and Wi-Fi",
+      "price": null
+    },
+    {
+      "name": "Hotel Minerva international",
+      "rating": 3.2,
+      "reviews": 67,
+      "description": null,
+      "price": null
+    },
+    {
+      "name": "OYO 49626 Shivam Residency",
+      "rating": 3.6,
+      "reviews": 18,
+      "description": null,
+      "price": null
+    },
+    {
+      "name": "STANZA LUXURIOUS STAY",
+      "rating": 4.1,
+      "reviews": 84,
+      "description": "Higher guest rating",
+      "price": null
+    },
+    {
+      "name": "OYO Flagship Milan Hotel",
+      "rating": 3.5,
+      "reviews": 1804,
+      "description": "Free breakfast and Wi-Fi",
+      "price": null
+    },
+    {
+      "name": "Hotel Park Lane",
+      "rating": 4,
+      "reviews": 374,
+      "description": null,
+      "price": null
+    },
+    {
+      "name": "Hotel Mahindra Paradise",
+      "rating": 3,
+      "reviews": 4103,
+      "description": "Free breakfast and Wi-Fi",
+      "price": null
+    }
+  ],
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [
+    {
+      "title": "service",
+      "count": 8
+    },
+    {
+      "title": "clean",
+      "count": 7
+    },
+    {
+      "title": "amenities",
+      "count": 4
+    },
+    {
+      "title": "hygiene",
+      "count": 2
+    },
+    {
+      "title": "towels",
+      "count": 2
+    },
+    {
+      "title": "customers",
+      "count": 2
+    },
+    {
+      "title": "price",
+      "count": 2
+    }
+  ],
+  "additionalInfo": {},
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": {
+    "postDate": "3 years ago",
+    "postedBy": {
+      "totalReviews": null
+    },
+    "media": []
+  },
+  "url": "https://www.google.com/maps/search/?api=1&query=Sai%20Ram%20Grand%20Lodge&query_place_id=ChIJb2g-Vei0zjsRvvt49CfEWGw",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPoa382ToiihSZEQEyFJ_GhSRG-oVRuvj6h8s0V=w408-h544-k-no",
+  "kgmid": "/g/119wt2b8l",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPoa382ToiihSZEQEyFJ_GhSRG-oVRuvj6h8s0V=w1920-h1080-k-no",
+      "authorName": "Mohan G",
+      "authorUrl": "https://maps.google.com/maps/contrib/110465138835502968707",
+      "uploadedAt": "2017-07-04T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipPoa382ToiihSZEQEyFJ_GhSRG-oVRuvj6h8s0V=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 21,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@17.770690190457174,78.15209927282906,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "Hotel Manatelugu Ruchulu",
+  "subTitle": "హోటల్ మనతెలుగు రుచులు",
+  "description": null,
+  "price": null,
+  "categoryName": "Indian restaurant",
+  "address": "P5Q9+PFJ, Daulthabad-Jogipet Rd, Hatnur, Telangana 502296, India",
+  "neighborhood": null,
+  "street": "P5Q9+PFJ, Daulthabad-Jogipet Rd",
+  "city": "Hatnur",
+  "postalCode": null,
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": null,
+  "phoneUnformatted": null,
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 17.7393264,
+    "lng": 78.1686287
+  },
+  "locatedIn": null,
+  "plusCode": null,
+  "menu": null,
+  "totalScore": 4.8,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJtZS0kAgJzDsR4W1M-k9_P7w",
+  "categories": [
+    "Indian restaurant",
+    "Restaurant"
+  ],
+  "fid": "0x3bcc090890b494b5:0xbc3f7f4ffa4c6de1",
+  "cid": "13564700584141680097",
+  "reviewsCount": 5,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 1,
+    "fiveStar": 4
+  },
+  "imagesCount": 5,
+  "imageCategories": [
+    "All",
+    "Menu",
+    "Food & drink",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T06:58:45.214Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Sri Krishna hotel&mess",
+      "reviewsCount": 3,
+      "totalScore": 3.7
+    },
+    {
+      "category": "People also search for",
+      "title": "Renuka Hotel",
+      "reviewsCount": 18,
+      "totalScore": 3.8
+    },
+    {
+      "category": "People also search for",
+      "title": "Hotel Manasa",
+      "reviewsCount": 242,
+      "totalScore": 3.9
+    },
+    {
+      "category": "People also search for",
+      "title": "Telugu Ruchulu",
+      "reviewsCount": 0,
+      "totalScore": 0
+    }
+  ],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Service options": [
+      {
+        "Takeout": true
+      },
+      {
+        "Dine-in": true
+      }
+    ],
+    "Offerings": [
+      {
+        "Small plates": true
+      }
+    ],
+    "Dining options": [
+      {
+        "Breakfast": true
+      },
+      {
+        "Lunch": true
+      },
+      {
+        "Dinner": true
+      }
+    ],
+    "Atmosphere": [
+      {
+        "Casual": true
+      }
+    ],
+    "Crowd": [
+      {
+        "Groups": true
+      }
+    ],
+    "Children": [
+      {
+        "Good for kids": true
+      }
+    ],
+    "Parking": [
+      {
+        "Free street parking": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=Hotel%20Manatelugu%20Ruchulu&query_place_id=ChIJtZS0kAgJzDsR4W1M-k9_P7w",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOWpg4tA4EhdvwAQcDTGjLLEQ6wQ-nFVrsF0j5_=w408-h725-k-no",
+  "kgmid": "/g/11f3w6_84l",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOWpg4tA4EhdvwAQcDTGjLLEQ6wQ-nFVrsF0j5_=w1920-h1080-k-no",
+      "authorName": "Dasharath Gaddamedi",
+      "authorUrl": "https://maps.google.com/maps/contrib/104998140260716475627",
+      "uploadedAt": "2022-05-04T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipOWpg4tA4EhdvwAQcDTGjLLEQ6wQ-nFVrsF0j5_=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 1,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@17.640167577733415,77.67328976956125,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "Hotel Mahindra Paradise",
+  "subTitle": "మహీంద్రా పారడైజ్",
+  "description": null,
+  "price": "₹200–400",
+  "categoryName": "Dhaba",
+  "address": "Mumbai Highway NH 9, Huggeli Village, Zaheerabad, Telangana 502321, India",
+  "neighborhood": null,
+  "street": "Mumbai Highway NH 9, Huggeli Village",
+  "city": "Zaheerabad",
+  "postalCode": "502321",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": "http://www.mahindraparadise.com/",
+  "phone": "+91 99895 58553",
+  "phoneUnformatted": "+919989558553",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 17.67006,
+    "lng": 77.6801263
+  },
+  "locatedIn": null,
+  "plusCode": "MMCJ+23 Zaheerabad, Telangana, India",
+  "menu": null,
+  "totalScore": 3,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJFw9JfTezzjsRGIzHbAy1SCU",
+  "categories": [
+    "Dhaba",
+    "Breakfast restaurant",
+    "Indian restaurant"
+  ],
+  "fid": "0x3bceb3377d490f17:0x2548b50c6cc78c18",
+  "cid": "2686596242695752728",
+  "reviewsCount": 4104,
+  "reviewsDistribution": {
+    "oneStar": 1075,
+    "twoStar": 445,
+    "threeStar": 877,
+    "fourStar": 831,
+    "fiveStar": 876
+  },
+  "imagesCount": 1154,
+  "imageCategories": [
+    "All",
+    "Latest",
+    "Videos",
+    "Menu",
+    "Food & drink",
+    "Vibe",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T06:58:49.158Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": "2024-11-04",
+  "checkOutDate": "2024-11-05",
+  "similarHotelsNearby": [
+    {
+      "name": "Sai Ram Grand Lodge",
+      "rating": 3.6,
+      "reviews": 234,
+      "description": null,
+      "price": "£23"
+    },
+    {
+      "name": "Hotel Siddhi International",
+      "rating": 3.9,
+      "reviews": 2085,
+      "description": "Free parking",
+      "price": null
+    },
+    {
+      "name": "Hotel Athithi Inn",
+      "rating": 3.8,
+      "reviews": 1360,
+      "description": null,
+      "price": null
+    },
+    {
+      "name": "OYO 49626 Shivam Residency",
+      "rating": 3.6,
+      "reviews": 18,
+      "description": null,
+      "price": null
+    },
+    {
+      "name": "Sai Eswar Cassette the Luxury Hotel",
+      "rating": 3.9,
+      "reviews": 229,
+      "description": null,
+      "price": null
+    },
+    {
+      "name": "Hotel Minerva international",
+      "rating": 3.2,
+      "reviews": 67,
+      "description": null,
+      "price": null
+    },
+    {
+      "name": "STANZA LUXURIOUS STAY",
+      "rating": 4.1,
+      "reviews": 84,
+      "description": "Higher guest rating",
+      "price": null
+    },
+    {
+      "name": "OYO Flagship Milan Hotel",
+      "rating": 3.5,
+      "reviews": 1804,
+      "description": "Laid-back hotel with dining & parking",
+      "price": null
+    },
+    {
+      "name": "Hotel Park Lane",
+      "rating": 4,
+      "reviews": 374,
+      "description": "Higher guest rating",
+      "price": null
+    }
+  ],
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "popularTimesLiveText": "Busier than usual",
+  "popularTimesLivePercent": 52,
+  "popularTimesHistogram": {
+    "Su": [
+      {
+        "hour": 5,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 11
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 22
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 29
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 25
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 18
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 10
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 10
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 10
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 9
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 9
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 10
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 15
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 26
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 43
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 56
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 59
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 46
+      }
+    ],
+    "Mo": [
+      {
+        "hour": 5,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 6
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 12
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 16
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 15
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 12
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 10
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 9
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 9
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 9
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 9
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 8
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 9
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 12
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 19
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 29
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 42
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 44
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 35
+      }
+    ],
+    "Tu": [
+      {
+        "hour": 5,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 13
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 16
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 11
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 9
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 9
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 8
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 8
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 6
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 10
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 16
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 27
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 43
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 47
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 40
+      }
+    ],
+    "We": [
+      {
+        "hour": 5,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 8
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 13
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 17
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 15
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 13
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 11
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 11
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 10
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 10
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 10
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 9
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 9
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 12
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 20
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 32
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 44
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 47
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 40
+      }
+    ],
+    "Th": [
+      {
+        "hour": 5,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 13
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 18
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 17
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 12
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 11
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 9
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 8
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 10
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 25
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 40
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 55
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 58
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 49
+      }
+    ],
+    "Fr": [
+      {
+        "hour": 5,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 6
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 11
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 16
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 11
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 10
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 9
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 9
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 9
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 9
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 9
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 11
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 15
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 26
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 49
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 82
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 100
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 93
+      }
+    ],
+    "Sa": [
+      {
+        "hour": 5,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 9
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 18
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 28
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 27
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 23
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 17
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 13
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 11
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 12
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 13
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 13
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 15
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 24
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 41
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 67
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 76
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 70
+      }
+    ]
+  },
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "6 AM to 12 am"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "6 AM to 12 am"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "6 AM to 12 am"
+    },
+    {
+      "day": "Thursday",
+      "hours": "6 AM to 12 am"
+    },
+    {
+      "day": "Friday",
+      "hours": "6 AM to 12 am"
+    },
+    {
+      "day": "Saturday",
+      "hours": "6 AM to 12 am"
+    },
+    {
+      "day": "Sunday",
+      "hours": "6 AM to 12 am"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [
+    {
+      "title": "bus",
+      "count": 79
+    },
+    {
+      "title": "toilets",
+      "count": 54
+    },
+    {
+      "title": "pay",
+      "count": 29
+    },
+    {
+      "title": "water bottle",
+      "count": 15
+    },
+    {
+      "title": "idli",
+      "count": 15
+    },
+    {
+      "title": "curd rice",
+      "count": 11
+    },
+    {
+      "title": "tiffins",
+      "count": 11
+    },
+    {
+      "title": "charging",
+      "count": 9
+    },
+    {
+      "title": "passengers",
+      "count": 8
+    },
+    {
+      "title": "urine",
+      "count": 7
+    }
+  ],
+  "additionalInfo": {
+    "Service options": [
+      {
+        "Delivery": true
+      },
+      {
+        "Drive-through": true
+      },
+      {
+        "On-site services": true
+      },
+      {
+        "Takeaway": true
+      },
+      {
+        "Dine-in": true
+      }
+    ],
+    "Accessibility": [
+      {
+        "Wheelchair-accessible toilet": true
+      },
+      {
+        "Wheelchair-accessible seating": false
+      }
+    ],
+    "Offerings": [
+      {
+        "All you can eat": true
+      },
+      {
+        "Coffee": true
+      },
+      {
+        "Halal food": true
+      },
+      {
+        "Late-night food": true
+      },
+      {
+        "Small plates": true
+      },
+      {
+        "Vegan options": true
+      },
+      {
+        "Vegetarian options": true
+      }
+    ],
+    "Dining options": [
+      {
+        "Breakfast": true
+      },
+      {
+        "Brunch": true
+      },
+      {
+        "Lunch": true
+      },
+      {
+        "Dinner": true
+      },
+      {
+        "Dessert": true
+      }
+    ],
+    "Atmosphere": [
+      {
+        "Casual": true
+      }
+    ],
+    "Crowd": [
+      {
+        "Groups": true
+      }
+    ],
+    "Planning": [
+      {
+        "Accepts reservations": false
+      }
+    ],
+    "Payments": [
+      {
+        "Credit cards": true
+      },
+      {
+        "NFC mobile payments": true
+      }
+    ],
+    "Children": [
+      {
+        "Good for kids": true
+      }
+    ],
+    "Parking": [
+      {
+        "Free of charge street parking": true
+      },
+      {
+        "Free parking lot": true
+      },
+      null
+    ],
+    "Amenities": [
+      {
+        "Free Wi-Fi": true
+      },
+      {
+        "Free breakfast": true
+      },
+      {
+        "Parking": true
+      },
+      {
+        "Pool": true
+      },
+      {
+        "Air-conditioned": true
+      },
+      {
+        "Laundry service": true
+      },
+      {
+        "Pet-friendly": false
+      },
+      {
+        "Child friendly": true
+      },
+      {
+        "Restaurant": true
+      },
+      {
+        "Airport shuttle": true
+      },
+      {
+        "Fitness centre": false
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": {
+    "postDate": "2 months ago",
+    "postedBy": {
+      "totalReviews": null
+    },
+    "media": []
+  },
+  "url": "https://www.google.com/maps/search/?api=1&query=Hotel%20Mahindra%20Paradise&query_place_id=ChIJFw9JfTezzjsRGIzHbAy1SCU",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipN2ci9bVCW3LkzDKB5NcHg4j5FCP-5_mGSLsKuj=w408-h306-k-no",
+  "kgmid": "/g/12hkvs0cp",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipN2ci9bVCW3LkzDKB5NcHg4j5FCP-5_mGSLsKuj=w1920-h1080-k-no",
+      "authorName": "MDI K",
+      "authorUrl": "https://maps.google.com/maps/contrib/100577703992749442422",
+      "uploadedAt": "2024-10-25T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipN2ci9bVCW3LkzDKB5NcHg4j5FCP-5_mGSLsKuj=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 3,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@17.770690190457174,78.15209927282906,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "MJR Resorts",
+  "subTitle": "MJR రిసార్ట్స్",
+  "description": null,
+  "price": null,
+  "categoryName": "Resort hotel",
+  "address": "M522+MH6, Palapnoor, Telangana 502296, India",
+  "neighborhood": null,
+  "street": "M522+MH6",
+  "city": "Palapnoor",
+  "postalCode": null,
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": null,
+  "phoneUnformatted": null,
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 17.6516539,
+    "lng": 78.1514056
+  },
+  "locatedIn": null,
+  "plusCode": null,
+  "menu": null,
+  "totalScore": 4.8,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJbWWBLnn3yzsRBqzNF2E3S40",
+  "categories": [
+    "Resort hotel"
+  ],
+  "fid": "0x3bcbf7792e81656d:0x8d4b376117cdac06",
+  "cid": "10181292272751848454",
+  "reviewsCount": 20,
+  "reviewsDistribution": {
+    "oneStar": 1,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 1,
+    "fiveStar": 18
+  },
+  "imagesCount": 4,
+  "imageCategories": [
+    "All",
+    "Exterior",
+    "Videos",
+    "Amenities",
+    "From visitors",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T06:58:53.469Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": "2024-11-04",
+  "checkOutDate": "2024-11-05",
+  "similarHotelsNearby": [
+    {
+      "name": "Chandras luxary rooms lodge",
+      "rating": 3.9,
+      "reviews": 7,
+      "description": "Free Wi-Fi",
+      "price": "$7"
+    },
+    {
+      "name": "OYO Grand Hotel And Lodge",
+      "rating": 3.9,
+      "reviews": 360,
+      "description": "Free Wi-Fi",
+      "price": "$9"
+    },
+    {
+      "name": "Margosa Rewild",
+      "rating": 4.7,
+      "reviews": 361,
+      "description": "Free Wi-Fi",
+      "price": "$89"
+    },
+    {
+      "name": "HOTEL REDLA’S INN",
+      "rating": 3.7,
+      "reviews": 926,
+      "description": "Free breakfast, Wi-Fi, and parking",
+      "price": "$43"
+    },
+    {
+      "name": "New Royal Lodge",
+      "rating": 4.1,
+      "reviews": 232,
+      "description": null,
+      "price": null
+    },
+    {
+      "name": "TRISHUL LUXURY HOTEL ROOMS",
+      "rating": 4.4,
+      "reviews": 226,
+      "description": null,
+      "price": null
+    },
+    {
+      "name": "Abhaya Lodge",
+      "rating": 3.2,
+      "reviews": 114,
+      "description": null,
+      "price": null
+    }
+  ],
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [
+    {
+      "title": "nature",
+      "count": 2
+    }
+  ],
+  "additionalInfo": {},
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=MJR%20Resorts&query_place_id=ChIJbWWBLnn3yzsRBqzNF2E3S40",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMWaOI7EGcUg6gtzsUDHp0uJPPbSckQQIYc9uOT=w408-h306-k-no",
+  "kgmid": "/g/11tbwfzvmy",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMWaOI7EGcUg6gtzsUDHp0uJPPbSckQQIYc9uOT=w1920-h1080-k-no",
+      "authorName": "KALYAN CHATTERJEE",
+      "authorUrl": "https://maps.google.com/maps/contrib/110699642133546196789",
+      "uploadedAt": "2023-05-25T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipMWaOI7EGcUg6gtzsUDHp0uJPPbSckQQIYc9uOT=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 4,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@17.640167577733415,77.67328976956125,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "Hotel Athithi Inn",
+  "subTitle": "హోటల్ అతిథి ఇన్న్",
+  "description": null,
+  "price": null,
+  "categoryName": "Hotel",
+  "address": "National Highway 65, Opp:MRHS School, Near ICICI Bank, , Zahirabad Rural, Zaheerabad, Telangana 502220, India",
+  "neighborhood": "Sairam Nagar Colony, Shantinagar, Zahirabad Rural",
+  "street": "National Highway 65, Opp:MRHS School, Near ICICI Bank, , Zahirabad Rural",
+  "city": "Zaheerabad",
+  "postalCode": "502220",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": "+91 98663 45555",
+  "phoneUnformatted": "+919866345555",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 17.6817685,
+    "lng": 77.6263625
+  },
+  "locatedIn": null,
+  "plusCode": "MJJG+PG Zaheerabad, Telangana, India",
+  "menu": null,
+  "totalScore": 3.8,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ2arcyeu0zjsRkKtfSc1Oksc",
+  "categories": [
+    "Hotel"
+  ],
+  "fid": "0x3bceb4ebc9dcaad9:0xc7924ecd495fab90",
+  "cid": "14380643203753683856",
+  "reviewsCount": 1361,
+  "reviewsDistribution": {
+    "oneStar": 108,
+    "twoStar": 106,
+    "threeStar": 275,
+    "fourStar": 380,
+    "fiveStar": 492
+  },
+  "imagesCount": 348,
+  "imageCategories": [
+    "All",
+    "Latest",
+    "Videos",
+    "Rooms",
+    "Exterior",
+    "Amenities",
+    "Food & drink",
+    "From visitors",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T06:59:03.098Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": "3-star hotel",
+  "hotelDescription": null,
+  "checkInDate": "2024-11-04",
+  "checkOutDate": "2024-11-05",
+  "similarHotelsNearby": [
+    {
+      "name": "STANZA LUXURIOUS STAY",
+      "rating": 4.1,
+      "reviews": 84,
+      "description": null,
+      "price": null
+    },
+    {
+      "name": "OYO Flagship Milan Hotel",
+      "rating": 3.5,
+      "reviews": 1804,
+      "description": "Laid-back hotel with dining & parking",
+      "price": null
+    }
+  ],
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [
+    {
+      "title": "service",
+      "count": 55
+    },
+    {
+      "title": "price",
+      "count": 15
+    },
+    {
+      "title": "taste",
+      "count": 13
+    },
+    {
+      "title": "quality",
+      "count": 12
+    },
+    {
+      "title": "meals",
+      "count": 9
+    },
+    {
+      "title": "AC",
+      "count": 7
+    },
+    {
+      "title": "party",
+      "count": 6
+    },
+    {
+      "title": "management",
+      "count": 5
+    },
+    {
+      "title": "vegetarian food",
+      "count": 4
+    },
+    {
+      "title": "vada",
+      "count": 3
+    }
+  ],
+  "additionalInfo": {
+    "Amenities": [
+      {
+        "Free Wi-Fi": true
+      },
+      {
+        "Free breakfast": true
+      },
+      {
+        "Pool": false
+      },
+      {
+        "Air-conditioned": true
+      },
+      {
+        "Laundry service": true
+      },
+      {
+        "Room service": true
+      },
+      {
+        "Kid-friendly": true
+      },
+      {
+        "Restaurant": true
+      },
+      {
+        "Fitness center": false
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": {
+    "postDate": "a year ago",
+    "postedBy": {
+      "totalReviews": null
+    },
+    "media": [
+      {
+        "link": "https://lh3.googleusercontent.com/ggms/AF1QipMs2cErKjztre9j_cVcItLwN_eljcGrucbuD29J=m18",
+        "postDate": null
+      }
+    ]
+  },
+  "url": "https://www.google.com/maps/search/?api=1&query=Hotel%20Athithi%20Inn&query_place_id=ChIJ2arcyeu0zjsRkKtfSc1Oksc",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPNzu36pe7k6eqISmpBvdGnaGNLXMP-WoFenzom=w408-h408-k-no",
+  "kgmid": "/g/1264g81xb",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPNzu36pe7k6eqISmpBvdGnaGNLXMP-WoFenzom=w1920-h1080-k-no",
+      "authorName": "Thanu Malayan",
+      "authorUrl": "https://maps.google.com/maps/contrib/116483058043624339053",
+      "uploadedAt": "2023-01-05T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipPNzu36pe7k6eqISmpBvdGnaGNLXMP-WoFenzom=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 1,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@17.770690190457174,78.15209927282906,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "Margosa Rewild",
+  "subTitle": "మర్గోస రేవిల్ద్",
+  "description": null,
+  "price": "£77",
+  "categoryName": "Resort hotel",
+  "address": "Goudicherla Village, Sangareddy, Telangana 502296, India",
+  "neighborhood": "Goudicherla Village",
+  "street": null,
+  "city": "Sangareddy",
+  "postalCode": "502296",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": "https://margosarewild.com/",
+  "phone": "+91 87122 27212",
+  "phoneUnformatted": "+918712227212",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 17.6516451,
+    "lng": 78.1514059
+  },
+  "locatedIn": null,
+  "plusCode": "M522+MH Sangareddy, Telangana, India",
+  "menu": null,
+  "totalScore": 4.7,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJAbjWw8T3yzsR8LnnF1GhEtI",
+  "categories": [
+    "Resort hotel",
+    "Banquet hall",
+    "Bird watching area",
+    "Cottage",
+    "Hotel",
+    "Restaurant",
+    "Swimming pool",
+    "Villa"
+  ],
+  "fid": "0x3bcbf7c4c3d6b801:0xd212a15117e7b9f0",
+  "cid": "15137338667211143664",
+  "reviewsCount": 363,
+  "reviewsDistribution": {
+    "oneStar": 6,
+    "twoStar": 3,
+    "threeStar": 10,
+    "fourStar": 53,
+    "fiveStar": 291
+  },
+  "imagesCount": 539,
+  "imageCategories": [
+    "All",
+    "Latest",
+    "Rooms",
+    "Exterior",
+    "Amenities",
+    "Food & drink",
+    "From visitors",
+    "By owner",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T06:59:02.786Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": "2024-11-18",
+  "checkOutDate": "2024-11-19",
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [
+    {
+      "title": "Margosa Rewild",
+      "googleUrl": "http://www.google.com/travel/clk?pc=AA80OsznE5N32K6CrldcIhCoYbyc3YAkAXCIyTe2gmE_MtY0EjqYbxxZBK4LfuOiC1WKQooYnHVen_PfJYFSQS6rUW7p6Nwp1BYhdgfmyBZ2msNVgzKR9ME49EO9eaNvSQ8wnTVD2Q&pcurl=https://bookings.resavenue.com/resBooking4/searchRooms?regCode%3DVITG0907%26arr_date%3D18%252F11%252F2024%26dep_date%3D19%252F11%252F2024%26curr%3DINR%26adult_1%3D2%26booked_from%3DGoogle",
+      "isOfficialSite": true,
+      "price": "£77",
+      "url": "https://bookings.resavenue.com/resBooking4/searchRooms?regCode=VITG0907&arr_date=18/11/2024&dep_date=19/11/2024&curr=INR&adult_1=2&booked_from=Google"
+    },
+    {
+      "title": "MakeMyTrip.com",
+      "googleUrl": "http://www.google.com/travel/clk?pc=AA80OszGIcMokAnjnzjkZTOvd_qvOJxj9ng95Hlg60MWz-S6Yn6UNtCQpf2HWMEWJ4sOGLPsTtuDLNqpd8S_g4e-WYjZ2S3ELkLg-X6FFjh1f_iCtvGeu7w_xEoZRgWR9l89UQ&pcurl=https://www.makemytrip.com/hotels/hotel-listing/?topHtlId%3D202308011042048327%26city%3DCTSANGAR%26country%3DIN%26checkin%3D11182024%26checkout%3D11192024%26rsc%3D1e2e%26roomStayQualifier%3D2e0e%26totalGuestCount%3D2%26roomCount%3D1%26cmp%3Dgooglehoteldfinder_DH_META_Free_default_GB_mapresults_202308011042048327%26_uCurrency%3DGBP%26Campaign%3D%26locusId%3DCTSANGAR%26locusType%3Dcity%26mtkeys%3Da66c423f-b69b-4302-a800-47e4ebeae0f7%26au%3D",
+      "isOfficialSite": false,
+      "price": "£72",
+      "url": "https://www.makemytrip.com/hotels/hotel-listing/?topHtlId=202308011042048327&city=CTSANGAR&country=IN&checkin=11182024&checkout=11192024&rsc=1e2e&roomStayQualifier=2e0e&totalGuestCount=2&roomCount=1&cmp=googlehoteldfinder_DH_META_Free_default_GB_mapresults_202308011042048327&_uCurrency=GBP&Campaign=&locusId=CTSANGAR&locusType=city&mtkeys=a66c423f-b69b-4302-a800-47e4ebeae0f7&au="
+    }
+  ],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [
+    {
+      "title": "river",
+      "count": 29
+    },
+    {
+      "title": "property",
+      "count": 14
+    },
+    {
+      "title": "team",
+      "count": 14
+    },
+    {
+      "title": "interiors",
+      "count": 9
+    },
+    {
+      "title": "food service",
+      "count": 9
+    },
+    {
+      "title": "cottages",
+      "count": 9
+    },
+    {
+      "title": "management",
+      "count": 9
+    },
+    {
+      "title": "play area",
+      "count": 6
+    },
+    {
+      "title": "staycation",
+      "count": 5
+    },
+    {
+      "title": "villa",
+      "count": 5
+    }
+  ],
+  "additionalInfo": {
+    "Crowd": [
+      {
+        "LGBTQ+ friendly": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Free Wi-Fi": true
+      },
+      {
+        "Paid breakfast": true
+      },
+      {
+        "Paid parking": true
+      },
+      {
+        "Accessible": true
+      },
+      {
+        "Pool": true
+      },
+      {
+        "Air-conditioned": true
+      },
+      {
+        "Laundry service": true
+      },
+      {
+        "Pet-friendly": false
+      },
+      {
+        "Restaurant": true
+      },
+      {
+        "Airport shuttle": false
+      },
+      {
+        "Fitness centre": false
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": {
+    "postDate": "a year ago",
+    "postedBy": {
+      "totalReviews": null
+    },
+    "media": []
+  },
+  "url": "https://www.google.com/maps/search/?api=1&query=Margosa%20Rewild&query_place_id=ChIJAbjWw8T3yzsR8LnnF1GhEtI",
+  "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/b9/80/e0/caption.jpg?w=2100&h=1400&s=1",
+  "kgmid": "/g/11v186dn5v",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/b9/80/e0/caption.jpg?w=2100&h=1400&s=1"
+    }
+  ],
+  "imageUrls": [
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/b9/80/e0/caption.jpg?w=2100&h=1400&s=1"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 2,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@17.770690190457174,78.15209927282906,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "OYO Grand Hotel And Lodge",
+  "subTitle": "OYO గ్రాండ్ హోటల్ అండ్ లాడ్జ్",
+  "description": "Streamlined rooms with Wi-Fi in an unpretentious hotel offering breakfast & a backup generator.",
+  "price": "$10",
+  "categoryName": "Hotel",
+  "address": "OLD BUSTAND, near AMBEDKAR CHOWK, Shivaji Nagar, Sangareddy, Telangana 502001, India",
+  "neighborhood": "Shivaji Nagar",
+  "street": "OLD BUSTAND, near AMBEDKAR CHOWK",
+  "city": "Sangareddy",
+  "postalCode": "502001",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": "https://www.oyorooms.com/100427/",
+  "phone": "+91 124 620 1614",
+  "phoneUnformatted": "+911246201614",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 17.626098,
+    "lng": 78.08565
+  },
+  "locatedIn": null,
+  "plusCode": "J3GP+C7 Sangareddy, Telangana, India",
+  "menu": null,
+  "totalScore": 3.9,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJb-rKBRD5yzsRkCy2AaHh39w",
+  "categories": [
+    "Hotel"
+  ],
+  "fid": "0x3bcbf91005caea6f:0xdcdfe1a101b62c90",
+  "cid": "15915687689785322640",
+  "reviewsCount": 360,
+  "reviewsDistribution": {
+    "oneStar": 46,
+    "twoStar": 18,
+    "threeStar": 59,
+    "fourStar": 58,
+    "fiveStar": 179
+  },
+  "imagesCount": 84,
+  "imageCategories": [
+    "All",
+    "Rooms",
+    "Videos",
+    "Exterior",
+    "Food & drink",
+    "From visitors",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T06:59:31.768Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": "On a commercial street off the NH17 road, this laid-back hotel is 1 km from the Heritage Jail Museum, and 2 km from both the centre of Sangareddy and Rajiv Park.\n Featuring colourful accent walls and tiled floors, the straightforward rooms come with Wi-Fi and TVs, as well as en suite bathrooms.\n Breakfast is available and the hotel has a back-up generator.",
+  "checkInDate": "2024-12-02",
+  "checkOutDate": "2024-12-03",
+  "similarHotelsNearby": [
+    {
+      "name": "Chandras luxary rooms lodge",
+      "rating": 3.9,
+      "reviews": 7,
+      "description": null,
+      "price": "$9"
+    }
+  ],
+  "hotelReviewSummary": null,
+  "hotelAds": [
+    {
+      "title": "OYO",
+      "googleUrl": "http://www.google.com/travel/clk?pc=AA80OszUQdieSAhEmbm0dwcrDLThKotpmJ1OvqKY6UMwv-ya5Av5ddsjXYZa87iAeD2nVRSrULHWNScpFJc-1F4oueG9OAVT9ZjbTl6gd9UcootXR_VSw5D2gjgJKunohl2d&pcurl=https://meta.oyorooms.com/meta_platform/redirection/hac/hotels/listing?hotel_id%3D100427%26checkin%3D02%252F12%252F2024%26checkout%3D03%252F12%252F2024%26rooms%3D1%26utm_source%3Dgoogle%26utm_medium%3DHAC%26utm_campaign%3DHYD1403%26utm_content%3Dhpa_02_12_2024_1_mapresults_HYD1403_US_desktop_default___2_organic%26selected_rcid%3D1%26breakfast_selected%3Dfalse%26guests%3D2%26filters%5Bcity_id%5D%3D8%26landingpage%3Dmetalanding",
+      "isOfficialSite": true,
+      "price": "$15",
+      "url": "https://meta.oyorooms.com/meta_platform/redirection/hac/hotels/listing?hotel_id=100427&checkin=02/12/2024&checkout=03/12/2024&rooms=1&utm_source=google&utm_medium=HAC&utm_campaign=HYD1403&utm_content=hpa_02_12_2024_1_mapresults_HYD1403_US_desktop_default___2_organic&selected_rcid=1&breakfast_selected=false&guests=2&filters[city_id]=8&landingpage=metalanding"
+    },
+    {
+      "title": "Agoda",
+      "googleUrl": "http://www.google.com/travel/clk?pc=AA80OsxcnFoigcEfFEgNTNawp0XoPqotbnFmpSBB4u0xEeqiIyY1tcYZ2XEb3g7TNmefxbMWekhyKUXzduqBouCkUGGbb816m3SngPwKKzklQncLVENnCw9bcVHHCwD-5_bNxdfNtg&pcurl=https://www.agoda.com/partners/partnersearch.aspx?site_id%3D1917614%26CkInDay%3D02%26CkInMonth%3D12%26CkInYear%3D2024%26CkOutDay%3D03%26campaignid%3D%26CkOutMonth%3D12%26CkOutYear%3D2024%26SearchDateType%3Ddefault%26NumberOfAdults%3D2%26LT%3D30%26NumberOfChildren%3D0%26childages%3D%26NumberOfRooms%3D1%26gsite%3Dmapresults%26los%3D1%26PartnerCurrency%3DINR%26hid%3D18626936%26RoomID%3D264131639%26masterRoomId%3D264131639%26PriceTax%3D1.24%26PriceTotal%3D11.54%26RatePlan%3D%26UserCountry%3DUS%26Currency%3DUSD%26UserDevice%3Ddesktop%26Verif%3Dfalse%26rr%3Drow_desktop%26audience_list%3D%26mcid%3D332%26booking_source%3Dcpc%26adType%3D0%26mpt%3DL2pmWW0ra0tNN1QvUU92SWFqTjdIbkVOV08xWklVemUvWkxTU0xyU0ZJb3A%26original_rr%3DnonIN",
+      "isOfficialSite": false,
+      "price": "$12",
+      "url": "https://www.agoda.com/partners/partnersearch.aspx?site_id=1917614&CkInDay=02&CkInMonth=12&CkInYear=2024&CkOutDay=03&campaignid=&CkOutMonth=12&CkOutYear=2024&SearchDateType=default&NumberOfAdults=2&LT=30&NumberOfChildren=0&childages=&NumberOfRooms=1&gsite=mapresults&los=1&PartnerCurrency=INR&hid=18626936&RoomID=264131639&masterRoomId=264131639&PriceTax=1.24&PriceTotal=11.54&RatePlan=&UserCountry=US&Currency=USD&UserDevice=desktop&Verif=false&rr=row_desktop&audience_list=&mcid=332&booking_source=cpc&adType=0&mpt=L2pmWW0ra0tNN1QvUU92SWFqTjdIbkVOV08xWklVemUvWkxTU0xyU0ZJb3A&original_rr=nonIN"
+    },
+    {
+      "title": "Vio.com",
+      "googleUrl": "http://www.google.com/travel/clk?pc=AA80Osx13EvfQ_NuG7RAVKHGse75p-9S8SqOzlnZGui1UGqkm4P-8YqTdQq-m2YNMZKFImpTqajxNgKDKhu6LvgDM3TggCqoIOF59PPTC9ygpnlosXlZGtunVRNYjMWmrXGk&pcurl=https://deals.vio.com/?sig%3D73aca13c7f952d2641c156f3e69125e1eb497c325f122828ee5aa8797168b9a12d32303331333438363233%26turl%3Dhttps%253A%252F%252Fwww.vio.com%252FHotel%252FSearch%253FcheckIn%253D2024-12-02%2526checkOut%253D2024-12-03%2526curr%253DUSD%2526forceCurrencyChange%253D1%2526lang%253Den%2526forceLanguageChange%253D1%2526rooms%253D2%253A%2526utm_source%253Dgha%2526utm_medium%253Dcpc%2526hotelId%253D7141523%2526userCountry%253DUS%2526profile%253Dr2d2m73kn8%2526preferredRate%253D11.61%2526label%253Dsrc%25253Dgha%252526cltype%25253Dhotel%252526datype%25253Ddefault%252526gsite%25253Dmapresults%252526ucountry%25253DUS%252526udevice%25253Ddesktop%252526hotel%25253D7141523%252526day%25253D02%252526month%25253D12%252526year%25253D2024%252526los%25253D1%252526price%25253D11.61%252526currency%25253DUSD%252526cid%25253D%252526listid%25253D%252526rateid%25253DUS%252526closerateid%25253D%252526promo%25253D0%252526isPrivateRate%25253D0%252526isAudienceUser%25253D0%252526isPaidClick%25253D0%252526%2526cpid%253D675358291618976001",
+      "isOfficialSite": false,
+      "price": "$12",
+      "url": "https://deals.vio.com/?sig=73aca13c7f952d2641c156f3e69125e1eb497c325f122828ee5aa8797168b9a12d32303331333438363233&turl=https://www.vio.com/Hotel/Search?checkIn=2024-12-02&checkOut=2024-12-03&curr=USD&forceCurrencyChange=1&lang=en&forceLanguageChange=1&rooms=2:&utm_source=gha&utm_medium=cpc&hotelId=7141523&userCountry=US&profile=r2d2m73kn8&preferredRate=11.61&label=src%3Dgha%26cltype%3Dhotel%26datype%3Ddefault%26gsite%3Dmapresults%26ucountry%3DUS%26udevice%3Ddesktop%26hotel%3D7141523%26day%3D02%26month%3D12%26year%3D2024%26los%3D1%26price%3D11.61%26currency%3DUSD%26cid%3D%26listid%3D%26rateid%3DUS%26closerateid%3D%26promo%3D0%26isPrivateRate%3D0%26isAudienceUser%3D0%26isPaidClick%3D0%26&cpid=675358291618976001"
+    },
+    {
+      "title": "goseek.com",
+      "googleUrl": "http://www.google.com/travel/clk?pc=AA80OswCKB__xb87YWg2hR25yi3Yptg6gM6hG6NWISzClfq_0d-L7cg2EndbHioS79nCr-mFbm5z_--M9_Ay33F-U-3N5h1Wq5T-e7hWL-GA72bMV3ymj-xXDV1ER4Pq4Cx_aXXBFjYVTA&pcurl=https://deals.goseek.com/?sig%3D34c47a49c3e8320dca5a5dda0da2a460c1bc23afde972e2894a4ff0b6052fb53383131303836353931%26turl%3Dhttps%253A%252F%252Fwww.goseek.com%252FHotel%252FSearch%253FcheckIn%253D2024-12-02%2526checkOut%253D2024-12-03%2526curr%253DUSD%2526forceCurrencyChange%253D1%2526lang%253Den%2526forceLanguageChange%253D1%2526rooms%253D2%253A%2526utm_source%253Dgha%2526utm_medium%253Dcpc%2526hotelId%253D7141523%2526userCountry%253DUS%2526profile%253Dr2d2m73kn8%2526preferredRate%253D11.61%2526label%253Dsrc%25253Dgha%252526cltype%25253Dhotel%252526datype%25253Ddefault%252526gsite%25253Dmapresults%252526ucountry%25253DUS%252526udevice%25253Ddesktop%252526hotel%25253D7141523%252526day%25253D02%252526month%25253D12%252526year%25253D2024%252526los%25253D1%252526price%25253D11.61%252526currency%25253DUSD%252526cid%25253D%252526listid%25253D%252526rateid%25253DUS%252526closerateid%25253D%252526promo%25253D0%252526isPrivateRate%25253D0%252526isAudienceUser%25253D0%252526isPaidClick%25253D0%252526_th%25253D1f36b021fa5989788a2f5e141fb870768b69be5a5eda29ea%252526dts%25253D1730528275%252526query%25253D2%2526epv%253DMS4y%2526esd%253DpU92LOj-GpjyUSf-5jSIAJmeHcT54JOfvTtfRQ2lzXOp2kzfnauGYn6Bf9OGuG4YvrZ5nD0U6VoPYcoNHw90TFz2bItwKNe-VKyBPgAqb8KAAe38X2DrsbGfJK7Z%2526oti%253DLaZZzqSlKH8",
+      "isOfficialSite": false,
+      "price": "$12",
+      "url": "https://deals.goseek.com/?sig=34c47a49c3e8320dca5a5dda0da2a460c1bc23afde972e2894a4ff0b6052fb53383131303836353931&turl=https://www.goseek.com/Hotel/Search?checkIn=2024-12-02&checkOut=2024-12-03&curr=USD&forceCurrencyChange=1&lang=en&forceLanguageChange=1&rooms=2:&utm_source=gha&utm_medium=cpc&hotelId=7141523&userCountry=US&profile=r2d2m73kn8&preferredRate=11.61&label=src%3Dgha%26cltype%3Dhotel%26datype%3Ddefault%26gsite%3Dmapresults%26ucountry%3DUS%26udevice%3Ddesktop%26hotel%3D7141523%26day%3D02%26month%3D12%26year%3D2024%26los%3D1%26price%3D11.61%26currency%3DUSD%26cid%3D%26listid%3D%26rateid%3DUS%26closerateid%3D%26promo%3D0%26isPrivateRate%3D0%26isAudienceUser%3D0%26isPaidClick%3D0%26_th%3D1f36b021fa5989788a2f5e141fb870768b69be5a5eda29ea%26dts%3D1730528275%26query%3D2&epv=MS4y&esd=pU92LOj-GpjyUSf-5jSIAJmeHcT54JOfvTtfRQ2lzXOp2kzfnauGYn6Bf9OGuG4YvrZ5nD0U6VoPYcoNHw90TFz2bItwKNe-VKyBPgAqb8KAAe38X2DrsbGfJK7Z&oti=LaZZzqSlKH8"
+    },
+    {
+      "title": "Booking.com",
+      "googleUrl": "http://www.google.com/travel/clk?pc=AA80OszYxwUy45XeW2MVB1oXurEZySp89-EEnCqQZOMsVdscE0d8G2x16VupeQI8R8VCnx8zsvHPhqPpEi9uJ1YaMD1kHLkB7YmJCTGn6WhMo22kM_GfNtfvyrzQdKMOI17e7CTN--RKiVAuKA&pcurl=https://www.booking.com/hotel/in/oyo-71906-grand-and-lodge.html?checkin%3D2024-12-02%26checkout%3D2024-12-03%26group_adults%3D2%26req_adults%3D2%26show_room%3D657343403_375712454_2_0_0%26lang%3Den%26selected_currency%3DUSD%26exrt%3D0.01188582%26ext_price_total%3D15.75%26ext_price_tax%3D1.96%26xfc%3DINR%26hca%3Dm%26group_children%3D0%26req_children%3D0%26%26no_rooms%3D1%26ts%3D1730519648%26edgtid%3DRqiNRz7YRU2_1oLTPe4d-w%26efpc%3DEWC3GhMltQoT%26utm_source%3Dmetagha%26utm_medium%3Dmapresults%26utm_campaign%3DUS%26utm_term%3Dhotel-6573434%26utm_content%3Ddev-desktop_los-1_bw-30_dow-Monday_defdate-1_room-0_gstadt-2_rateid-public_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-0_checkin-20241202_ppt-Co%26aid%3D2127489%26label%3Dmetagha-link-MRUS-hotel-6573434_dev-desktop_los-1_bw-30_dow-Monday_defdate-1_room-0_gstadt-2_rateid-public_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-0_checkin-20241202_ppt-Co",
+      "isOfficialSite": false,
+      "price": "$16",
+      "url": "https://www.booking.com/hotel/in/oyo-71906-grand-and-lodge.html?checkin=2024-12-02&checkout=2024-12-03&group_adults=2&req_adults=2&show_room=657343403_375712454_2_0_0&lang=en&selected_currency=USD&exrt=0.01188582&ext_price_total=15.75&ext_price_tax=1.96&xfc=INR&hca=m&group_children=0&req_children=0&&no_rooms=1&ts=1730519648&edgtid=RqiNRz7YRU2_1oLTPe4d-w&efpc=EWC3GhMltQoT&utm_source=metagha&utm_medium=mapresults&utm_campaign=US&utm_term=hotel-6573434&utm_content=dev-desktop_los-1_bw-30_dow-Monday_defdate-1_room-0_gstadt-2_rateid-public_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-0_checkin-20241202_ppt-Co&aid=2127489&label=metagha-link-MRUS-hotel-6573434_dev-desktop_los-1_bw-30_dow-Monday_defdate-1_room-0_gstadt-2_rateid-public_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-0_checkin-20241202_ppt-Co"
+    },
+    {
+      "title": "Priceline",
+      "googleUrl": "http://www.google.com/travel/clk?pc=AA80OsxRqedr-BCIZt3_bYZD-e8HjlzkuyXpMUuEjxKEaAxeWYz6YQavUZZAzAI5qP-xTK6v4eDoigROp8LRGrSaoGq_jyKM-vCu6wsRzKysuzXBxB0x7Iti1IXxfHuf9OXJSawAOiOzPfc&pcurl=https://www.priceline.com/r/?channel%3Dmeta%26product%3Dhotel%26theme%3Dghalistings%26refid%3DPLGOOGLEMSS%26refclickid%3DUS_HP%257C85013206_mapresults_1%257C20241202%257Cdesktop%257Cdefaultdate%7C17317038%7C%7C%7C30%257C2%257C0%7C0%7CEN%26hotelid%3D85013206%26checkin%3D20241202%26checkout%3D20241203%26rooms%3D1%26currency%3DINR%26displayedCurr%3DUSD%26POSCountryCode%3DUS%26taxDisplayMode%3DBP%26cityID%3D5000466578%26adults%3D2%26land%3DL%26metaid%3Dl6JqySBY5hy0Wqg40ZbOmWjBbeob1rUR7Ch-PuR-NBj9LEGOTb2UGcM4yGiTguln5agEomf95yS3nb49QlqcDCQVKewLq-Ju7TlhJvt40uxbJehUbKzDKc0rEqbpnKygr_X7kolFJWupWWwuFE5pji1uexd5jkTG3uCUKvjHe_nIFOrZ5mj94UtNg9IuxP7pd5AtzYvSoeV__1k-hqejvR1hNnvXAahqFUk1nXk69nqjY4mtvVX_nWinWkYx1vEXaY5gbUy9cMCFjZogFM_T-CSxWjraLQv1gxAa7M6QNqz8oo32VV69YLxCUPBgM24mtEWvBKKcCirQ0cqqgoqxlHFgc8_JbydOkFdiH15wJ0s%26dblcnt%3Dtrue%26user_num_adults%3D2%26pdtax%3D1.83%26pdt%3D12.85%26locale%3Den-us%26ad-src%3D",
+      "isOfficialSite": false,
+      "price": "$13",
+      "url": "https://www.priceline.com/r/?channel=meta&product=hotel&theme=ghalistings&refid=PLGOOGLEMSS&refclickid=US_HP|85013206_mapresults_1|20241202|desktop|defaultdate|17317038|||30|2|0|0|EN&hotelid=85013206&checkin=20241202&checkout=20241203&rooms=1&currency=INR&displayedCurr=USD&POSCountryCode=US&taxDisplayMode=BP&cityID=5000466578&adults=2&land=L&metaid=l6JqySBY5hy0Wqg40ZbOmWjBbeob1rUR7Ch-PuR-NBj9LEGOTb2UGcM4yGiTguln5agEomf95yS3nb49QlqcDCQVKewLq-Ju7TlhJvt40uxbJehUbKzDKc0rEqbpnKygr_X7kolFJWupWWwuFE5pji1uexd5jkTG3uCUKvjHe_nIFOrZ5mj94UtNg9IuxP7pd5AtzYvSoeV__1k-hqejvR1hNnvXAahqFUk1nXk69nqjY4mtvVX_nWinWkYx1vEXaY5gbUy9cMCFjZogFM_T-CSxWjraLQv1gxAa7M6QNqz8oo32VV69YLxCUPBgM24mtEWvBKKcCirQ0cqqgoqxlHFgc8_JbydOkFdiH15wJ0s&dblcnt=true&user_num_adults=2&pdtax=1.83&pdt=12.85&locale=en-us&ad-src="
+    },
+    {
+      "title": "hutchgo (Hutchison Travel Limited)",
+      "googleUrl": "http://www.google.com/travel/clk?pc=AA80Oswy063-9f-rml9R2SFwINSniDeSLj-yhYxi6yJ2dRbWJLFjAdSXEPRdm-bSauyAZSNVmQUFkhkPRQmCrI5EXDZhmjJ6dZbG1MPPPwnst3Q4T7RUCsG9oTe7g4hprhpKWDoTuHknx4igDZh94blo&pcurl=https://www.hutchgo.com/affiliate/r.aspx?region%3DCA%26lang_id%3D1%26product%3DRH%26currency%3DUSD%26check_in%3D02/12/2024%26check_out%3D03/12/2024%26affiliate_id%3D210034%26banner_id%3D860018%26u_id%3D%26room%3D2_0_0%26searchtype%3DHOTEL%26code%3D1440134%26tid%3D1f7b66c7-c257-4afe-9928-2f04b0f37bff",
+      "isOfficialSite": false,
+      "price": "$14",
+      "url": "https://www.hutchgo.com/affiliate/r.aspx?region=CA&lang_id=1&product=RH&currency=USD&check_in=02/12/2024&check_out=03/12/2024&affiliate_id=210034&banner_id=860018&u_id=&room=2_0_0&searchtype=HOTEL&code=1440134&tid=1f7b66c7-c257-4afe-9928-2f04b0f37bff"
+    },
+    {
+      "title": "Bluepillow.com",
+      "googleUrl": "http://www.google.com/travel/clk?pc=AA80Osw4OMunvTPCOSSWa7YD7jXmZWnzSQbb4blF-toeqM2foR_RR8ckdXEnQ05fF2g8Xk_e7GOX8d9k_B8spb6mX_GCrwcG2yZ5QBnpD4_QOqQKsC6-SR5yFkoylrGWdAikWQ&pcurl=https://www.bluepillow.com/checkout/5f736200e24da41bb0dd8414?begin%3D2024-12-02%26end%3D2024-12-03%26block_id%3D-b,X6OyjONxYKYjdwi8a-l-Yf78vy48XKzM_StOo9haRj0kEM17gyFp-xo6qkARPooZ,-bkng-Hotel%26adults%3D2%26childs%3D0%26infants%3D0%26childrens%3D0%26country%3DUS%26currency%3DUSD%26language%3Den%26source%3Dmapresults%26utm_campaign%3Dhotel%26prid%3D",
+      "isOfficialSite": false,
+      "price": "$39",
+      "url": "https://www.bluepillow.com/checkout/5f736200e24da41bb0dd8414?begin=2024-12-02&end=2024-12-03&block_id=-b,X6OyjONxYKYjdwi8a-l-Yf78vy48XKzM_StOo9haRj0kEM17gyFp-xo6qkARPooZ,-bkng-Hotel&adults=2&childs=0&infants=0&childrens=0&country=US&currency=USD&language=en&source=mapresults&utm_campaign=hotel&prid="
+    }
+  ],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [
+    {
+      "title": "service",
+      "count": 24
+    },
+    {
+      "title": "hygiene",
+      "count": 3
+    },
+    {
+      "title": "space",
+      "count": 2
+    },
+    {
+      "title": "AC",
+      "count": 2
+    },
+    {
+      "title": "ants",
+      "count": 2
+    },
+    {
+      "title": "behaviour",
+      "count": 2
+    },
+    {
+      "title": "sheets",
+      "count": 2
+    },
+    {
+      "title": "book",
+      "count": 2
+    },
+    {
+      "title": "charges",
+      "count": 2
+    }
+  ],
+  "additionalInfo": {
+    "Amenities": [
+      {
+        "Free Wi-Fi": true
+      },
+      {
+        "Pool": true
+      },
+      {
+        "Business center": true
+      },
+      {
+        "Kitchens in some rooms": true
+      },
+      {
+        "Fitness center": false
+      },
+      {
+        "Smoke-free": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=OYO%20Grand%20Hotel%20And%20Lodge&query_place_id=ChIJb-rKBRD5yzsRkCy2AaHh39w",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOh_6UeGseRGlmGfTXyOzJICMdavWeIudxXTIJa=w408-h306-k-no",
+  "kgmid": "/g/11k0t6j8bq",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOh_6UeGseRGlmGfTXyOzJICMdavWeIudxXTIJa=w1920-h1080-k-no",
+      "authorName": "Anand Singh",
+      "authorUrl": "https://maps.google.com/maps/contrib/116496474442562902954",
+      "uploadedAt": "2023-09-13T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipOh_6UeGseRGlmGfTXyOzJICMdavWeIudxXTIJa=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+}]

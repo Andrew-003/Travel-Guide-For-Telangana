@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+     xmlns:android="http://schemas.android.com/apk/res/android"
+     xmlns:app="http://schemas.android.com/apk/res-auto"
+     android:layout_height="match_parent"
+     android:layout_width="match_parent"
+     android:background="#fff"
+     android:padding="10dp"
+     android:orientation="vertical">
+
+    <androidx.appcompat.widget.SearchView
+         android:layout_height="wrap_content"
+         android:layout_width="match_parent"
+         android:contentDescription="Search view"
+         android:background="@drawable/box_bg"
+         android:paddingRight="18dp"
+         android:layout_margin="5dp"
+        style="@style/CustomSearchView"
+         android:queryHint="Search ...."
+         android:iconifiedByDefault="false"
+         android:id="@+id/search_view_district" />
+
+    <androidx.recyclerview.widget.RecyclerView
+         android:layout_height="wrap_content"
+         android:layout_width="wrap_content"
+         android:id="@+id/district_list_recyclerview" />
+
+</LinearLayout>

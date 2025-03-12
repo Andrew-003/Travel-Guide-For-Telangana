@@ -1,0 +1,4597 @@
+[{
+  "searchString": "attractions",
+  "rank": 27,
+  "searchPageUrl": "https://www.google.com/maps/search/attractions/@16.285114650000004,77.81341308962392,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "అరేపల్లి లేక్",
+  "subTitle": null,
+  "description": null,
+  "price": null,
+  "categoryName": "Tourist attraction",
+  "address": "7V78+VV2, Arepalle, Telangana 509131, India",
+  "neighborhood": null,
+  "street": "7V78+VV2",
+  "city": "Arepalle",
+  "postalCode": "509131",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": null,
+  "phoneUnformatted": null,
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 16.2646397,
+    "lng": 77.8671465
+  },
+  "locatedIn": null,
+  "plusCode": null,
+  "menu": null,
+  "totalScore": 4.5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": true,
+  "placeId": "ChIJv1nWFQD_yTsRKHnrMGVpS-c",
+  "categories": [
+    "Tourist attraction"
+  ],
+  "fid": "0x3bc9ff0015d659bf:0xe74b696530eb7928",
+  "cid": "16666530729348004136",
+  "reviewsCount": 2,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 1,
+    "fiveStar": 1
+  },
+  "imagesCount": 2,
+  "imageCategories": [
+    "All"
+  ],
+  "scrapedAt": "2024-11-02T08:21:50.115Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Kanayapalle Balancing Reservoir",
+      "reviewsCount": 6,
+      "totalScore": 4.8
+    },
+    {
+      "category": "People also search for",
+      "title": "Teegalapally View Point",
+      "reviewsCount": 3,
+      "totalScore": 4.7
+    },
+    {
+      "category": "People also search for",
+      "title": "పల్లె ప్రగతి వనం అరగిద్ద",
+      "reviewsCount": 3,
+      "totalScore": 4
+    },
+    {
+      "category": "People also search for",
+      "title": "Ravi Reddy",
+      "reviewsCount": 0,
+      "totalScore": 0
+    }
+  ],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {},
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=%E0%B0%85%E0%B0%B0%E0%B1%87%E0%B0%AA%E0%B0%B2%E0%B1%8D%E0%B0%B2%E0%B0%BF%20%E0%B0%B2%E0%B1%87%E0%B0%95%E0%B1%8D&query_place_id=ChIJv1nWFQD_yTsRKHnrMGVpS-c",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMJZuqxapxfVnVQF_vvjfJTwLKJwAmGh4E-Kboo=w425-h240-k-no",
+  "kgmid": "/g/11vkb61ffk",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMJZuqxapxfVnVQF_vvjfJTwLKJwAmGh4E-Kboo=w1920-h1080-k-no",
+      "authorName": "Ramnavami Ramnavami",
+      "authorUrl": "https://maps.google.com/maps/contrib/112554828068995249449",
+      "uploadedAt": "2024-04-25T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipMJZuqxapxfVnVQF_vvjfJTwLKJwAmGh4E-Kboo=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "attractions",
+  "rank": 12,
+  "searchPageUrl": "https://www.google.com/maps/search/attractions/@16.416848956621344,77.88191525377434,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "DANWADA PEDDA MANYAM GARDEN",
+  "subTitle": "ధన్వాడ పెద్ద మాన్యం గార్డెన్",
+  "description": null,
+  "price": null,
+  "categoryName": "Garden",
+  "address": "Near NH44 , Waddawata, road, Kothakota, Telangana 509381, India",
+  "neighborhood": null,
+  "street": "Near NH44 , Waddawata, road",
+  "city": "Kothakota",
+  "postalCode": "509381",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": null,
+  "phoneUnformatted": null,
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 16.3596994,
+    "lng": 77.930147
+  },
+  "locatedIn": null,
+  "plusCode": "9W5J+V3 Kothakota, Telangana, India",
+  "menu": null,
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJF6g2f9gDyjsRf82FnHTH2_I",
+  "categories": [
+    "Garden"
+  ],
+  "fid": "0x3bca03d87f36a817:0xf2dbc7749c85cd7f",
+  "cid": "17499800080734342527",
+  "reviewsCount": 1,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 1
+  },
+  "imagesCount": 2,
+  "imageCategories": [
+    "All",
+    "Garden",
+    "Videos",
+    "By owner",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T08:21:53.999Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "popularTimesLiveText": "Now: Usually not busy",
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {
+    "Su": [
+      {
+        "hour": 4,
+        "occupancyPercent": 27
+      },
+      {
+        "hour": 5,
+        "occupancyPercent": 33
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 11
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 5
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 5
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 27
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 38
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 55
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 66
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 55
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 72
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 50
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 22
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 5
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 5
+      },
+      {
+        "hour": 0,
+        "occupancyPercent": 16
+      },
+      {
+        "hour": 1,
+        "occupancyPercent": 50
+      },
+      {
+        "hour": 2,
+        "occupancyPercent": 44
+      },
+      {
+        "hour": 3,
+        "occupancyPercent": 44
+      }
+    ],
+    "Mo": [
+      {
+        "hour": 4,
+        "occupancyPercent": 22
+      },
+      {
+        "hour": 5,
+        "occupancyPercent": 38
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 44
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 16
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 5
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 5
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 11
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 22
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 22
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 16
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 5
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 22
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 50
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 100
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 88
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 38
+      },
+      {
+        "hour": 0,
+        "occupancyPercent": 11
+      },
+      {
+        "hour": 1,
+        "occupancyPercent": 5
+      },
+      {
+        "hour": 2,
+        "occupancyPercent": 11
+      },
+      {
+        "hour": 3,
+        "occupancyPercent": 22
+      }
+    ],
+    "Tu": [
+      {
+        "hour": 4,
+        "occupancyPercent": 22
+      },
+      {
+        "hour": 5,
+        "occupancyPercent": 11
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 5
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 22
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 33
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 61
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 27
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 11
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 11
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 16
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 16
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 16
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 22
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 27
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 16
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 16
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 27
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 22
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 11
+      },
+      {
+        "hour": 0,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 1,
+        "occupancyPercent": 5
+      },
+      {
+        "hour": 2,
+        "occupancyPercent": 16
+      },
+      {
+        "hour": 3,
+        "occupancyPercent": 27
+      }
+    ],
+    "We": [
+      {
+        "hour": 4,
+        "occupancyPercent": 16
+      },
+      {
+        "hour": 5,
+        "occupancyPercent": 22
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 5
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 11
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 22
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 55
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 50
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 50
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 16
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 11
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 5
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 5
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 5
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 11
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 33
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 33
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 27
+      },
+      {
+        "hour": 0,
+        "occupancyPercent": 16
+      },
+      {
+        "hour": 1,
+        "occupancyPercent": 27
+      },
+      {
+        "hour": 2,
+        "occupancyPercent": 22
+      },
+      {
+        "hour": 3,
+        "occupancyPercent": 27
+      }
+    ],
+    "Th": [
+      {
+        "hour": 4,
+        "occupancyPercent": 22
+      },
+      {
+        "hour": 5,
+        "occupancyPercent": 11
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 5
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 5
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 5
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 16
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 50
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 55
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 61
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 27
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 11
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 5
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 11
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 33
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 27
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 55
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 50
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 44
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 33
+      },
+      {
+        "hour": 0,
+        "occupancyPercent": 38
+      },
+      {
+        "hour": 1,
+        "occupancyPercent": 44
+      },
+      {
+        "hour": 2,
+        "occupancyPercent": 33
+      },
+      {
+        "hour": 3,
+        "occupancyPercent": 22
+      }
+    ],
+    "Fr": [
+      {
+        "hour": 4,
+        "occupancyPercent": 11
+      },
+      {
+        "hour": 5,
+        "occupancyPercent": 22
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 38
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 22
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 16
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 22
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 33
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 11
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 5
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 5
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 11
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 27
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 22
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 33
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 72
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 83
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 94
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 77
+      },
+      {
+        "hour": 0,
+        "occupancyPercent": 33
+      },
+      {
+        "hour": 1,
+        "occupancyPercent": 16
+      },
+      {
+        "hour": 2,
+        "occupancyPercent": 16
+      },
+      {
+        "hour": 3,
+        "occupancyPercent": 16
+      }
+    ],
+    "Sa": [
+      {
+        "hour": 4,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 5,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 5
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 11
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 11
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 5
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 11
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 5
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 5
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 11
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 5
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 11
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 11
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 38
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 50
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 55
+      },
+      {
+        "hour": 0,
+        "occupancyPercent": 22
+      },
+      {
+        "hour": 1,
+        "occupancyPercent": 11
+      },
+      {
+        "hour": 2,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 3,
+        "occupancyPercent": 0
+      }
+    ]
+  },
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Thursday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Friday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Saturday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Open 24 hours"
+    }
+  ],
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Padmamma Narayana Gardens",
+      "reviewsCount": 0,
+      "totalScore": 0
+    },
+    {
+      "category": "People also search for",
+      "title": "Dr.M.N. Narsimaiah Garden",
+      "reviewsCount": 0,
+      "totalScore": 0
+    },
+    {
+      "category": "People also search for",
+      "title": "Peddamamdaddi Fields",
+      "reviewsCount": 1,
+      "totalScore": 5
+    },
+    {
+      "category": "People also search for",
+      "title": "Ganesh Nayak",
+      "reviewsCount": 1,
+      "totalScore": 4
+    },
+    {
+      "category": "People also search for",
+      "title": "Padayatra Stop Sheddu",
+      "reviewsCount": 4,
+      "totalScore": 4.5
+    }
+  ],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Children": [
+      {
+        "Good for kids": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=DANWADA%20PEDDA%20MANYAM%20GARDEN&query_place_id=ChIJF6g2f9gDyjsRf82FnHTH2_I",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMa9ik_K2ULcdXBZYSQtSkFWYzipUEczPZwXE41=w408-h858-k-no",
+  "kgmid": "/g/11sq4wy4n_",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMa9ik_K2ULcdXBZYSQtSkFWYzipUEczPZwXE41=w1920-h1080-k-no",
+      "authorName": "DANWADA PEDDA MANYAM GARDEN",
+      "authorUrl": "https://maps.google.com/maps/contrib/111333055440999662703",
+      "uploadedAt": "2022-03-07T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipMa9ik_K2ULcdXBZYSQtSkFWYzipUEczPZwXE41=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "attractions",
+  "rank": 9,
+  "searchPageUrl": "https://www.google.com/maps/search/attractions/@16.416848956621344,77.88191525377434,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "Kanayapalle Balancing Reservoir",
+  "subTitle": "కనయపల్లె బలన్సింగ్ రిజర్వోయర్",
+  "description": null,
+  "price": null,
+  "categoryName": "Tourist attraction",
+  "address": "9XQ6+RRC, Nirven, Telangana 509381, India",
+  "neighborhood": null,
+  "street": "9XQ6+RRC",
+  "city": "Nirven",
+  "postalCode": null,
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": null,
+  "phoneUnformatted": null,
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 16.3895519,
+    "lng": 77.9620176
+  },
+  "locatedIn": null,
+  "plusCode": null,
+  "menu": null,
+  "totalScore": 4.8,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ2cpHrtUdyjsR6hnPWyC2ikI",
+  "categories": [
+    "Tourist attraction"
+  ],
+  "fid": "0x3bca1dd5ae47cad9:0x428ab6205bcf19ea",
+  "cid": "4794845003384822250",
+  "reviewsCount": 6,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 1,
+    "fiveStar": 5
+  },
+  "imagesCount": 2,
+  "imageCategories": [
+    "All",
+    "Videos"
+  ],
+  "scrapedAt": "2024-11-02T08:21:55.221Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Check Dam",
+      "reviewsCount": 5,
+      "totalScore": 4
+    },
+    {
+      "category": "People also search for",
+      "title": "Gundala reservoir",
+      "reviewsCount": 4,
+      "totalScore": 4.8
+    },
+    {
+      "category": "People also search for",
+      "title": "Chowderpally Lake",
+      "reviewsCount": 0,
+      "totalScore": 0
+    }
+  ],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Children": [
+      {
+        "Good for kids": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=Kanayapalle%20Balancing%20Reservoir&query_place_id=ChIJ2cpHrtUdyjsR6hnPWyC2ikI",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMs98DkIai6843RdkfjYrzIcHuhir8Jsc14PtYj=w408-h306-k-no",
+  "kgmid": "/g/11nxt85r00",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMs98DkIai6843RdkfjYrzIcHuhir8Jsc14PtYj=w1920-h1080-k-no",
+      "authorName": "Manjunath Reddy",
+      "authorUrl": "https://maps.google.com/maps/contrib/109675069375143205469",
+      "uploadedAt": "2024-06-21T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipMs98DkIai6843RdkfjYrzIcHuhir8Jsc14PtYj=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "attractions",
+  "rank": 7,
+  "searchPageUrl": "https://www.google.com/maps/search/attractions/@16.416848956621344,77.88191525377434,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "Chhatrapati Shivaji Maharaj Statue wanaparthy",
+  "subTitle": null,
+  "description": null,
+  "price": null,
+  "categoryName": "Tourist attraction",
+  "address": "9366+WQ8, Chandapur, K,D,R Nagar, Wanaparthy, Telangana 509103, India",
+  "neighborhood": "Chandapur, K,D,R Nagar",
+  "street": "9366+WQ8",
+  "city": "Wanaparthy",
+  "postalCode": "509103",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": null,
+  "phoneUnformatted": null,
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 16.3622812,
+    "lng": 78.0619463
+  },
+  "locatedIn": null,
+  "plusCode": null,
+  "menu": null,
+  "totalScore": 4.4,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJuRpT85wFyjsRdmzNy6mzFnk",
+  "categories": [
+    "Tourist attraction"
+  ],
+  "fid": "0x3bca059cf3531ab9:0x7916b3a9cbcd6c76",
+  "cid": "8725358869926997110",
+  "reviewsCount": 7,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 2,
+    "fourStar": 0,
+    "fiveStar": 5
+  },
+  "imagesCount": 4,
+  "imageCategories": [
+    "All",
+    "Latest",
+    "Videos",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T08:21:58.659Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "popularTimesLiveText": "Now: Usually not busy",
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {
+    "Su": [
+      {
+        "hour": 4,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 5,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 21
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 28
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 35
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 57
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 21
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 35
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 78
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 71
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 35
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 21
+      },
+      {
+        "hour": 0,
+        "occupancyPercent": 50
+      },
+      {
+        "hour": 1,
+        "occupancyPercent": 64
+      },
+      {
+        "hour": 2,
+        "occupancyPercent": 50
+      },
+      {
+        "hour": 3,
+        "occupancyPercent": 14
+      }
+    ],
+    "Mo": [
+      {
+        "hour": 4,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 5,
+        "occupancyPercent": 21
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 42
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 64
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 78
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 50
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 28
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 28
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 21
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 42
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 21
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 0,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 1,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 2,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 3,
+        "occupancyPercent": 0
+      }
+    ],
+    "Tu": [
+      {
+        "hour": 4,
+        "occupancyPercent": 21
+      },
+      {
+        "hour": 5,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 35
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 85
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 100
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 85
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 42
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 21
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 28
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 28
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 50
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 42
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 21
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 0,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 1,
+        "occupancyPercent": 42
+      },
+      {
+        "hour": 2,
+        "occupancyPercent": 35
+      },
+      {
+        "hour": 3,
+        "occupancyPercent": 50
+      }
+    ],
+    "We": [
+      {
+        "hour": 4,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 5,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 21
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 21
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 28
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 42
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 21
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 50
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 21
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 0,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 1,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 2,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 3,
+        "occupancyPercent": 0
+      }
+    ],
+    "Th": [
+      {
+        "hour": 4,
+        "occupancyPercent": 21
+      },
+      {
+        "hour": 5,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 21
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 42
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 42
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 21
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 0,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 1,
+        "occupancyPercent": 21
+      },
+      {
+        "hour": 2,
+        "occupancyPercent": 42
+      },
+      {
+        "hour": 3,
+        "occupancyPercent": 28
+      }
+    ],
+    "Fr": [
+      {
+        "hour": 4,
+        "occupancyPercent": 35
+      },
+      {
+        "hour": 5,
+        "occupancyPercent": 57
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 35
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 35
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 35
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 21
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 28
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 64
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 42
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 21
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 0,
+        "occupancyPercent": 28
+      },
+      {
+        "hour": 1,
+        "occupancyPercent": 21
+      },
+      {
+        "hour": 2,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 3,
+        "occupancyPercent": 14
+      }
+    ],
+    "Sa": [
+      {
+        "hour": 4,
+        "occupancyPercent": 42
+      },
+      {
+        "hour": 5,
+        "occupancyPercent": 71
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 35
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 35
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 21
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 42
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 21
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 21
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 21
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 21
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 0,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 1,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 2,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 3,
+        "occupancyPercent": 35
+      }
+    ]
+  },
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Thursday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Friday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Saturday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Open 24 hours"
+    }
+  ],
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Garuda Pushkarini Stepwell",
+      "reviewsCount": 16,
+      "totalScore": 4.9
+    },
+    {
+      "category": "People also search for",
+      "title": "Mini Tank Bund - Wanaparthy District HQ",
+      "reviewsCount": 11,
+      "totalScore": 4.3
+    },
+    {
+      "category": "People also search for",
+      "title": "Mini Tank Bund",
+      "reviewsCount": 18,
+      "totalScore": 3.9
+    },
+    {
+      "category": "People also search for",
+      "title": "Chatrapathi shivaji maharaj circle",
+      "reviewsCount": 2,
+      "totalScore": 5
+    },
+    {
+      "category": "People also search for",
+      "title": "Chatrapati Shivaji Maharaj Statue",
+      "reviewsCount": 114,
+      "totalScore": 4.8
+    }
+  ],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Children": [
+      {
+        "Good for kids": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=Chhatrapati%20Shivaji%20Maharaj%20Statue%20wanaparthy&query_place_id=ChIJuRpT85wFyjsRdmzNy6mzFnk",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMqCL8gyvqwBLcaPyTgo5RGqTE1XDjEOJDueS0h=w408-h510-k-no",
+  "kgmid": "/g/11twkbb7bb",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMqCL8gyvqwBLcaPyTgo5RGqTE1XDjEOJDueS0h=w1920-h1080-k-no",
+      "authorName": "Shivaranjan M",
+      "authorUrl": "https://maps.google.com/maps/contrib/116087326565368605141",
+      "uploadedAt": "2023-06-07T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipMqCL8gyvqwBLcaPyTgo5RGqTE1XDjEOJDueS0h=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "attractions",
+  "rank": 6,
+  "searchPageUrl": "https://www.google.com/maps/search/attractions/@16.416848956621344,77.88191525377434,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "Arangar",
+  "subTitle": "అరణ్గర్",
+  "description": null,
+  "price": null,
+  "categoryName": "Tourist attraction",
+  "address": "9WJR+422, Kothakota, Telangana 509381, India",
+  "neighborhood": null,
+  "street": "9WJR+422",
+  "city": "Kothakota",
+  "postalCode": "509381",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": null,
+  "phoneUnformatted": null,
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 16.3802565,
+    "lng": 77.9400084
+  },
+  "locatedIn": null,
+  "plusCode": null,
+  "menu": null,
+  "totalScore": 4.1,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ4Yf9QgAdyjsRE-tpilbNas8",
+  "categories": [
+    "Tourist attraction"
+  ],
+  "fid": "0x3bca1d0042fd87e1:0xcf6acd568a69eb13",
+  "cid": "14945984084955491091",
+  "reviewsCount": 11,
+  "reviewsDistribution": {
+    "oneStar": 2,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 2,
+    "fiveStar": 7
+  },
+  "imagesCount": null,
+  "imageCategories": [],
+  "scrapedAt": "2024-11-02T08:22:07.776Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "धारूर घाट",
+      "reviewsCount": 0,
+      "totalScore": 0
+    }
+  ],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Children": [
+      {
+        "Good for kids": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=Arangar&query_place_id=ChIJ4Yf9QgAdyjsRE-tpilbNas8",
+  "imageUrl": null,
+  "kgmid": "/g/11vrcyyrvs",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [],
+  "imageUrls": [],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "attractions",
+  "rank": 5,
+  "searchPageUrl": "https://www.google.com/maps/search/attractions/@16.416848956621344,77.88191525377434,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "Garuda Pushkarini Stepwell",
+  "subTitle": "గరుడ పుష్కరిణి స్తేప్వేల్",
+  "description": null,
+  "price": null,
+  "categoryName": "Tourist attraction",
+  "address": "KDR Polytechnic college Ground, Garuda Pushkarni stepwell, Wanaparthy, Telangana 509103, India",
+  "neighborhood": "Chandapur, K,D,R Nagar",
+  "street": "KDR Polytechnic college Ground, Garuda Pushkarni stepwell",
+  "city": "Wanaparthy",
+  "postalCode": "509103",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": null,
+  "phoneUnformatted": null,
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 16.3620148,
+    "lng": 78.0606956
+  },
+  "locatedIn": null,
+  "plusCode": "9366+R7 Wanaparthy, Telangana, India",
+  "menu": null,
+  "totalScore": 4.9,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ5bas4isFyjsRjZKFxK8oWlg",
+  "categories": [
+    "Tourist attraction"
+  ],
+  "fid": "0x3bca052be2acb6e5:0x585a28afc485928d",
+  "cid": "6366445758623093389",
+  "reviewsCount": 16,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 1,
+    "fiveStar": 15
+  },
+  "imagesCount": 72,
+  "imageCategories": [
+    "All",
+    "By owner",
+    "Videos",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T08:22:07.612Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "9 AM to 8 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "9 AM to 5 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "9 AM to 5 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "9 AM to 5 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "9 AM to 5 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "9 AM to 5 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "9 AM to 5 PM"
+    }
+  ],
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Chhatrapati Shivaji Maharaj Statue wanaparthy",
+      "reviewsCount": 7,
+      "totalScore": 4.4
+    },
+    {
+      "category": "People also search for",
+      "title": "Mini Tank Bund",
+      "reviewsCount": 17,
+      "totalScore": 3.8
+    },
+    {
+      "category": "People also search for",
+      "title": "Mini Tank Bund - Wanaparthy District HQ",
+      "reviewsCount": 11,
+      "totalScore": 4.3
+    },
+    {
+      "category": "People also search for",
+      "title": "Vivekananda Statue",
+      "reviewsCount": 10,
+      "totalScore": 4.5
+    }
+  ],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Children": [
+      {
+        "Good for kids": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=Garuda%20Pushkarini%20Stepwell&query_place_id=ChIJ5bas4isFyjsRjZKFxK8oWlg",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPN7uvjvBjbC8OAfoe18pUYCiysG3JHmFPJUgTk=w408-h912-k-no",
+  "kgmid": "/g/11v0mv4r8w",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPN7uvjvBjbC8OAfoe18pUYCiysG3JHmFPJUgTk=w1920-h1080-k-no",
+      "authorName": "Garuda Pushkarini Stepwell",
+      "authorUrl": "https://maps.google.com/maps/contrib/116762167071737427366",
+      "uploadedAt": "2023-06-07T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipPN7uvjvBjbC8OAfoe18pUYCiysG3JHmFPJUgTk=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "attractions",
+  "rank": 26,
+  "searchPageUrl": "https://www.google.com/maps/search/attractions/@16.285114650000004,77.81341308962392,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "Guntipally",
+  "subTitle": "గుంటిపల్లి",
+  "description": null,
+  "price": null,
+  "categoryName": "Park",
+  "address": "8R4G+H2, Guntipalle, Telangana 509131, India",
+  "neighborhood": null,
+  "street": "8R4G+H2",
+  "city": "Guntipalle",
+  "postalCode": null,
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": null,
+  "phoneUnformatted": null,
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 16.306438,
+    "lng": 77.825124
+  },
+  "locatedIn": null,
+  "plusCode": null,
+  "menu": null,
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJIVjxPAD7yTsR4r07vzPo1ck",
+  "categories": [
+    "Park"
+  ],
+  "fid": "0x3bc9fb003cf15821:0xc9d5e833bf3bbde2",
+  "cid": "14543785880612224482",
+  "reviewsCount": 1,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 1
+  },
+  "imagesCount": null,
+  "imageCategories": [],
+  "scrapedAt": "2024-11-02T08:22:08.417Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "popularTimesLiveText": "Now: Usually not too busy",
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {
+    "Su": [
+      {
+        "hour": 4,
+        "occupancyPercent": 35
+      },
+      {
+        "hour": 5,
+        "occupancyPercent": 35
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 64
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 85
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 64
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 35
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 21
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 21
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 28
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 64
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 42
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 42
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 28
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 28
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 21
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 0,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 1,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 2,
+        "occupancyPercent": 28
+      },
+      {
+        "hour": 3,
+        "occupancyPercent": 21
+      }
+    ],
+    "Mo": [
+      {
+        "hour": 4,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 5,
+        "occupancyPercent": 21
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 42
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 28
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 35
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 35
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 35
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 35
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 21
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 21
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 57
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 71
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 100
+      },
+      {
+        "hour": 0,
+        "occupancyPercent": 78
+      },
+      {
+        "hour": 1,
+        "occupancyPercent": 57
+      },
+      {
+        "hour": 2,
+        "occupancyPercent": 35
+      },
+      {
+        "hour": 3,
+        "occupancyPercent": 7
+      }
+    ],
+    "Tu": [
+      {
+        "hour": 4,
+        "occupancyPercent": 28
+      },
+      {
+        "hour": 5,
+        "occupancyPercent": 21
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 28
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 21
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 28
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 21
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 28
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 50
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 64
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 64
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 35
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 28
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 21
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 21
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 21
+      },
+      {
+        "hour": 0,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 1,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 2,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 3,
+        "occupancyPercent": 14
+      }
+    ],
+    "We": [
+      {
+        "hour": 4,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 5,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 21
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 50
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 42
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 57
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 64
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 28
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 28
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 57
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 57
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 28
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 28
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 42
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 21
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 0,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 1,
+        "occupancyPercent": 35
+      },
+      {
+        "hour": 2,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 3,
+        "occupancyPercent": 7
+      }
+    ],
+    "Th": [],
+    "Fr": [
+      {
+        "hour": 4,
+        "occupancyPercent": 35
+      },
+      {
+        "hour": 5,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 21
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 21
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 28
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 57
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 78
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 92
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 57
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 28
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 28
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 28
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 28
+      },
+      {
+        "hour": 0,
+        "occupancyPercent": 28
+      },
+      {
+        "hour": 1,
+        "occupancyPercent": 50
+      },
+      {
+        "hour": 2,
+        "occupancyPercent": 28
+      },
+      {
+        "hour": 3,
+        "occupancyPercent": 28
+      }
+    ],
+    "Sa": [
+      {
+        "hour": 4,
+        "occupancyPercent": 35
+      },
+      {
+        "hour": 5,
+        "occupancyPercent": 42
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 42
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 71
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 42
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 42
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 42
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 71
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 42
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 50
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 35
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 64
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 42
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 57
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 50
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 21
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 0,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 1,
+        "occupancyPercent": 28
+      },
+      {
+        "hour": 2,
+        "occupancyPercent": 28
+      },
+      {
+        "hour": 3,
+        "occupancyPercent": 21
+      }
+    ]
+  },
+  "openingHours": [],
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "G నితిన్",
+      "reviewsCount": 0,
+      "totalScore": 0
+    },
+    {
+      "category": "People also search for",
+      "title": "Palm field",
+      "reviewsCount": 0,
+      "totalScore": 0
+    },
+    {
+      "category": "People also search for",
+      "title": "Gani farm",
+      "reviewsCount": 0,
+      "totalScore": 0
+    },
+    {
+      "category": "People also search for",
+      "title": "Government Property",
+      "reviewsCount": 0,
+      "totalScore": 0
+    },
+    {
+      "category": "People also search for",
+      "title": "పోతర్ల గుట్ట",
+      "reviewsCount": 0,
+      "totalScore": 0
+    }
+  ],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Children": [
+      {
+        "Good for kids": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=Guntipally&query_place_id=ChIJIVjxPAD7yTsR4r07vzPo1ck",
+  "imageUrl": null,
+  "kgmid": "/g/11w1zd8mzf",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [],
+  "imageUrls": [],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "attractions",
+  "rank": 25,
+  "searchPageUrl": "https://www.google.com/maps/search/attractions/@16.285114650000004,77.81341308962392,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "అరేపల్లీ కృష్ణ బ్రిడ్జి",
+  "subTitle": null,
+  "description": null,
+  "price": null,
+  "categoryName": "Tourist attraction",
+  "address": "7R6X+2PF, Arepalle, Telangana 509131, India",
+  "neighborhood": null,
+  "street": "7R6X+2PF",
+  "city": "Arepalle",
+  "postalCode": "509131",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": null,
+  "phoneUnformatted": null,
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 16.2600529,
+    "lng": 77.8493109
+  },
+  "locatedIn": null,
+  "plusCode": null,
+  "menu": null,
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": true,
+  "placeId": "ChIJnwLfSwD_yTsR1QZ4RsmdpCQ",
+  "categories": [
+    "Tourist attraction"
+  ],
+  "fid": "0x3bc9ff004bdf029f:0x24a49dc9467806d5",
+  "cid": "2640408769342211797",
+  "reviewsCount": 1,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 1
+  },
+  "imagesCount": 2,
+  "imageCategories": [
+    "All",
+    "Videos"
+  ],
+  "scrapedAt": "2024-11-02T08:22:16.108Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Krishna River Raliway Bridge",
+      "reviewsCount": 12,
+      "totalScore": 4.6
+    },
+    {
+      "category": "People also search for",
+      "title": "Rekulapally pushkarala garth Krishna water flow",
+      "reviewsCount": 14,
+      "totalScore": 4.1
+    },
+    {
+      "category": "People also search for",
+      "title": "Ravi Reddy",
+      "reviewsCount": 0,
+      "totalScore": 0
+    }
+  ],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {},
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=%E0%B0%85%E0%B0%B0%E0%B1%87%E0%B0%AA%E0%B0%B2%E0%B1%8D%E0%B0%B2%E0%B1%80%20%E0%B0%95%E0%B1%83%E0%B0%B7%E0%B1%8D%E0%B0%A3%20%E0%B0%AC%E0%B1%8D%E0%B0%B0%E0%B0%BF%E0%B0%A1%E0%B1%8D%E0%B0%9C%E0%B0%BF&query_place_id=ChIJnwLfSwD_yTsR1QZ4RsmdpCQ",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNXrzsSCC18tblbrEClxYGF2Jx9K1QkPsU0YGST=w408-h725-k-no",
+  "kgmid": "/g/11ldhx5rwn",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNXrzsSCC18tblbrEClxYGF2Jx9K1QkPsU0YGST=w1920-h1080-k-no",
+      "authorName": "venkatesh mudiraj",
+      "authorUrl": "https://maps.google.com/maps/contrib/102914746508206035961",
+      "uploadedAt": "2024-04-15T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipNXrzsSCC18tblbrEClxYGF2Jx9K1QkPsU0YGST=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "attractions",
+  "rank": 19,
+  "searchPageUrl": "https://www.google.com/maps/search/attractions/@16.285114650000004,77.81341308962392,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "Manavata Gaushala",
+  "subTitle": "మానవతా గుశల",
+  "description": null,
+  "price": null,
+  "categoryName": "Tourist attraction",
+  "address": "7W8V+5FQ, NH 44, Mahbubnagar, Natavalli, Telangana 509104, India",
+  "neighborhood": "Mahbubnagar",
+  "street": "7W8V+5FQ, NH 44",
+  "city": "Natavalli",
+  "postalCode": "509104",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": "http://yoga.manavata.org/home",
+  "phone": null,
+  "phoneUnformatted": null,
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 16.2645023,
+    "lng": 77.9440783
+  },
+  "locatedIn": null,
+  "plusCode": null,
+  "menu": null,
+  "totalScore": null,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJG1j1OgAByjsRTchVMncAe84",
+  "categories": [
+    "Tourist attraction"
+  ],
+  "fid": "0x3bca01003af5581b:0xce7b00773255c84d",
+  "cid": "14878486305894156365",
+  "reviewsCount": 0,
+  "reviewsDistribution": null,
+  "imagesCount": 4,
+  "imageCategories": [
+    "All",
+    "Latest"
+  ],
+  "scrapedAt": "2024-11-02T08:22:20.450Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {},
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=Manavata%20Gaushala&query_place_id=ChIJG1j1OgAByjsRTchVMncAe84",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPV8kqi9A_ZlnOS5noqVuHJl25YQK2GrnVRL-YP=w408-h544-k-no",
+  "kgmid": "/g/11wfvk67b8",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPV8kqi9A_ZlnOS5noqVuHJl25YQK2GrnVRL-YP=w1920-h1080-k-no",
+      "authorName": "Srinivasa Alluri",
+      "authorUrl": "https://maps.google.com/maps/contrib/108534528616129820831",
+      "uploadedAt": "2024-09-29T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipPV8kqi9A_ZlnOS5noqVuHJl25YQK2GrnVRL-YP=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "attractions",
+  "rank": 15,
+  "searchPageUrl": "https://www.google.com/maps/search/attractions/@16.285114650000004,77.81341308962392,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "Beechupally",
+  "subTitle": "బీచుపల్లి",
+  "description": null,
+  "price": null,
+  "categoryName": "Tourist attraction",
+  "address": "6X4V+9M6, Ambedkar Nagar, Pebbair, Telangana 509104, India",
+  "neighborhood": "Ambedkar Nagar",
+  "street": "6X4V+9M6",
+  "city": "Pebbair",
+  "postalCode": "509104",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": null,
+  "phoneUnformatted": null,
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 16.2059131,
+    "lng": 77.9941562
+  },
+  "locatedIn": null,
+  "plusCode": null,
+  "menu": null,
+  "totalScore": null,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJR5p2NwAByjsRboQfj_4IM5Y",
+  "categories": [
+    "Tourist attraction"
+  ],
+  "fid": "0x3bca010037769a47:0x963308fe8f1f846e",
+  "cid": "10823004218917356654",
+  "reviewsCount": 0,
+  "reviewsDistribution": null,
+  "imagesCount": 1,
+  "imageCategories": [
+    "All",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T08:22:21.306Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {},
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=Beechupally&query_place_id=ChIJR5p2NwAByjsRboQfj_4IM5Y",
+  "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=YwXaqPNuL47i_3Y_26HJlg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=308.62952&pitch=0&thumbfov=100",
+  "kgmid": "/g/11w93ywz39",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=YwXaqPNuL47i_3Y_26HJlg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=308.62952&pitch=0&thumbfov=100"
+    }
+  ],
+  "imageUrls": [
+    "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=YwXaqPNuL47i_3Y_26HJlg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=308.62952&pitch=0&thumbfov=100"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "attractions",
+  "rank": 11,
+  "searchPageUrl": "https://www.google.com/maps/search/attractions/@16.285114650000004,77.81341308962392,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "Jurala Dam View Point",
+  "subTitle": "జూరాల డాం వ్యూ పాయింట్",
+  "description": null,
+  "price": null,
+  "categoryName": "Tourist attraction",
+  "address": "Jurala Project, Chintharevula, Telangana 509125, India",
+  "neighborhood": null,
+  "street": "Jurala Project",
+  "city": "Chintharevula",
+  "postalCode": "509125",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": null,
+  "phoneUnformatted": null,
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 16.3427931,
+    "lng": 77.7044234
+  },
+  "locatedIn": null,
+  "plusCode": "8PV3+4Q Chintharevula, Telangana, India",
+  "menu": null,
+  "totalScore": 4.5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJvwGsBb7lyTsREv7L9KV5VXQ",
+  "categories": [
+    "Tourist attraction"
+  ],
+  "fid": "0x3bc9e5be05ac01bf:0x745579a5f4cbfe12",
+  "cid": "8382740035103620626",
+  "reviewsCount": 95,
+  "reviewsDistribution": {
+    "oneStar": 3,
+    "twoStar": 1,
+    "threeStar": 6,
+    "fourStar": 20,
+    "fiveStar": 65
+  },
+  "imagesCount": 155,
+  "imageCategories": [
+    "All",
+    "Latest",
+    "Videos",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T08:22:21.357Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Jurala reservoir",
+      "reviewsCount": 8,
+      "totalScore": 3.8
+    },
+    {
+      "category": "People also search for",
+      "title": "Jurala Project",
+      "reviewsCount": 416,
+      "totalScore": 4.4
+    },
+    {
+      "category": "People also search for",
+      "title": "Jurala dam",
+      "reviewsCount": 203,
+      "totalScore": 4.2
+    },
+    {
+      "category": "People also search for",
+      "title": "Gundala reservoir",
+      "reviewsCount": 4,
+      "totalScore": 4.8
+    },
+    {
+      "category": "People also search for",
+      "title": "Jurala Project Main Right Canal",
+      "reviewsCount": 50,
+      "totalScore": 4.5
+    }
+  ],
+  "placesTags": [],
+  "reviewsTags": [
+    {
+      "title": "fish fry",
+      "count": 2
+    }
+  ],
+  "additionalInfo": {
+    "Children": [
+      {
+        "Good for kids": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=Jurala%20Dam%20View%20Point&query_place_id=ChIJvwGsBb7lyTsREv7L9KV5VXQ",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPbjEklduj0AWCxuMlCWVOfvKVapetmn9c9Gl-q=w408-h307-k-no",
+  "kgmid": "/g/11k3p533xy",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPbjEklduj0AWCxuMlCWVOfvKVapetmn9c9Gl-q=w1920-h1080-k-no",
+      "authorName": "DDP Anjaneyulu Vlogs",
+      "authorUrl": "https://maps.google.com/maps/contrib/104168790835078489533",
+      "uploadedAt": "2023-07-08T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipPbjEklduj0AWCxuMlCWVOfvKVapetmn9c9Gl-q=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "attractions",
+  "rank": 10,
+  "searchPageUrl": "https://www.google.com/maps/search/attractions/@16.285114650000004,77.81341308962392,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "Jurala project",
+  "subTitle": "జూరాల ప్రాజెక్ట్",
+  "description": null,
+  "price": null,
+  "categoryName": "Tourist attraction",
+  "address": "8PV3+4QM, Chintharevula, Telangana 509131, India",
+  "neighborhood": null,
+  "street": "8PV3+4QM",
+  "city": "Chintharevula",
+  "postalCode": "509131",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": null,
+  "phoneUnformatted": null,
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 16.3428446,
+    "lng": 77.7044173
+  },
+  "locatedIn": null,
+  "plusCode": null,
+  "menu": null,
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ6zAFIADlyTsRXXBut2h6YXI",
+  "categories": [
+    "Tourist attraction"
+  ],
+  "fid": "0x3bc9e500200530eb:0x72617a68b76e705d",
+  "cid": "8242003383237374045",
+  "reviewsCount": 2,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 2
+  },
+  "imagesCount": 3,
+  "imageCategories": [
+    "All",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T08:22:30.374Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Jurala reservoir",
+      "reviewsCount": 8,
+      "totalScore": 3.8
+    },
+    {
+      "category": "People also search for",
+      "title": "Jurala Project Main Right Canal",
+      "reviewsCount": 50,
+      "totalScore": 4.5
+    },
+    {
+      "category": "People also search for",
+      "title": "Jurala Project",
+      "reviewsCount": 416,
+      "totalScore": 4.4
+    },
+    {
+      "category": "People also search for",
+      "title": "Priyadharshini Jurala Project Main Left Canal",
+      "reviewsCount": 371,
+      "totalScore": 4.4
+    },
+    {
+      "category": "People also search for",
+      "title": "Jurala Dam View Point",
+      "reviewsCount": 95,
+      "totalScore": 4.5
+    }
+  ],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Children": [
+      {
+        "Good for kids": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=Jurala%20project&query_place_id=ChIJ6zAFIADlyTsRXXBut2h6YXI",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPOQ5dwdNWP1qpZrAA7SyxMJGhz4aTDBPWTqctm=w408-h541-k-no",
+  "kgmid": "/g/11vs3gb8wb",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPOQ5dwdNWP1qpZrAA7SyxMJGhz4aTDBPWTqctm=w1920-h1080-k-no",
+      "authorName": "Maddileti Maddileti",
+      "authorUrl": "https://maps.google.com/maps/contrib/113739174650360190377",
+      "uploadedAt": "2024-05-13T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipPOQ5dwdNWP1qpZrAA7SyxMJGhz4aTDBPWTqctm=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "attractions",
+  "rank": 9,
+  "searchPageUrl": "https://www.google.com/maps/search/attractions/@16.285114650000004,77.81341308962392,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "Raman pad Dam",
+  "subTitle": "రమన్ పాడ్ డాం",
+  "description": null,
+  "price": null,
+  "categoryName": "Tourist attraction",
+  "address": "8RQV+HC, Ramanpadu, Telangana 509131, India",
+  "neighborhood": null,
+  "street": "8RQV+HC",
+  "city": "Ramanpadu",
+  "postalCode": null,
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": null,
+  "phoneUnformatted": null,
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 16.3389783,
+    "lng": 77.843595
+  },
+  "locatedIn": null,
+  "plusCode": null,
+  "menu": null,
+  "totalScore": 4.1,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJL_X97PD5yTsRyXVaNoCTHv0",
+  "categories": [
+    "Tourist attraction"
+  ],
+  "fid": "0x3bc9f9f0ecfdf52f:0xfd1e9380365a75c9",
+  "cid": "18239177719774082505",
+  "reviewsCount": 11,
+  "reviewsDistribution": {
+    "oneStar": 1,
+    "twoStar": 0,
+    "threeStar": 2,
+    "fourStar": 2,
+    "fiveStar": 6
+  },
+  "imagesCount": 63,
+  "imageCategories": [
+    "All",
+    "Street View & 360°",
+    "Videos"
+  ],
+  "scrapedAt": "2024-11-02T08:22:34.215Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Gundala reservoir",
+      "reviewsCount": 4,
+      "totalScore": 4.8
+    },
+    {
+      "category": "People also search for",
+      "title": "Jurala Dam View Point",
+      "reviewsCount": 95,
+      "totalScore": 4.5
+    },
+    {
+      "category": "People also search for",
+      "title": "ramalayam temple",
+      "reviewsCount": 1,
+      "totalScore": 1
+    },
+    {
+      "category": "People also search for",
+      "title": "Check Dam",
+      "reviewsCount": 5,
+      "totalScore": 4
+    }
+  ],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Children": [
+      {
+        "Good for kids": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=Raman%20pad%20Dam&query_place_id=ChIJL_X97PD5yTsRyXVaNoCTHv0",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipO8xuOM4pUJdGUUPpekZnDZwI_FA37DXLVjKzKC=w408-h306-k-no",
+  "kgmid": "/g/11rvlzmqpv",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipO8xuOM4pUJdGUUPpekZnDZwI_FA37DXLVjKzKC=w1920-h1080-k-no",
+      "authorName": "D Ramesh",
+      "authorUrl": "https://maps.google.com/maps/contrib/105334299454973386841",
+      "uploadedAt": "2023-09-10T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipO8xuOM4pUJdGUUPpekZnDZwI_FA37DXLVjKzKC=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "attractions",
+  "rank": 4,
+  "searchPageUrl": "https://www.google.com/maps/search/attractions/@16.285114650000004,77.81341308962392,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "ఆత్మకూరు పెద్ద చెరువు",
+  "subTitle": null,
+  "description": null,
+  "price": null,
+  "categoryName": "Tourist attraction",
+  "address": "8RW4+PHM, Atmakur, Telangana 509131, India",
+  "neighborhood": null,
+  "street": "8RW4+PHM",
+  "city": "Atmakur",
+  "postalCode": "509131",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": null,
+  "phoneUnformatted": null,
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 16.3468346,
+    "lng": 77.8064193
+  },
+  "locatedIn": null,
+  "plusCode": null,
+  "menu": null,
+  "totalScore": 3.7,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ9wuTcQD7yTsRTlt-PEllL44",
+  "categories": [
+    "Tourist attraction"
+  ],
+  "fid": "0x3bc9fb0071930bf7:0x8e2f65493c7e5b4e",
+  "cid": "10245519042513099598",
+  "reviewsCount": 3,
+  "reviewsDistribution": {
+    "oneStar": 1,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 2
+  },
+  "imagesCount": null,
+  "imageCategories": [],
+  "scrapedAt": "2024-11-02T08:22:34.785Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {},
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=%E0%B0%86%E0%B0%A4%E0%B1%8D%E0%B0%AE%E0%B0%95%E0%B1%82%E0%B0%B0%E0%B1%81%20%E0%B0%AA%E0%B1%86%E0%B0%A6%E0%B1%8D%E0%B0%A6%20%E0%B0%9A%E0%B1%86%E0%B0%B0%E0%B1%81%E0%B0%B5%E0%B1%81&query_place_id=ChIJ9wuTcQD7yTsRTlt-PEllL44",
+  "imageUrl": null,
+  "kgmid": "/g/11w9gl54_w",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [],
+  "imageUrls": [],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "attractions",
+  "rank": 7,
+  "searchPageUrl": "https://www.google.com/maps/search/attractions/@16.285114650000004,77.81341308962392,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "Sunrise point near Vivekananda memorial",
+  "subTitle": "సన్రైజ్ పాయింట్ నియర్ వివేకానంద మెమోరియల్",
+  "description": null,
+  "price": null,
+  "categoryName": "Tourist attraction",
+  "address": "9VH7+48, Thirumalaipalle, Telangana 509110, India",
+  "neighborhood": null,
+  "street": "9VH7+48",
+  "city": "Thirumalaipalle",
+  "postalCode": null,
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": null,
+  "phoneUnformatted": null,
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 16.3778636,
+    "lng": 77.8633489
+  },
+  "locatedIn": null,
+  "plusCode": null,
+  "menu": null,
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJH6H3t0f3yTsRPohCx9F4Tnw",
+  "categories": [
+    "Tourist attraction"
+  ],
+  "fid": "0x3bc9f747b7f7a11f:0x7c4e78d1c742883e",
+  "cid": "8957229551273019454",
+  "reviewsCount": 1,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 1
+  },
+  "imagesCount": 4,
+  "imageCategories": [
+    "All"
+  ],
+  "scrapedAt": "2024-11-02T08:22:38.496Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Ravi Reddy",
+      "reviewsCount": 0,
+      "totalScore": 0
+    },
+    {
+      "category": "People also search for",
+      "title": "Mini Tank Bund Suspension Bridge",
+      "reviewsCount": 12,
+      "totalScore": 4
+    },
+    {
+      "category": "People also search for",
+      "title": "Krishna River View Point, Krishna",
+      "reviewsCount": 16,
+      "totalScore": 4.4
+    }
+  ],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Children": [
+      {
+        "Good for kids": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=Sunrise%20point%20near%20Vivekananda%20memorial&query_place_id=ChIJH6H3t0f3yTsRPohCx9F4Tnw",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipP5dQ7tiQvnFKVSHkJlHeA-0-sTcNmUB7LXZjz2=w426-h240-k-no",
+  "kgmid": "/g/11sfrpm8hw",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipP5dQ7tiQvnFKVSHkJlHeA-0-sTcNmUB7LXZjz2=w1920-h1080-k-no",
+      "authorName": "priti kabra",
+      "authorUrl": "https://maps.google.com/maps/contrib/111361611767205180187",
+      "uploadedAt": "2021-11-17T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipP5dQ7tiQvnFKVSHkJlHeA-0-sTcNmUB7LXZjz2=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "attractions",
+  "rank": 1,
+  "searchPageUrl": "https://www.google.com/maps/search/attractions/@16.285114650000004,77.81341308962392,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "Mahatma Gandhi Statue",
+  "subTitle": null,
+  "description": null,
+  "price": null,
+  "categoryName": "Tourist attraction",
+  "address": "8RQ4+QHV, Amarchinta Rd, Atmakur, Telangana 509131, India",
+  "neighborhood": null,
+  "street": "8RQ4+QHV, Amarchinta Rd",
+  "city": "Atmakur",
+  "postalCode": "509131",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": null,
+  "phoneUnformatted": null,
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 16.339478,
+    "lng": 77.8064294
+  },
+  "locatedIn": null,
+  "plusCode": null,
+  "menu": null,
+  "totalScore": 4.1,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJy_jYzub7yTsR5IoJgqM08DM",
+  "categories": [
+    "Tourist attraction"
+  ],
+  "fid": "0x3bc9fbe6ced8f8cb:0x33f034a382098ae4",
+  "cid": "3742549167210859236",
+  "reviewsCount": 229,
+  "reviewsDistribution": {
+    "oneStar": 27,
+    "twoStar": 7,
+    "threeStar": 22,
+    "fourStar": 23,
+    "fiveStar": 150
+  },
+  "imagesCount": 3,
+  "imageCategories": [
+    "All",
+    "Latest",
+    "Videos"
+  ],
+  "scrapedAt": "2024-11-02T08:22:43.833Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "popularTimesLiveText": "Now: Usually a little busy",
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {
+    "Su": [
+      {
+        "hour": 4,
+        "occupancyPercent": 8
+      },
+      {
+        "hour": 5,
+        "occupancyPercent": 11
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 15
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 22
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 29
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 38
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 49
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 61
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 70
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 77
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 81
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 88
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 96
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 100
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 95
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 80
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 60
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 44
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 34
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 26
+      },
+      {
+        "hour": 0,
+        "occupancyPercent": 16
+      },
+      {
+        "hour": 1,
+        "occupancyPercent": 11
+      },
+      {
+        "hour": 2,
+        "occupancyPercent": 8
+      },
+      {
+        "hour": 3,
+        "occupancyPercent": 7
+      }
+    ],
+    "Mo": [
+      {
+        "hour": 4,
+        "occupancyPercent": 9
+      },
+      {
+        "hour": 5,
+        "occupancyPercent": 10
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 19
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 26
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 37
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 50
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 62
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 70
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 73
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 73
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 71
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 71
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 74
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 76
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 71
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 59
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 47
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 36
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 27
+      },
+      {
+        "hour": 0,
+        "occupancyPercent": 16
+      },
+      {
+        "hour": 1,
+        "occupancyPercent": 12
+      },
+      {
+        "hour": 2,
+        "occupancyPercent": 9
+      },
+      {
+        "hour": 3,
+        "occupancyPercent": 8
+      }
+    ],
+    "Tu": [
+      {
+        "hour": 4,
+        "occupancyPercent": 10
+      },
+      {
+        "hour": 5,
+        "occupancyPercent": 12
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 20
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 27
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 38
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 49
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 60
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 66
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 66
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 64
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 63
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 66
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 70
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 74
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 69
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 58
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 47
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 37
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 28
+      },
+      {
+        "hour": 0,
+        "occupancyPercent": 17
+      },
+      {
+        "hour": 1,
+        "occupancyPercent": 11
+      },
+      {
+        "hour": 2,
+        "occupancyPercent": 9
+      },
+      {
+        "hour": 3,
+        "occupancyPercent": 9
+      }
+    ],
+    "We": [
+      {
+        "hour": 4,
+        "occupancyPercent": 10
+      },
+      {
+        "hour": 5,
+        "occupancyPercent": 12
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 15
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 21
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 28
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 39
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 53
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 67
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 75
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 76
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 74
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 72
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 74
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 77
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 78
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 73
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 62
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 49
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 37
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 26
+      },
+      {
+        "hour": 0,
+        "occupancyPercent": 15
+      },
+      {
+        "hour": 1,
+        "occupancyPercent": 10
+      },
+      {
+        "hour": 2,
+        "occupancyPercent": 8
+      },
+      {
+        "hour": 3,
+        "occupancyPercent": 9
+      }
+    ],
+    "Th": [
+      {
+        "hour": 4,
+        "occupancyPercent": 9
+      },
+      {
+        "hour": 5,
+        "occupancyPercent": 11
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 15
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 20
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 27
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 37
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 50
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 63
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 71
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 73
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 71
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 69
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 70
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 73
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 74
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 71
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 60
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 47
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 36
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 27
+      },
+      {
+        "hour": 0,
+        "occupancyPercent": 16
+      },
+      {
+        "hour": 1,
+        "occupancyPercent": 11
+      },
+      {
+        "hour": 2,
+        "occupancyPercent": 8
+      },
+      {
+        "hour": 3,
+        "occupancyPercent": 8
+      }
+    ],
+    "Fr": [
+      {
+        "hour": 4,
+        "occupancyPercent": 9
+      },
+      {
+        "hour": 5,
+        "occupancyPercent": 11
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 13
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 19
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 26
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 36
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 46
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 58
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 66
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 69
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 69
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 68
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 70
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 74
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 75
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 69
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 57
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 45
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 36
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 27
+      },
+      {
+        "hour": 0,
+        "occupancyPercent": 16
+      },
+      {
+        "hour": 1,
+        "occupancyPercent": 11
+      },
+      {
+        "hour": 2,
+        "occupancyPercent": 9
+      },
+      {
+        "hour": 3,
+        "occupancyPercent": 8
+      }
+    ],
+    "Sa": [
+      {
+        "hour": 4,
+        "occupancyPercent": 9
+      },
+      {
+        "hour": 5,
+        "occupancyPercent": 11
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 15
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 20
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 28
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 39
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 50
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 61
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 68
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 69
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 67
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 66
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 68
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 72
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 74
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 71
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 59
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 48
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 36
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 28
+      },
+      {
+        "hour": 0,
+        "occupancyPercent": 16
+      },
+      {
+        "hour": 1,
+        "occupancyPercent": 11
+      },
+      {
+        "hour": 2,
+        "occupancyPercent": 8
+      },
+      {
+        "hour": 3,
+        "occupancyPercent": 8
+      }
+    ]
+  },
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Thursday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Friday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Saturday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Open 24 hours"
+    }
+  ],
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "MG garden",
+      "reviewsCount": 14,
+      "totalScore": 4.4
+    },
+    {
+      "category": "People also search for",
+      "title": "Mahatma Gandhi statue earladinne",
+      "reviewsCount": 0,
+      "totalScore": 0
+    },
+    {
+      "category": "People also search for",
+      "title": "Gandhi statue, Peddagudem",
+      "reviewsCount": 0,
+      "totalScore": 0
+    },
+    {
+      "category": "People also search for",
+      "title": "Mahatma Gandhi statue",
+      "reviewsCount": 0,
+      "totalScore": 0
+    },
+    {
+      "category": "People also search for",
+      "title": "Gandhi Statue",
+      "reviewsCount": 6,
+      "totalScore": 3.8
+    }
+  ],
+  "placesTags": [],
+  "reviewsTags": [
+    {
+      "title": "experience",
+      "count": 2
+    }
+  ],
+  "additionalInfo": {
+    "Children": [
+      {
+        "Good for kids": true
+      },
+      {
+        "Good for kids birthday": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=Mahatma%20Gandhi%20Statue&query_place_id=ChIJy_jYzub7yTsR5IoJgqM08DM",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPLlCOq1onr-2cvQk23GEVCfizclEcbnRi74J0B=w408-h725-k-no",
+  "kgmid": "/g/11qg3z8pw3",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPLlCOq1onr-2cvQk23GEVCfizclEcbnRi74J0B=w1920-h1080-k-no",
+      "authorName": "Ramakrishna Vakiti",
+      "authorUrl": "https://maps.google.com/maps/contrib/110249156528150867019",
+      "uploadedAt": "2022-10-05T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipPLlCOq1onr-2cvQk23GEVCfizclEcbnRi74J0B=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+}]

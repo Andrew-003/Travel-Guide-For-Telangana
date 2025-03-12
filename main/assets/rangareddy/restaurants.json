@@ -1,0 +1,2245 @@
+[{
+  "id": "26431098",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [],
+  "name": "Coalspark Restaurant",
+  "locationString": "Gachibowli, Ranga Reddy District, Telangana",
+  "description": "Fine Dine Multi Cuisine Restaurant",
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 96038 44449",
+  "address": "Anjaiah Nagar Opp. To Platina Mall, Gachibowli 500084 India",
+  "addressObj": {
+    "street1": "Anjaiah Nagar",
+    "street2": "Opp. To Platina Mall",
+    "city": "Gachibowli",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "500084"
+  },
+  "localName": "Coalspark Restaurant",
+  "localAddress": "Anjaiah Nagar, Opp. To Platina Mall, 500084",
+  "localLangCode": "en-IN",
+  "email": "coalsparkretsuranthyd@gmail.com",
+  "latitude": 17.449297,
+  "longitude": 78.36502,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g25347266-d26431098-Reviews-Coalspark_Restaurant-Gachibowli_Ranga_Reddy_District_Telangana.html",
+  "website": null,
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "25347266",
+      "name": "Gachibowli",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389602",
+      "name": "Ranga Reddy District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": "Open Now",
+  "priceLevel": null,
+  "dishes": [],
+  "hours": {
+    "weekRanges": [
+      [
+        {
+          "open": 690,
+          "openHours": "11:30",
+          "close": 1440,
+          "closeHours": "00:00"
+        }
+      ],
+      [
+        {
+          "open": 690,
+          "openHours": "11:30",
+          "close": 1440,
+          "closeHours": "00:00"
+        }
+      ],
+      [
+        {
+          "open": 690,
+          "openHours": "11:30",
+          "close": 1440,
+          "closeHours": "00:00"
+        }
+      ],
+      [
+        {
+          "open": 690,
+          "openHours": "11:30",
+          "close": 1440,
+          "closeHours": "00:00"
+        }
+      ],
+      [
+        {
+          "open": 690,
+          "openHours": "11:30",
+          "close": 1440,
+          "closeHours": "00:00"
+        }
+      ],
+      [
+        {
+          "open": 690,
+          "openHours": "11:30",
+          "close": 1440,
+          "closeHours": "00:00"
+        }
+      ],
+      [
+        {
+          "open": 690,
+          "openHours": "11:30",
+          "close": 1440,
+          "closeHours": "00:00"
+        }
+      ]
+    ],
+    "timezone": "Asia/Kolkata"
+  },
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": true,
+  "reviewTags": [],
+  "priceRange": null,
+  "photos": [],
+  "travelerChoiceAward": null,
+  "cuisines": [
+    "Chinese",
+    "Indian",
+    "Seafood",
+    "Barbecue",
+    "Arabic"
+  ],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [
+    "Delivery",
+    "Reservations",
+    "Buffet",
+    "Private Dining",
+    "Parking Available",
+    "Valet Parking",
+    "Television",
+    "Mastercard",
+    "Visa",
+    "Digital Payments",
+    "Free Wifi",
+    "Accepts Credit Cards",
+    "Non-smoking restaurants"
+  ],
+  "mealTypes": [
+    "Lunch",
+    "Dinner",
+    "Brunch"
+  ],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Ranga Reddy District,restaurants"
+},
+{
+  "reviewTags": [],
+  "id": "25240256",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [],
+  "name": "Flipside Restro",
+  "locationString": "Shamshabad, Ranga Reddy District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 83283 97775",
+  "address": "Flipside Restro, Shamshabad 501218 India",
+  "addressObj": {
+    "street1": "Flipside Restro",
+    "street2": null,
+    "city": "Shamshabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "501218"
+  },
+  "localName": "Flipside Restro",
+  "localAddress": "Flipside Restro, 501218",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.263653,
+  "longitude": 78.38662,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g19872156-d25240256-Reviews-Flipside_Restro-Shamshabad_Ranga_Reddy_District_Telangana.html",
+  "website": null,
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "19872156",
+      "name": "Shamshabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389602",
+      "name": "Ranga Reddy District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": "Open Now",
+  "priceLevel": null,
+  "dishes": [],
+  "hours": {
+    "weekRanges": [
+      [
+        {
+          "open": 660,
+          "openHours": "11:00",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ],
+      [
+        {
+          "open": 660,
+          "openHours": "11:00",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ],
+      [
+        {
+          "open": 660,
+          "openHours": "11:00",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ],
+      [
+        {
+          "open": 660,
+          "openHours": "11:00",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ],
+      [
+        {
+          "open": 660,
+          "openHours": "11:00",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ],
+      [
+        {
+          "open": 660,
+          "openHours": "11:00",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ],
+      [
+        {
+          "open": 660,
+          "openHours": "11:00",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ]
+    ],
+    "timezone": "Asia/Kolkata"
+  },
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": true,
+  "priceRange": null,
+  "photos": [],
+  "travelerChoiceAward": null,
+  "cuisines": [
+    "Italian",
+    "Chinese",
+    "Pizza",
+    "Cafe",
+    "Fast Food"
+  ],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [
+    "Lunch",
+    "Dinner"
+  ],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Ranga Reddy District,restaurants"
+},
+{
+  "reviewTags": [],
+  "id": "12913213",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [],
+  "name": "Master Chef",
+  "locationString": "Vikarabad, Vikarabad District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/14/14/e6/59/best-restaurant-in-vikarabad.jpg",
+  "photoCount": 3,
+  "rankingPosition": 3,
+  "rating": 5,
+  "rawRanking": 3.0207362174987793,
+  "phone": "+91 90005 11011",
+  "address": "Opposite District Central Library, Vikarabad 501101 India",
+  "addressObj": {
+    "street1": "Opposite District Central Library",
+    "street2": null,
+    "city": "Vikarabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "501101"
+  },
+  "localName": "Master Chef",
+  "localAddress": "Opposite District Central Library, 501101",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.33507,
+  "longitude": 77.90246,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g6550658-d12913213-Reviews-Master_Chef-Vikarabad_Vikarabad_District_Telangana.html",
+  "website": "https://www.facebook.com/masterchefgoulikars/",
+  "rankingString": "#3 of 16 Restaurants in Vikarabad",
+  "rankingDenominator": "16",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "6550658",
+      "name": "Vikarabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389616",
+      "name": "Vikarabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 2
+  },
+  "numberOfReviews": 2,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": "Open Now",
+  "priceLevel": null,
+  "dishes": [
+    "Biryani"
+  ],
+  "hours": {
+    "weekRanges": [
+      [
+        {
+          "open": 300,
+          "openHours": "05:00",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ],
+      [
+        {
+          "open": 300,
+          "openHours": "05:00",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ],
+      [
+        {
+          "open": 300,
+          "openHours": "05:00",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ],
+      [
+        {
+          "open": 300,
+          "openHours": "05:00",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ],
+      [
+        {
+          "open": 300,
+          "openHours": "05:00",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ],
+      [
+        {
+          "open": 300,
+          "openHours": "05:00",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ],
+      [
+        {
+          "open": 300,
+          "openHours": "05:00",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ]
+    ],
+    "timezone": "Asia/Kolkata"
+  },
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": true,
+  "priceRange": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/14/14/e6/59/best-restaurant-in-vikarabad.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/15/ff/dd/fa/rathnakar-goulikar-proprietor.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/14/14/e7/1c/master-chef.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/ff/dd/fa/rathnakar-goulikar-proprietor.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/14/e7/1c/master-chef.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/14/e6/59/best-restaurant-in-vikarabad.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "cuisines": [
+    "Indian"
+  ],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [
+    "Breakfast",
+    "Lunch",
+    "Dinner"
+  ],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Ranga Reddy District,restaurants"
+},
+{
+  "id": "24905214",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [],
+  "name": "Aroma Dish",
+  "locationString": "Vikarabad, Vikarabad District, Telangana",
+  "description": "Best place to have a continental, Italian, pizza, burger, sandwiches and many more.",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/27/a0/e0/5f/aroma-dish.jpg",
+  "photoCount": 10,
+  "rankingPosition": 2,
+  "rating": 5,
+  "rawRanking": 3.0361850261688232,
+  "phone": null,
+  "address": "Vikarabad Rd, Vikarabad 501101 India",
+  "addressObj": {
+    "street1": "Vikarabad Rd",
+    "street2": null,
+    "city": "Vikarabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "501101"
+  },
+  "localName": "Aroma Dish",
+  "localAddress": "Vikarabad Rd, 501101",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.329678,
+  "longitude": 77.92097,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g6550658-d24905214-Reviews-Aroma_Dish-Vikarabad_Vikarabad_District_Telangana.html",
+  "website": null,
+  "rankingString": "#2 of 16 Restaurants in Vikarabad",
+  "rankingDenominator": "16",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "6550658",
+      "name": "Vikarabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389616",
+      "name": "Vikarabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 1
+  },
+  "numberOfReviews": 1,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": "Open Now",
+  "priceLevel": null,
+  "dishes": [],
+  "hours": {
+    "weekRanges": [
+      [
+        {
+          "open": 660,
+          "openHours": "11:00",
+          "close": 1320,
+          "closeHours": "22:00"
+        }
+      ],
+      [
+        {
+          "open": 660,
+          "openHours": "11:00",
+          "close": 1320,
+          "closeHours": "22:00"
+        }
+      ],
+      [
+        {
+          "open": 660,
+          "openHours": "11:00",
+          "close": 1320,
+          "closeHours": "22:00"
+        }
+      ],
+      [
+        {
+          "open": 660,
+          "openHours": "11:00",
+          "close": 1320,
+          "closeHours": "22:00"
+        }
+      ],
+      [
+        {
+          "open": 660,
+          "openHours": "11:00",
+          "close": 1320,
+          "closeHours": "22:00"
+        }
+      ],
+      [
+        {
+          "open": 660,
+          "openHours": "11:00",
+          "close": 1320,
+          "closeHours": "22:00"
+        }
+      ],
+      [
+        {
+          "open": 660,
+          "openHours": "11:00",
+          "close": 1320,
+          "closeHours": "22:00"
+        }
+      ]
+    ],
+    "timezone": "Asia/Kolkata"
+  },
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": true,
+  "reviewTags": [],
+  "priceRange": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/25/57/4b/07/ras-malai-cake.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/27/a0/e0/a1/aroma-dish.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/27/a0/e0/9c/aroma-dish.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/27/a0/e0/5f/aroma-dish.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/27/a0/e0/44/aroma-dish.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/27/a0/e0/42/aroma-dish.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/a0/e0/5f/aroma-dish.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/a0/e0/9c/aroma-dish.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/a0/e0/3b/aroma-dish.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/a0/e0/44/aroma-dish.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/a0/e0/42/aroma-dish.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/a0/e0/a1/aroma-dish.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/a0/e0/40/aroma-dish.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "cuisines": [
+    "Italian",
+    "Chinese",
+    "Indian",
+    "Cafe"
+  ],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [
+    "Lunch",
+    "Dinner"
+  ],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Ranga Reddy District,restaurants"
+},
+{
+  "id": "13186744",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [],
+  "name": "The Grand Zaayeqa Restaurant",
+  "locationString": "Shamshabad, Ranga Reddy District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/11/82/34/b2/the-colour-coordinated.jpg",
+  "photoCount": 10,
+  "rankingPosition": 1,
+  "rating": 3.5,
+  "rawRanking": 2.987837553024292,
+  "phone": "+91 77299 92786",
+  "address": "11-2/4 and 11-2/5,Opposite Trident Hospital Hotel Hyderabad Grand, Shamshabad 501218 India",
+  "addressObj": {
+    "street1": "11-2/4 and 11-2/5,Opposite Trident Hospital",
+    "street2": "Hotel Hyderabad Grand",
+    "city": "Shamshabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "501218"
+  },
+  "localName": "The Grand Zaayeqa Restaurant",
+  "localAddress": "11-2/4 and 11-2/5,Opposite Trident Hospital, Hotel Hyderabad Grand, 501218",
+  "localLangCode": "en-IN",
+  "email": "reservations@hotelhyderabadgrand.com",
+  "latitude": 17.25885,
+  "longitude": 78.383865,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g19872156-d13186744-Reviews-The_Grand_Zaayeqa_Restaurant-Shamshabad_Ranga_Reddy_District_Telangana.html",
+  "website": "http://www.hotelhyderabadgrand.com/restaurant/restaurant.html",
+  "rankingString": "#1 of 8 Restaurants in Shamshabad",
+  "rankingDenominator": "8",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "19872156",
+      "name": "Shamshabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389602",
+      "name": "Ranga Reddy District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 1,
+    "count2": 0,
+    "count3": 0,
+    "count4": 3,
+    "count5": 0
+  },
+  "numberOfReviews": 4,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": "Open Now",
+  "priceLevel": null,
+  "dishes": [],
+  "hours": {
+    "weekRanges": [
+      [
+        {
+          "open": 420,
+          "openHours": "07:00",
+          "close": 1440,
+          "closeHours": "00:00"
+        }
+      ],
+      [
+        {
+          "open": 420,
+          "openHours": "07:00",
+          "close": 1440,
+          "closeHours": "00:00"
+        }
+      ],
+      [
+        {
+          "open": 420,
+          "openHours": "07:00",
+          "close": 1440,
+          "closeHours": "00:00"
+        }
+      ],
+      [
+        {
+          "open": 420,
+          "openHours": "07:00",
+          "close": 1440,
+          "closeHours": "00:00"
+        }
+      ],
+      [
+        {
+          "open": 420,
+          "openHours": "07:00",
+          "close": 1440,
+          "closeHours": "00:00"
+        }
+      ],
+      [
+        {
+          "open": 420,
+          "openHours": "07:00",
+          "close": 1440,
+          "closeHours": "00:00"
+        }
+      ],
+      [
+        {
+          "open": 420,
+          "openHours": "07:00",
+          "close": 1440,
+          "closeHours": "00:00"
+        }
+      ]
+    ],
+    "timezone": "Asia/Kolkata"
+  },
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": true,
+  "reviewTags": [],
+  "priceRange": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/82/34/a7/dark-colours-with-impressive.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/82/34/b2/the-colour-coordinated.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/25/32/85/60/hotel-hyderabad-grand.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/19/93/18/cb/the-front-side.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/19/93/18/c5/the-front-side.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/82/34/d4/our-final-order-coffee.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/82/34/c2/portions-of-the-menu.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/82/34/b6/advertisement-on-the.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/82/34/ad/dark-colours-with-impressive.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/82/34/a3/dark-colours-with-impressive.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/93/18/c5/the-front-side.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/93/18/cb/the-front-side.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/82/34/a3/dark-colours-with-impressive.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/82/34/a7/dark-colours-with-impressive.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/82/34/ad/dark-colours-with-impressive.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/82/34/b2/the-colour-coordinated.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/82/34/b6/advertisement-on-the.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/82/34/c2/portions-of-the-menu.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/82/34/d4/our-final-order-coffee.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/32/85/60/hotel-hyderabad-grand.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "cuisines": [],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [
+    "Breakfast",
+    "Lunch",
+    "Dinner"
+  ],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Ranga Reddy District,restaurants"
+},
+{
+  "reviewTags": [],
+  "id": "27663719",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [],
+  "name": "Zeeshan Restaurant Vikarabad",
+  "locationString": "Vikarabad, Vikarabad District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 91540 11110",
+  "address": "Ntr X Roadn, Vikarabad 501102 India",
+  "addressObj": {
+    "street1": "Ntr X Roadn",
+    "street2": null,
+    "city": "Vikarabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "501102"
+  },
+  "localName": "Zeeshan Restaurant Vikarabad",
+  "localAddress": "Ntr X Roadn, 501102",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.335493,
+  "longitude": 77.90286,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g6550658-d27663719-Reviews-Zeeshan_Restaurant_Vikarabad-Vikarabad_Vikarabad_District_Telangana.html",
+  "website": null,
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "6550658",
+      "name": "Vikarabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389616",
+      "name": "Vikarabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": null,
+  "priceLevel": null,
+  "dishes": [],
+  "hours": null,
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": true,
+  "priceRange": null,
+  "photos": [],
+  "travelerChoiceAward": null,
+  "cuisines": [],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Ranga Reddy District,restaurants"
+},
+{
+  "reviewTags": [],
+  "id": "25344488",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [],
+  "name": "Palle Vindu",
+  "locationString": "Gachibowli, Ranga Reddy District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/28/5f/0f/9a/caption.jpg",
+  "photoCount": 12,
+  "rankingPosition": 1,
+  "rating": 3.5,
+  "rawRanking": 3.0143892765045166,
+  "phone": "+91 77999 97883",
+  "address": "Plot No.:25, Gachibowli 500032 India",
+  "addressObj": {
+    "street1": "Plot No.:25",
+    "street2": null,
+    "city": "Gachibowli",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "500032"
+  },
+  "localName": "Palle Vindu",
+  "localAddress": "Plot No.:25, 500032",
+  "localLangCode": "en-IN",
+  "email": "orders@pallevindu.in",
+  "latitude": 17.447243,
+  "longitude": 78.36176,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g25347266-d25344488-Reviews-Palle_Vindu-Gachibowli_Ranga_Reddy_District_Telangana.html",
+  "website": "http://www.pallevindu.in/",
+  "rankingString": "#1 of 7 Restaurants in Gachibowli",
+  "rankingDenominator": "7",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "25347266",
+      "name": "Gachibowli",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389602",
+      "name": "Ranga Reddy District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 1,
+    "count2": 0,
+    "count3": 1,
+    "count4": 1,
+    "count5": 1
+  },
+  "numberOfReviews": 4,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": null,
+  "priceLevel": null,
+  "dishes": [],
+  "hours": null,
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": true,
+  "priceRange": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/5f/0f/9a/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/5f/0f/a0/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/5f/0f/9f/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/5f/0f/9e/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/5f/0f/9d/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/5f/0f/9c/caption.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/5f/0f/a0/caption.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/5f/0f/9f/caption.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/5f/0f/9e/caption.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/5f/0f/9d/caption.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/5f/0f/9c/caption.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/5f/0f/9b/caption.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/5f/0f/9a/caption.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/5f/0f/99/caption.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/5f/0f/98/caption.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/5f/0f/97/caption.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/5f/0f/96/caption.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/5f/0f/95/caption.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "cuisines": [
+    "Indian"
+  ],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [
+    "Delivery",
+    "Seating",
+    "Street Parking",
+    "Cash Only",
+    "Accepts Credit Cards"
+  ],
+  "mealTypes": [
+    "Lunch",
+    "Dinner"
+  ],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Ranga Reddy District,restaurants"
+},
+{
+  "reviewTags": [],
+  "id": "27567993",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [],
+  "name": "Ustad Kababs & Wraps",
+  "locationString": "Shamshabad, Ranga Reddy District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": null,
+  "address": "Barkas Road, Shamshabad 500005 India",
+  "addressObj": {
+    "street1": "Barkas Road",
+    "street2": null,
+    "city": "Shamshabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "500005"
+  },
+  "localName": "Ustad Kababs & Wraps",
+  "localAddress": "Barkas Road, 500005",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.31314,
+  "longitude": 78.47785,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g19872156-d27567993-Reviews-Ustad_Kababs_Wraps-Shamshabad_Ranga_Reddy_District_Telangana.html",
+  "website": null,
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "19872156",
+      "name": "Shamshabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389602",
+      "name": "Ranga Reddy District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": null,
+  "priceLevel": null,
+  "dishes": [],
+  "hours": null,
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": true,
+  "priceRange": null,
+  "photos": [],
+  "travelerChoiceAward": null,
+  "cuisines": [],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Ranga Reddy District,restaurants"
+},
+{
+  "id": "25420306",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [
+    "Sit down"
+  ],
+  "name": "Fusionista Seafood Kitchen and Bar",
+  "locationString": "Gachibowli, Ranga Reddy District, Telangana",
+  "description": "Bringing global influence, decades of experience, and an incredible sense of creativity and originality to one of Hyderabad, Telangana's first complete global fusion seafood restaurant, the Fusionista Chefs emphasize excellence in every meal they create. Our signature seafood dishes are developed by Master Chef Arun Kumar, who is inviting you for a special seafood dining experience with fresh catch seafoods prepared with locally selected and other countries ingredients.",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/28/bc/cc/76/ambience.jpg",
+  "photoCount": 8,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 70324 20369",
+  "address": "Plot No. 19, 4th Floor, Time Square Building Vinayak Nagar, Hyderabd, Gachibowli 500032 India",
+  "addressObj": {
+    "street1": "Plot No. 19, 4th Floor, Time Square Building",
+    "street2": "Vinayak Nagar, Hyderabd",
+    "city": "Gachibowli",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "500032"
+  },
+  "localName": "Fusionista Seafood Kitchen and Bar",
+  "localAddress": "Plot No. 19, 4th Floor, Time Square Building, Vinayak Nagar, Hyderabd, 500032",
+  "localLangCode": "en-IN",
+  "email": "fusionista.gachibowli@gmail.com",
+  "latitude": 17.447392,
+  "longitude": 78.34642,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g25347266-d25420306-Reviews-Fusionista_Seafood_Kitchen_and_Bar-Gachibowli_Ranga_Reddy_District_Telangana.html",
+  "website": "http://www.fusionistarestaurants.com",
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "25347266",
+      "name": "Gachibowli",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389602",
+      "name": "Ranga Reddy District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": "Open Now",
+  "priceLevel": "$$ - $$$",
+  "dishes": [],
+  "hours": {
+    "weekRanges": [
+      [
+        {
+          "open": 690,
+          "openHours": "11:30",
+          "close": 1470,
+          "closeHours": "00:30"
+        }
+      ],
+      [
+        {
+          "open": 690,
+          "openHours": "11:30",
+          "close": 1410,
+          "closeHours": "23:30"
+        }
+      ],
+      [
+        {
+          "open": 690,
+          "openHours": "11:30",
+          "close": 1410,
+          "closeHours": "23:30"
+        }
+      ],
+      [
+        {
+          "open": 690,
+          "openHours": "11:30",
+          "close": 1410,
+          "closeHours": "23:30"
+        }
+      ],
+      [
+        {
+          "open": 690,
+          "openHours": "11:30",
+          "close": 1410,
+          "closeHours": "23:30"
+        }
+      ],
+      [
+        {
+          "open": 690,
+          "openHours": "11:30",
+          "close": 1410,
+          "closeHours": "23:30"
+        }
+      ],
+      [
+        {
+          "open": 690,
+          "openHours": "11:30",
+          "close": 1440,
+          "closeHours": "00:00"
+        }
+      ]
+    ],
+    "timezone": "Asia/Kolkata"
+  },
+  "menuWebUrl": "https://www.instagram.com/s/aGlnaGxpZ2h0OjE4MzQ4MTQzNzkxMDU2MjIw?story_media_id=3058500508307413145_58623247245&igshid=MDJmNzVkMjY=",
+  "ownersTopReasons": null,
+  "isNearbyResult": true,
+  "reviewTags": [],
+  "priceRange": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/bc/cc/76/ambience.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/bc/cc/78/ambience.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/bc/cc/77/ambience.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/bc/cc/75/ambience.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/bc/cc/74/ambience.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/bc/cc/73/ambience.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/bc/cc/72/ambience.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/bc/c7/a2/hyderabad-s-first-complete.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "cuisines": [
+    "Seafood",
+    "Spanish",
+    "Fusion",
+    "Wine Bar",
+    "Soups"
+  ],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [
+    "Takeout",
+    "Reservations",
+    "Outdoor Seating",
+    "Private Dining",
+    "Seating",
+    "Parking Available",
+    "Street Parking",
+    "Valet Parking",
+    "Serves Alcohol",
+    "Full Bar",
+    "Wine and Beer",
+    "Mastercard",
+    "Visa",
+    "Digital Payments",
+    "Free Wifi",
+    "Accepts Credit Cards",
+    "Non-smoking restaurants"
+  ],
+  "mealTypes": [
+    "Lunch",
+    "Dinner",
+    "Brunch",
+    "Drinks"
+  ],
+  "isClaimedIcon": true,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Ranga Reddy District,restaurants"
+},
+{
+  "reviewTags": [],
+  "id": "26785531",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [],
+  "name": "Box9",
+  "locationString": "Gachibowli, Ranga Reddy District, Telangana",
+  "description": "Burger Restaurant",
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 97771 94449",
+  "address": "Dlf Near Gate 3 Dlf Road, Gachibowli 500032 India",
+  "addressObj": {
+    "street1": "Dlf Near Gate 3",
+    "street2": "Dlf Road",
+    "city": "Gachibowli",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "500032"
+  },
+  "localName": "Box9",
+  "localAddress": "Dlf Near Gate 3, Dlf Road, 500032",
+  "localLangCode": "en-IN",
+  "email": "boxnineindia@gmail.com",
+  "latitude": 17.43535,
+  "longitude": 78.3335,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g25347266-d26785531-Reviews-Box9-Gachibowli_Ranga_Reddy_District_Telangana.html",
+  "website": "http://box9burgernine.com",
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "25347266",
+      "name": "Gachibowli",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389602",
+      "name": "Ranga Reddy District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": "Open Now",
+  "priceLevel": null,
+  "dishes": [],
+  "hours": {
+    "weekRanges": [
+      [
+        {
+          "open": 0,
+          "openHours": "00:00",
+          "close": 1439,
+          "closeHours": "23:59"
+        }
+      ],
+      [
+        {
+          "open": 0,
+          "openHours": "00:00",
+          "close": 1439,
+          "closeHours": "23:59"
+        }
+      ],
+      [
+        {
+          "open": 0,
+          "openHours": "00:00",
+          "close": 1439,
+          "closeHours": "23:59"
+        }
+      ],
+      [
+        {
+          "open": 0,
+          "openHours": "00:00",
+          "close": 1439,
+          "closeHours": "23:59"
+        }
+      ],
+      [
+        {
+          "open": 0,
+          "openHours": "00:00",
+          "close": 1439,
+          "closeHours": "23:59"
+        }
+      ],
+      [
+        {
+          "open": 0,
+          "openHours": "00:00",
+          "close": 1439,
+          "closeHours": "23:59"
+        }
+      ],
+      [
+        {
+          "open": 0,
+          "openHours": "00:00",
+          "close": 1439,
+          "closeHours": "23:59"
+        }
+      ]
+    ],
+    "timezone": "Asia/Kolkata"
+  },
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": true,
+  "priceRange": null,
+  "photos": [],
+  "travelerChoiceAward": null,
+  "cuisines": [
+    "American",
+    "Fast Food",
+    "Grill"
+  ],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [
+    "Delivery",
+    "Takeout",
+    "Seating",
+    "Parking Available",
+    "Street Parking",
+    "Digital Payments",
+    "Free Wifi",
+    "Accepts Credit Cards",
+    "Drive Thru"
+  ],
+  "mealTypes": [
+    "Breakfast",
+    "Lunch",
+    "Dinner",
+    "Late Night"
+  ],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Ranga Reddy District,restaurants"
+},
+{
+  "reviewTags": [],
+  "id": "11823992",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [],
+  "name": "Chippy Mess",
+  "locationString": "Vikarabad, Vikarabad District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": 4,
+  "rating": 5,
+  "rawRanking": 3.016556978225708,
+  "phone": null,
+  "address": "Railway Station Road Opposite Mallikarjuna Temple, Vikarabad 501101 India",
+  "addressObj": {
+    "street1": "Railway Station Road",
+    "street2": "Opposite Mallikarjuna Temple",
+    "city": "Vikarabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "501101"
+  },
+  "localName": "Chippy Mess",
+  "localAddress": "Railway Station Road, Opposite Mallikarjuna Temple, 501101",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.33747,
+  "longitude": 77.90681,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g6550658-d11823992-Reviews-Chippy_Mess-Vikarabad_Vikarabad_District_Telangana.html",
+  "website": null,
+  "rankingString": "#4 of 16 Restaurants in Vikarabad",
+  "rankingDenominator": "16",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "6550658",
+      "name": "Vikarabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389616",
+      "name": "Vikarabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 1
+  },
+  "numberOfReviews": 1,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": null,
+  "priceLevel": null,
+  "dishes": [],
+  "hours": null,
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": true,
+  "priceRange": null,
+  "photos": [],
+  "travelerChoiceAward": null,
+  "cuisines": [
+    "Indian"
+  ],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Ranga Reddy District,restaurants"
+},
+{
+  "reviewTags": [],
+  "id": "25320830",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [],
+  "name": "Encalm Lounge- Domestic Departures RGIA",
+  "locationString": "Shamshabad, Ranga Reddy District, Telangana",
+  "description": "The domestic lounge has a seating capacity of 195 and is spread over a floor space of 8332 sq ft. The lounge has features like Lounge Bay, Live Stations, and Dining Area and bar. Travelers can enjoy a buffet and ample seating arrangements for work and rest.",
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 11 4965 4232",
+  "address": "Mezzanine level T1D Departures, IGI Airport, Shamshabad 110037 India",
+  "addressObj": {
+    "street1": "Mezzanine level",
+    "street2": "T1D Departures, IGI Airport",
+    "city": "Shamshabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "110037"
+  },
+  "localName": "Encalm Lounge- Domestic Departures Rgia",
+  "localAddress": "Mezzanine level, T1D Departures, IGI Airport, 110037",
+  "localLangCode": "en-IN",
+  "email": "t1d.lounge@encalm.com",
+  "latitude": 17.422937,
+  "longitude": 78.57347,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g19872156-d25320830-Reviews-Encalm_Lounge_Domestic_Departures_RGIA-Shamshabad_Ranga_Reddy_District_Telanga.html",
+  "website": "https://encalm.com/services/encalmlounge",
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "19872156",
+      "name": "Shamshabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389602",
+      "name": "Ranga Reddy District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": "Open Now",
+  "priceLevel": null,
+  "dishes": [],
+  "hours": {
+    "weekRanges": [
+      [
+        {
+          "open": 0,
+          "openHours": "00:00",
+          "close": 1439,
+          "closeHours": "23:59"
+        }
+      ],
+      [
+        {
+          "open": 0,
+          "openHours": "00:00",
+          "close": 1439,
+          "closeHours": "23:59"
+        }
+      ],
+      [
+        {
+          "open": 0,
+          "openHours": "00:00",
+          "close": 1439,
+          "closeHours": "23:59"
+        }
+      ],
+      [
+        {
+          "open": 0,
+          "openHours": "00:00",
+          "close": 1439,
+          "closeHours": "23:59"
+        }
+      ],
+      [
+        {
+          "open": 0,
+          "openHours": "00:00",
+          "close": 1439,
+          "closeHours": "23:59"
+        }
+      ],
+      [
+        {
+          "open": 0,
+          "openHours": "00:00",
+          "close": 1439,
+          "closeHours": "23:59"
+        }
+      ],
+      [
+        {
+          "open": 0,
+          "openHours": "00:00",
+          "close": 1439,
+          "closeHours": "23:59"
+        }
+      ]
+    ],
+    "timezone": "Asia/Kolkata"
+  },
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": true,
+  "priceRange": null,
+  "photos": [],
+  "travelerChoiceAward": null,
+  "cuisines": [
+    "Indian",
+    "European",
+    "Asian"
+  ],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [
+    "Buffet",
+    "Seating",
+    "Wheelchair Accessible",
+    "Wine and Beer",
+    "Mastercard",
+    "Visa",
+    "Digital Payments",
+    "Free Wifi",
+    "Accepts Credit Cards",
+    "Non-smoking restaurants"
+  ],
+  "mealTypes": [
+    "Breakfast",
+    "Lunch",
+    "Dinner",
+    "Drinks"
+  ],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Ranga Reddy District,restaurants"
+},
+{
+  "id": "27839918",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [],
+  "name": "Taste Of Vikarabad (tov)",
+  "locationString": "Vikarabad, Vikarabad District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 79819 94391",
+  "address": "8q6w+qwx, Dharur, Vikarabad - Tandur Rd, Haridaspalle, Telangana 501121, Vikarabad 501121 India",
+  "addressObj": {
+    "street1": "8q6w+qwx, Dharur, Vikarabad - Tandur Rd, Haridaspalle, Telangana 501121",
+    "street2": null,
+    "city": "Vikarabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "501121"
+  },
+  "localName": "Taste Of Vikarabad (tov)",
+  "localAddress": "8q6w+qwx, Dharur, Vikarabad - Tandur Rd, Haridaspalle, Telangana 501121, 501121",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.32663,
+  "longitude": 77.90212,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g6550658-d27839918-Reviews-Taste_Of_Vikarabad_tov-Vikarabad_Vikarabad_District_Telangana.html",
+  "website": "https://tasteofvikarabad.com/",
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "6550658",
+      "name": "Vikarabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389616",
+      "name": "Vikarabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": "Open Now",
+  "priceLevel": null,
+  "dishes": [],
+  "hours": {
+    "weekRanges": [
+      [
+        {
+          "open": 720,
+          "openHours": "12:00",
+          "close": 1350,
+          "closeHours": "22:30"
+        }
+      ],
+      [
+        {
+          "open": 720,
+          "openHours": "12:00",
+          "close": 1350,
+          "closeHours": "22:30"
+        }
+      ],
+      [
+        {
+          "open": 720,
+          "openHours": "12:00",
+          "close": 1350,
+          "closeHours": "22:30"
+        }
+      ],
+      [
+        {
+          "open": 720,
+          "openHours": "12:00",
+          "close": 1350,
+          "closeHours": "22:30"
+        }
+      ],
+      [
+        {
+          "open": 720,
+          "openHours": "12:00",
+          "close": 1350,
+          "closeHours": "22:30"
+        }
+      ],
+      [
+        {
+          "open": 720,
+          "openHours": "12:00",
+          "close": 1350,
+          "closeHours": "22:30"
+        }
+      ],
+      [
+        {
+          "open": 720,
+          "openHours": "12:00",
+          "close": 1350,
+          "closeHours": "22:30"
+        }
+      ]
+    ],
+    "timezone": "Asia/Kolkata"
+  },
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": true,
+  "reviewTags": [],
+  "priceRange": null,
+  "photos": [],
+  "travelerChoiceAward": null,
+  "cuisines": [
+    "Indian"
+  ],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [
+    "Lunch",
+    "Dinner"
+  ],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Ranga Reddy District,restaurants"
+},
+{
+  "reviewTags": [],
+  "id": "27568037",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [],
+  "name": "California Burrito",
+  "locationString": "Shamshabad, Ranga Reddy District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": "+91 93806 55253",
+  "address": "Shamshabad, Hyderabad, Telangana 500409, Shamshabad 500409 India",
+  "addressObj": {
+    "street1": "Shamshabad, Hyderabad, Telangana 500409",
+    "street2": null,
+    "city": "Shamshabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "500409"
+  },
+  "localName": "California Burrito",
+  "localAddress": "Shamshabad, Hyderabad, Telangana 500409, 500409",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.236927,
+  "longitude": 78.42929,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g19872156-d27568037-Reviews-California_Burrito-Shamshabad_Ranga_Reddy_District_Telangana.html",
+  "website": null,
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "19872156",
+      "name": "Shamshabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389602",
+      "name": "Ranga Reddy District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": null,
+  "priceLevel": null,
+  "dishes": [],
+  "hours": null,
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": true,
+  "priceRange": null,
+  "photos": [],
+  "travelerChoiceAward": null,
+  "cuisines": [
+    "Mexican"
+  ],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Ranga Reddy District,restaurants"
+},
+{
+  "reviewTags": [],
+  "id": "27148580",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [],
+  "name": "Ananthagiri Ruchulu",
+  "locationString": "Vikarabad, Vikarabad District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/2b/a8/c8/07/caption.jpg",
+  "photoCount": 5,
+  "rankingPosition": 1,
+  "rating": 4.5,
+  "rawRanking": 3.095376968383789,
+  "phone": "+91 94949 12356",
+  "address": "Above Reliance Smart point . Hyderabad road vikara, Vikarabad 501101 India",
+  "addressObj": {
+    "street1": "Above Reliance Smart point . Hyderabad road vikara",
+    "street2": null,
+    "city": "Vikarabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "501101"
+  },
+  "localName": "Ananthagiri Ruchulu",
+  "localAddress": "Above Reliance Smart point . Hyderabad road vikara, 501101",
+  "localLangCode": "en-IN",
+  "email": "aananthagiriruchulu@gmail.com",
+  "latitude": 17.333881,
+  "longitude": 77.90521,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g6550658-d27148580-Reviews-Ananthagiri_Ruchulu-Vikarabad_Vikarabad_District_Telangana.html",
+  "website": null,
+  "rankingString": "#1 of 16 Restaurants in Vikarabad",
+  "rankingDenominator": "16",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "6550658",
+      "name": "Vikarabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389616",
+      "name": "Vikarabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 1,
+    "count5": 2
+  },
+  "numberOfReviews": 3,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": "Open Now",
+  "priceLevel": null,
+  "dishes": [],
+  "hours": {
+    "weekRanges": [
+      [
+        {
+          "open": 720,
+          "openHours": "12:00",
+          "close": 1410,
+          "closeHours": "23:30"
+        }
+      ],
+      [
+        {
+          "open": 720,
+          "openHours": "12:00",
+          "close": 1410,
+          "closeHours": "23:30"
+        }
+      ],
+      [
+        {
+          "open": 720,
+          "openHours": "12:00",
+          "close": 1410,
+          "closeHours": "23:30"
+        }
+      ],
+      [
+        {
+          "open": 720,
+          "openHours": "12:00",
+          "close": 1410,
+          "closeHours": "23:30"
+        }
+      ],
+      [
+        {
+          "open": 720,
+          "openHours": "12:00",
+          "close": 1410,
+          "closeHours": "23:30"
+        }
+      ],
+      [
+        {
+          "open": 720,
+          "openHours": "12:00",
+          "close": 1410,
+          "closeHours": "23:30"
+        }
+      ],
+      [
+        {
+          "open": 720,
+          "openHours": "12:00",
+          "close": 1410,
+          "closeHours": "23:30"
+        }
+      ]
+    ],
+    "timezone": "Asia/Kolkata"
+  },
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": true,
+  "priceRange": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/a8/c8/07/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/31/79/7a/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/a9/c7/14/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/a9/c7/12/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/a8/c8/06/caption.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/31/79/7a/caption.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/a9/c7/12/caption.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/a9/c7/14/caption.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/a8/c8/07/caption.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/a8/c8/06/caption.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "cuisines": [
+    "Mexican",
+    "Chinese",
+    "Indian",
+    "Pizza",
+    "Cafe"
+  ],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [
+    "Lunch",
+    "Dinner",
+    "Brunch",
+    "Drinks"
+  ],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Ranga Reddy District,restaurants"
+}]

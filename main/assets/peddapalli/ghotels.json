@@ -1,0 +1,1681 @@
+[{
+  "searchString": "hotels",
+  "rank": 21,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@18.6532136136562,79.26674391380365,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "Mogili Hotel",
+  "subTitle": "మొగిలి హోటల్",
+  "description": null,
+  "price": null,
+  "categoryName": "Restaurant",
+  "address": "Turkalamaddikunta, 5-2, near Grampanchayath, Peddapalli, Telangana 505172, India",
+  "neighborhood": null,
+  "street": "Turkalamaddikunta, 5-2, near Grampanchayath",
+  "city": "Peddapalli, Turkalamaddi Kunta",
+  "postalCode": "505172",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": "+91 99495 75120",
+  "phoneUnformatted": "+919949575120",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 18.639411,
+    "lng": 79.3252971
+  },
+  "locatedIn": null,
+  "plusCode": "J8QG+Q4 Peddapalli, Telangana, India",
+  "menu": null,
+  "totalScore": null,
+  "permanentlyClosed": false,
+  "temporarilyClosed": true,
+  "placeId": "ChIJicU7bvstzTsRK8RYCirtels",
+  "categories": [
+    "Restaurant"
+  ],
+  "fid": "0x3bcd2dfb6e3bc589:0x5b7aed2a0a58c42b",
+  "cid": "6591841769428141099",
+  "reviewsCount": 0,
+  "reviewsDistribution": null,
+  "imagesCount": null,
+  "imageCategories": [],
+  "scrapedAt": "2024-11-02T06:27:31.879Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Ramesh Hotel",
+      "reviewsCount": 4,
+      "totalScore": 4.8
+    },
+    {
+      "category": "People also search for",
+      "title": "Yellama Thalli Hotel",
+      "reviewsCount": 2,
+      "totalScore": 4.5
+    }
+  ],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Service options": [
+      {
+        "Takeout": true
+      },
+      {
+        "Dine-in": true
+      }
+    ],
+    "Atmosphere": [
+      {
+        "Casual": true
+      }
+    ],
+    "Crowd": [
+      {
+        "Groups": true
+      }
+    ],
+    "Parking": [
+      {
+        "Free street parking": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=Mogili%20Hotel&query_place_id=ChIJicU7bvstzTsRK8RYCirtels",
+  "imageUrl": null,
+  "kgmid": "/g/11jsm3dvg1",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [],
+  "imageUrls": [],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 23,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@18.6532136136562,79.1981924017382,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "Sai Krishna Hotel",
+  "subTitle": null,
+  "description": null,
+  "price": null,
+  "categoryName": "Coffee shop",
+  "address": "4-7 Main Road Katikenapalli, Peddapalli, Telangana 505416, India",
+  "neighborhood": null,
+  "street": "4-7 Main Road Katikenapalli",
+  "city": "Peddapalli, Katkanpalli",
+  "postalCode": "505416",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": "+91 98498 81407",
+  "phoneUnformatted": "+919849881407",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 18.6842532,
+    "lng": 79.2076499
+  },
+  "locatedIn": null,
+  "plusCode": "M6M5+P3 Peddapalli, Telangana, India",
+  "menu": null,
+  "totalScore": null,
+  "permanentlyClosed": false,
+  "temporarilyClosed": true,
+  "placeId": "ChIJp6Xrd6YvzTsRMMwXgGKWS4Q",
+  "categories": [
+    "Coffee shop"
+  ],
+  "fid": "0x3bcd2fa677eba5a7:0x844b96628017cc30",
+  "cid": "9532878386059791408",
+  "reviewsCount": 0,
+  "reviewsDistribution": null,
+  "imagesCount": null,
+  "imageCategories": [],
+  "scrapedAt": "2024-11-02T06:27:32.257Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Shakeel hotel",
+      "reviewsCount": 7,
+      "totalScore": 4.9
+    },
+    {
+      "category": "People also search for",
+      "title": "Sai Sri Krishna Tiffin Center",
+      "reviewsCount": 1,
+      "totalScore": 3
+    }
+  ],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Service options": [
+      {
+        "Takeout": true
+      },
+      {
+        "Dine-in": true
+      }
+    ],
+    "Offerings": [
+      {
+        "Coffee": true
+      }
+    ],
+    "Atmosphere": [
+      {
+        "Casual": true
+      }
+    ],
+    "Crowd": [
+      {
+        "Groups": true
+      }
+    ],
+    "Children": [
+      {
+        "Good for kids": true
+      }
+    ],
+    "Parking": [
+      {
+        "Free street parking": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=Sai%20Krishna%20Hotel&query_place_id=ChIJp6Xrd6YvzTsRMMwXgGKWS4Q",
+  "imageUrl": null,
+  "kgmid": "/g/11q3sq463k",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [],
+  "imageUrls": [],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 22,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@18.6532136136562,79.1981924017382,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "Mallikarjuna Hotel",
+  "subTitle": "మల్లికార్జున హోటల్",
+  "description": null,
+  "price": null,
+  "categoryName": "Restaurant",
+  "address": "1-26/1, Mallapur, Telangana 505416, India",
+  "neighborhood": null,
+  "street": "1-26/1",
+  "city": "Mallapur",
+  "postalCode": "505416",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": "+91 96664 97128",
+  "phoneUnformatted": "+919666497128",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 18.6628347,
+    "lng": 79.1661169
+  },
+  "locatedIn": null,
+  "plusCode": "M578+4C Mallapur, Telangana, India",
+  "menu": null,
+  "totalScore": null,
+  "permanentlyClosed": false,
+  "temporarilyClosed": true,
+  "placeId": "ChIJe4Tl-VwlzTsR_XM1_niu5Ss",
+  "categories": [
+    "Restaurant"
+  ],
+  "fid": "0x3bcd255cf9e5847b:0x2be5ae78fe3573fd",
+  "cid": "3163126147981865981",
+  "reviewsCount": 0,
+  "reviewsDistribution": null,
+  "imagesCount": 3,
+  "imageCategories": [
+    "All",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T06:27:41.781Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Mallikarjuna tiffin center",
+      "reviewsCount": 3,
+      "totalScore": 5
+    },
+    {
+      "category": "People also search for",
+      "title": "SRISYLAM MALLIKARJUNA HOTEL",
+      "reviewsCount": 1,
+      "totalScore": 4
+    }
+  ],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Service options": [
+      {
+        "Dine-in": true
+      }
+    ],
+    "Atmosphere": [
+      {
+        "Casual": true
+      }
+    ],
+    "Crowd": [
+      {
+        "Groups": true
+      }
+    ],
+    "Parking": [
+      {
+        "Free of charge street parking": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=Mallikarjuna%20Hotel&query_place_id=ChIJe4Tl-VwlzTsR_XM1_niu5Ss",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipN4VZOxbeqWPEntzvHHsL6sbK2e6MHh66voPH9d=w408-h906-k-no",
+  "kgmid": "/g/11swk18kbc",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipN4VZOxbeqWPEntzvHHsL6sbK2e6MHh66voPH9d=w1920-h1080-k-no",
+      "authorName": "Santhosh Mathangi",
+      "authorUrl": "https://maps.google.com/maps/contrib/112722550611688007059",
+      "uploadedAt": "2024-06-22T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipN4VZOxbeqWPEntzvHHsL6sbK2e6MHh66voPH9d=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 9,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@18.6532136136562,79.40384693793456,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "Venkatehwara Tiffins & Mess",
+  "subTitle": "వెంకతెహ్వర టిఫిన్స్ & మెస్",
+  "description": null,
+  "price": null,
+  "categoryName": "Hotel",
+  "address": "J99P+GX4, Peddapalli, Telangana 505172, India",
+  "neighborhood": null,
+  "street": "J99P+GX4",
+  "city": "Peddapalli",
+  "postalCode": "505172",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": null,
+  "phoneUnformatted": null,
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 18.6187652,
+    "lng": 79.3874589
+  },
+  "locatedIn": null,
+  "plusCode": null,
+  "menu": null,
+  "totalScore": null,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJh85FyE7TMjoRohWcHSrGU7A",
+  "categories": [
+    "Hotel"
+  ],
+  "fid": "0x3a32d34ec845ce87:0xb053c62a1d9c15a2",
+  "cid": "12705716857929995682",
+  "reviewsCount": 0,
+  "reviewsDistribution": null,
+  "imagesCount": 1,
+  "imageCategories": [
+    "All",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T06:27:45.190Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "New Peacock Fast Food Centre",
+      "reviewsCount": 4,
+      "totalScore": 5
+    },
+    {
+      "category": "People also search for",
+      "title": "mani mess",
+      "reviewsCount": 1,
+      "totalScore": 5
+    },
+    {
+      "category": "People also search for",
+      "title": "Venkatiah Hotel",
+      "reviewsCount": 25,
+      "totalScore": 4.4
+    },
+    {
+      "category": "People also search for",
+      "title": "Venkateshwara Lodge",
+      "reviewsCount": 17,
+      "totalScore": 3.6
+    },
+    {
+      "category": "People also search for",
+      "title": "Om Pavani Tiffins And Mess",
+      "reviewsCount": 7,
+      "totalScore": 3.9
+    }
+  ],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {},
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=Venkatehwara%20Tiffins%20%26%20Mess&query_place_id=ChIJh85FyE7TMjoRohWcHSrGU7A",
+  "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=b6WJgBIqTDhiFQ2NPpkBGg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=72.25664&pitch=0&thumbfov=100",
+  "kgmid": "/g/11fxf0pqkl",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=b6WJgBIqTDhiFQ2NPpkBGg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=72.25664&pitch=0&thumbfov=100"
+    }
+  ],
+  "imageUrls": [
+    "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=b6WJgBIqTDhiFQ2NPpkBGg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=72.25664&pitch=0&thumbfov=100"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 18,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@18.6532136136562,79.26674391380365,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "Venkataramana Lodge",
+  "subTitle": "వెంకటరమణ లాడ్జ్",
+  "description": null,
+  "price": null,
+  "categoryName": "Hotel",
+  "address": "Kaman Rd, Peddapalli, Telangana 505172, India",
+  "neighborhood": null,
+  "street": "Kaman Rd",
+  "city": "Peddapalli",
+  "postalCode": "505172",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": "+91 91822 00287",
+  "phoneUnformatted": "+919182200287",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 18.6083045,
+    "lng": 79.3779918
+  },
+  "locatedIn": null,
+  "plusCode": "J95H+85 Peddapalli, Telangana, India",
+  "menu": null,
+  "totalScore": 3.3,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJoRCMjqwszTsRwDaiGKv1tKM",
+  "categories": [
+    "Hotel"
+  ],
+  "fid": "0x3bcd2cac8e8c10a1:0xa3b4f5ab18a236c0",
+  "cid": "11796323439191668416",
+  "reviewsCount": 41,
+  "reviewsDistribution": {
+    "oneStar": 9,
+    "twoStar": 7,
+    "threeStar": 4,
+    "fourStar": 6,
+    "fiveStar": 15
+  },
+  "imagesCount": 4,
+  "imageCategories": [
+    "All",
+    "Rooms",
+    "Exterior",
+    "Food & drink",
+    "From visitors",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T06:27:45.003Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Venkateshwara Lodge",
+      "reviewsCount": 17,
+      "totalScore": 3.6
+    },
+    {
+      "category": "People also search for",
+      "title": "Venkatiah Hotel",
+      "reviewsCount": 25,
+      "totalScore": 4.4
+    },
+    {
+      "category": "People also search for",
+      "title": "KVM LODGE",
+      "reviewsCount": 15,
+      "totalScore": 4.3
+    },
+    {
+      "category": "People also search for",
+      "title": "Parameshwara Lodge",
+      "reviewsCount": 14,
+      "totalScore": 3.4
+    },
+    {
+      "category": "People also search for",
+      "title": "Kanishka residency",
+      "reviewsCount": 0,
+      "totalScore": 0
+    }
+  ],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {},
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=Venkataramana%20Lodge&query_place_id=ChIJoRCMjqwszTsRwDaiGKv1tKM",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMfLIhHxEBVjQa5VgTFFmiVxdBuBV8J2HTeW6R4=w408-h544-k-no",
+  "kgmid": "/g/11hcnms08w",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMfLIhHxEBVjQa5VgTFFmiVxdBuBV8J2HTeW6R4=w1920-h1080-k-no",
+      "authorName": "Harshavardhan Reddy",
+      "authorUrl": "https://maps.google.com/maps/contrib/103854040331043593494",
+      "uploadedAt": "2021-01-01T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipMfLIhHxEBVjQa5VgTFFmiVxdBuBV8J2HTeW6R4=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 10,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@18.6532136136562,79.40384693793456,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "SITHARA LODGE",
+  "subTitle": "సితార లాడ్జ్",
+  "description": null,
+  "price": null,
+  "categoryName": "Hotel",
+  "address": "1-112, Main Rd, Peddapalli, Rangampalle, Telangana 505172, India",
+  "neighborhood": null,
+  "street": "1-112, Main Rd",
+  "city": "Peddapalli, Rangampalle",
+  "postalCode": "505172",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": "+91 98660 71382",
+  "phoneUnformatted": "+919866071382",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 18.6098718,
+    "lng": 79.3802055
+  },
+  "locatedIn": null,
+  "plusCode": "J95J+W3 Peddapalli, Telangana, India",
+  "menu": null,
+  "totalScore": 4.3,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJq7alcsctzTsRRkelDtBr8yI",
+  "categories": [
+    "Hotel"
+  ],
+  "fid": "0x3bcd2dc772a5b6ab:0x22f36bd00ea54746",
+  "cid": "2518475157973321542",
+  "reviewsCount": 3,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 1,
+    "fourStar": 0,
+    "fiveStar": 2
+  },
+  "imagesCount": 1,
+  "imageCategories": [
+    "All",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T06:27:47.042Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Parameshwara Lodge",
+      "reviewsCount": 14,
+      "totalScore": 3.4
+    },
+    {
+      "category": "People also search for",
+      "title": "Venkataramana Lodge",
+      "reviewsCount": 41,
+      "totalScore": 3.3
+    },
+    {
+      "category": "People also search for",
+      "title": "Venkateshwara Lodge",
+      "reviewsCount": 17,
+      "totalScore": 3.6
+    },
+    {
+      "category": "People also search for",
+      "title": "Sri sitara restuarant",
+      "reviewsCount": 152,
+      "totalScore": 3.7
+    }
+  ],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {},
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=SITHARA%20LODGE&query_place_id=ChIJq7alcsctzTsRRkelDtBr8yI",
+  "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=u0QvFXfja9cel5BJr-wfwA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=201.01994&pitch=0&thumbfov=100",
+  "kgmid": "/g/11jt3y03_3",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=u0QvFXfja9cel5BJr-wfwA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=201.01994&pitch=0&thumbfov=100"
+    }
+  ],
+  "imageUrls": [
+    "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=u0QvFXfja9cel5BJr-wfwA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=201.01994&pitch=0&thumbfov=100"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 8,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@18.6532136136562,79.40384693793456,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "Imam Fruits and Cafe",
+  "subTitle": "ఇమాం ఫ్రుఇత్స్ అండ్ కేఫ్",
+  "description": null,
+  "price": null,
+  "categoryName": "Hotel",
+  "address": "Shanthi Nagar, Peddapalli, Telangana 505172, India",
+  "neighborhood": "Shanthi Nagar",
+  "street": null,
+  "city": "Peddapalli",
+  "postalCode": "505172",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": null,
+  "phoneUnformatted": null,
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 18.6229926,
+    "lng": 79.3920886
+  },
+  "locatedIn": null,
+  "plusCode": "J9FR+5R Peddapalli, Telangana, India",
+  "menu": null,
+  "totalScore": 4,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ0Ry2qobTMjoR0RsAzFxktLY",
+  "categories": [
+    "Hotel"
+  ],
+  "fid": "0x3a32d386aab61cd1:0xb6b4645ccc001bd1",
+  "cid": "13165257960433130449",
+  "reviewsCount": 2,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 1,
+    "fourStar": 0,
+    "fiveStar": 1
+  },
+  "imagesCount": 3,
+  "imageCategories": [
+    "All",
+    "Food & drink",
+    "From visitors",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T06:27:55.308Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "mani mess",
+      "reviewsCount": 1,
+      "totalScore": 5
+    },
+    {
+      "category": "People also search for",
+      "title": "Venkatehwara Tiffins & Mess",
+      "reviewsCount": 0,
+      "totalScore": 0
+    },
+    {
+      "category": "People also search for",
+      "title": "Om Pavani Tiffins And Mess",
+      "reviewsCount": 7,
+      "totalScore": 3.9
+    },
+    {
+      "category": "People also search for",
+      "title": "ruchi tiffins",
+      "reviewsCount": 3,
+      "totalScore": 5
+    },
+    {
+      "category": "People also search for",
+      "title": "Sri Vegambamba Hotel",
+      "reviewsCount": 5,
+      "totalScore": 4.2
+    }
+  ],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {},
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=Imam%20Fruits%20and%20Cafe&query_place_id=ChIJ0Ry2qobTMjoR0RsAzFxktLY",
+  "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=JLBcwKEf4fedzTyMqXnvdQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=295.53613&pitch=0&thumbfov=100",
+  "kgmid": "/g/11rrsdgcdr",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=JLBcwKEf4fedzTyMqXnvdQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=295.53613&pitch=0&thumbfov=100"
+    }
+  ],
+  "imageUrls": [
+    "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=JLBcwKEf4fedzTyMqXnvdQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=295.53613&pitch=0&thumbfov=100"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 7,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@18.6532136136562,79.40384693793456,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "Salma hotel",
+  "subTitle": "సల్మా హోటల్",
+  "description": null,
+  "price": null,
+  "categoryName": "Hotel",
+  "address": "J99H+933, Peddapalli, Telangana 505172, India",
+  "neighborhood": null,
+  "street": "J99H+933",
+  "city": "Peddapalli",
+  "postalCode": null,
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": null,
+  "phoneUnformatted": null,
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 18.6183873,
+    "lng": 79.3776634
+  },
+  "locatedIn": null,
+  "plusCode": null,
+  "menu": null,
+  "totalScore": null,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJiRsIIgAtzTsR4vtldGkJ0JE",
+  "categories": [
+    "Hotel"
+  ],
+  "fid": "0x3bcd2d0022081b89:0x91d009697465fbe2",
+  "cid": "10506908279184423906",
+  "reviewsCount": 0,
+  "reviewsDistribution": null,
+  "imagesCount": null,
+  "imageCategories": [],
+  "scrapedAt": "2024-11-02T06:27:58.775Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {},
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=Salma%20hotel&query_place_id=ChIJiRsIIgAtzTsR4vtldGkJ0JE",
+  "imageUrl": null,
+  "kgmid": "/g/11ln1c3dz0",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [],
+  "imageUrls": [],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 5,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@18.6532136136562,79.40384693793456,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "New Peacock Fast Food Centre",
+  "subTitle": "న్యూ పీకాక్ ఫాస్ట్ ఫుడ్ సెంటర్",
+  "description": null,
+  "price": null,
+  "categoryName": "Hotel",
+  "address": "bus stand, Peddapalli, Telangana 505172, India",
+  "neighborhood": null,
+  "street": "bus stand",
+  "city": "Peddapalli",
+  "postalCode": "505172",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": "+91 99591 95116",
+  "phoneUnformatted": "+919959195116",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 18.618278,
+    "lng": 79.3869384
+  },
+  "locatedIn": null,
+  "plusCode": "J99P+8Q Peddapalli, Telangana, India",
+  "menu": null,
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJFffCu07TMjoRpiSNp9Rtx8g",
+  "categories": [
+    "Hotel"
+  ],
+  "fid": "0x3a32d34ebbc2f715:0xc8c76dd4a78d24a6",
+  "cid": "14467653088062547110",
+  "reviewsCount": 4,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 4
+  },
+  "imagesCount": 4,
+  "imageCategories": [
+    "All",
+    "Exterior",
+    "Food & drink",
+    "From visitors",
+    "By owner",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T06:28:00.149Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Venkatehwara Tiffins & Mess",
+      "reviewsCount": 0,
+      "totalScore": 0
+    },
+    {
+      "category": "People also search for",
+      "title": "Neha Hotel",
+      "reviewsCount": 25,
+      "totalScore": 3.9
+    },
+    {
+      "category": "People also search for",
+      "title": "Venkatiah Hotel",
+      "reviewsCount": 25,
+      "totalScore": 4.4
+    },
+    {
+      "category": "People also search for",
+      "title": "Mega Hotel",
+      "reviewsCount": 15,
+      "totalScore": 3.5
+    }
+  ],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {},
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=New%20Peacock%20Fast%20Food%20Centre&query_place_id=ChIJFffCu07TMjoRpiSNp9Rtx8g",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPRdragYeWBM1tjiy2fUsquVPwhxA3s129vkai1=w426-h240-k-no",
+  "kgmid": "/g/11f57g196b",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPRdragYeWBM1tjiy2fUsquVPwhxA3s129vkai1=w1920-h1080-k-no",
+      "authorName": "New Peacock Fast Food Centre",
+      "authorUrl": "https://maps.google.com/maps/contrib/116515303284830115352",
+      "uploadedAt": "2018-04-02T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipPRdragYeWBM1tjiy2fUsquVPwhxA3s129vkai1=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 6,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@18.6532136136562,79.40384693793456,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "mani mess",
+  "subTitle": "మని మెస్",
+  "description": null,
+  "price": null,
+  "categoryName": "Hotel",
+  "address": "J96J+Q9G, Peddapalli, Telangana 505172, India",
+  "neighborhood": null,
+  "street": "J96J+Q9G",
+  "city": "Peddapalli",
+  "postalCode": null,
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": null,
+  "phoneUnformatted": null,
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 18.6119494,
+    "lng": 79.3809593
+  },
+  "locatedIn": null,
+  "plusCode": null,
+  "menu": null,
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJSWTgwjrTMjoRivasLtqmszY",
+  "categories": [
+    "Hotel"
+  ],
+  "fid": "0x3a32d33ac2e06449:0x36b3a6da2eacf68a",
+  "cid": "3941677554895484554",
+  "reviewsCount": 1,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 1
+  },
+  "imagesCount": 1,
+  "imageCategories": [
+    "All",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T06:28:03.030Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Venkatehwara Tiffins & Mess",
+      "reviewsCount": 0,
+      "totalScore": 0
+    },
+    {
+      "category": "People also search for",
+      "title": "Kavitha Mess",
+      "reviewsCount": 0,
+      "totalScore": 0
+    },
+    {
+      "category": "People also search for",
+      "title": "Venkatiah Hotel",
+      "reviewsCount": 25,
+      "totalScore": 4.4
+    },
+    {
+      "category": "People also search for",
+      "title": "Om Pavani Tiffins And Mess",
+      "reviewsCount": 7,
+      "totalScore": 3.9
+    },
+    {
+      "category": "People also search for",
+      "title": "Mega Hotel",
+      "reviewsCount": 15,
+      "totalScore": 3.5
+    }
+  ],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {},
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=mani%20mess&query_place_id=ChIJSWTgwjrTMjoRivasLtqmszY",
+  "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=FPbJKqCu1tzJkaQG7gH6Lg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=6.175056&pitch=0&thumbfov=100",
+  "kgmid": "/g/11f5k2jbrz",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=FPbJKqCu1tzJkaQG7gH6Lg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=6.175056&pitch=0&thumbfov=100"
+    }
+  ],
+  "imageUrls": [
+    "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=FPbJKqCu1tzJkaQG7gH6Lg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=6.175056&pitch=0&thumbfov=100"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 4,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@18.6532136136562,79.40384693793456,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "ruchi tiffins",
+  "subTitle": "రుచి టిఫిన్స్",
+  "description": null,
+  "price": null,
+  "categoryName": "Hotel",
+  "address": "J98M+43X, Unnamed Road, Peddapalli, Telangana 505172, India",
+  "neighborhood": null,
+  "street": "J98M+43X, Unnamed Road",
+  "city": "Peddapalli",
+  "postalCode": "505172",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": null,
+  "phoneUnformatted": null,
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 18.615354,
+    "lng": 79.3827204
+  },
+  "locatedIn": null,
+  "plusCode": null,
+  "menu": null,
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJUbPLdSnTMjoR3FX0J64TtCI",
+  "categories": [
+    "Hotel"
+  ],
+  "fid": "0x3a32d32975cbb351:0x22b413ae27f455dc",
+  "cid": "2500645331813029340",
+  "reviewsCount": 3,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 3
+  },
+  "imagesCount": 3,
+  "imageCategories": [
+    "All",
+    "Food & drink",
+    "Breakfast",
+    "From visitors",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T06:28:09.973Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Sri Tulasi Udipi Hotel",
+      "reviewsCount": 13,
+      "totalScore": 3.8
+    },
+    {
+      "category": "People also search for",
+      "title": "Taj Hotel",
+      "reviewsCount": 10,
+      "totalScore": 3.7
+    },
+    {
+      "category": "People also search for",
+      "title": "RUCHI BIRYANI CENTER",
+      "reviewsCount": 0,
+      "totalScore": 0
+    },
+    {
+      "category": "People also search for",
+      "title": "Hotel Sri Ruchi Grand",
+      "reviewsCount": 470,
+      "totalScore": 4.2
+    }
+  ],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {},
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=ruchi%20tiffins&query_place_id=ChIJUbPLdSnTMjoR3FX0J64TtCI",
+  "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=SOUDy3QLe8PAcZBYDnhQeA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=4.112095&pitch=0&thumbfov=100",
+  "kgmid": "/g/11f65b9kg9",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=SOUDy3QLe8PAcZBYDnhQeA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=4.112095&pitch=0&thumbfov=100"
+    }
+  ],
+  "imageUrls": [
+    "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=SOUDy3QLe8PAcZBYDnhQeA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=4.112095&pitch=0&thumbfov=100"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 1,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@18.6532136136562,79.40384693793456,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "Akshaya ladies hostel",
+  "subTitle": null,
+  "description": null,
+  "price": null,
+  "categoryName": "Hotel",
+  "address": "Peddapalli, Telangana 505172, India",
+  "neighborhood": null,
+  "street": null,
+  "city": "Peddapalli",
+  "postalCode": null,
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": "+91 73967 04401",
+  "phoneUnformatted": "+917396704401",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 18.6194418,
+    "lng": 79.3876747
+  },
+  "locatedIn": null,
+  "plusCode": "J99Q+Q3 Peddapalli, Telangana, India",
+  "menu": null,
+  "totalScore": 4.8,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ_2daTvXTMjoRhnVzR7wJ8cQ",
+  "categories": [
+    "Hotel"
+  ],
+  "fid": "0x3a32d3f54e5a67ff:0xc4f109bc47737586",
+  "cid": "14191134605078394246",
+  "reviewsCount": 22,
+  "reviewsDistribution": {
+    "oneStar": 1,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 1,
+    "fiveStar": 20
+  },
+  "imagesCount": 5,
+  "imageCategories": [
+    "All",
+    "Food & drink",
+    "From visitors",
+    "By owner",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T06:28:13.141Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "New Peacock Fast Food Centre",
+      "reviewsCount": 4,
+      "totalScore": 5
+    },
+    {
+      "category": "People also search for",
+      "title": "Curious",
+      "reviewsCount": 0,
+      "totalScore": 0
+    },
+    {
+      "category": "People also search for",
+      "title": "BC Hostel New",
+      "reviewsCount": 21,
+      "totalScore": 4
+    },
+    {
+      "category": "People also search for",
+      "title": "Koutilya Reddy Boys Hostel",
+      "reviewsCount": 45,
+      "totalScore": 3.2
+    }
+  ],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {},
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=Akshaya%20ladies%20hostel&query_place_id=ChIJ_2daTvXTMjoRhnVzR7wJ8cQ",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNwU9QqYDfsTsaq_QYCsBaaIEZ457bD2yntez1I=w425-h240-k-no",
+  "kgmid": "/g/11t3z8lvh7",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNwU9QqYDfsTsaq_QYCsBaaIEZ457bD2yntez1I=w1920-h1080-k-no",
+      "authorName": "Akshaya ladies hostel",
+      "authorUrl": "https://maps.google.com/maps/contrib/112077044988890107100",
+      "uploadedAt": "2022-11-08T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipNwU9QqYDfsTsaq_QYCsBaaIEZ457bD2yntez1I=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 2,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@18.6532136136562,79.40384693793456,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "KVM LODGE",
+  "subTitle": "KVM లాడ్జ్",
+  "description": null,
+  "price": null,
+  "categoryName": "Hotel",
+  "address": "J99P+5JW, Manthani - Peddapalli Rd, Bompally, Peddapalli, Telangana 505172, India",
+  "neighborhood": null,
+  "street": "J99P+5JW, Manthani - Peddapalli Rd",
+  "city": "Bompally, Peddapalli",
+  "postalCode": "505172",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": null,
+  "phoneUnformatted": null,
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 18.6180511,
+    "lng": 79.3864386
+  },
+  "locatedIn": null,
+  "plusCode": null,
+  "menu": null,
+  "totalScore": 4.3,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJib6-o-jTMjoRuIzP9yQ5aAc",
+  "categories": [
+    "Hotel"
+  ],
+  "fid": "0x3a32d3e8a3bebe89:0x7683924f7cf8cb8",
+  "cid": "533739386782583992",
+  "reviewsCount": 15,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 3,
+    "fourStar": 4,
+    "fiveStar": 8
+  },
+  "imagesCount": 4,
+  "imageCategories": [
+    "All",
+    "Rooms",
+    "Exterior",
+    "From visitors",
+    "By owner",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T06:28:15.958Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Venkataramana Lodge",
+      "reviewsCount": 41,
+      "totalScore": 3.3
+    },
+    {
+      "category": "People also search for",
+      "title": "Venkateshwara Lodge",
+      "reviewsCount": 17,
+      "totalScore": 3.6
+    },
+    {
+      "category": "People also search for",
+      "title": "Parameshwara Lodge",
+      "reviewsCount": 14,
+      "totalScore": 3.4
+    },
+    {
+      "category": "People also search for",
+      "title": "Mega Hotel",
+      "reviewsCount": 15,
+      "totalScore": 3.5
+    },
+    {
+      "category": "People also search for",
+      "title": "Kavitha Mess",
+      "reviewsCount": 0,
+      "totalScore": 0
+    }
+  ],
+  "placesTags": [],
+  "reviewsTags": [
+    {
+      "title": "parking",
+      "count": 2
+    },
+    {
+      "title": "tv",
+      "count": 2
+    },
+    {
+      "title": "wifi",
+      "count": 2
+    }
+  ],
+  "additionalInfo": {},
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=KVM%20LODGE&query_place_id=ChIJib6-o-jTMjoRuIzP9yQ5aAc",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMgX7g5wGa1XjZnyTMoLTvL9WuXg_zxK9y2B2IZ=w408-h544-k-no",
+  "kgmid": "/g/11vb7jslb3",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMgX7g5wGa1XjZnyTMoLTvL9WuXg_zxK9y2B2IZ=w1920-h1080-k-no",
+      "authorName": "ABDUL MOZID",
+      "authorUrl": "https://maps.google.com/maps/contrib/110757991323219083165",
+      "uploadedAt": "2023-09-14T00:00:00.000Z"
+    }
+  ],
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipMgX7g5wGa1XjZnyTMoLTvL9WuXg_zxK9y2B2IZ=w1920-h1080-k-no"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 16,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@18.6532136136562,79.26674391380365,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "Pooja Poojitha Tiffin Center",
+  "subTitle": null,
+  "description": null,
+  "price": null,
+  "categoryName": "Hotel",
+  "address": "7-40, near Grampanchayat, Peddapur, Telangana 505415, India",
+  "neighborhood": null,
+  "street": "7-40, near Grampanchayat",
+  "city": "Peddapur",
+  "postalCode": "505415",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": "+91 99122 87920",
+  "phoneUnformatted": "+919912287920",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 18.6196923,
+    "lng": 79.217303
+  },
+  "locatedIn": null,
+  "plusCode": "J698+VW Peddapur, Telangana, India",
+  "menu": null,
+  "totalScore": null,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJUbdKslIvzTsR-UMOsy0jSyc",
+  "categories": [
+    "Hotel"
+  ],
+  "fid": "0x3bcd2f52b24ab751:0x274b232db30e43f9",
+  "cid": "2831395469917045753",
+  "reviewsCount": 0,
+  "reviewsDistribution": null,
+  "imagesCount": 1,
+  "imageCategories": [
+    "All",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T06:28:17.507Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {},
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=Pooja%20Poojitha%20Tiffin%20Center&query_place_id=ChIJUbdKslIvzTsR-UMOsy0jSyc",
+  "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=6AwxiCDqEHUF1JRXtBC6Cw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=304.4211&pitch=0&thumbfov=100",
+  "kgmid": "/g/11y7yhb7tf",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=6AwxiCDqEHUF1JRXtBC6Cw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=304.4211&pitch=0&thumbfov=100"
+    }
+  ],
+  "imageUrls": [
+    "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=6AwxiCDqEHUF1JRXtBC6Cw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=304.4211&pitch=0&thumbfov=100"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+},
+{
+  "searchString": "hotels",
+  "rank": 10,
+  "searchPageUrl": "https://www.google.com/maps/search/hotels/@18.6532136136562,79.26674391380365,14z?hl=en",
+  "searchPageLoadedUrl": null,
+  "isAdvertisement": false,
+  "title": "Mega Hotel",
+  "subTitle": "మెగా హోటల్",
+  "description": null,
+  "price": null,
+  "categoryName": "Hotel",
+  "address": "J99P+9RP, Peddapalli, Telangana 505172, India",
+  "neighborhood": null,
+  "street": "J99P+9RP",
+  "city": "Peddapalli",
+  "postalCode": "505172",
+  "state": "Telangana",
+  "countryCode": "IN",
+  "website": null,
+  "phone": null,
+  "phoneUnformatted": null,
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 18.6184693,
+    "lng": 79.3870924
+  },
+  "locatedIn": null,
+  "plusCode": null,
+  "menu": null,
+  "totalScore": 3.5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJo7yQuU7TMjoRY4uJ6eM-XP8",
+  "categories": [
+    "Hotel"
+  ],
+  "fid": "0x3a32d34eb990bca3:0xff5c3ee3e9898b63",
+  "cid": "18400651326125607779",
+  "reviewsCount": 15,
+  "reviewsDistribution": {
+    "oneStar": 4,
+    "twoStar": 0,
+    "threeStar": 3,
+    "fourStar": 0,
+    "fiveStar": 8
+  },
+  "imagesCount": 4,
+  "imageCategories": [
+    "All",
+    "Food & drink",
+    "Breakfast",
+    "From visitors",
+    "Street View & 360°"
+  ],
+  "scrapedAt": "2024-11-02T06:28:27.732Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": "2024-11-04",
+  "checkOutDate": "2024-11-05",
+  "similarHotelsNearby": null,
+  "hotelReviewSummary": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {},
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=Mega%20Hotel&query_place_id=ChIJo7yQuU7TMjoRY4uJ6eM-XP8",
+  "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=P_Swl4oIgx_-TSkXByefyQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=330.4862&pitch=0&thumbfov=100",
+  "kgmid": "/g/11dyr9lsjr",
+  "webResults": [],
+  "parentPlaceUrl": null,
+  "tableReservationLinks": [],
+  "bookingLinks": [],
+  "orderBy": [],
+  "images": [
+    {
+      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=P_Swl4oIgx_-TSkXByefyQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=330.4862&pitch=0&thumbfov=100"
+    }
+  ],
+  "imageUrls": [
+    "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=P_Swl4oIgx_-TSkXByefyQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=330.4862&pitch=0&thumbfov=100"
+  ],
+  "reviews": [],
+  "userPlaceNote": null
+}]

@@ -1,0 +1,2613 @@
+[{
+  "reviewTags": [],
+  "id": "7960049",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [],
+  "name": "Sri Tirumala Bakery",
+  "locationString": "Hyderabad, Hyderabad District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/12/ad/b1/9a/sri-tirumala-bakery.jpg",
+  "photoCount": 1,
+  "rankingPosition": 907,
+  "rating": 4.5,
+  "rawRanking": 3.043663740158081,
+  "phone": "+91 40 6711 9792",
+  "address": "41, Suchitra Circle, Suchitra Road, Near Axis Bank Atm, Kompally, Hyderabad India",
+  "addressObj": {
+    "street1": "41, Suchitra Circle, Suchitra Road, Near Axis Bank Atm, Kompally",
+    "street2": null,
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": null
+  },
+  "localName": "Sri Tirumala Bakery",
+  "localAddress": "41, Suchitra Circle, Suchitra Road, Near Axis Bank Atm, Kompally",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.50138,
+  "longitude": 78.47205,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g297586-d7960049-Reviews-Sri_Tirumala_Bakery-Hyderabad_Hyderabad_District_Telangana.html",
+  "website": null,
+  "rankingString": "#907 of 5,708 Restaurants in Hyderabad",
+  "rankingDenominator": "5708",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "297586",
+      "name": "Hyderabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389092",
+      "name": "Hyderabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 1,
+    "count4": 1,
+    "count5": 2
+  },
+  "numberOfReviews": 4,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": null,
+  "priceLevel": null,
+  "dishes": [],
+  "hours": null,
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": true,
+  "priceRange": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/12/ad/b1/9a/sri-tirumala-bakery.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/ad/b1/9a/sri-tirumala-bakery.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "cuisines": [],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Medchal District,restaurants"
+},
+{
+  "id": "8622478",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [
+    "Sit down"
+  ],
+  "name": "Bawarchi Reataurant",
+  "locationString": "Hyderabad, Hyderabad District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": 512,
+  "rating": 4.5,
+  "rawRanking": 3.0771520137786865,
+  "phone": "+91 92475 88188",
+  "address": "Medchal Bus Depot Beside Mukund Theatre, Hyderabad 500020 India",
+  "addressObj": {
+    "street1": "Medchal Bus Depot",
+    "street2": "Beside Mukund Theatre",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "500020"
+  },
+  "localName": "Bawarchi Reataurant",
+  "localAddress": "Medchal Bus Depot, Beside Mukund Theatre, 500020",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.59492,
+  "longitude": 78.47928,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g297586-d8622478-Reviews-Bawarchi_Reataurant-Hyderabad_Hyderabad_District_Telangana.html",
+  "website": null,
+  "rankingString": "#512 of 5,708 Restaurants in Hyderabad",
+  "rankingDenominator": "5708",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "297586",
+      "name": "Hyderabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389092",
+      "name": "Hyderabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 2,
+    "count5": 4
+  },
+  "numberOfReviews": 6,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": null,
+  "priceLevel": "$$ - $$$",
+  "dishes": [],
+  "hours": null,
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": true,
+  "reviewTags": [],
+  "priceRange": null,
+  "photos": [],
+  "travelerChoiceAward": null,
+  "cuisines": [
+    "Chinese",
+    "Indian"
+  ],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Medchal District,restaurants"
+},
+{
+  "reviewTags": [],
+  "id": "8111156",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [
+    "Sit down"
+  ],
+  "name": "Brundavan Family Dhaba",
+  "locationString": "Hyderabad, Hyderabad District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": 1097,
+  "rating": 4,
+  "rawRanking": 3.041727066040039,
+  "phone": "+91 78939 31900",
+  "address": "Near Thumkunta Village, Shamirpet, Hyderabad India",
+  "addressObj": {
+    "street1": "Near Thumkunta Village, Shamirpet",
+    "street2": null,
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": null
+  },
+  "localName": "Brundavan Family Dhaba",
+  "localAddress": "Near Thumkunta Village, Shamirpet",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.57135,
+  "longitude": 78.5589,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g297586-d8111156-Reviews-Brundavan_Family_Dhaba-Hyderabad_Hyderabad_District_Telangana.html",
+  "website": null,
+  "rankingString": "#1,097 of 7,089 places to eat in Hyderabad",
+  "rankingDenominator": "3318",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "297586",
+      "name": "Hyderabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389092",
+      "name": "Hyderabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 1,
+    "count4": 2,
+    "count5": 1
+  },
+  "numberOfReviews": 4,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": null,
+  "priceLevel": null,
+  "dishes": [],
+  "hours": null,
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": true,
+  "priceRange": null,
+  "photos": [],
+  "travelerChoiceAward": null,
+  "cuisines": [
+    "Chinese"
+  ],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Medchal District,restaurants"
+},
+{
+  "id": "16809029",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [],
+  "name": "W Cafe by Wich Way",
+  "locationString": "Secunderabad, Hyderabad District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/16/d3/dd/bc/place-to-read-or-play.jpg",
+  "photoCount": 9,
+  "rankingPosition": 131,
+  "rating": 3.5,
+  "rawRanking": 3.023573160171509,
+  "phone": "+91 40 2711 3330",
+  "address": "Plot 174, Vayupuri, 1st Cross, Balaji Nagar Main Road, Sainikpuri, Secunderabad 500094 India",
+  "addressObj": {
+    "street1": "Plot 174, Vayupuri, 1st Cross, Balaji Nagar Main Road, Sainikpuri",
+    "street2": null,
+    "city": "Secunderabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "500094"
+  },
+  "localName": "W Cafe by Wich Way",
+  "localAddress": "Plot 174, Vayupuri, 1st Cross, Balaji Nagar Main Road, Sainikpuri, 500094",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.51359,
+  "longitude": 78.55294,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g679014-d16809029-Reviews-W_Cafe_by_Wich_Way-Secunderabad_Hyderabad_District_Telangana.html",
+  "website": null,
+  "rankingString": "#131 of 624 Restaurants in Secunderabad",
+  "rankingDenominator": "624",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "679014",
+      "name": "Secunderabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389092",
+      "name": "Hyderabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 1,
+    "count4": 2,
+    "count5": 0
+  },
+  "numberOfReviews": 3,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": "Open Now",
+  "priceLevel": null,
+  "dishes": [],
+  "hours": {
+    "weekRanges": [
+      [
+        {
+          "open": 420,
+          "openHours": "07:00",
+          "close": 1440,
+          "closeHours": "00:00"
+        }
+      ],
+      [
+        {
+          "open": 420,
+          "openHours": "07:00",
+          "close": 1440,
+          "closeHours": "00:00"
+        }
+      ],
+      [
+        {
+          "open": 420,
+          "openHours": "07:00",
+          "close": 1440,
+          "closeHours": "00:00"
+        }
+      ],
+      [
+        {
+          "open": 420,
+          "openHours": "07:00",
+          "close": 1440,
+          "closeHours": "00:00"
+        }
+      ],
+      [
+        {
+          "open": 420,
+          "openHours": "07:00",
+          "close": 1440,
+          "closeHours": "00:00"
+        }
+      ],
+      [
+        {
+          "open": 420,
+          "openHours": "07:00",
+          "close": 1440,
+          "closeHours": "00:00"
+        }
+      ],
+      [
+        {
+          "open": 420,
+          "openHours": "07:00",
+          "close": 1440,
+          "closeHours": "00:00"
+        }
+      ]
+    ],
+    "timezone": "Asia/Kolkata"
+  },
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": true,
+  "reviewTags": [],
+  "priceRange": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/16/d3/dd/bc/place-to-read-or-play.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/18/0a/1e/33/screenshot-2019-06-22.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/18/0a/1e/32/img-20190622-200753-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/16/d3/de/7e/mocktails-and-milkshakes.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/16/d3/de/1f/breakfast-sandwich-item.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/0a/1e/33/screenshot-2019-06-22.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/0a/1e/32/img-20190622-200753-largejpg.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/d3/d7/a4/sign-board.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/d3/d7/ea/the-restaurant-exteriors.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/d3/db/04/recessed-interiors.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/d3/dd/bc/place-to-read-or-play.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/d3/de/1a/salads.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/d3/de/1f/breakfast-sandwich-item.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/d3/de/7e/mocktails-and-milkshakes.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "cuisines": [],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [
+    "Breakfast",
+    "Lunch",
+    "Dinner"
+  ],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Medchal District,restaurants"
+},
+{
+  "reviewTags": [],
+  "id": "6020386",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [
+    "Sit down"
+  ],
+  "name": "Spicy Hub",
+  "locationString": "Hyderabad, Hyderabad District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/11/b9/fc/bc/special-chicken-biryani.jpg",
+  "photoCount": 21,
+  "rankingPosition": 1403,
+  "rating": 4,
+  "rawRanking": 3.0277724266052246,
+  "phone": "+91 40 2403 5406",
+  "address": "11 - 13 - 194/1/c R.K. Puram, Hyderabad 500060 India",
+  "addressObj": {
+    "street1": "11 - 13 - 194/1/c",
+    "street2": "R.K. Puram",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "500060"
+  },
+  "localName": "Spicy Hub",
+  "localAddress": "11 - 13 - 194/1/c, R.K. Puram, 500060",
+  "localLangCode": "en-IN",
+  "email": "info@spicyhub.in",
+  "latitude": 17.4918,
+  "longitude": 78.5153,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g297586-d6020386-Reviews-Spicy_Hub-Hyderabad_Hyderabad_District_Telangana.html",
+  "website": "http://www.spicyhub.in/",
+  "rankingString": "#1,403 of 5,708 Restaurants in Hyderabad",
+  "rankingDenominator": "5708",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "297586",
+      "name": "Hyderabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389092",
+      "name": "Hyderabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 2,
+    "count2": 0,
+    "count3": 0,
+    "count4": 5,
+    "count5": 4
+  },
+  "numberOfReviews": 11,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": "Open Now",
+  "priceLevel": "$$ - $$$",
+  "dishes": [
+    "Biryani"
+  ],
+  "hours": {
+    "weekRanges": [
+      [
+        {
+          "open": 660,
+          "openHours": "11:00",
+          "close": 1350,
+          "closeHours": "22:30"
+        }
+      ],
+      [
+        {
+          "open": 660,
+          "openHours": "11:00",
+          "close": 1350,
+          "closeHours": "22:30"
+        }
+      ],
+      [
+        {
+          "open": 660,
+          "openHours": "11:00",
+          "close": 1350,
+          "closeHours": "22:30"
+        }
+      ],
+      [
+        {
+          "open": 660,
+          "openHours": "11:00",
+          "close": 1350,
+          "closeHours": "22:30"
+        }
+      ],
+      [
+        {
+          "open": 660,
+          "openHours": "11:00",
+          "close": 1350,
+          "closeHours": "22:30"
+        }
+      ],
+      [
+        {
+          "open": 660,
+          "openHours": "11:00",
+          "close": 1350,
+          "closeHours": "22:30"
+        }
+      ],
+      [
+        {
+          "open": 660,
+          "openHours": "11:00",
+          "close": 1350,
+          "closeHours": "22:30"
+        }
+      ]
+    ],
+    "timezone": "Asia/Kolkata"
+  },
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": true,
+  "priceRange": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/12/4e/0e/f4/the-quantity-of-biryani.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/b9/fc/bc/special-chicken-biryani.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/24/85/cb/88/spicy-hub.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/24/85/cb/85/spicy-hub.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/12/b9/11/ce/curd-rice.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/12/b9/11/ca/paneer-curry.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/b9/11/bb/chicken-65.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/b9/11/ca/paneer-curry.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/b9/11/a9/executive-non-veg-thali.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/b9/11/ce/curd-rice.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/b9/11/c2/roti.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/b9/11/b0/bill.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/b9/11/b5/biryani.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/85/cb/88/spicy-hub.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/85/cb/85/spicy-hub.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/4e/0e/ea/biryani.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/4e/0f/01/bill.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/4e/0e/f2/gulab-jamun.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/4e/0f/02/spicy-hub-parcel.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/4e/0e/f4/the-quantity-of-biryani.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/4e/0e/f7/family-pack.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/b9/fc/b6/sapota-juice.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/b9/fc/c7/accompaniments.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/b9/fc/a5/bill.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/b9/fc/bc/special-chicken-biryani.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/b9/fc/e8/address.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/b9/fc/d9/cover.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "cuisines": [
+    "Chinese"
+  ],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [
+    "Seating",
+    "Table Service"
+  ],
+  "mealTypes": [
+    "Lunch",
+    "Dinner",
+    "Brunch"
+  ],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Medchal District,restaurants"
+},
+{
+  "reviewTags": [],
+  "id": "7959748",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [
+    "Sit down"
+  ],
+  "name": "Priyadarshini Restaurant",
+  "locationString": "Hyderabad, Hyderabad District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": 1471,
+  "rating": 5,
+  "rawRanking": 3.02530574798584,
+  "phone": "+91 84998 90990",
+  "address": "Suchitra X Roads, Medchal Highway, Opposite E Seva, Bowenpally, Hyderabad 500100 India",
+  "addressObj": {
+    "street1": "Suchitra X Roads, Medchal Highway, Opposite E Seva, Bowenpally",
+    "street2": null,
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "500100"
+  },
+  "localName": "Priyadarshini Restaurant",
+  "localAddress": "Suchitra X Roads, Medchal Highway, Opposite E Seva, Bowenpally, 500100",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.500147,
+  "longitude": 78.474724,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g297586-d7959748-Reviews-Priyadarshini_Restaurant-Hyderabad_Hyderabad_District_Telangana.html",
+  "website": "http://www.priyadarshini-restaurant.com/",
+  "rankingString": "#1,471 of 5,708 Restaurants in Hyderabad",
+  "rankingDenominator": "5708",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "297586",
+      "name": "Hyderabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389092",
+      "name": "Hyderabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 1
+  },
+  "numberOfReviews": 1,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": null,
+  "priceLevel": "$$ - $$$",
+  "dishes": [],
+  "hours": null,
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": true,
+  "priceRange": null,
+  "photos": [],
+  "travelerChoiceAward": null,
+  "cuisines": [
+    "Indian"
+  ],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [
+    "Breakfast"
+  ],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Medchal District,restaurants"
+},
+{
+  "reviewTags": [],
+  "id": "8103979",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [
+    "Sit down"
+  ],
+  "name": "Aahar Restaurant",
+  "locationString": "Secunderabad, Hyderabad District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-s/19/42/c9/85/entry.jpg",
+  "photoCount": 3,
+  "rankingPosition": 65,
+  "rating": 4,
+  "rawRanking": 3.0533854961395264,
+  "phone": "+91 40 2797 4444",
+  "address": "11 & 12 Near Indira Gandhi Statue, Laxmi Nagar, Secunderabad 500010 India",
+  "addressObj": {
+    "street1": "11 & 12",
+    "street2": "Near Indira Gandhi Statue, Laxmi Nagar",
+    "city": "Secunderabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "500010"
+  },
+  "localName": "Aahar Restaurant",
+  "localAddress": "11 & 12, Near Indira Gandhi Statue, Laxmi Nagar, 500010",
+  "localLangCode": "en-IN",
+  "email": "aaharhotel@gmail.com",
+  "latitude": 17.4919,
+  "longitude": 78.5122,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g679014-d8103979-Reviews-Aahar_Restaurant-Secunderabad_Hyderabad_District_Telangana.html",
+  "website": "http://aaharrestaurant.com/contact_us.aspx",
+  "rankingString": "#65 of 750 places to eat in Secunderabad",
+  "rankingDenominator": "275",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "679014",
+      "name": "Secunderabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389092",
+      "name": "Hyderabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 1,
+    "count4": 3,
+    "count5": 1
+  },
+  "numberOfReviews": 5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": null,
+  "priceLevel": "$$ - $$$",
+  "dishes": [],
+  "hours": null,
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": true,
+  "priceRange": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/19/42/c9/85/entry.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/19/42/cb/2d/ambiemce.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/19/42/c9/d3/table.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/42/c9/85/entry.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/42/c9/d3/table.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/42/cb/2d/ambiemce.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "cuisines": [
+    "Chinese",
+    "Indian"
+  ],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [
+    "Delivery"
+  ],
+  "mealTypes": [],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Medchal District,restaurants"
+},
+{
+  "reviewTags": [],
+  "id": "5071759",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [
+    "Sit down"
+  ],
+  "name": "Hotel Gem Restaurant",
+  "locationString": "Secunderabad, Hyderabad District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0b/47/ac/ce/hotel-gem-restaurant.jpg",
+  "photoCount": 1,
+  "rankingPosition": 39,
+  "rating": 4.5,
+  "rawRanking": 3.0676023960113525,
+  "phone": "+91 40 2770 3893",
+  "address": "Sanath Nagar Railway Station Road Opposite Subash Chandra Bose Ststue, Secunderabad 500037 India",
+  "addressObj": {
+    "street1": "Sanath Nagar Railway Station Road",
+    "street2": "Opposite Subash Chandra Bose Ststue",
+    "city": "Secunderabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "500037"
+  },
+  "localName": "Hotel Gem Restaurant",
+  "localAddress": "Sanath Nagar Railway Station Road, Opposite Subash Chandra Bose Ststue, 500037",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.53265,
+  "longitude": 78.51575,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g679014-d5071759-Reviews-Hotel_Gem_Restaurant-Secunderabad_Hyderabad_District_Telangana.html",
+  "website": null,
+  "rankingString": "#39 of 624 Restaurants in Secunderabad",
+  "rankingDenominator": "624",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "679014",
+      "name": "Secunderabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389092",
+      "name": "Hyderabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 2,
+    "count5": 2
+  },
+  "numberOfReviews": 4,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": null,
+  "priceLevel": "$$ - $$$",
+  "dishes": [],
+  "hours": null,
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": true,
+  "priceRange": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/0b/47/ac/ce/hotel-gem-restaurant.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "cuisines": [],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [
+    "Breakfast"
+  ],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Medchal District,restaurants"
+},
+{
+  "reviewTags": [],
+  "id": "8287474",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [
+    "Sit down"
+  ],
+  "name": "Hotel Biryani Mahal",
+  "locationString": "Secunderabad, Hyderabad District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": 23,
+  "rating": 4,
+  "rawRanking": 3.100417137145996,
+  "phone": "+91 40 2794 0088",
+  "address": "Lothkunta Opposite Narthaki Talkies, Secunderabad, Secunderabad 500010 India",
+  "addressObj": {
+    "street1": "Lothkunta",
+    "street2": "Opposite Narthaki Talkies, Secunderabad",
+    "city": "Secunderabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "500010"
+  },
+  "localName": "Hotel Biryani Mahal",
+  "localAddress": "Lothkunta, Opposite Narthaki Talkies, Secunderabad, 500010",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.49361,
+  "longitude": 78.51267,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g679014-d8287474-Reviews-Hotel_Biryani_Mahal-Secunderabad_Hyderabad_District_Telangana.html",
+  "website": null,
+  "rankingString": "#23 of 624 Restaurants in Secunderabad",
+  "rankingDenominator": "624",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "679014",
+      "name": "Secunderabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389092",
+      "name": "Hyderabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 2,
+    "count4": 9,
+    "count5": 3
+  },
+  "numberOfReviews": 14,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": "Open Now",
+  "priceLevel": "$$ - $$$",
+  "dishes": [
+    "Biryani"
+  ],
+  "hours": {
+    "weekRanges": [
+      [
+        {
+          "open": 720,
+          "openHours": "12:00",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ],
+      [
+        {
+          "open": 720,
+          "openHours": "12:00",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ],
+      [
+        {
+          "open": 720,
+          "openHours": "12:00",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ],
+      [
+        {
+          "open": 720,
+          "openHours": "12:00",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ],
+      [
+        {
+          "open": 720,
+          "openHours": "12:00",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ],
+      [
+        {
+          "open": 720,
+          "openHours": "12:00",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ],
+      [
+        {
+          "open": 720,
+          "openHours": "12:00",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ]
+    ],
+    "timezone": "Asia/Kolkata"
+  },
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": true,
+  "priceRange": null,
+  "photos": [],
+  "travelerChoiceAward": null,
+  "cuisines": [
+    "Indian"
+  ],
+  "dietaryRestrictions": [
+    "Halal"
+  ],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [
+    "Lunch",
+    "Dinner"
+  ],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Medchal District,restaurants"
+},
+{
+  "reviewTags": [],
+  "id": "7959809",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [
+    "Sit down"
+  ],
+  "name": "Runway 9",
+  "locationString": "Hyderabad, Hyderabad District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0b/ca/15/89/gokart.jpg",
+  "photoCount": 17,
+  "rankingPosition": 3038,
+  "rating": 3,
+  "rawRanking": 2.9120845794677734,
+  "phone": "+91 84182 32752",
+  "address": "Door 5-115, Mohan Reddy Commercial Complex, Medchal Road, Near Mahindra Autos, Kompally, Hyderabad 500020 India",
+  "addressObj": {
+    "street1": "Door 5-115, Mohan Reddy Commercial Complex, Medchal Road, Near Mahindra Autos, Kompally",
+    "street2": null,
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "500020"
+  },
+  "localName": "Runway 9",
+  "localAddress": "Door 5-115, Mohan Reddy Commercial Complex, Medchal Road, Near Mahindra Autos, Kompally, 500020",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.5189,
+  "longitude": 78.4817,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g297586-d7959809-Reviews-Runway_9-Hyderabad_Hyderabad_District_Telangana.html",
+  "website": null,
+  "rankingString": "#3,038 of 5,708 Restaurants in Hyderabad",
+  "rankingDenominator": "5708",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "297586",
+      "name": "Hyderabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389092",
+      "name": "Hyderabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 3,
+    "count2": 0,
+    "count3": 7,
+    "count4": 5,
+    "count5": 0
+  },
+  "numberOfReviews": 15,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": null,
+  "priceLevel": "$$ - $$$",
+  "dishes": [],
+  "hours": null,
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": true,
+  "priceRange": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/0d/6f/d5/d5/gocating-place.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0b/ca/15/89/gokart.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0b/bb/63/70/go-kart-track.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/16/80/0b/99/at-runway9.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/16/80/08/9b/go-karting.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0d/6f/d6/15/snookers-inside.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0d/6f/d5/aa/gocating.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0b/ca/16/11/gokart.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0b/ca/15/b8/gokart.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0b/ca/15/ab/gokart.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0b/ca/15/9f/gokart.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0b/ca/15/6b/gokart.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0b/ca/15/65/gokart.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0b/bb/63/a8/vroom-goes-the-go-kart.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0b/bb/63/9d/track.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0b/bb/63/8e/enroll-for-the-speed.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0b/bb/63/83/go-kart-track.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/80/0b/99/at-runway9.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/80/08/9b/go-karting.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/6f/d5/aa/gocating.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/6f/d5/d5/gocating-place.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/6f/d6/15/snookers-inside.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/ca/15/65/gokart.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/ca/15/6b/gokart.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/ca/15/89/gokart.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/ca/15/9f/gokart.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/ca/15/ab/gokart.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/ca/15/b8/gokart.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/ca/16/11/gokart.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/bb/63/70/go-kart-track.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/bb/63/83/go-kart-track.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/bb/63/8e/enroll-for-the-speed.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/bb/63/9d/track.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/bb/63/a8/vroom-goes-the-go-kart.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "cuisines": [
+    "Chinese",
+    "Indian"
+  ],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Medchal District,restaurants"
+},
+{
+  "id": "7958912",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [
+    "Sit down"
+  ],
+  "name": "Beijing Bistro",
+  "locationString": "Hyderabad, Hyderabad District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-w/15/c9/5f/eb/bowl-full-of-classic.jpg",
+  "photoCount": 4,
+  "rankingPosition": 329,
+  "rating": 4,
+  "rawRanking": 3.1213197708129883,
+  "phone": "+91 40 6456 2200",
+  "address": "8-230, Allwyn Colony, Opposite to More Supermarket, Miyapur, Hyderabad India",
+  "addressObj": {
+    "street1": "8-230, Allwyn Colony, Opposite to More Supermarket, Miyapur",
+    "street2": null,
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": null
+  },
+  "localName": "Beijing Bistro",
+  "localAddress": "8-230, Allwyn Colony, Opposite to More Supermarket, Miyapur",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.5138,
+  "longitude": 78.412,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g297586-d7958912-Reviews-Beijing_Bistro-Hyderabad_Hyderabad_District_Telangana.html",
+  "website": null,
+  "rankingString": "#329 of 5,708 Restaurants in Hyderabad",
+  "rankingDenominator": "5708",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "297586",
+      "name": "Hyderabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389092",
+      "name": "Hyderabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 1,
+    "count4": 10,
+    "count5": 3
+  },
+  "numberOfReviews": 14,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": null,
+  "priceLevel": "$$ - $$$",
+  "dishes": [],
+  "hours": null,
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": true,
+  "reviewTags": [],
+  "priceRange": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/15/c9/5f/eb/bowl-full-of-classic.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/15/c9/5f/e5/veg-bite-sized-ball-covered.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/15/c9/60/06/nasi-goreng-indonesian.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/15/c9/5f/f9/fiery-hot-veggie-side.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/c9/5f/e5/veg-bite-sized-ball-covered.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/c9/60/06/nasi-goreng-indonesian.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/c9/5f/f9/fiery-hot-veggie-side.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/c9/5f/eb/bowl-full-of-classic.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "cuisines": [
+    "Chinese",
+    "Asian"
+  ],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [
+    "Reservations",
+    "Seating",
+    "Table Service"
+  ],
+  "mealTypes": [
+    "Dinner"
+  ],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Medchal District,restaurants"
+},
+{
+  "reviewTags": [],
+  "id": "7960136",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [],
+  "name": "Tewari Brothers Mithaiwala",
+  "locationString": "Hyderabad, Hyderabad District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0a/31/62/20/kachori.jpg",
+  "photoCount": 23,
+  "rankingPosition": 608,
+  "rating": 4,
+  "rawRanking": 3.0644803047180176,
+  "phone": "+91 40 2332 2820",
+  "address": "6 - 3 - 641 Chintal Basthi Main Road, Hyderabad 500004 India",
+  "addressObj": {
+    "street1": "6 - 3 - 641 Chintal Basthi Main Road",
+    "street2": null,
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "500004"
+  },
+  "localName": "Tewari Brothers Mithaiwala",
+  "localAddress": "6 - 3 - 641 Chintal Basthi Main Road, 500004",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.4942,
+  "longitude": 78.4559,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g297586-d7960136-Reviews-Tewari_Brothers_Mithaiwala-Hyderabad_Hyderabad_District_Telangana.html",
+  "website": null,
+  "rankingString": "#608 of 5,708 Restaurants in Hyderabad",
+  "rankingDenominator": "5708",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "297586",
+      "name": "Hyderabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389092",
+      "name": "Hyderabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 3,
+    "count4": 3,
+    "count5": 2
+  },
+  "numberOfReviews": 8,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": null,
+  "priceLevel": "$$ - $$$",
+  "dishes": [],
+  "hours": null,
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": true,
+  "priceRange": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/1a/fc/34/26/decor.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0a/31/62/20/kachori.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1a/fc/34/3f/chanarpayesh.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1a/fc/34/37/snacks.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1a/fc/34/2f/the-signage.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1a/fc/34/21/interiors.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1a/fc/34/16/kajulitchi-and-motichoorladdu.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1a/fc/34/09/sweet-chutney.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1a/fc/33/ff/mint-chutney.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1a/fc/33/f6/muttersamosa.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1a/fc/33/ee/menu.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1a/fc/33/de/kajulitchi.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1a/fc/33/d0/motichoorladdu.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1a/fc/33/c9/muttersamosa.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1a/fc/33/c1/kajukatli.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1a/fc/33/ba/yummy-chanarpayesh.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/12/c6/45/40/tejprakash.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/12/c6/45/2b/tejprakash.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/12/c6/45/26/tejprakash.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/12/c6/45/24/tejprakash.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0a/2e/77/90/chaat.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/fc/33/ba/yummy-chanarpayesh.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/fc/33/c1/kajukatli.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/fc/33/c9/muttersamosa.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/fc/33/d0/motichoorladdu.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/fc/33/de/kajulitchi.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/fc/33/ee/menu.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/fc/33/f6/muttersamosa.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/fc/33/ff/mint-chutney.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/fc/34/09/sweet-chutney.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/fc/34/16/kajulitchi-and-motichoorladdu.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/fc/34/21/interiors.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/fc/34/26/decor.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/fc/34/2f/the-signage.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/fc/34/37/snacks.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/fc/34/3f/chanarpayesh.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/75/67/f6/pav-bhaji.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/31/62/20/kachori.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/2e/77/90/chaat.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "cuisines": [],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Medchal District,restaurants"
+},
+{
+  "reviewTags": [],
+  "id": "26821973",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [],
+  "name": "Vivaha Bhojanambu",
+  "locationString": "Anantapur, Anantapur District, Andhra Pradesh",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": 10,
+  "rating": 4,
+  "rawRanking": 3.022209405899048,
+  "phone": null,
+  "address": "National Highway number 7, Anantapur India",
+  "addressObj": {
+    "street1": "National Highway number 7",
+    "street2": null,
+    "city": "Anantapur",
+    "state": "Andhra Pradesh",
+    "country": "India",
+    "postalcode": null
+  },
+  "localName": "Vivaha Bhojanambu",
+  "localAddress": "National Highway number 7",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.633787,
+  "longitude": 78.48497,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g2295143-d26821973-Reviews-Vivaha_Bhojanambu-Anantapur_Anantapur_District_Andhra_Pradesh.html",
+  "website": null,
+  "rankingString": "#10 of 34 Restaurants in Anantapur",
+  "rankingDenominator": "34",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "2295143",
+      "name": "Anantapur",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12421908",
+      "name": "Anantapur District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "297585",
+      "name": "Andhra Pradesh",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 2,
+    "count5": 0
+  },
+  "numberOfReviews": 2,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": null,
+  "priceLevel": null,
+  "dishes": [],
+  "hours": null,
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": true,
+  "priceRange": null,
+  "photos": [],
+  "travelerChoiceAward": null,
+  "cuisines": [
+    "Indian"
+  ],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [
+    "Seating",
+    "Parking Available",
+    "Visa",
+    "Digital Payments",
+    "Accepts Credit Cards"
+  ],
+  "mealTypes": [
+    "Lunch",
+    "Dinner"
+  ],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Medchal District,restaurants"
+},
+{
+  "reviewTags": [
+    {
+      "text": "ambience",
+      "reviews": 13
+    }
+  ],
+  "id": "7789855",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [
+    "Sit down"
+  ],
+  "name": "Thinespo",
+  "locationString": "Hyderabad, Hyderabad District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0f/56/fd/f0/thinespo.jpg",
+  "photoCount": 41,
+  "rankingPosition": 188,
+  "rating": 4,
+  "rawRanking": 3.2295069694519043,
+  "phone": "+91 99080 02200",
+  "address": "National Highway 7 Beside Excellency Gardens, Hyderabad 500001 India",
+  "addressObj": {
+    "street1": "National Highway 7",
+    "street2": "Beside Excellency Gardens",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "500001"
+  },
+  "localName": "Thinespo",
+  "localAddress": "National Highway 7, Beside Excellency Gardens, 500001",
+  "localLangCode": "en-IN",
+  "email": "info@thinespo.com",
+  "latitude": 17.52531,
+  "longitude": 78.48337,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g297586-d7789855-Reviews-Thinespo-Hyderabad_Hyderabad_District_Telangana.html",
+  "website": "https://www.thinespo.com/restaurant-food-menu/",
+  "rankingString": "#188 of 5,708 Restaurants in Hyderabad",
+  "rankingDenominator": "5708",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "297586",
+      "name": "Hyderabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389092",
+      "name": "Hyderabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 2,
+    "count2": 2,
+    "count3": 5,
+    "count4": 12,
+    "count5": 16
+  },
+  "numberOfReviews": 37,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": "Open Now",
+  "priceLevel": "$$ - $$$",
+  "dishes": [
+    "Pasta",
+    "Burger",
+    "Lasagne",
+    "Wings",
+    "Lamb",
+    "Pesto",
+    "Fish"
+  ],
+  "hours": {
+    "weekRanges": [
+      [
+        {
+          "open": 480,
+          "openHours": "08:00",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ],
+      [
+        {
+          "open": 600,
+          "openHours": "10:00",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ],
+      [
+        {
+          "open": 600,
+          "openHours": "10:00",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ],
+      [
+        {
+          "open": 600,
+          "openHours": "10:00",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ],
+      [
+        {
+          "open": 600,
+          "openHours": "10:00",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ],
+      [
+        {
+          "open": 600,
+          "openHours": "10:00",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ],
+      [
+        {
+          "open": 480,
+          "openHours": "08:00",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ]
+    ],
+    "timezone": "Asia/Kolkata"
+  },
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": true,
+  "priceRange": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/14/e8/f2/4a/img-20181002-145954-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/76/62/2a/getlstd-property-photo.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0f/56/fd/f0/thinespo.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/29/a1/c8/5e/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/29/a1/c8/5d/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/29/a1/c8/5c/caption.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/a1/c8/5e/caption.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/a1/c8/5c/caption.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/a1/c8/5d/caption.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/8e/76/f1/photo3jpg.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/8e/76/f0/photo2jpg.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/8e/76/ef/photo1jpg.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/8e/76/ee/photo0jpg.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/68/27/a1/img-20181109-223540-largejpg.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/68/27/a2/img-20181109-223705-largejpg.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/68/27/a3/img-20181109-224200-largejpg.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/68/27/a4/img-20181109-224352-largejpg.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/68/27/a5/img-20181109-225332-largejpg.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/68/27/a6/img-20181109-225504-largejpg.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/68/27/a7/img-20181109-225701-largejpg.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/68/27/a8/img-20181109-230519-largejpg.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/68/27/a9/img-20181109-230538-largejpg.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/68/27/aa/img-20181109-232246-largejpg.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/e8/f2/4d/img-20181002-131801-largejpg.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/e8/f2/4c/img-20181002-140537-largejpg.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/e8/f2/4b/img-20181002-145757-largejpg.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/e8/f2/4a/img-20181002-145954-largejpg.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/e8/f2/49/img-20181002-150029-largejpg.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "cuisines": [
+    "Italian",
+    "Pizza",
+    "International"
+  ],
+  "dietaryRestrictions": [
+    "Vegetarian friendly",
+    "Vegan options"
+  ],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [
+    "Delivery",
+    "Takeout",
+    "Reservations",
+    "Outdoor Seating",
+    "Seating",
+    "Highchairs Available",
+    "Table Service"
+  ],
+  "mealTypes": [
+    "Lunch",
+    "Dinner"
+  ],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Medchal District,restaurants"
+},
+{
+  "reviewTags": [],
+  "id": "4064779",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [
+    "Sit down"
+  ],
+  "name": "Leo Bistro",
+  "locationString": "Secunderabad, Hyderabad District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/03/bc/d6/30/leo-bistro.jpg",
+  "photoCount": 20,
+  "rankingPosition": 42,
+  "rating": 3.5,
+  "rawRanking": 3.0664498805999756,
+  "phone": "+91 40 6640 0000",
+  "address": "Leonia Holistic Destination Shameerpet, Ranga Reddy District, Secunderabad 500078 India",
+  "addressObj": {
+    "street1": "Leonia Holistic Destination",
+    "street2": "Shameerpet, Ranga Reddy District",
+    "city": "Secunderabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "500078"
+  },
+  "localName": "Leo Bistro",
+  "localAddress": "Leonia Holistic Destination, Shameerpet, Ranga Reddy District, 500078",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.582565,
+  "longitude": 78.59914,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g679014-d4064779-Reviews-Leo_Bistro-Secunderabad_Hyderabad_District_Telangana.html",
+  "website": null,
+  "rankingString": "#42 of 624 Restaurants in Secunderabad",
+  "rankingDenominator": "624",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "679014",
+      "name": "Secunderabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389092",
+      "name": "Hyderabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 3,
+    "count2": 0,
+    "count3": 2,
+    "count4": 5,
+    "count5": 4
+  },
+  "numberOfReviews": 14,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": null,
+  "priceLevel": "$$$$",
+  "dishes": [],
+  "hours": null,
+  "menuWebUrl": "https://www.leonia.in/offers/?utm_source=menubar&utm_medium=website",
+  "ownersTopReasons": null,
+  "isNearbyResult": true,
+  "priceRange": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/03/bc/d6/30/leo-bistro.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/03/bc/d6/66/leo-bistro.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/03/bc/d6/4e/leo-bistro.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/03/bc/d6/27/leo-bistro.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/03/b9/48/d4/getlstd-property-photo.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/fa/2a/d7/lrm-export-20180206-133030.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/fa/2a/d6/lrm-export-20180206-134942.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/fa/2a/d5/lrm-export-20180206-135050.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/fa/2a/d4/lrm-export-20180206-135303.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/fa/2a/d3/lrm-export-20180206-135136.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/fa/2a/d2/lrm-export-20180206-135339.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/fa/2a/d1/lrm-export-20180206-133136.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/fa/2a/d0/lrm-export-20180206-141159.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/fa/2a/cf/lrm-export-20180206-140402.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/fa/2a/ce/lrm-export-20180206-135451.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0b/58/b3/19/img-20160521-194111-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0a/69/c7/c4/gokarting-near-the-restaurant.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/66/52/61/leo-bistro.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/66/52/59/leo-bistro.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/66/52/57/leo-bistro.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/fa/2a/d7/lrm-export-20180206-133030.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/fa/2a/d6/lrm-export-20180206-134942.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/fa/2a/d5/lrm-export-20180206-135050.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/fa/2a/d4/lrm-export-20180206-135303.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/fa/2a/d3/lrm-export-20180206-135136.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/fa/2a/d2/lrm-export-20180206-135339.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/fa/2a/d1/lrm-export-20180206-133136.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/fa/2a/d0/lrm-export-20180206-141159.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/fa/2a/cf/lrm-export-20180206-140402.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/fa/2a/ce/lrm-export-20180206-135451.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/58/b3/19/img-20160521-194111-largejpg.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/69/c7/c4/gokarting-near-the-restaurant.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/66/52/57/leo-bistro.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/66/52/59/leo-bistro.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/66/52/61/leo-bistro.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "cuisines": [
+    "Chinese",
+    "Indian",
+    "International",
+    "Asian",
+    "Contemporary"
+  ],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [
+    "Reservations",
+    "Seating",
+    "Table Service"
+  ],
+  "mealTypes": [
+    "Lunch",
+    "Dinner"
+  ],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Medchal District,restaurants"
+},
+{
+  "id": "5070040",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [],
+  "name": "Dhola Ri Dhani",
+  "locationString": "Hyderabad, Hyderabad District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/08/e3/ee/d4/dhola-ri-dhani.jpg",
+  "photoCount": 2,
+  "rankingPosition": 3101,
+  "rating": 2.5,
+  "rawRanking": 2.6104393005371094,
+  "phone": "+91 40 2772 1586",
+  "address": "Kamchan Bagh D R D O Township Near Srikanth Reddy Estate, Hyderabad 500058 India",
+  "addressObj": {
+    "street1": "Kamchan Bagh D R D O Township Near Srikanth Reddy Estate",
+    "street2": null,
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "500058"
+  },
+  "localName": "Dhola Ri Dhani",
+  "localAddress": "Kamchan Bagh D R D O Township Near Srikanth Reddy Estate, 500058",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.52422,
+  "longitude": 78.48339,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g297586-d5070040-Reviews-Dhola_Ri_Dhani-Hyderabad_Hyderabad_District_Telangana.html",
+  "website": null,
+  "rankingString": "#3,101 of 5,708 Restaurants in Hyderabad",
+  "rankingDenominator": "5708",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "297586",
+      "name": "Hyderabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389092",
+      "name": "Hyderabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 5,
+    "count2": 3,
+    "count3": 3,
+    "count4": 0,
+    "count5": 2
+  },
+  "numberOfReviews": 13,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": null,
+  "priceLevel": "$$ - $$$",
+  "dishes": [],
+  "hours": null,
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": true,
+  "priceRange": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/08/e3/ee/ac/dhola-ri-dhani.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/08/e3/ee/d4/dhola-ri-dhani.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/e3/ee/ac/dhola-ri-dhani.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/e3/ee/d4/dhola-ri-dhani.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "cuisines": [],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [
+    "Dinner"
+  ],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "reviewTags": [],
+  "input": "Telangana,Medchal District,restaurants"
+},
+{
+  "reviewTags": [
+    {
+      "text": "cuisine",
+      "reviews": 2
+    },
+    {
+      "text": "taste",
+      "reviews": 5
+    }
+  ],
+  "id": "15075285",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [],
+  "name": "Telangana Spice Kitchen",
+  "locationString": "Hyderabad, Hyderabad District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/1a/ae/79/73/telangana-spice-kitchen.jpg",
+  "photoCount": 5,
+  "rankingPosition": 305,
+  "rating": 4,
+  "rawRanking": 3.128856658935547,
+  "phone": "+91 40 3316 5007",
+  "address": "Velly View Enclave Jubilee Hill S 8/2/292/82/49/A Park View Enclave, Hyderabad 500033 India",
+  "addressObj": {
+    "street1": "Velly View Enclave Jubilee Hill S 8/2/292/82/49/A Park View Enclave",
+    "street2": null,
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "500033"
+  },
+  "localName": "Telangana Spice Kitchen",
+  "localAddress": "Velly View Enclave Jubilee Hill S 8/2/292/82/49/A Park View Enclave, 500033",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.53704,
+  "longitude": 78.4868,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g297586-d15075285-Reviews-Telangana_Spice_Kitchen-Hyderabad_Hyderabad_District_Telangana.html",
+  "website": "http://www.telanganaspicekitchen.com",
+  "rankingString": "#305 of 5,708 Restaurants in Hyderabad",
+  "rankingDenominator": "5708",
+  "neighborhoodLocations": [
+    {
+      "id": "21002066",
+      "name": "Jubilee Hills"
+    }
+  ],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "297586",
+      "name": "Hyderabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389092",
+      "name": "Hyderabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 1,
+    "count2": 0,
+    "count3": 1,
+    "count4": 3,
+    "count5": 6
+  },
+  "numberOfReviews": 11,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": null,
+  "priceLevel": "$$ - $$$",
+  "dishes": [],
+  "hours": null,
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": true,
+  "priceRange": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/1a/ae/79/73/telangana-spice-kitchen.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/29/73/c4/c6/yum-telengana-delights.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/29/73/c4/c5/yum-telengana-delights.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/17/e8/73/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/17/e8/72/caption.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/ae/79/73/telangana-spice-kitchen.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/17/e8/73/caption.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/17/e8/72/caption.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "cuisines": [
+    "Indian",
+    "Asian"
+  ],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [
+    "Reservations",
+    "Seating",
+    "Table Service"
+  ],
+  "mealTypes": [
+    "Lunch",
+    "Dinner"
+  ],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Medchal District,restaurants"
+},
+{
+  "reviewTags": [],
+  "id": "19306777",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [],
+  "name": "The Cascade",
+  "locationString": "Hyderabad, Hyderabad District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/19/df/c1/2c/the-cascade.jpg",
+  "photoCount": 7,
+  "rankingPosition": 1101,
+  "rating": 4.5,
+  "rawRanking": 3.0366275310516357,
+  "phone": "+91 40 2716 5333",
+  "address": "Ratna Arcade 1st Floor Kompally, Hyderabad 500014 India",
+  "addressObj": {
+    "street1": "Ratna Arcade 1st Floor Kompally",
+    "street2": null,
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "500014"
+  },
+  "localName": "The Cascade",
+  "localAddress": "Ratna Arcade 1st Floor Kompally, 500014",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.531986,
+  "longitude": 78.48733,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g297586-d19306777-Reviews-The_Cascade-Hyderabad_Hyderabad_District_Telangana.html",
+  "website": null,
+  "rankingString": "#1,101 of 5,708 Restaurants in Hyderabad",
+  "rankingDenominator": "5708",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "297586",
+      "name": "Hyderabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389092",
+      "name": "Hyderabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 1,
+    "count5": 1
+  },
+  "numberOfReviews": 2,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": null,
+  "priceLevel": null,
+  "dishes": [],
+  "hours": null,
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": true,
+  "priceRange": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/19/df/c1/28/the-cascade.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/19/df/c1/2e/the-cascade.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/19/df/c1/2c/the-cascade.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/19/df/c1/2b/the-cascade.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/19/df/c1/29/the-cascade.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/19/df/c1/26/the-cascade.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/19/df/c1/23/the-cascade.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/df/c1/2e/the-cascade.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/df/c1/2c/the-cascade.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/df/c1/2b/the-cascade.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/df/c1/29/the-cascade.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/df/c1/28/the-cascade.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/df/c1/26/the-cascade.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/df/c1/23/the-cascade.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "cuisines": [
+    "Chinese"
+  ],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Medchal District,restaurants"
+},
+{
+  "reviewTags": [],
+  "id": "8643397",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [
+    "Sit down"
+  ],
+  "name": "Haritha Darshini Hotel Restaurant",
+  "locationString": "Hyderabad, Hyderabad District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/09/14/9d/2d/gobi-rice.jpg",
+  "photoCount": 1,
+  "rankingPosition": 1148,
+  "rating": 4.5,
+  "rawRanking": 3.0351431369781494,
+  "phone": "+91 99645 87566",
+  "address": "Nh - 7 Opposite Police Station, Hyderabad 501401 India",
+  "addressObj": {
+    "street1": "Nh - 7",
+    "street2": "Opposite Police Station",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "501401"
+  },
+  "localName": "Haritha Darshini Hotel Restaurant",
+  "localAddress": "Nh - 7, Opposite Police Station, 501401",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.59997,
+  "longitude": 78.49251,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g297586-d8643397-Reviews-Haritha_Darshini_Hotel_Restaurant-Hyderabad_Hyderabad_District_Telangana.html",
+  "website": null,
+  "rankingString": "#1,148 of 5,708 Restaurants in Hyderabad",
+  "rankingDenominator": "5708",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "297586",
+      "name": "Hyderabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389092",
+      "name": "Hyderabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 2,
+    "count5": 1
+  },
+  "numberOfReviews": 3,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": null,
+  "priceLevel": "$$ - $$$",
+  "dishes": [],
+  "hours": null,
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": true,
+  "priceRange": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/09/14/9d/2d/gobi-rice.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/14/9d/2d/gobi-rice.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "cuisines": [],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [],
+  "mealTypes": [],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Medchal District,restaurants"
+},
+{
+  "reviewTags": [],
+  "id": "26315989",
+  "type": "RESTAURANT",
+  "category": "restaurant",
+  "subcategories": [],
+  "name": "O'Rica - Tropical Kitchen",
+  "locationString": "Hyderabad, Hyderabad District, Telangana",
+  "description": "Tropical-inspired, multi-cuisine restaurant at Kompally, Hyderabad",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/29/ec/06/14/caption.jpg",
+  "photoCount": 10,
+  "rankingPosition": 1037,
+  "rating": 5,
+  "rawRanking": 3.0389719009399414,
+  "phone": "+91 94948 74744",
+  "address": "1-5-1115/646, Panchsheel Enclave Lane No 24, Hyderabad 500010 India",
+  "addressObj": {
+    "street1": "1-5-1115/646, Panchsheel Enclave",
+    "street2": "Lane No 24",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "500010"
+  },
+  "localName": "O'Rica - Tropical Kitchen",
+  "localAddress": "1-5-1115/646, Panchsheel Enclave, Lane No 24, 500010",
+  "localLangCode": "en-IN",
+  "email": "orica.hyderabad@gmail.com",
+  "latitude": 17.513844,
+  "longitude": 78.48884,
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g297586-d26315989-Reviews-O_Rica_Tropical_Kitchen-Hyderabad_Hyderabad_District_Telangana.html",
+  "website": "http://www.orica.in",
+  "rankingString": "#1,037 of 5,708 Restaurants in Hyderabad",
+  "rankingDenominator": "5708",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "297586",
+      "name": "Hyderabad",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389092",
+      "name": "Hyderabad District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 1
+  },
+  "numberOfReviews": 1,
+  "isClosed": false,
+  "isLongClosed": false,
+  "openNowText": "Open Now",
+  "priceLevel": null,
+  "dishes": [],
+  "hours": {
+    "weekRanges": [
+      [
+        {
+          "open": 660,
+          "openHours": "11:00",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ],
+      [
+        {
+          "open": 660,
+          "openHours": "11:00",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ],
+      [
+        {
+          "open": 660,
+          "openHours": "11:00",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ],
+      [
+        {
+          "open": 660,
+          "openHours": "11:00",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ],
+      [
+        {
+          "open": 660,
+          "openHours": "11:00",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ],
+      [
+        {
+          "open": 660,
+          "openHours": "11:00",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ],
+      [
+        {
+          "open": 660,
+          "openHours": "11:00",
+          "close": 1380,
+          "closeHours": "23:00"
+        }
+      ]
+    ],
+    "timezone": "Asia/Kolkata"
+  },
+  "menuWebUrl": null,
+  "ownersTopReasons": null,
+  "isNearbyResult": true,
+  "priceRange": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/29/ec/06/15/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/29/ec/06/14/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/29/a6/53/8d/ambience.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/29/a6/53/8c/ambience.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/29/a6/53/8b/ambience.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/a6/53/8d/ambience.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/a6/53/8c/ambience.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/a6/53/8b/ambience.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/a6/53/87/ambience.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/a6/53/83/ambience.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/a6/53/25/o-rica-outdoor.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/a6/53/23/o-rica-outdoor.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/a6/53/24/o-rica-outdoor.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/ec/06/14/caption.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/ec/06/15/caption.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "cuisines": [
+    "Italian",
+    "Indian",
+    "Pizza",
+    "Asian"
+  ],
+  "dietaryRestrictions": [],
+  "establishmentTypes": [
+    "Restaurants"
+  ],
+  "features": [
+    "Delivery",
+    "Takeout",
+    "Reservations",
+    "Outdoor Seating",
+    "Private Dining",
+    "Seating",
+    "Parking Available",
+    "Street Parking",
+    "Highchairs Available",
+    "Digital Payments",
+    "Free Wifi",
+    "Accepts Credit Cards"
+  ],
+  "mealTypes": [
+    "Lunch",
+    "Dinner",
+    "Brunch"
+  ],
+  "isClaimedIcon": false,
+  "isClaimedText": null,
+  "orderOnline": [],
+  "input": "Telangana,Medchal District,restaurants"
+}]

@@ -1,0 +1,1047 @@
+[{
+  "id": "12826373",
+  "type": "ATTRACTION",
+  "category": "attraction",
+  "subcategories": [
+    "Sights & Landmarks"
+  ],
+  "name": "Khammam Fort",
+  "locationString": "Khammam, Khammam District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/22/5b/c4/bd/fort.jpg",
+  "photoCount": 8,
+  "rankingPosition": 5,
+  "rating": 3.5,
+  "rawRanking": 2.760209083557129,
+  "phone": null,
+  "address": "Khammam 507001 India",
+  "addressObj": {
+    "street1": null,
+    "street2": null,
+    "city": "Khammam",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "507001"
+  },
+  "localName": "Khammam Fort",
+  "localAddress": "507001",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": null,
+  "longitude": null,
+  "webUrl": "https://www.tripadvisor.com/Attraction_Review-g1005753-d12826373-Reviews-Khammam_Fort-Khammam_Khammam_District_Telangana.html",
+  "website": null,
+  "rankingString": "#5 of 11 things to do in Khammam",
+  "rankingDenominator": "11",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "1005753",
+      "name": "Khammam",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389543",
+      "name": "Khammam District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 1,
+    "count3": 1,
+    "count4": 3,
+    "count5": 1
+  },
+  "numberOfReviews": 6,
+  "booking": null,
+  "offerGroup": null,
+  "subtype": [
+    "Historic Sites"
+  ],
+  "reviewTags": [
+    {
+      "text": "city",
+      "reviews": 2
+    }
+  ],
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/22/5b/c4/bd/fort.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/22/5b/c4/c2/fort.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/22/5b/c4/b9/fort.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/22/5b/c4/b6/fort.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/22/5b/c4/b1/fort.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/22/5b/c4/b0/fort.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/22/5b/c4/ae/fort.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/22/5b/c4/c4/fort.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Khammam,attractions"
+},
+{
+  "reviewTags": [],
+  "id": "23481776",
+  "type": "ATTRACTION",
+  "category": "attraction",
+  "subcategories": [
+    "Nature & Parks"
+  ],
+  "name": "Lakaram Lake",
+  "locationString": "Khammam, Khammam District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/1d/43/01/40/tank-bund.jpg",
+  "photoCount": 1,
+  "rankingPosition": 6,
+  "rating": 5,
+  "rawRanking": 2.7573533058166504,
+  "phone": null,
+  "address": "Khammam India",
+  "addressObj": {
+    "street1": null,
+    "street2": null,
+    "city": "Khammam",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": null
+  },
+  "localName": "Lakaram Lake",
+  "localAddress": null,
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.24747,
+  "longitude": 80.15786,
+  "webUrl": "https://www.tripadvisor.com/Attraction_Review-g1005753-d23481776-Reviews-Lakaram_Lake-Khammam_Khammam_District_Telangana.html",
+  "website": "https://khammam.telangana.gov.in/tourist-place/lakaaram-tank/",
+  "rankingString": "#6 of 11 things to do in Khammam",
+  "rankingDenominator": "11",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "1005753",
+      "name": "Khammam",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389543",
+      "name": "Khammam District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 1
+  },
+  "numberOfReviews": 1,
+  "booking": null,
+  "offerGroup": null,
+  "subtype": [
+    "Bodies of Water"
+  ],
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/1d/43/01/40/tank-bund.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Khammam,attractions"
+},
+{
+  "reviewTags": [],
+  "photos": [],
+  "travelerChoiceAward": null,
+  "id": "23481775",
+  "type": "ATTRACTION",
+  "category": "attraction",
+  "subcategories": [
+    "Nature & Parks"
+  ],
+  "name": "Khanapuram Mini Tank Bund",
+  "locationString": "Khammam, Khammam District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": 7,
+  "rating": 5,
+  "rawRanking": 2.7573533058166504,
+  "phone": null,
+  "address": "1, 507002, 8-2, 11, Khammam - Yellandu Rd, Khammam 507002 India",
+  "addressObj": {
+    "street1": "1, 507002, 8-2, 11, Khammam - Yellandu Rd",
+    "street2": null,
+    "city": "Khammam",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "507002"
+  },
+  "localName": "Khanapuram Mini Tank Bund",
+  "localAddress": "1, 507002, 8-2, 11, Khammam - Yellandu Rd, 507002",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.265387,
+  "longitude": 80.17353,
+  "webUrl": "https://www.tripadvisor.com/Attraction_Review-g1005753-d23481775-Reviews-Khanapuram_Mini_Tank_Bund-Khammam_Khammam_District_Telangana.html",
+  "website": null,
+  "rankingString": "#7 of 11 things to do in Khammam",
+  "rankingDenominator": "11",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "1005753",
+      "name": "Khammam",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389543",
+      "name": "Khammam District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 1
+  },
+  "numberOfReviews": 1,
+  "booking": null,
+  "offerGroup": null,
+  "subtype": [
+    "Parks"
+  ],
+  "input": "Telangana,Khammam,attractions"
+},
+{
+  "id": "3705087",
+  "type": "ATTRACTION",
+  "category": "attraction",
+  "subcategories": [
+    "Nature & Parks"
+  ],
+  "name": "Palair Reservoir",
+  "locationString": "Khammam, Khammam District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0d/d8/d4/8b/palair-reservoir.jpg",
+  "photoCount": 14,
+  "rankingPosition": 4,
+  "rating": 4,
+  "rawRanking": 2.7675678730010986,
+  "phone": null,
+  "address": "Hyderabad Road Near Ramagundam, Khammam India",
+  "addressObj": {
+    "street1": "Hyderabad Road",
+    "street2": "Near Ramagundam",
+    "city": "Khammam",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": null
+  },
+  "localName": "Palair Reservoir",
+  "localAddress": "Hyderabad Road, Near Ramagundam",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": null,
+  "longitude": null,
+  "webUrl": "https://www.tripadvisor.com/Attraction_Review-g1005753-d3705087-Reviews-Palair_Reservoir-Khammam_Khammam_District_Telangana.html",
+  "website": null,
+  "rankingString": "#4 of 11 things to do in Khammam",
+  "rankingDenominator": "11",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "1005753",
+      "name": "Khammam",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389543",
+      "name": "Khammam District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 2,
+    "count4": 3,
+    "count5": 1
+  },
+  "numberOfReviews": 6,
+  "booking": null,
+  "offerGroup": null,
+  "subtype": [
+    "Bodies of Water"
+  ],
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/0d/d8/d4/90/palair-reservoir.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0d/d8/d4/7c/palair-reservoir.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0d/d8/d4/e7/palair-reservoir.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0d/d8/d4/e0/palair-reservoir.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0d/d8/d4/cf/palair-reservoir.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0d/d8/d4/cc/palair-reservoir.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0d/d8/d4/b8/palair-reservoir.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0d/d8/d4/b3/palair-reservoir.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0d/d8/d4/af/palair-reservoir.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0d/d8/d4/a7/palair-reservoir.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0d/d8/d4/9d/palair-reservoir.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0d/d8/d4/8b/palair-reservoir.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0d/d8/d4/84/palair-reservoir.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "reviewTags": [],
+  "input": "Telangana,Khammam,attractions"
+},
+{
+  "reviewTags": [],
+  "id": "3705571",
+  "type": "ATTRACTION",
+  "category": "attraction",
+  "subcategories": [
+    "Sights & Landmarks"
+  ],
+  "name": "Swami Ayyappa Temple",
+  "locationString": "Khammam, Khammam District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": 3,
+  "rating": 4.5,
+  "rawRanking": 2.7741827964782715,
+  "phone": null,
+  "address": "Srinivasa Nagar, Khammam India",
+  "addressObj": {
+    "street1": "Srinivasa Nagar",
+    "street2": null,
+    "city": "Khammam",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": null
+  },
+  "localName": "Swami Ayyappa Temple",
+  "localAddress": "Srinivasa Nagar",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": null,
+  "longitude": null,
+  "webUrl": "https://www.tripadvisor.com/Attraction_Review-g1005753-d3705571-Reviews-Swami_Ayyappa_Temple-Khammam_Khammam_District_Telangana.html",
+  "website": null,
+  "rankingString": "#3 of 11 things to do in Khammam",
+  "rankingDenominator": "11",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "1005753",
+      "name": "Khammam",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389543",
+      "name": "Khammam District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 1,
+    "count4": 0,
+    "count5": 4
+  },
+  "numberOfReviews": 5,
+  "booking": null,
+  "offerGroup": null,
+  "subtype": [
+    "Sacred & Religious Sites"
+  ],
+  "photos": [],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Khammam,attractions"
+},
+{
+  "reviewTags": [],
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/96/0b/7d/temple-main-entrance.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "id": "21513975",
+  "type": "ATTRACTION",
+  "category": "attraction",
+  "subcategories": [
+    "Sights & Landmarks"
+  ],
+  "name": "Sri Venkateswara Swamy temple",
+  "locationString": "Khammam, Khammam District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1c/96/0b/7d/temple-main-entrance.jpg",
+  "photoCount": 1,
+  "rankingPosition": 8,
+  "rating": 5,
+  "rawRanking": 2.7559235095977783,
+  "phone": null,
+  "address": "Jeellacheruvu, Khammam 507170 India",
+  "addressObj": {
+    "street1": "Jeellacheruvu",
+    "street2": null,
+    "city": "Khammam",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "507170"
+  },
+  "localName": "Sri Venkateswara Swamy temple",
+  "localAddress": "Jeellacheruvu, 507170",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": null,
+  "longitude": null,
+  "webUrl": "https://www.tripadvisor.com/Attraction_Review-g1005753-d21513975-Reviews-Sri_Venkateswara_Swamy_temple-Khammam_Khammam_District_Telangana.html",
+  "website": "https://www.facebook.com/Sri-Venkateswara-Swamy-Devastanam-Jeellacheruvu-331274974041399/",
+  "rankingString": "#8 of 11 things to do in Khammam",
+  "rankingDenominator": "11",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "1005753",
+      "name": "Khammam",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389543",
+      "name": "Khammam District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 1
+  },
+  "numberOfReviews": 1,
+  "booking": null,
+  "offerGroup": null,
+  "subtype": [
+    "Architectural Buildings",
+    "Sacred & Religious Sites"
+  ],
+  "input": "Telangana,Khammam,attractions"
+},
+{
+  "reviewTags": [],
+  "id": "28428067",
+  "type": "ATTRACTION",
+  "category": "attraction",
+  "subcategories": [
+    "Shopping"
+  ],
+  "name": "Vinay Electronics",
+  "locationString": "Khammam, Khammam District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": null,
+  "address": "9-2-18 Old Club Road, Khammam 507001 India",
+  "addressObj": {
+    "street1": "9-2-18 Old Club Road",
+    "street2": null,
+    "city": "Khammam",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "507001"
+  },
+  "localName": "Vinay Electronics",
+  "localAddress": "9-2-18 Old Club Road, 507001",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.249777,
+  "longitude": 80.14115,
+  "webUrl": "https://www.tripadvisor.com/Attraction_Review-g1005753-d28428067-Reviews-Vinay_Electronics-Khammam_Khammam_District_Telangana.html",
+  "website": "https://www.facebook.com/106409854148747",
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "1005753",
+      "name": "Khammam",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389543",
+      "name": "Khammam District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "booking": null,
+  "offerGroup": null,
+  "subtype": [
+    "Gift & Specialty Shops"
+  ],
+  "photos": [],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Khammam,attractions"
+},
+{
+  "id": "3705296",
+  "type": "ATTRACTION",
+  "category": "attraction",
+  "subcategories": [
+    "Sights & Landmarks"
+  ],
+  "name": "Sri Sitaramachandra Swamy Temple",
+  "locationString": "Khammam, Khammam District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/07/d5/16/02/sri-sitaramachandra-swamy.jpg",
+  "photoCount": 20,
+  "rankingPosition": 1,
+  "rating": 4.5,
+  "rawRanking": 2.8727471828460693,
+  "phone": null,
+  "address": "Adjacent to Godavari River, Khammam 507111 India",
+  "addressObj": {
+    "street1": "Adjacent to Godavari River",
+    "street2": null,
+    "city": "Khammam",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "507111"
+  },
+  "localName": "Sri Sitaramachandra Swamy Temple",
+  "localAddress": "Adjacent to Godavari River, 507111",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.667273,
+  "longitude": 80.87945,
+  "webUrl": "https://www.tripadvisor.com/Attraction_Review-g1005753-d3705296-Reviews-Sri_Sitaramachandra_Swamy_Temple-Khammam_Khammam_District_Telangana.html",
+  "website": null,
+  "rankingString": "#1 of 11 things to do in Khammam",
+  "rankingDenominator": "11",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "1005753",
+      "name": "Khammam",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389543",
+      "name": "Khammam District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 1,
+    "count4": 8,
+    "count5": 7
+  },
+  "numberOfReviews": 16,
+  "booking": null,
+  "offerGroup": null,
+  "subtype": [
+    "Sacred & Religious Sites"
+  ],
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/d5/15/fb/sri-sitaramachandra-swamy.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/d5/15/fa/sri-sitaramachandra-swamy.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/16/78/5c/7d/sita-rama-temple-at-godavari.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0e/4f/42/7b/photo2jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0e/4f/42/7a/photo1jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0e/3d/d6/c1/devotees-taking-bath.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0e/3d/d6/96/entrance-to-the-kalyana.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0e/3d/d6/8c/outside-view-of-the-temple.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0e/3d/d6/74/kalyana-mandapam-where.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0e/3d/d6/65/devotees-coming-out-of.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0b/ff/fc/65/godavari_rotated_270.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/dd/89/a7/sri-sitaramachandra-swamy.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/dd/89/9e/sri-sitaramachandra-swamy.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/d5/16/0a/sri-sitaramachandra-swamy.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/d5/16/06/sri-sitaramachandra-swamy.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/d5/16/02/sri-sitaramachandra-swamy.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/d5/16/01/sri-sitaramachandra-swamy.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/d5/16/00/sri-sitaramachandra-swamy.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/d5/15/fd/sri-sitaramachandra-swamy.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0e/4f/42/79/photo0jpg.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "reviewTags": [],
+  "input": "Telangana,Khammam,attractions"
+},
+{
+  "id": "3172480",
+  "type": "ATTRACTION",
+  "category": "attraction",
+  "subcategories": [
+    "Nature & Parks"
+  ],
+  "name": "Dhanavayi Gudem Park",
+  "locationString": "Khammam, Khammam District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": 9,
+  "rating": 3.5,
+  "rawRanking": 2.7478787899017334,
+  "phone": null,
+  "address": "Khammam Centre, Khammam India",
+  "addressObj": {
+    "street1": "Khammam Centre",
+    "street2": "",
+    "city": "Khammam",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": ""
+  },
+  "localName": "Dhanavayi Gudem Park",
+  "localAddress": "Khammam Centre",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.2452,
+  "longitude": 80.15176,
+  "webUrl": "https://www.tripadvisor.com/Attraction_Review-g1005753-d3172480-Reviews-Dhanavayi_Gudem_Park-Khammam_Khammam_District_Telangana.html",
+  "website": null,
+  "rankingString": "#9 of 11 things to do in Khammam",
+  "rankingDenominator": "11",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "1005753",
+      "name": "Khammam",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389543",
+      "name": "Khammam District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 1,
+    "count4": 2,
+    "count5": 0
+  },
+  "numberOfReviews": 3,
+  "booking": null,
+  "offerGroup": null,
+  "subtype": [
+    "Parks"
+  ],
+  "reviewTags": [],
+  "photos": [],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Khammam,attractions"
+},
+{
+  "reviewTags": [],
+  "id": "23130149",
+  "type": "ATTRACTION",
+  "category": "attraction",
+  "subcategories": [
+    "Sights & Landmarks"
+  ],
+  "name": "Sri Ganapeshwaralayam Shivalaya",
+  "locationString": "Khammam District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1c/ad/39/b3/inside-temple.jpg",
+  "photoCount": 6,
+  "rankingPosition": 8,
+  "rating": 5,
+  "rawRanking": 2.7561492919921875,
+  "phone": null,
+  "address": "507159 India",
+  "addressObj": {
+    "street1": null,
+    "street2": null,
+    "city": null,
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "507159"
+  },
+  "localName": "Sri Ganapeshwaralayam Shivalaya",
+  "localAddress": "507159",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 18.112436,
+  "longitude": 79.0193,
+  "webUrl": "https://www.tripadvisor.com/Attraction_Review-g12389543-d23130149-Reviews-Sri_Ganapeshwaralayam_Shivalaya-Khammam_District_Telangana.html",
+  "website": null,
+  "rankingString": "#8 of 12 things to do in Khammam District",
+  "rankingDenominator": "12",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "12389543",
+      "name": "Khammam District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 1
+  },
+  "numberOfReviews": 1,
+  "booking": null,
+  "offerGroup": null,
+  "subtype": [
+    "Sacred & Religious Sites"
+  ],
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/ad/39/6d/nandishwar.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/ad/39/42/temple-view.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/ad/39/2a/main-entrance.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/ad/39/15/temple-view.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/ad/38/82/entry-pathway.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/ad/39/b3/inside-temple.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Khammam,attractions"
+},
+{
+  "id": "28428153",
+  "type": "ATTRACTION",
+  "category": "attraction",
+  "subcategories": [
+    "Shopping"
+  ],
+  "name": "Dhana Lakshmi Kiranam And General Stores",
+  "locationString": "Khammam, Khammam District, Telangana",
+  "description": null,
+  "image": null,
+  "photoCount": 0,
+  "rankingPosition": null,
+  "rating": null,
+  "rawRanking": null,
+  "phone": null,
+  "address": "10-3-130 Mamillagudem Road, Khammam 507002 India",
+  "addressObj": {
+    "street1": "10-3-130 Mamillagudem Road",
+    "street2": null,
+    "city": "Khammam",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": "507002"
+  },
+  "localName": "Dhana Lakshmi Kiranam And General Stores",
+  "localAddress": "10-3-130 Mamillagudem Road, 507002",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.25461,
+  "longitude": 80.13936,
+  "webUrl": "https://www.tripadvisor.com/Attraction_Review-g1005753-d28428153-Reviews-Dhana_Lakshmi_Kiranam_And_General_Stores-Khammam_Khammam_District_Telangana.html",
+  "website": "https://www.facebook.com/102046067917585",
+  "rankingString": null,
+  "rankingDenominator": null,
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "1005753",
+      "name": "Khammam",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389543",
+      "name": "Khammam District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 0,
+    "count5": 0
+  },
+  "numberOfReviews": 0,
+  "booking": null,
+  "offerGroup": null,
+  "subtype": [
+    "Gift & Specialty Shops"
+  ],
+  "photos": [],
+  "travelerChoiceAward": null,
+  "reviewTags": [],
+  "input": "Telangana,Khammam,attractions"
+},
+{
+  "reviewTags": [],
+  "id": "5788009",
+  "type": "ATTRACTION",
+  "category": "attraction",
+  "subcategories": [
+    "Nature & Parks"
+  ],
+  "name": "Kinnerasani Wildlife Sanctuary",
+  "locationString": "Khammam, Khammam District, Telangana",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-c/2560x500/07/d5/11/43/kinnerasani-wildlife.jpg",
+  "photoCount": 26,
+  "rankingPosition": 2,
+  "rating": 4,
+  "rawRanking": 2.843409538269043,
+  "phone": null,
+  "address": "Kinnerasani On Banks Of Godavari River, Khammam India",
+  "addressObj": {
+    "street1": "Kinnerasani",
+    "street2": "On Banks Of Godavari River",
+    "city": "Khammam",
+    "state": "Telangana",
+    "country": "India",
+    "postalcode": null
+  },
+  "localName": "Kinnerasani Wildlife Sanctuary",
+  "localAddress": "Kinnerasani, On Banks Of Godavari River",
+  "localLangCode": "en-IN",
+  "email": null,
+  "latitude": 17.775,
+  "longitude": 80.559,
+  "webUrl": "https://www.tripadvisor.com/Attraction_Review-g1005753-d5788009-Reviews-Kinnerasani_Wildlife_Sanctuary-Khammam_Khammam_District_Telangana.html",
+  "website": null,
+  "rankingString": "#2 of 11 things to do in Khammam",
+  "rankingDenominator": "11",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "1005753",
+      "name": "Khammam",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "12389543",
+      "name": "Khammam District",
+      "abbreviation": null,
+      "subcategory": "District"
+    },
+    {
+      "id": "7058854",
+      "name": "Telangana",
+      "abbreviation": null,
+      "subcategory": "State"
+    },
+    {
+      "id": "293860",
+      "name": "India",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 4,
+    "count4": 6,
+    "count5": 6
+  },
+  "numberOfReviews": 16,
+  "booking": null,
+  "offerGroup": null,
+  "subtype": [
+    "Nature & Wildlife Areas"
+  ],
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/d5/11/43/kinnerasani-wildlife.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/15/aa/44/72/deer-park.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0c/0b/1c/e0/kinnerasani-dam.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/d5/11/4e/kinnerasani-wildlife.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/d5/11/4c/kinnerasani-wildlife.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/d5/11/46/kinnerasani-wildlife.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/d5/11/2e/kinnerasani-wildlife.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/16/1a/5f/69/download-4-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/16/1a/5f/68/download-2-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/16/1a/5f/67/download-3-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/16/1a/5f/66/download-5-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/16/1a/5f/65/images-2-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/16/1a/5f/64/images-3-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/16/1a/5f/63/images-4-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/15/aa/44/3b/deer-park.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/15/aa/43/c0/deer-park.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/15/aa/43/7c/deer-park.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/15/aa/43/59/deer-park.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/d5/11/4b/kinnerasani-wildlife.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "Telangana,Khammam,attractions"
+}]
