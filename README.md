@@ -2,7 +2,7 @@
 
 ## Overview
 
-Telangana Travel Guide is an Android application that helps users explore the best tourist attractions, hotels, restaurants, and travel facilities across all 34 districts of Telangana. The app provides detailed information, including images, ratings, descriptions, and transport options for each location.
+Telangana Travel Guide is an Android application that helps users explore the best tourist attractions, hotels, restaurants, and travel facilities across all 33 districts of Telangana. The app provides detailed information, including images, ratings, descriptions, and transport options for each location.
 
 ## Features
 
