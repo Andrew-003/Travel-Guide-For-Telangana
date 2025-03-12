@@ -61,7 +61,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## Contact
 
-For any queries, reach out via email at `mosesandrew003@gaml.com` or open an issue in the repository.
+For any queries, reach out via email at `mosesandrew003@gmail.com` or open an issue in the repository.
 
 
 
