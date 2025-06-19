@@ -28,7 +28,7 @@ Telangana Travel Guide is an Android application that helps users explore the be
 ## How It Works
 
 1. The app loads district-based tourist data from a unified JSON file.
-2. Users select a district from the interactive map to view attractions.
+2. Users select a district from the district list or explore page to view  places like attractions,hotels and restaurants.
 3. A ViewPager2 slideshow showcases tourist spots.
 4. The app provides transport and nearby facility details.
 5. Users can explore hotels and restaurants through categorized RecyclerViews.
