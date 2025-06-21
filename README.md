@@ -33,7 +33,7 @@ Telangana Travel Guide is an Android application that helps users explore the be
 4. The app provides transport and nearby facility details.
 5. Users can explore hotels and restaurants through categorized RecyclerViews.
 6. A search feature with filter chips allows easy discovery of locations.
-7. Images are fetched from Firebase Storage and cached using Glide.
+7. Images are fetched from JSON image urls and cached using Glide.
 8. A background service updates images if the internet is available.
 
 ## Future Enhancements
