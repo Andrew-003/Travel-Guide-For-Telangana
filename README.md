@@ -43,7 +43,8 @@ Telangana Travel Guide is an Android application that helps users explore the be
 - **Dark Mode**: Support for light and dark themes.
 - **Offline Details**: Can Browse Through app without internet.
 - **Real-Time Weather Updates**: Show current weather for selected places.
-**Note**:First Installaion requires Internet and Browsing fisrt
+- 
+**Note**:First Installaion requires Internet and Browsing first
 ## Installation
 
 1. Clone this repository:
